@@ -12,7 +12,8 @@
     "used": [
       "Mandarin learner discovers Chinese has no alphabet",
       "East plus west unexpectedly means things: 东西 dōngxi",
-      "加油 literally add oil but means you've got this"
+      "加油 literally add oil but means you've got this",
+      "吃瓜 literally eat watermelon but means watching the drama"
     ]
   },
   "published": [
@@ -105,6 +106,13 @@
       "license": "https://www.pexels.com/license/",
       "credit": "RDNE Stock project / Pexels",
       "local_cache": "/workspace/scratch/a80a755f3b22/run_0452/add_oil.mp4"
+    },
+    {
+      "url": "https://videos.pexels.com/video-files/5901951/5901951-uhd_2160_4096_25fps.mp4",
+      "source": "https://www.pexels.com/video/young-woman-eating-watermelon-looking-at-camera-5901951/",
+      "license": "https://www.pexels.com/license/",
+      "credit": "cottonbro studio / Pexels",
+      "local_cache": "/workspace/scratch/a80a755f3b22/run_0643/watermelon.mp4"
     }
   ],
   "metrics": {
@@ -246,5 +254,13 @@
       }
     ],
     "limitations": "No connected App Store download source. Profile links taps are available as an account-level proxy but were 0 for the latest cached day. Reel-specific profile visits are unsupported. Do not infer downloads from views."
+  },
+  "pending": {
+    "date": "2026-10-13",
+    "run": "0643",
+    "hook": "Chinese group chat gets messy; 吃瓜 literally eat watermelon means watching the drama",
+    "topic": "吃瓜 chī guā Chinese internet slang",
+    "video_path": "media/instagram/2026-10-13/0643_chigua_watermelon.mp4",
+    "sha256": "8f3696a73b4b1241d7f1a1920307ce57fb7f94afddb2f06cdd58d8844c91b4d1"
   }
 }
