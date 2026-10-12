@@ -60,6 +60,13 @@
       "topic": "东 dōng east + 西 xī west; 东西 dōngxi means things or stuff",
       "media_id": "18109934183464885",
       "url": "https://www.instagram.com/reel/DeaBuxOjV0S/"
+    },
+    {
+      "date": "2026-10-13",
+      "hook": "加油 literally says add oil but means you've got this",
+      "topic": "加油 jiāyóu encouragement phrase",
+      "media_id": "18110301092230806",
+      "url": "https://www.instagram.com/reel/DeaQMvGjDDq/"
     }
   ],
   "verified_assets": [
@@ -239,13 +246,5 @@
       }
     ],
     "limitations": "No connected App Store download source. Profile links taps are available as an account-level proxy but were 0 for the latest cached day. Reel-specific profile visits are unsupported. Do not infer downloads from views."
-  },
-  "pending": {
-    "date": "2026-10-13",
-    "run": "0452",
-    "hook": "加油 literally says add oil but means you've got this",
-    "topic": "加油 jiāyóu encouragement phrase",
-    "video_path": "media/instagram/2026-10-13/0452_jiayou_add_oil.mp4",
-    "sha256": "460ebfb989ec5ed588d1956d624f6b95f0d94487514ba04875fa5e01ba35e729"
   }
 }
