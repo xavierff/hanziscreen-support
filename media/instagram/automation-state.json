@@ -76,6 +76,17 @@
       "topic": "吃瓜 chī guā Chinese internet slang",
       "media_id": "17951002089335411",
       "url": "https://www.instagram.com/reel/Deac3xDDQBG/"
+    },
+    {
+      "date": "2026-10-13",
+      "run": "0844",
+      "hook": "Confident Mandarin restaurant order meets zero spice tolerance",
+      "topic": "微辣 wēi là versus 不辣 bù là",
+      "creative_style": "original animated meme",
+      "video_path": "media/instagram/2026-10-13/0844_spice_confidence.mp4",
+      "sha256": "3ff29f74b38269fc5be0f40bf0519196662d2184222caa80c4d641b5203f837c",
+      "media_id": "18136680817640144",
+      "url": "https://www.instagram.com/reel/DeaqmdEDax7/"
     }
   ],
   "verified_assets": [
@@ -262,15 +273,6 @@
       }
     ],
     "limitations": "No connected App Store download source. Profile links taps are available as an account-level proxy but were 0 for the latest cached day. Reel-specific profile visits are unsupported. Do not infer downloads from views."
-  },
-  "pending": {
-    "date": "2026-10-13",
-    "run": "0844",
-    "hook": "Confident Mandarin restaurant order meets zero spice tolerance",
-    "topic": "微辣 wēi là versus 不辣 bù là",
-    "creative_style": "original animated meme",
-    "video_path": "media/instagram/2026-10-13/0844_spice_confidence.mp4",
-    "sha256": "3ff29f74b38269fc5be0f40bf0519196662d2184222caa80c4d641b5203f837c"
   },
   "animation_assets": [
     {
