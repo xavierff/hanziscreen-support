@@ -1,30 +1,19 @@
 {
   "trend_cache": {
-    "date": "2026-10-13",
+    "date": "2026-10-14",
     "sources": [
-      "https://newengen.com/insights/instagram-trends/",
-      "https://later.com/blog/instagram-reels-trends/"
+      "https://blog.mean.ceo/viral-trends-on-social-media-october-2026/",
+      "https://www.snapchat.com/topic/meme-ideas-for-social-media"
     ],
     "ideas": [
-      "Meanwhile Me expectation-versus-reality format",
-      "fast, clear relatable hooks with tight cuts"
+      "short-form narrative comedy with one clear payoff",
+      "relatable everyday dilemmas with large text and quick visual context"
     ],
     "used": [
-      "Mandarin learner discovers Chinese has no alphabet",
-      "East plus west unexpectedly means things: 东西 dōngxi",
-      "加油 literally add oil but means you've got this",
-      "吃瓜 literally eat watermelon but means watching the drama",
-      "Confident Mandarin restaurant order meets zero spice tolerance",
-      "Just checking the time; 47 Reels watched and time checked zero",
-      "100 illustrative phone checks turn a tired phone into a Chinese teacher",
-      "Two beginners saying thank you back and forth become a politeness tennis rally",
-      "亻 person radical plus 木 tree becomes 休 rest; learner obeys the Hanzi instead of homework",
-      "马上 means right away; learner arrives literally on a horse",
-      "Learner celebrates reading a full Chinese paragraph; it is only 哈哈哈哈哈, so they are fluent in laughing",
-      "Native Mandarin sentence overloads learner; their perfectly fluent reply is 我没听懂, I did not understand"
+      "Traditional greeting 你吃了吗 makes a learner prepare an entire buffet"
     ],
-    "audio_research_date": "2026-10-13",
-    "audio_limitation": "No commercially cleared current Instagram trend verified; used licensed comedy track instead.",
+    "audio_research_date": "2026-10-14",
+    "audio_limitation": "No current Instagram audio with verified commercial promotional permission and workflow compatibility found; reused a cleared non-consecutive original track.",
     "audio_pool_expanded_date": "2026-10-13"
   },
   "published": [
@@ -286,144 +275,145 @@
     }
   ],
   "metrics": {
-    "date": "2026-10-13",
+    "date": "2026-10-14",
     "available": [
       {
-        "media_id": "18169011904482382",
-        "media_permalink": "https://www.instagram.com/reel/DeZmp2wmtep/",
+        "media_id": "18044901614820565",
+        "media_permalink": "https://www.instagram.com/reel/DecLUBUAoZo/",
         "media_like_count": 0,
         "media_comments_count": 0,
-        "media_views": 15,
-        "media_reach": 14,
+        "media_views": 120,
+        "media_reach": 107,
         "media_saved": 0,
         "media_shares": 0,
-        "media_reel_avg_watch_time": 11850,
-        "media_reel_skip_rate": 0.533,
+        "media_reel_avg_watch_time": 1216,
+        "media_reel_skip_rate": 0.897,
         "media_reel_total_interactions": 0,
-        "media_reel_total_watch_time": 201460,
-        "timestamp": "2026-10-12T15:55:38+0000"
+        "media_reel_total_watch_time": 136230,
+        "timestamp": "2026-10-13T15:54:34+0000"
       },
       {
-        "media_id": "18179069206432399",
-        "media_permalink": "https://www.instagram.com/reel/DeZZRhBlrJs/",
+        "media_id": "17965137554979728",
+        "media_permalink": "https://www.instagram.com/reel/Deb9HpjlXmT/",
         "media_like_count": 0,
         "media_comments_count": 0,
-        "media_views": 119,
-        "media_reach": 114,
+        "media_views": 86,
+        "media_reach": 77,
         "media_saved": 0,
         "media_shares": 0,
-        "media_reel_avg_watch_time": 3730,
-        "media_reel_skip_rate": 0.782,
+        "media_reel_avg_watch_time": 2866,
+        "media_reel_skip_rate": 0.747,
         "media_reel_total_interactions": 0,
-        "media_reel_total_watch_time": 421504,
-        "timestamp": "2026-10-12T13:58:44+0000"
+        "media_reel_total_watch_time": 240811,
+        "timestamp": "2026-10-13T13:50:32+0000"
       },
       {
-        "media_id": "18130470418764180",
-        "media_permalink": "https://www.instagram.com/reel/DeZKYArDRYX/",
-        "media_like_count": 3,
-        "media_comments_count": 0,
-        "media_views": 198,
-        "media_reach": 180,
-        "media_saved": 0,
-        "media_shares": 0,
-        "media_reel_avg_watch_time": 5099,
-        "media_reel_skip_rate": 0.889,
-        "media_reel_total_interactions": 3,
-        "media_reel_total_watch_time": 938264,
-        "timestamp": "2026-10-12T11:48:37+0000"
-      },
-      {
-        "media_id": "18051287753602043",
-        "media_permalink": "https://www.instagram.com/reel/DeY9CVYDYcs/",
+        "media_id": "18123534512475507",
+        "media_permalink": "https://www.instagram.com/reel/DebvRhbIJoJ/",
         "media_like_count": 0,
         "media_comments_count": 0,
-        "media_views": 4,
-        "media_reach": 4,
+        "media_views": 88,
+        "media_reach": 88,
         "media_saved": 0,
         "media_shares": 0,
-        "media_reel_avg_watch_time": 22521,
-        "media_reel_skip_rate": 0.5,
+        "media_reel_avg_watch_time": 2972,
+        "media_reel_skip_rate": 0.812,
         "media_reel_total_interactions": 0,
-        "media_reel_total_watch_time": 180170,
-        "timestamp": "2026-10-12T09:52:09+0000"
+        "media_reel_total_watch_time": 261552,
+        "timestamp": "2026-10-13T11:49:37+0000"
       },
       {
-        "media_id": "18475458250118634",
-        "media_permalink": "https://www.instagram.com/reel/DeYtEU_DX2X/",
+        "media_id": "18060020642542406",
+        "media_permalink": "https://www.instagram.com/reel/DebiciGilyd/",
         "media_like_count": 0,
         "media_comments_count": 0,
-        "media_views": 56,
-        "media_reach": 51,
+        "media_views": 128,
+        "media_reach": 120,
         "media_saved": 1,
         "media_shares": 0,
-        "media_reel_avg_watch_time": 4444,
-        "media_reel_skip_rate": 0.667,
+        "media_reel_avg_watch_time": 2779,
+        "media_reel_skip_rate": 0.869,
         "media_reel_total_interactions": 1,
-        "media_reel_total_watch_time": 257768,
-        "timestamp": "2026-10-12T07:32:36+0000"
+        "media_reel_total_watch_time": 344718,
+        "timestamp": "2026-10-13T09:57:23+0000"
       },
       {
-        "media_id": "18119850412977244",
-        "media_permalink": "https://www.instagram.com/reel/DeYeBEsDX0p/",
+        "media_id": "18146946064566422",
+        "media_permalink": "https://www.instagram.com/reel/DebVKVIlHpY/",
         "media_like_count": 1,
         "media_comments_count": 0,
-        "media_views": 2,
-        "media_reach": 2,
+        "media_views": 110,
+        "media_reach": 107,
         "media_saved": 0,
         "media_shares": 0,
-        "media_reel_avg_watch_time": 11779,
-        "media_reel_skip_rate": 1,
+        "media_reel_avg_watch_time": 3638,
+        "media_reel_skip_rate": 0.743,
         "media_reel_total_interactions": 1,
-        "media_reel_total_watch_time": 129570,
-        "timestamp": "2026-10-12T05:21:04+0000"
+        "media_reel_total_watch_time": 392913,
+        "timestamp": "2026-10-13T08:01:26+0000"
       },
       {
-        "media_id": "17908565574481872",
-        "media_permalink": "https://www.instagram.com/p/DeYYWHVCvC8/",
+        "media_id": "18130896391802054",
+        "media_permalink": "https://www.instagram.com/reel/DebGIKijxvy/",
         "media_like_count": 0,
         "media_comments_count": 0,
-        "media_views": 0,
-        "media_reach": 0,
+        "media_views": 114,
+        "media_reach": 105,
         "media_saved": 0,
         "media_shares": 0,
-        "media_reel_avg_watch_time": null,
-        "media_reel_skip_rate": null,
+        "media_reel_avg_watch_time": 5677,
+        "media_reel_skip_rate": 0.408,
         "media_reel_total_interactions": 0,
-        "media_reel_total_watch_time": null,
-        "timestamp": "2026-10-12T04:31:12+0000"
+        "media_reel_total_watch_time": 613217,
+        "timestamp": "2026-10-13T05:49:55+0000"
       },
       {
-        "media_id": "18493352764111454",
-        "media_permalink": "https://www.instagram.com/p/DeYQCLTE-if/",
+        "media_id": "18394845514165179",
+        "media_permalink": "https://www.instagram.com/reel/Dea5L7YiHA5/",
         "media_like_count": 0,
         "media_comments_count": 0,
-        "media_views": null,
-        "media_reach": null,
-        "media_saved": null,
-        "media_shares": null,
-        "media_reel_avg_watch_time": null,
-        "media_reel_skip_rate": null,
-        "media_reel_total_interactions": null,
-        "media_reel_total_watch_time": null,
-        "timestamp": "2026-10-12T03:18:24+0000"
+        "media_views": 74,
+        "media_reach": 66,
+        "media_saved": 0,
+        "media_shares": 0,
+        "media_reel_avg_watch_time": 3086,
+        "media_reel_skip_rate": 0.882,
+        "media_reel_total_interactions": 0,
+        "media_reel_total_watch_time": 225287,
+        "timestamp": "2026-10-13T03:56:49+0000"
+      },
+      {
+        "media_id": "18136680817640144",
+        "media_permalink": "https://www.instagram.com/reel/DeaqmdEDax7/",
+        "media_like_count": 1,
+        "media_comments_count": 0,
+        "media_views": 108,
+        "media_reach": 99,
+        "media_saved": 0,
+        "media_shares": 0,
+        "media_reel_avg_watch_time": 3620,
+        "media_reel_skip_rate": 0.784,
+        "media_reel_total_interactions": 1,
+        "media_reel_total_watch_time": 391046,
+        "timestamp": "2026-10-13T01:49:29+0000"
       }
     ],
     "account": [
       {
-        "date": "2026-10-12",
+        "date": "2026-10-13",
         "profile_links_taps": 0,
-        "views": 387,
-        "reach": 356,
-        "accounts_engaged": 5,
-        "likes": 4,
+        "views": 840,
+        "reach": 743,
+        "accounts_engaged": 2,
+        "likes": 1,
         "comments": 0,
         "shares": 0,
         "saves": 1,
-        "total_interactions": 5
+        "total_interactions": 2
       }
     ],
-    "limitations": "No connected App Store download source. Profile links taps are available as an account-level proxy but were 0 for the latest cached day. Reel-specific profile visits are unsupported. Do not infer downloads from views."
+    "summary": "Among available 2026-10-13 Reels, the 100 phone-check teacher had the lowest early skip rate (0.408) and strongest average watch time (5677 ms). Do not overreact to one day; retain fast readable hooks while varying concepts.",
+    "limitations": "No connected App Store download source. Profile links taps are available as an account-level proxy and remained 0 for 2026-10-13. Reel-specific profile visits are unsupported. Do not infer downloads from views."
   },
   "animation_assets": [
     {
@@ -494,5 +484,39 @@
       "checked_date": "2026-10-13",
       "trend_status": "Original cleared fallback; no current Instagram trend claim"
     }
-  ]
+  ],
+  "trend_history": [
+    {
+      "date": "2026-10-13",
+      "sources": [
+        "https://newengen.com/insights/instagram-trends/",
+        "https://later.com/blog/instagram-reels-trends/"
+      ],
+      "ideas": [
+        "Meanwhile Me expectation-versus-reality format",
+        "fast, clear relatable hooks with tight cuts"
+      ],
+      "audio_limitation": "No commercially cleared current Instagram trend verified; used licensed comedy track instead."
+    }
+  ],
+  "pending": {
+    "date": "2026-10-14",
+    "run": "0051",
+    "hook": "A Chinese friend asks 你吃了吗, so the learner prepares an entire buffet",
+    "topic": "你吃了吗 nǐ chī le ma means have you eaten and can be used as a traditional greeting",
+    "creative_style": "simple dark-blue 2D cultural greeting and buffet joke",
+    "audio": {
+      "title": "Treehouse Breakbeat",
+      "artist": "Hanzi on Screen",
+      "source": "Original in-house synthesized instrumental",
+      "license": "Original owner-controlled audio; commercial promotional use permitted",
+      "license_evidence": "Generated deterministically by media/instagram/templates/hanzi_said_rest.py",
+      "path": "media/instagram/assets/treehouse_breakbeat.wav",
+      "commercial_use": "Original instrumental created for Hanzi on Screen; no third-party samples",
+      "checked_date": "2026-10-13",
+      "trend_status": "Original cleared fallback; no current Instagram trend claim"
+    },
+    "video_path": "media/instagram/2026-10-14/0051_have_you_eaten.mp4",
+    "sha256": "66d5d1481384895f65b8f7766ee19f0464bbd3df1bb7219705d8ec86dadb8f9a"
+  }
 }
