@@ -10,7 +10,8 @@
       "relatable everyday dilemmas with large text and quick visual context"
     ],
     "used": [
-      "Traditional greeting 你吃了吗 makes a learner prepare an entire buffet"
+      "Traditional greeting 你吃了吗 makes a learner prepare an entire buffet",
+      "他 她 它 all sound tā; writing becomes choose your fighter"
     ],
     "audio_research_date": "2026-10-14",
     "audio_limitation": "No current Instagram audio with verified commercial promotional permission and workflow compatibility found; reused a cleared non-consecutive original track.",
@@ -249,6 +250,28 @@
       "sha256": "66d5d1481384895f65b8f7766ee19f0464bbd3df1bb7219705d8ec86dadb8f9a",
       "media_id": "18189404692406817",
       "url": "https://www.instagram.com/reel/DecZREPidt6/"
+    },
+    {
+      "date": "2026-10-14",
+      "run": "0244",
+      "hook": "Mandarin speaking test gives 100% for 他 她 它 all pronounced tā; writing becomes choose your fighter",
+      "topic": "他 tā he, 她 tā she, 它 tā it",
+      "creative_style": "simple dark-blue 2D game-show meme",
+      "audio": {
+        "title": "Chat Pop Groove",
+        "artist": "Hanzi on Screen",
+        "source": "Original in-house synthesized instrumental",
+        "license": "Original owner-controlled audio; commercial promotional use permitted",
+        "license_evidence": "Generated deterministically by media/instagram/templates/fluent_in_laughing.py",
+        "path": "media/instagram/assets/chat_pop_groove.wav",
+        "commercial_use": "Original instrumental created for Hanzi on Screen; no third-party samples",
+        "checked_date": "2026-10-13",
+        "trend_status": "Original cleared fallback; no current Instagram trend claim"
+      },
+      "video_path": "media/instagram/2026-10-14/0244_choose_your_ta.mp4",
+      "sha256": "53946a2be36325710f4018f14f703164834d01675155adbd126e8e3c9c28b8b8",
+      "media_id": "18247141837313239",
+      "url": "https://www.instagram.com/reel/DecmhRalCX8/"
     }
   ],
   "verified_assets": [
@@ -520,25 +543,5 @@
       ],
       "audio_limitation": "No commercially cleared current Instagram trend verified; used licensed comedy track instead."
     }
-  ],
-  "pending": {
-    "date": "2026-10-14",
-    "run": "0244",
-    "hook": "Mandarin speaking test gives 100% for 他 她 它 all pronounced tā; writing becomes choose your fighter",
-    "topic": "他 tā he, 她 tā she, 它 tā it",
-    "creative_style": "simple dark-blue 2D game-show meme",
-    "audio": {
-      "title": "Chat Pop Groove",
-      "artist": "Hanzi on Screen",
-      "source": "Original in-house synthesized instrumental",
-      "license": "Original owner-controlled audio; commercial promotional use permitted",
-      "license_evidence": "Generated deterministically by media/instagram/templates/fluent_in_laughing.py",
-      "path": "media/instagram/assets/chat_pop_groove.wav",
-      "commercial_use": "Original instrumental created for Hanzi on Screen; no third-party samples",
-      "checked_date": "2026-10-13",
-      "trend_status": "Original cleared fallback; no current Instagram trend claim"
-    },
-    "video_path": "media/instagram/2026-10-14/0244_choose_your_ta.mp4",
-    "sha256": "53946a2be36325710f4018f14f703164834d01675155adbd126e8e3c9c28b8b8"
-  }
+  ]
 }
