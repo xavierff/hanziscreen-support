@@ -11,7 +11,8 @@
     ],
     "used": [
       "Traditional greeting 你吃了吗 makes a learner prepare an entire buffet",
-      "他 她 它 all sound tā; writing becomes choose your fighter"
+      "他 她 它 all sound tā; writing becomes choose your fighter",
+      "Cinematic 再见 goodbye gets an awkward elevator sequel"
     ],
     "audio_research_date": "2026-10-14",
     "audio_limitation": "No current Instagram audio with verified commercial promotional permission and workflow compatibility found; reused a cleared non-consecutive original track.",
@@ -272,6 +273,28 @@
       "sha256": "53946a2be36325710f4018f14f703164834d01675155adbd126e8e3c9c28b8b8",
       "media_id": "18247141837313239",
       "url": "https://www.instagram.com/reel/DecmhRalCX8/"
+    },
+    {
+      "date": "2026-10-14",
+      "run": "0447",
+      "hook": "Learner delivers a cinematic 再见 goodbye, then meets the same person in the elevator five seconds later",
+      "topic": "再见 zàijiàn means goodbye",
+      "creative_style": "simple dark-blue 2D awkward-elevator meme",
+      "audio": {
+        "title": "Sneaky Snitch",
+        "artist": "Kevin MacLeod",
+        "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Sneaky%20Snitch.mp3",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "license_evidence": "https://incompetech.com/music/royalty-free/index.html?Search=Search&isrc=USUAN1100772",
+        "path": "media/instagram/assets/sneaky_snitch.mp3",
+        "commercial_use": "CC BY 4.0 with attribution; trimmed and faded",
+        "checked_date": "2026-10-13",
+        "trend_status": "Licensed comedy fallback; current Instagram trend status unverified"
+      },
+      "video_path": "media/instagram/2026-10-14/0447_goodbye_sequel.mp4",
+      "sha256": "c569c377160f498a08c630269106fb930f169669e9505e3affeb5a3564989491",
+      "media_id": "18112261643154960",
+      "url": "https://www.instagram.com/reel/Dec0D_PFHrF/"
     }
   ],
   "verified_assets": [
@@ -543,25 +566,5 @@
       ],
       "audio_limitation": "No commercially cleared current Instagram trend verified; used licensed comedy track instead."
     }
-  ],
-  "pending": {
-    "date": "2026-10-14",
-    "run": "0447",
-    "hook": "Learner delivers a cinematic 再见 goodbye, then meets the same person in the elevator five seconds later",
-    "topic": "再见 zàijiàn means goodbye",
-    "creative_style": "simple dark-blue 2D awkward-elevator meme",
-    "audio": {
-      "title": "Sneaky Snitch",
-      "artist": "Kevin MacLeod",
-      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Sneaky%20Snitch.mp3",
-      "license": "https://creativecommons.org/licenses/by/4.0/",
-      "license_evidence": "https://incompetech.com/music/royalty-free/index.html?Search=Search&isrc=USUAN1100772",
-      "path": "media/instagram/assets/sneaky_snitch.mp3",
-      "commercial_use": "CC BY 4.0 with attribution; trimmed and faded",
-      "checked_date": "2026-10-13",
-      "trend_status": "Licensed comedy fallback; current Instagram trend status unverified"
-    },
-    "video_path": "media/instagram/2026-10-14/0447_goodbye_sequel.mp4",
-    "sha256": "c569c377160f498a08c630269106fb930f169669e9505e3affeb5a3564989491"
-  }
+  ]
 }
