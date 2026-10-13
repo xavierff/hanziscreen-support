@@ -15,7 +15,8 @@
       "加油 literally add oil but means you've got this",
       "吃瓜 literally eat watermelon but means watching the drama",
       "Confident Mandarin restaurant order meets zero spice tolerance",
-      "Just checking the time; 47 Reels watched and time checked zero"
+      "Just checking the time; 47 Reels watched and time checked zero",
+      "100 illustrative phone checks turn a tired phone into a Chinese teacher"
     ],
     "audio_research_date": "2026-10-13",
     "audio_limitation": "No commercially cleared current Instagram trend verified; used licensed comedy track instead."
@@ -312,5 +313,14 @@
       "checked_date": "2026-10-13",
       "trend_status": "Familiar comedy track; current Instagram trending status unverified"
     }
-  ]
+  ],
+  "pending": {
+    "date": "2026-10-13",
+    "run": "1245",
+    "hook": "100 illustrative phone checks turn a tired phone into a Chinese teacher",
+    "topic": "Repeated checks become opportunities to encounter Hanzi",
+    "creative_style": "simple dark-blue 2D phone character",
+    "video_path": "media/instagram/2026-10-13/1245_phone_teacher.mp4",
+    "sha256": "173304f5999c008d96eedc02a74d09e5787de9af2dcabbb98dc3dad532171512"
+  }
 }
