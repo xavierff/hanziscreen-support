@@ -147,6 +147,28 @@
       "sha256": "80c4c62a8076f8fe522faa6abd5577b5e0dba2b385e9c97f8f63d6a435cd6f2b",
       "media_id": "18146946064566422",
       "url": "https://www.instagram.com/reel/DebVKVIlHpY/"
+    },
+    {
+      "date": "2026-10-13",
+      "run": "1649",
+      "hook": "Chinese homework teaches 休, so the exhausted learner takes it literally and rests",
+      "topic": "休 xiū means rest; mnemonic 亻 person radical + 木 tree",
+      "creative_style": "simple dark-blue 2D character-and-tree visual mnemonic",
+      "audio": {
+        "title": "Treehouse Breakbeat",
+        "artist": "Hanzi on Screen",
+        "source": "Original in-house synthesized instrumental",
+        "license": "Original owner-controlled audio; commercial promotional use permitted",
+        "license_evidence": "Generated deterministically by media/instagram/templates/hanzi_said_rest.py",
+        "path": "media/instagram/assets/treehouse_breakbeat.wav",
+        "commercial_use": "Original instrumental created for Hanzi on Screen; no third-party samples",
+        "checked_date": "2026-10-13",
+        "trend_status": "Original cleared fallback; no current Instagram trend claim"
+      },
+      "video_path": "media/instagram/2026-10-13/1649_hanzi_said_rest.mp4",
+      "sha256": "41ce8070dd8b8aae459d3a819a6eddf47b42bbcf97db02ff08f4f84d09dc648f",
+      "media_id": "18060020642542406",
+      "url": "https://www.instagram.com/reel/DebiciGilyd/"
     }
   ],
   "verified_assets": [
@@ -381,25 +403,5 @@
       "checked_date": "2026-10-13",
       "trend_status": "Original cleared fallback; no current Instagram trend claim"
     }
-  ],
-  "pending": {
-    "date": "2026-10-13",
-    "run": "1649",
-    "hook": "Chinese homework teaches 休, so the exhausted learner takes it literally and rests",
-    "topic": "休 xiū means rest; mnemonic 亻 person radical + 木 tree",
-    "creative_style": "simple dark-blue 2D character-and-tree visual mnemonic",
-    "audio": {
-      "title": "Treehouse Breakbeat",
-      "artist": "Hanzi on Screen",
-      "source": "Original in-house synthesized instrumental",
-      "license": "Original owner-controlled audio; commercial promotional use permitted",
-      "license_evidence": "Generated deterministically by media/instagram/templates/hanzi_said_rest.py",
-      "path": "media/instagram/assets/treehouse_breakbeat.wav",
-      "commercial_use": "Original instrumental created for Hanzi on Screen; no third-party samples",
-      "checked_date": "2026-10-13",
-      "trend_status": "Original cleared fallback; no current Instagram trend claim"
-    },
-    "video_path": "media/instagram/2026-10-13/1649_hanzi_said_rest.mp4",
-    "sha256": "41ce8070dd8b8aae459d3a819a6eddf47b42bbcf97db02ff08f4f84d09dc648f"
-  }
+  ]
 }
