@@ -16,10 +16,12 @@
       "吃瓜 literally eat watermelon but means watching the drama",
       "Confident Mandarin restaurant order meets zero spice tolerance",
       "Just checking the time; 47 Reels watched and time checked zero",
-      "100 illustrative phone checks turn a tired phone into a Chinese teacher"
+      "100 illustrative phone checks turn a tired phone into a Chinese teacher",
+      "Two beginners saying thank you back and forth become a politeness tennis rally"
     ],
     "audio_research_date": "2026-10-13",
-    "audio_limitation": "No commercially cleared current Instagram trend verified; used licensed comedy track instead."
+    "audio_limitation": "No commercially cleared current Instagram trend verified; used licensed comedy track instead.",
+    "audio_pool_expanded_date": "2026-10-13"
   },
   "published": [
     {
@@ -100,7 +102,12 @@
       "video_path": "media/instagram/2026-10-13/1051_checking_time.mp4",
       "sha256": "af39b3bb6a272df952467d041639628a1e78cbaafeafbd277fc1c69b5da1138f",
       "media_id": "18394845514165179",
-      "url": "https://www.instagram.com/reel/Dea5L7YiHA5/"
+      "url": "https://www.instagram.com/reel/Dea5L7YiHA5/",
+      "audio": {
+        "title": "Monkeys Spinning Monkeys",
+        "artist": "Kevin MacLeod",
+        "license": "https://creativecommons.org/licenses/by/4.0/"
+      }
     },
     {
       "date": "2026-10-13",
@@ -111,7 +118,12 @@
       "video_path": "media/instagram/2026-10-13/1245_phone_teacher.mp4",
       "sha256": "173304f5999c008d96eedc02a74d09e5787de9af2dcabbb98dc3dad532171512",
       "media_id": "18130896391802054",
-      "url": "https://www.instagram.com/reel/DebGIKijxvy/"
+      "url": "https://www.instagram.com/reel/DebGIKijxvy/",
+      "audio": {
+        "title": "Monkeys Spinning Monkeys",
+        "artist": "Kevin MacLeod",
+        "license": "https://creativecommons.org/licenses/by/4.0/"
+      }
     }
   ],
   "verified_assets": [
@@ -323,6 +335,37 @@
       "commercial_use": "CC BY with attribution; track trimmed and faded in Reel",
       "checked_date": "2026-10-13",
       "trend_status": "Familiar comedy track; current Instagram trending status unverified"
+    },
+    {
+      "title": "Sneaky Snitch",
+      "artist": "Kevin MacLeod",
+      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Sneaky%20Snitch.mp3",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "license_evidence": "https://incompetech.com/music/royalty-free/index.html?Search=Search&isrc=USUAN1100772",
+      "path": "media/instagram/assets/sneaky_snitch.mp3",
+      "commercial_use": "CC BY 4.0 with attribution; trimmed and faded",
+      "checked_date": "2026-10-13",
+      "trend_status": "Licensed comedy fallback; current Instagram trend status unverified"
     }
-  ]
+  ],
+  "pending": {
+    "date": "2026-10-13",
+    "run": "1456",
+    "hook": "Two beginners saying thank you back and forth become a politeness tennis rally",
+    "topic": "谢谢 xièxie and 不客气 bù kèqi",
+    "creative_style": "dark-blue 2D stick-figure tennis",
+    "audio": {
+      "title": "Sneaky Snitch",
+      "artist": "Kevin MacLeod",
+      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Sneaky%20Snitch.mp3",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "license_evidence": "https://incompetech.com/music/royalty-free/index.html?Search=Search&isrc=USUAN1100772",
+      "path": "media/instagram/assets/sneaky_snitch.mp3",
+      "commercial_use": "CC BY 4.0 with attribution; trimmed and faded",
+      "checked_date": "2026-10-13",
+      "trend_status": "Licensed comedy fallback; current Instagram trend status unverified"
+    },
+    "video_path": "media/instagram/2026-10-13/1456_thank_you_tennis.mp4",
+    "sha256": "80c4c62a8076f8fe522faa6abd5577b5e0dba2b385e9c97f8f63d6a435cd6f2b"
+  }
 }
