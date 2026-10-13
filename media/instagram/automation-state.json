@@ -170,6 +170,28 @@
       "sha256": "41ce8070dd8b8aae459d3a819a6eddf47b42bbcf97db02ff08f4f84d09dc648f",
       "media_id": "18060020642542406",
       "url": "https://www.instagram.com/reel/DebiciGilyd/"
+    },
+    {
+      "date": "2026-10-13",
+      "run": "1844",
+      "hook": "Teacher says come here 马上, so the learner arrives literally on a horse",
+      "topic": "马上 mǎshàng means right away; literally on a horse",
+      "creative_style": "simple dark-blue 2D teacher-and-horse visual pun",
+      "audio": {
+        "title": "Gallop Bounce",
+        "artist": "Hanzi on Screen",
+        "source": "Original in-house synthesized instrumental",
+        "license": "Original owner-controlled audio; commercial promotional use permitted",
+        "license_evidence": "Generated deterministically by media/instagram/templates/mashang_horse.py",
+        "path": "media/instagram/assets/gallop_bounce.wav",
+        "commercial_use": "Original instrumental created for Hanzi on Screen; no third-party samples",
+        "checked_date": "2026-10-13",
+        "trend_status": "Original cleared fallback; no current Instagram trend claim"
+      },
+      "video_path": "media/instagram/2026-10-13/1844_mashang_horse.mp4",
+      "sha256": "0541a0438afb6096d96582234cfb70f8900ee65aded380af71a4c790d96d4df4",
+      "media_id": "18123534512475507",
+      "url": "https://www.instagram.com/reel/DebvRhbIJoJ/"
     }
   ],
   "verified_assets": [
@@ -415,25 +437,5 @@
       "checked_date": "2026-10-13",
       "trend_status": "Original cleared fallback; no current Instagram trend claim"
     }
-  ],
-  "pending": {
-    "date": "2026-10-13",
-    "run": "1844",
-    "hook": "Teacher says come here 马上, so the learner arrives literally on a horse",
-    "topic": "马上 mǎshàng means right away; literally on a horse",
-    "creative_style": "simple dark-blue 2D teacher-and-horse visual pun",
-    "audio": {
-      "title": "Gallop Bounce",
-      "artist": "Hanzi on Screen",
-      "source": "Original in-house synthesized instrumental",
-      "license": "Original owner-controlled audio; commercial promotional use permitted",
-      "license_evidence": "Generated deterministically by media/instagram/templates/mashang_horse.py",
-      "path": "media/instagram/assets/gallop_bounce.wav",
-      "commercial_use": "Original instrumental created for Hanzi on Screen; no third-party samples",
-      "checked_date": "2026-10-13",
-      "trend_status": "Original cleared fallback; no current Instagram trend claim"
-    },
-    "video_path": "media/instagram/2026-10-13/1844_mashang_horse.mp4",
-    "sha256": "0541a0438afb6096d96582234cfb70f8900ee65aded380af71a4c790d96d4df4"
-  }
+  ]
 }
