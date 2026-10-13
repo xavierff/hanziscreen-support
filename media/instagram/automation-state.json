@@ -12,7 +12,8 @@
     "used": [
       "Traditional greeting 你吃了吗 makes a learner prepare an entire buffet",
       "他 她 它 all sound tā; writing becomes choose your fighter",
-      "Cinematic 再见 goodbye gets an awkward elevator sequel"
+      "Cinematic 再见 goodbye gets an awkward elevator sequel",
+      "Learner turns the phone instead of turning left after seeing 左转"
     ],
     "audio_research_date": "2026-10-14",
     "audio_limitation": "No current Instagram audio with verified commercial promotional permission and workflow compatibility found; reused a cleared non-consecutive original track.",
@@ -295,6 +296,28 @@
       "sha256": "c569c377160f498a08c630269106fb930f169669e9505e3affeb5a3564989491",
       "media_id": "18112261643154960",
       "url": "https://www.instagram.com/reel/Dec0D_PFHrF/"
+    },
+    {
+      "date": "2026-10-14",
+      "run": "0645",
+      "hook": "Learner knows 左 and 右, but turns the phone left instead of turning left",
+      "topic": "左 zuǒ left, 右 yòu right, 左转 zuǒ zhuǎn turn left",
+      "creative_style": "simple dark-blue 2D navigation meme",
+      "audio": {
+        "title": "Gallop Bounce",
+        "artist": "Hanzi on Screen",
+        "source": "Original in-house synthesized instrumental",
+        "license": "Original owner-controlled audio; commercial promotional use permitted",
+        "license_evidence": "Generated deterministically by media/instagram/templates/mashang_horse.py",
+        "path": "media/instagram/assets/gallop_bounce.wav",
+        "commercial_use": "Original instrumental created for Hanzi on Screen; no third-party samples",
+        "checked_date": "2026-10-13",
+        "trend_status": "Original cleared fallback; no current Instagram trend claim"
+      },
+      "video_path": "media/instagram/2026-10-14/0645_turn_the_phone.mp4",
+      "sha256": "79ca1c7f31d5f81c7adde6d96350b1f186c89aceb1a16f044d0cb6b7a73df405",
+      "media_id": "18106519703253044",
+      "url": "https://www.instagram.com/reel/DedBh58Anm6/"
     }
   ],
   "verified_assets": [
@@ -566,25 +589,5 @@
       ],
       "audio_limitation": "No commercially cleared current Instagram trend verified; used licensed comedy track instead."
     }
-  ],
-  "pending": {
-    "date": "2026-10-14",
-    "run": "0645",
-    "hook": "Learner knows 左 and 右, but turns the phone left instead of turning left",
-    "topic": "左 zuǒ left, 右 yòu right, 左转 zuǒ zhuǎn turn left",
-    "creative_style": "simple dark-blue 2D navigation meme",
-    "audio": {
-      "title": "Gallop Bounce",
-      "artist": "Hanzi on Screen",
-      "source": "Original in-house synthesized instrumental",
-      "license": "Original owner-controlled audio; commercial promotional use permitted",
-      "license_evidence": "Generated deterministically by media/instagram/templates/mashang_horse.py",
-      "path": "media/instagram/assets/gallop_bounce.wav",
-      "commercial_use": "Original instrumental created for Hanzi on Screen; no third-party samples",
-      "checked_date": "2026-10-13",
-      "trend_status": "Original cleared fallback; no current Instagram trend claim"
-    },
-    "video_path": "media/instagram/2026-10-14/0645_turn_the_phone.mp4",
-    "sha256": "79ca1c7f31d5f81c7adde6d96350b1f186c89aceb1a16f044d0cb6b7a73df405"
-  }
+  ]
 }
