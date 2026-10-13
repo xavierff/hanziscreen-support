@@ -227,6 +227,28 @@
       "sha256": "a93c11fedc94044cce6910bfa1bfa941e4d94acbed2876f680a8324c42b4e990",
       "media_id": "18044901614820565",
       "url": "https://www.instagram.com/reel/DecLUBUAoZo/"
+    },
+    {
+      "date": "2026-10-14",
+      "run": "0051",
+      "hook": "A Chinese friend asks 你吃了吗, so the learner prepares an entire buffet",
+      "topic": "你吃了吗 nǐ chī le ma means have you eaten and can be used as a traditional greeting",
+      "creative_style": "simple dark-blue 2D cultural greeting and buffet joke",
+      "audio": {
+        "title": "Treehouse Breakbeat",
+        "artist": "Hanzi on Screen",
+        "source": "Original in-house synthesized instrumental",
+        "license": "Original owner-controlled audio; commercial promotional use permitted",
+        "license_evidence": "Generated deterministically by media/instagram/templates/hanzi_said_rest.py",
+        "path": "media/instagram/assets/treehouse_breakbeat.wav",
+        "commercial_use": "Original instrumental created for Hanzi on Screen; no third-party samples",
+        "checked_date": "2026-10-13",
+        "trend_status": "Original cleared fallback; no current Instagram trend claim"
+      },
+      "video_path": "media/instagram/2026-10-14/0051_have_you_eaten.mp4",
+      "sha256": "66d5d1481384895f65b8f7766ee19f0464bbd3df1bb7219705d8ec86dadb8f9a",
+      "media_id": "18189404692406817",
+      "url": "https://www.instagram.com/reel/DecZREPidt6/"
     }
   ],
   "verified_assets": [
@@ -498,25 +520,5 @@
       ],
       "audio_limitation": "No commercially cleared current Instagram trend verified; used licensed comedy track instead."
     }
-  ],
-  "pending": {
-    "date": "2026-10-14",
-    "run": "0051",
-    "hook": "A Chinese friend asks 你吃了吗, so the learner prepares an entire buffet",
-    "topic": "你吃了吗 nǐ chī le ma means have you eaten and can be used as a traditional greeting",
-    "creative_style": "simple dark-blue 2D cultural greeting and buffet joke",
-    "audio": {
-      "title": "Treehouse Breakbeat",
-      "artist": "Hanzi on Screen",
-      "source": "Original in-house synthesized instrumental",
-      "license": "Original owner-controlled audio; commercial promotional use permitted",
-      "license_evidence": "Generated deterministically by media/instagram/templates/hanzi_said_rest.py",
-      "path": "media/instagram/assets/treehouse_breakbeat.wav",
-      "commercial_use": "Original instrumental created for Hanzi on Screen; no third-party samples",
-      "checked_date": "2026-10-13",
-      "trend_status": "Original cleared fallback; no current Instagram trend claim"
-    },
-    "video_path": "media/instagram/2026-10-14/0051_have_you_eaten.mp4",
-    "sha256": "66d5d1481384895f65b8f7766ee19f0464bbd3df1bb7219705d8ec86dadb8f9a"
-  }
+  ]
 }
