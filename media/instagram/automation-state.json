@@ -124,6 +124,28 @@
         "artist": "Kevin MacLeod",
         "license": "https://creativecommons.org/licenses/by/4.0/"
       }
+    },
+    {
+      "date": "2026-10-13",
+      "run": "1456",
+      "hook": "Two beginners saying thank you back and forth become a politeness tennis rally",
+      "topic": "谢谢 xièxie and 不客气 bù kèqi",
+      "creative_style": "dark-blue 2D stick-figure tennis",
+      "audio": {
+        "title": "Sneaky Snitch",
+        "artist": "Kevin MacLeod",
+        "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Sneaky%20Snitch.mp3",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "license_evidence": "https://incompetech.com/music/royalty-free/index.html?Search=Search&isrc=USUAN1100772",
+        "path": "media/instagram/assets/sneaky_snitch.mp3",
+        "commercial_use": "CC BY 4.0 with attribution; trimmed and faded",
+        "checked_date": "2026-10-13",
+        "trend_status": "Licensed comedy fallback; current Instagram trend status unverified"
+      },
+      "video_path": "media/instagram/2026-10-13/1456_thank_you_tennis.mp4",
+      "sha256": "80c4c62a8076f8fe522faa6abd5577b5e0dba2b385e9c97f8f63d6a435cd6f2b",
+      "media_id": "18146946064566422",
+      "url": "https://www.instagram.com/reel/DebVKVIlHpY/"
     }
   ],
   "verified_assets": [
@@ -347,25 +369,5 @@
       "checked_date": "2026-10-13",
       "trend_status": "Licensed comedy fallback; current Instagram trend status unverified"
     }
-  ],
-  "pending": {
-    "date": "2026-10-13",
-    "run": "1456",
-    "hook": "Two beginners saying thank you back and forth become a politeness tennis rally",
-    "topic": "谢谢 xièxie and 不客气 bù kèqi",
-    "creative_style": "dark-blue 2D stick-figure tennis",
-    "audio": {
-      "title": "Sneaky Snitch",
-      "artist": "Kevin MacLeod",
-      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Sneaky%20Snitch.mp3",
-      "license": "https://creativecommons.org/licenses/by/4.0/",
-      "license_evidence": "https://incompetech.com/music/royalty-free/index.html?Search=Search&isrc=USUAN1100772",
-      "path": "media/instagram/assets/sneaky_snitch.mp3",
-      "commercial_use": "CC BY 4.0 with attribution; trimmed and faded",
-      "checked_date": "2026-10-13",
-      "trend_status": "Licensed comedy fallback; current Instagram trend status unverified"
-    },
-    "video_path": "media/instagram/2026-10-13/1456_thank_you_tennis.mp4",
-    "sha256": "80c4c62a8076f8fe522faa6abd5577b5e0dba2b385e9c97f8f63d6a435cd6f2b"
-  }
+  ]
 }
