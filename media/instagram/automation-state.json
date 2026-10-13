@@ -216,6 +216,28 @@
       "sha256": "19cebf86db1796006f4cf0851b1dd479555150f478b0652f2a24c6db6a7ad707",
       "media_id": "17965137554979728",
       "url": "https://www.instagram.com/reel/Deb9HpjlXmT/"
+    },
+    {
+      "date": "2026-10-13",
+      "run": "2249",
+      "hook": "The one Mandarin sentence the beginner says perfectly is 我没听懂 — I did not understand",
+      "topic": "我没听懂 wǒ méi tīng dǒng means I did not understand",
+      "creative_style": "simple dark-blue 2D conversation and loading-screen meme",
+      "audio": {
+        "title": "Sneaky Snitch",
+        "artist": "Kevin MacLeod",
+        "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Sneaky%20Snitch.mp3",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "license_evidence": "https://incompetech.com/music/royalty-free/index.html?Search=Search&isrc=USUAN1100772",
+        "path": "media/instagram/assets/sneaky_snitch.mp3",
+        "commercial_use": "CC BY 4.0 with attribution; trimmed and faded",
+        "checked_date": "2026-10-13",
+        "trend_status": "Licensed comedy fallback; current Instagram trend status unverified"
+      },
+      "video_path": "media/instagram/2026-10-13/2249_most_fluent_sentence.mp4",
+      "sha256": "a93c11fedc94044cce6910bfa1bfa941e4d94acbed2876f680a8324c42b4e990",
+      "media_id": "18044901614820565",
+      "url": "https://www.instagram.com/reel/DecLUBUAoZo/"
     }
   ],
   "verified_assets": [
@@ -472,25 +494,5 @@
       "checked_date": "2026-10-13",
       "trend_status": "Original cleared fallback; no current Instagram trend claim"
     }
-  ],
-  "pending": {
-    "date": "2026-10-13",
-    "run": "2249",
-    "hook": "The one Mandarin sentence the beginner says perfectly is 我没听懂 — I did not understand",
-    "topic": "我没听懂 wǒ méi tīng dǒng means I did not understand",
-    "creative_style": "simple dark-blue 2D conversation and loading-screen meme",
-    "audio": {
-      "title": "Sneaky Snitch",
-      "artist": "Kevin MacLeod",
-      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Sneaky%20Snitch.mp3",
-      "license": "https://creativecommons.org/licenses/by/4.0/",
-      "license_evidence": "https://incompetech.com/music/royalty-free/index.html?Search=Search&isrc=USUAN1100772",
-      "path": "media/instagram/assets/sneaky_snitch.mp3",
-      "commercial_use": "CC BY 4.0 with attribution; trimmed and faded",
-      "checked_date": "2026-10-13",
-      "trend_status": "Licensed comedy fallback; current Instagram trend status unverified"
-    },
-    "video_path": "media/instagram/2026-10-13/2249_most_fluent_sentence.mp4",
-    "sha256": "a93c11fedc94044cce6910bfa1bfa941e4d94acbed2876f680a8324c42b4e990"
-  }
+  ]
 }
