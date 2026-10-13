@@ -17,7 +17,8 @@
       "Confident Mandarin restaurant order meets zero spice tolerance",
       "Just checking the time; 47 Reels watched and time checked zero",
       "100 illustrative phone checks turn a tired phone into a Chinese teacher",
-      "Two beginners saying thank you back and forth become a politeness tennis rally"
+      "Two beginners saying thank you back and forth become a politeness tennis rally",
+      "亻 person radical plus 木 tree becomes 休 rest; learner obeys the Hanzi instead of homework"
     ],
     "audio_research_date": "2026-10-13",
     "audio_limitation": "No commercially cleared current Instagram trend verified; used licensed comedy track instead.",
@@ -368,6 +369,37 @@
       "commercial_use": "CC BY 4.0 with attribution; trimmed and faded",
       "checked_date": "2026-10-13",
       "trend_status": "Licensed comedy fallback; current Instagram trend status unverified"
+    },
+    {
+      "title": "Treehouse Breakbeat",
+      "artist": "Hanzi on Screen",
+      "source": "Original in-house synthesized instrumental",
+      "license": "Original owner-controlled audio; commercial promotional use permitted",
+      "license_evidence": "Generated deterministically by media/instagram/templates/hanzi_said_rest.py",
+      "path": "media/instagram/assets/treehouse_breakbeat.wav",
+      "commercial_use": "Original instrumental created for Hanzi on Screen; no third-party samples",
+      "checked_date": "2026-10-13",
+      "trend_status": "Original cleared fallback; no current Instagram trend claim"
     }
-  ]
+  ],
+  "pending": {
+    "date": "2026-10-13",
+    "run": "1649",
+    "hook": "Chinese homework teaches 休, so the exhausted learner takes it literally and rests",
+    "topic": "休 xiū means rest; mnemonic 亻 person radical + 木 tree",
+    "creative_style": "simple dark-blue 2D character-and-tree visual mnemonic",
+    "audio": {
+      "title": "Treehouse Breakbeat",
+      "artist": "Hanzi on Screen",
+      "source": "Original in-house synthesized instrumental",
+      "license": "Original owner-controlled audio; commercial promotional use permitted",
+      "license_evidence": "Generated deterministically by media/instagram/templates/hanzi_said_rest.py",
+      "path": "media/instagram/assets/treehouse_breakbeat.wav",
+      "commercial_use": "Original instrumental created for Hanzi on Screen; no third-party samples",
+      "checked_date": "2026-10-13",
+      "trend_status": "Original cleared fallback; no current Instagram trend claim"
+    },
+    "video_path": "media/instagram/2026-10-13/1649_hanzi_said_rest.mp4",
+    "sha256": "41ce8070dd8b8aae459d3a819a6eddf47b42bbcf97db02ff08f4f84d09dc648f"
+  }
 }
