@@ -16,7 +16,8 @@
       "Learner turns the phone instead of turning left after seeing 左转",
       "Counting dumplings in Mandarin: counted to three, ate all ten",
       "Handwriting duel: eraser grows and wins while paper stays spotless",
-      "Pandas take over brain storage; Wi-Fi password missing"
+      "Pandas take over brain storage; Wi-Fi password missing",
+      "Mandarin thank-you voice note interrupted by cat guest vocalist"
     ],
     "audio_research_date": "2026-10-14",
     "audio_limitation": "No current Instagram audio with verified commercial promotional permission and workflow compatibility found; reused a cleared non-consecutive original track.",
@@ -396,6 +397,29 @@
       "sha256": "2bdd9e9fd57c9599a324b3e5be36cf6d4c17ccecbd897d377596c183f384fbce",
       "media_id": "18000318000041280",
       "url": "https://www.instagram.com/reel/DedrPTljsh7/"
+    },
+    {
+      "date": "2026-10-14",
+      "run": "1443",
+      "hook": "Mandarin thank-you voice note gets an unexpected cat guest vocalist",
+      "topic": "谢谢 xièxie thank you; 喵 miāo meow",
+      "creative_style": "simple dark-blue 2D cat-and-microphone meme",
+      "audio": {
+        "title": "Gallop Bounce",
+        "artist": "Hanzi on Screen",
+        "source": "Original in-house synthesized instrumental",
+        "license": "Original owner-controlled audio; commercial promotional use permitted",
+        "license_evidence": "Generated deterministically by media/instagram/templates/mashang_horse.py",
+        "path": "media/instagram/assets/gallop_bounce.wav",
+        "commercial_use": "Original instrumental created for Hanzi on Screen; no third-party samples",
+        "checked_date": "2026-10-13",
+        "trend_status": "Original cleared fallback; no current Instagram trend claim"
+      },
+      "opening_asset": "media/instagram/assets/owner_lock_screen_no_spice.jpeg",
+      "video_path": "media/instagram/2026-10-14/1443_cat_voice_note.mp4",
+      "sha256": "d73f85ccd8588fc705e407caa90b4d99d97f864d2c5218d07e91e597a69143a7",
+      "media_id": "18215666734361215",
+      "url": "https://www.instagram.com/reel/Ded4W_zCRgd/"
     }
   ],
   "verified_assets": [
@@ -930,26 +954,5 @@
       }
     ],
     "clues": "你好 confidence 3 likes; phone-check and buffet greeting 2 likes each. Small samples; combine likes with saves/watch time and avoid copying premises."
-  },
-  "pending": {
-    "date": "2026-10-14",
-    "run": "1443",
-    "hook": "Mandarin thank-you voice note gets an unexpected cat guest vocalist",
-    "topic": "谢谢 xièxie thank you; 喵 miāo meow",
-    "creative_style": "simple dark-blue 2D cat-and-microphone meme",
-    "audio": {
-      "title": "Gallop Bounce",
-      "artist": "Hanzi on Screen",
-      "source": "Original in-house synthesized instrumental",
-      "license": "Original owner-controlled audio; commercial promotional use permitted",
-      "license_evidence": "Generated deterministically by media/instagram/templates/mashang_horse.py",
-      "path": "media/instagram/assets/gallop_bounce.wav",
-      "commercial_use": "Original instrumental created for Hanzi on Screen; no third-party samples",
-      "checked_date": "2026-10-13",
-      "trend_status": "Original cleared fallback; no current Instagram trend claim"
-    },
-    "opening_asset": "media/instagram/assets/owner_lock_screen_no_spice.jpeg",
-    "video_path": "media/instagram/2026-10-14/1443_cat_voice_note.mp4",
-    "sha256": "d73f85ccd8588fc705e407caa90b4d99d97f864d2c5218d07e91e597a69143a7"
   }
 }
