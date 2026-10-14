@@ -25,12 +25,12 @@
     "audio_pool_expanded_date": "2026-10-14",
     "last_brief_check": {
       "date": "2026-10-14",
-      "run": "1646",
+      "run": "1851",
       "sources": [
-        "https://virlo.ai/reels",
-        "https://buffer.com/resources/trending-audio-instagram/"
+        "https://mysocialboutique.co/instagram-trends-2026/"
       ],
-      "finding": "Current reports cover callout messages and licensed popular songs; no fitting trending audio commercial permission verified. Used original tone-theme-park joke and newly cleared Fluffing a Duck."
+      "source_updated": "2026-10-13",
+      "finding": "Reported October 12–18 haunted-house format uses relatable fears instead of monsters. Original Mandarin no-pinyin classroom adaptation; no verified virality claim. Trending audio commercial permission not established, cleared non-consecutive Sneaky Snitch used."
     }
   },
   "published": [
@@ -994,5 +994,29 @@
       "checked_date": "2026-10-14",
       "trend_status": "Cleared comedy fallback; no current trend claim"
     }
-  ]
+  ],
+  "pending": {
+    "date": "2026-10-14",
+    "run": "1851",
+    "hook": "Mandarin learner haunted house reveals no pinyin; learner flees and hugs emotional support pinyin blanket",
+    "topic": "Pinyin reliance; 今天 jīntiān today, 明天 míngtiān tomorrow",
+    "creative_style": "simple dark-blue 2D haunted-classroom meme",
+    "audio": {
+      "title": "Sneaky Snitch",
+      "artist": "Kevin MacLeod",
+      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Sneaky%20Snitch.mp3",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "license_evidence": "https://incompetech.com/music/royalty-free/index.html?Search=Search&isrc=USUAN1100772",
+      "path": "media/instagram/assets/sneaky_snitch.mp3",
+      "commercial_use": "CC BY 4.0 with attribution; trimmed and faded",
+      "checked_date": "2026-10-13",
+      "trend_status": "Licensed comedy fallback; current Instagram trend status unverified"
+    },
+    "ending_assets": [
+      "media/instagram/assets/owner_lock_screen_no_spice.jpeg",
+      "owner-selected cream/red poster"
+    ],
+    "video_path": "media/instagram/2026-10-14/1851_pinyin_haunted_house.mp4",
+    "sha256": "93d49568b552666b8f2f0223f3070ecf40a8e243530ae470e623d624c944261f"
+  }
 }
