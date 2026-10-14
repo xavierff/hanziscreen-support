@@ -589,5 +589,25 @@
       ],
       "audio_limitation": "No commercially cleared current Instagram trend verified; used licensed comedy track instead."
     }
-  ]
+  ],
+  "pending": {
+    "date": "2026-10-14",
+    "run": "0845",
+    "hook": "Counting dumplings in Mandarin: counted to three, ate all ten",
+    "topic": "一 yī one, 二 èr two, 三 sān three",
+    "creative_style": "simple dark-blue 2D edible-homework meme",
+    "audio": {
+      "title": "Treehouse Breakbeat",
+      "artist": "Hanzi on Screen",
+      "source": "Original in-house synthesized instrumental",
+      "license": "Original owner-controlled audio; commercial promotional use permitted",
+      "license_evidence": "Generated deterministically by media/instagram/templates/hanzi_said_rest.py",
+      "path": "media/instagram/assets/treehouse_breakbeat.wav",
+      "commercial_use": "Original instrumental created for Hanzi on Screen; no third-party samples",
+      "checked_date": "2026-10-13",
+      "trend_status": "Original cleared fallback; no current Instagram trend claim"
+    },
+    "video_path": "media/instagram/2026-10-14/0845_edible_homework.mp4",
+    "sha256": "941ba2247d82e96f28ddb65ebdd101f43641db09a56eef3bc6e4f22af0f1ba01"
+  }
 }
