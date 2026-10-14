@@ -19,7 +19,8 @@
       "Pandas take over brain storage; Wi-Fi password missing",
       "Mandarin thank-you voice note interrupted by cat guest vocalist",
       "Mandarin four-tone theme park: voice needs a seatbelt",
-      "No-pinyin haunted classroom and emotional-support pinyin blanket"
+      "No-pinyin haunted classroom and emotional-support pinyin blanket",
+      "English verb luggage versus Mandarin 吃 one outfit"
     ],
     "audio_research_date": "2026-10-14",
     "audio_limitation": "No current Instagram audio with verified commercial promotional permission and workflow compatibility found; reused a cleared non-consecutive original track.",
@@ -474,6 +475,32 @@
       "sha256": "93d49568b552666b8f2f0223f3070ecf40a8e243530ae470e623d624c944261f",
       "media_id": "18388817245225347",
       "url": "https://www.instagram.com/reel/DeeUvaTk4Bq/"
+    },
+    {
+      "date": "2026-10-14",
+      "run": "2045",
+      "hook": "English eat ate eaten packs three suitcases; Mandarin 吃 packs one outfit",
+      "topic": "吃 chī eat; Chinese verbs do not change form for tense",
+      "creative_style": "simple dark-blue 2D verb-luggage visual grammar meme",
+      "audio": {
+        "title": "Treehouse Breakbeat",
+        "artist": "Hanzi on Screen",
+        "source": "Original in-house synthesized instrumental",
+        "license": "Original owner-controlled audio; commercial promotional use permitted",
+        "license_evidence": "Generated deterministically by media/instagram/templates/hanzi_said_rest.py",
+        "path": "media/instagram/assets/treehouse_breakbeat.wav",
+        "commercial_use": "Original instrumental created for Hanzi on Screen; no third-party samples",
+        "checked_date": "2026-10-13",
+        "trend_status": "Original cleared fallback; no current Instagram trend claim"
+      },
+      "ending_assets": [
+        "media/instagram/assets/owner_lock_screen_no_spice.jpeg",
+        "owner-selected cream/red poster"
+      ],
+      "video_path": "media/instagram/2026-10-14/2045_verb_luggage.mp4",
+      "sha256": "03fb2459c5ce1eec1b03d517a01a7d7c80b2afd6fa545868683b77c835ecc668",
+      "media_id": "18168995725479644",
+      "url": "https://www.instagram.com/reel/Deeh0RGn_Rt/"
     }
   ],
   "verified_assets": [
@@ -1021,29 +1048,5 @@
       "checked_date": "2026-10-14",
       "trend_status": "Cleared comedy fallback; no current trend claim"
     }
-  ],
-  "pending": {
-    "date": "2026-10-14",
-    "run": "2045",
-    "hook": "English eat ate eaten packs three suitcases; Mandarin 吃 packs one outfit",
-    "topic": "吃 chī eat; Chinese verbs do not change form for tense",
-    "creative_style": "simple dark-blue 2D verb-luggage visual grammar meme",
-    "audio": {
-      "title": "Treehouse Breakbeat",
-      "artist": "Hanzi on Screen",
-      "source": "Original in-house synthesized instrumental",
-      "license": "Original owner-controlled audio; commercial promotional use permitted",
-      "license_evidence": "Generated deterministically by media/instagram/templates/hanzi_said_rest.py",
-      "path": "media/instagram/assets/treehouse_breakbeat.wav",
-      "commercial_use": "Original instrumental created for Hanzi on Screen; no third-party samples",
-      "checked_date": "2026-10-13",
-      "trend_status": "Original cleared fallback; no current Instagram trend claim"
-    },
-    "ending_assets": [
-      "media/instagram/assets/owner_lock_screen_no_spice.jpeg",
-      "owner-selected cream/red poster"
-    ],
-    "video_path": "media/instagram/2026-10-14/2045_verb_luggage.mp4",
-    "sha256": "03fb2459c5ce1eec1b03d517a01a7d7c80b2afd6fa545868683b77c835ecc668"
-  }
+  ]
 }
