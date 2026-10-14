@@ -13,7 +13,8 @@
       "Traditional greeting 你吃了吗 makes a learner prepare an entire buffet",
       "他 她 它 all sound tā; writing becomes choose your fighter",
       "Cinematic 再见 goodbye gets an awkward elevator sequel",
-      "Learner turns the phone instead of turning left after seeing 左转"
+      "Learner turns the phone instead of turning left after seeing 左转",
+      "Counting dumplings in Mandarin: counted to three, ate all ten"
     ],
     "audio_research_date": "2026-10-14",
     "audio_limitation": "No current Instagram audio with verified commercial promotional permission and workflow compatibility found; reused a cleared non-consecutive original track.",
@@ -318,6 +319,28 @@
       "sha256": "79ca1c7f31d5f81c7adde6d96350b1f186c89aceb1a16f044d0cb6b7a73df405",
       "media_id": "18106519703253044",
       "url": "https://www.instagram.com/reel/DedBh58Anm6/"
+    },
+    {
+      "date": "2026-10-14",
+      "run": "0845",
+      "hook": "Counting dumplings in Mandarin: counted to three, ate all ten",
+      "topic": "一 yī one, 二 èr two, 三 sān three",
+      "creative_style": "simple dark-blue 2D edible-homework meme",
+      "audio": {
+        "title": "Treehouse Breakbeat",
+        "artist": "Hanzi on Screen",
+        "source": "Original in-house synthesized instrumental",
+        "license": "Original owner-controlled audio; commercial promotional use permitted",
+        "license_evidence": "Generated deterministically by media/instagram/templates/hanzi_said_rest.py",
+        "path": "media/instagram/assets/treehouse_breakbeat.wav",
+        "commercial_use": "Original instrumental created for Hanzi on Screen; no third-party samples",
+        "checked_date": "2026-10-13",
+        "trend_status": "Original cleared fallback; no current Instagram trend claim"
+      },
+      "video_path": "media/instagram/2026-10-14/0845_edible_homework.mp4",
+      "sha256": "941ba2247d82e96f28ddb65ebdd101f43641db09a56eef3bc6e4f22af0f1ba01",
+      "media_id": "18168640951481231",
+      "url": "https://www.instagram.com/reel/DedPUctGl0_/"
     }
   ],
   "verified_assets": [
@@ -589,25 +612,5 @@
       ],
       "audio_limitation": "No commercially cleared current Instagram trend verified; used licensed comedy track instead."
     }
-  ],
-  "pending": {
-    "date": "2026-10-14",
-    "run": "0845",
-    "hook": "Counting dumplings in Mandarin: counted to three, ate all ten",
-    "topic": "一 yī one, 二 èr two, 三 sān three",
-    "creative_style": "simple dark-blue 2D edible-homework meme",
-    "audio": {
-      "title": "Treehouse Breakbeat",
-      "artist": "Hanzi on Screen",
-      "source": "Original in-house synthesized instrumental",
-      "license": "Original owner-controlled audio; commercial promotional use permitted",
-      "license_evidence": "Generated deterministically by media/instagram/templates/hanzi_said_rest.py",
-      "path": "media/instagram/assets/treehouse_breakbeat.wav",
-      "commercial_use": "Original instrumental created for Hanzi on Screen; no third-party samples",
-      "checked_date": "2026-10-13",
-      "trend_status": "Original cleared fallback; no current Instagram trend claim"
-    },
-    "video_path": "media/instagram/2026-10-14/0845_edible_homework.mp4",
-    "sha256": "941ba2247d82e96f28ddb65ebdd101f43641db09a56eef3bc6e4f22af0f1ba01"
-  }
+  ]
 }
