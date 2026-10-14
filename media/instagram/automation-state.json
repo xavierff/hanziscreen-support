@@ -612,5 +612,25 @@
       ],
       "audio_limitation": "No commercially cleared current Instagram trend verified; used licensed comedy track instead."
     }
-  ]
+  ],
+  "pending": {
+    "date": "2026-10-14",
+    "run": "1044",
+    "hook": "Handwriting duel: my eraser has studied more Hanzi than I have",
+    "topic": "写 xiě means write",
+    "creative_style": "simple dark-blue 2D animated pencil-versus-eraser meme",
+    "audio": {
+      "title": "Sneaky Snitch",
+      "artist": "Kevin MacLeod",
+      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Sneaky%20Snitch.mp3",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "license_evidence": "https://incompetech.com/music/royalty-free/index.html?Search=Search&isrc=USUAN1100772",
+      "path": "media/instagram/assets/sneaky_snitch.mp3",
+      "commercial_use": "CC BY 4.0 with attribution; trimmed and faded",
+      "checked_date": "2026-10-13",
+      "trend_status": "Licensed comedy fallback; current Instagram trend status unverified"
+    },
+    "video_path": "media/instagram/2026-10-14/1044_eraser_wins.mp4",
+    "sha256": "46361a9056d08318da9ef149cfb93c5e49a611cc3bfbe03b6443f59e78ff15fd"
+  }
 }
