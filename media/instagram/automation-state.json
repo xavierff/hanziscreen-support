@@ -26,12 +26,12 @@
     "audio_pool_expanded_date": "2026-10-14",
     "last_brief_check": {
       "date": "2026-10-14",
-      "run": "1851",
+      "run": "2045",
       "sources": [
-        "https://mysocialboutique.co/instagram-trends-2026/"
+        "https://buffer.com/resources/trending-audio-instagram/",
+        "https://virlo.ai/reels"
       ],
-      "source_updated": "2026-10-13",
-      "finding": "Reported October 12–18 haunted-house format uses relatable fears instead of monsters. Original Mandarin no-pinyin classroom adaptation; no verified virality claim. Trending audio commercial permission not established, cleared non-consecutive Sneaky Snitch used."
+      "finding": "Latest reports show pop audio and callout formats; no appropriate commercial audio permission established. Original verb-luggage joke, cleared non-consecutive Treehouse Breakbeat; no viral claim."
     }
   },
   "published": [
@@ -1021,5 +1021,29 @@
       "checked_date": "2026-10-14",
       "trend_status": "Cleared comedy fallback; no current trend claim"
     }
-  ]
+  ],
+  "pending": {
+    "date": "2026-10-14",
+    "run": "2045",
+    "hook": "English eat ate eaten packs three suitcases; Mandarin 吃 packs one outfit",
+    "topic": "吃 chī eat; Chinese verbs do not change form for tense",
+    "creative_style": "simple dark-blue 2D verb-luggage visual grammar meme",
+    "audio": {
+      "title": "Treehouse Breakbeat",
+      "artist": "Hanzi on Screen",
+      "source": "Original in-house synthesized instrumental",
+      "license": "Original owner-controlled audio; commercial promotional use permitted",
+      "license_evidence": "Generated deterministically by media/instagram/templates/hanzi_said_rest.py",
+      "path": "media/instagram/assets/treehouse_breakbeat.wav",
+      "commercial_use": "Original instrumental created for Hanzi on Screen; no third-party samples",
+      "checked_date": "2026-10-13",
+      "trend_status": "Original cleared fallback; no current Instagram trend claim"
+    },
+    "ending_assets": [
+      "media/instagram/assets/owner_lock_screen_no_spice.jpeg",
+      "owner-selected cream/red poster"
+    ],
+    "video_path": "media/instagram/2026-10-14/2045_verb_luggage.mp4",
+    "sha256": "03fb2459c5ce1eec1b03d517a01a7d7c80b2afd6fa545868683b77c835ecc668"
+  }
 }
