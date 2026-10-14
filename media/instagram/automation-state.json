@@ -17,7 +17,8 @@
       "Counting dumplings in Mandarin: counted to three, ate all ten",
       "Handwriting duel: eraser grows and wins while paper stays spotless",
       "Pandas take over brain storage; Wi-Fi password missing",
-      "Mandarin thank-you voice note interrupted by cat guest vocalist"
+      "Mandarin thank-you voice note interrupted by cat guest vocalist",
+      "Mandarin four-tone theme park: voice needs a seatbelt"
     ],
     "audio_research_date": "2026-10-14",
     "audio_limitation": "No current Instagram audio with verified commercial promotional permission and workflow compatibility found; reused a cleared non-consecutive original track.",
@@ -420,6 +421,32 @@
       "sha256": "d73f85ccd8588fc705e407caa90b4d99d97f864d2c5218d07e91e597a69143a7",
       "media_id": "18215666734361215",
       "url": "https://www.instagram.com/reel/Ded4W_zCRgd/"
+    },
+    {
+      "date": "2026-10-14",
+      "run": "1646",
+      "hook": "Mandarin tone practice becomes a theme park; why does my voice need a seatbelt?",
+      "topic": "Four Mandarin tones visualised as playful pitch rides; isolated third tone falls then rises",
+      "creative_style": "simple dark-blue 2D tone-rollercoaster meme",
+      "audio": {
+        "title": "Fluffing a Duck",
+        "artist": "Kevin MacLeod",
+        "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Fluffing%20a%20Duck.mp3",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "license_evidence": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100768",
+        "path": "media/instagram/assets/fluffing_a_duck_30s.mp3",
+        "commercial_use": "CC BY 4.0 with attribution; 30-second cached excerpt, Reel trimmed and faded",
+        "checked_date": "2026-10-14",
+        "trend_status": "Cleared comedy fallback; no current trend claim"
+      },
+      "ending_assets": [
+        "media/instagram/assets/owner_lock_screen_no_spice.jpeg",
+        "owner-selected cream/red poster"
+      ],
+      "video_path": "media/instagram/2026-10-14/1646_tone_theme_park.mp4",
+      "sha256": "a493ee17c12c5c6a4a03838e0472351d1940a5cbc3828d049bdc8e92220e2ac3",
+      "media_id": "18023322239868003",
+      "url": "https://www.instagram.com/reel/DeeGkFyFaKm/"
     }
   ],
   "verified_assets": [
@@ -967,29 +994,5 @@
       "checked_date": "2026-10-14",
       "trend_status": "Cleared comedy fallback; no current trend claim"
     }
-  ],
-  "pending": {
-    "date": "2026-10-14",
-    "run": "1646",
-    "hook": "Mandarin tone practice becomes a theme park; why does my voice need a seatbelt?",
-    "topic": "Four Mandarin tones visualised as playful pitch rides; isolated third tone falls then rises",
-    "creative_style": "simple dark-blue 2D tone-rollercoaster meme",
-    "audio": {
-      "title": "Fluffing a Duck",
-      "artist": "Kevin MacLeod",
-      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Fluffing%20a%20Duck.mp3",
-      "license": "https://creativecommons.org/licenses/by/4.0/",
-      "license_evidence": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100768",
-      "path": "media/instagram/assets/fluffing_a_duck_30s.mp3",
-      "commercial_use": "CC BY 4.0 with attribution; 30-second cached excerpt, Reel trimmed and faded",
-      "checked_date": "2026-10-14",
-      "trend_status": "Cleared comedy fallback; no current trend claim"
-    },
-    "ending_assets": [
-      "media/instagram/assets/owner_lock_screen_no_spice.jpeg",
-      "owner-selected cream/red poster"
-    ],
-    "video_path": "media/instagram/2026-10-14/1646_tone_theme_park.mp4",
-    "sha256": "a493ee17c12c5c6a4a03838e0472351d1940a5cbc3828d049bdc8e92220e2ac3"
-  }
+  ]
 }
