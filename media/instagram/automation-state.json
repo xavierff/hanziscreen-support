@@ -15,7 +15,8 @@
       "Cinematic 再见 goodbye gets an awkward elevator sequel",
       "Learner turns the phone instead of turning left after seeing 左转",
       "Counting dumplings in Mandarin: counted to three, ate all ten",
-      "Handwriting duel: eraser grows and wins while paper stays spotless"
+      "Handwriting duel: eraser grows and wins while paper stays spotless",
+      "Pandas take over brain storage; Wi-Fi password missing"
     ],
     "audio_research_date": "2026-10-14",
     "audio_limitation": "No current Instagram audio with verified commercial promotional permission and workflow compatibility found; reused a cleared non-consecutive original track.",
@@ -364,6 +365,28 @@
       "sha256": "46361a9056d08318da9ef149cfb93c5e49a611cc3bfbe03b6443f59e78ff15fd",
       "media_id": "18135800143659204",
       "url": "https://www.instagram.com/reel/Dedc88KDues/"
+    },
+    {
+      "date": "2026-10-14",
+      "run": "1248",
+      "hook": "Brain storage is full of 熊猫 pandas but cannot find the Wi-Fi password",
+      "topic": "熊猫 xióngmāo means panda",
+      "creative_style": "simple dark-blue 2D panda brain-storage meme",
+      "audio": {
+        "title": "Chat Pop Groove",
+        "artist": "Hanzi on Screen",
+        "source": "Original in-house synthesized instrumental",
+        "license": "Original owner-controlled audio; commercial promotional use permitted",
+        "license_evidence": "Generated deterministically by media/instagram/templates/fluent_in_laughing.py",
+        "path": "media/instagram/assets/chat_pop_groove.wav",
+        "commercial_use": "Original instrumental created for Hanzi on Screen; no third-party samples",
+        "checked_date": "2026-10-13",
+        "trend_status": "Original cleared fallback; no current Instagram trend claim"
+      },
+      "video_path": "media/instagram/2026-10-14/1248_panda_storage.mp4",
+      "sha256": "2bdd9e9fd57c9599a324b3e5be36cf6d4c17ccecbd897d377596c183f384fbce",
+      "media_id": "18000318000041280",
+      "url": "https://www.instagram.com/reel/DedrPTljsh7/"
     }
   ],
   "verified_assets": [
@@ -635,25 +658,5 @@
       ],
       "audio_limitation": "No commercially cleared current Instagram trend verified; used licensed comedy track instead."
     }
-  ],
-  "pending": {
-    "date": "2026-10-14",
-    "run": "1248",
-    "hook": "Brain storage is full of 熊猫 pandas but cannot find the Wi-Fi password",
-    "topic": "熊猫 xióngmāo means panda",
-    "creative_style": "simple dark-blue 2D panda brain-storage meme",
-    "audio": {
-      "title": "Chat Pop Groove",
-      "artist": "Hanzi on Screen",
-      "source": "Original in-house synthesized instrumental",
-      "license": "Original owner-controlled audio; commercial promotional use permitted",
-      "license_evidence": "Generated deterministically by media/instagram/templates/fluent_in_laughing.py",
-      "path": "media/instagram/assets/chat_pop_groove.wav",
-      "commercial_use": "Original instrumental created for Hanzi on Screen; no third-party samples",
-      "checked_date": "2026-10-13",
-      "trend_status": "Original cleared fallback; no current Instagram trend claim"
-    },
-    "video_path": "media/instagram/2026-10-14/1248_panda_storage.mp4",
-    "sha256": "2bdd9e9fd57c9599a324b3e5be36cf6d4c17ccecbd897d377596c183f384fbce"
-  }
+  ]
 }
