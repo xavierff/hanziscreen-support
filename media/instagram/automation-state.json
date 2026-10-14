@@ -18,7 +18,8 @@
       "Handwriting duel: eraser grows and wins while paper stays spotless",
       "Pandas take over brain storage; Wi-Fi password missing",
       "Mandarin thank-you voice note interrupted by cat guest vocalist",
-      "Mandarin four-tone theme park: voice needs a seatbelt"
+      "Mandarin four-tone theme park: voice needs a seatbelt",
+      "No-pinyin haunted classroom and emotional-support pinyin blanket"
     ],
     "audio_research_date": "2026-10-14",
     "audio_limitation": "No current Instagram audio with verified commercial promotional permission and workflow compatibility found; reused a cleared non-consecutive original track.",
@@ -447,6 +448,32 @@
       "sha256": "a493ee17c12c5c6a4a03838e0472351d1940a5cbc3828d049bdc8e92220e2ac3",
       "media_id": "18023322239868003",
       "url": "https://www.instagram.com/reel/DeeGkFyFaKm/"
+    },
+    {
+      "date": "2026-10-14",
+      "run": "1851",
+      "hook": "Mandarin learner haunted house reveals no pinyin; learner flees and hugs emotional support pinyin blanket",
+      "topic": "Pinyin reliance; 今天 jīntiān today, 明天 míngtiān tomorrow",
+      "creative_style": "simple dark-blue 2D haunted-classroom meme",
+      "audio": {
+        "title": "Sneaky Snitch",
+        "artist": "Kevin MacLeod",
+        "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Sneaky%20Snitch.mp3",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "license_evidence": "https://incompetech.com/music/royalty-free/index.html?Search=Search&isrc=USUAN1100772",
+        "path": "media/instagram/assets/sneaky_snitch.mp3",
+        "commercial_use": "CC BY 4.0 with attribution; trimmed and faded",
+        "checked_date": "2026-10-13",
+        "trend_status": "Licensed comedy fallback; current Instagram trend status unverified"
+      },
+      "ending_assets": [
+        "media/instagram/assets/owner_lock_screen_no_spice.jpeg",
+        "owner-selected cream/red poster"
+      ],
+      "video_path": "media/instagram/2026-10-14/1851_pinyin_haunted_house.mp4",
+      "sha256": "93d49568b552666b8f2f0223f3070ecf40a8e243530ae470e623d624c944261f",
+      "media_id": "18388817245225347",
+      "url": "https://www.instagram.com/reel/DeeUvaTk4Bq/"
     }
   ],
   "verified_assets": [
@@ -994,29 +1021,5 @@
       "checked_date": "2026-10-14",
       "trend_status": "Cleared comedy fallback; no current trend claim"
     }
-  ],
-  "pending": {
-    "date": "2026-10-14",
-    "run": "1851",
-    "hook": "Mandarin learner haunted house reveals no pinyin; learner flees and hugs emotional support pinyin blanket",
-    "topic": "Pinyin reliance; 今天 jīntiān today, 明天 míngtiān tomorrow",
-    "creative_style": "simple dark-blue 2D haunted-classroom meme",
-    "audio": {
-      "title": "Sneaky Snitch",
-      "artist": "Kevin MacLeod",
-      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Sneaky%20Snitch.mp3",
-      "license": "https://creativecommons.org/licenses/by/4.0/",
-      "license_evidence": "https://incompetech.com/music/royalty-free/index.html?Search=Search&isrc=USUAN1100772",
-      "path": "media/instagram/assets/sneaky_snitch.mp3",
-      "commercial_use": "CC BY 4.0 with attribution; trimmed and faded",
-      "checked_date": "2026-10-13",
-      "trend_status": "Licensed comedy fallback; current Instagram trend status unverified"
-    },
-    "ending_assets": [
-      "media/instagram/assets/owner_lock_screen_no_spice.jpeg",
-      "owner-selected cream/red poster"
-    ],
-    "video_path": "media/instagram/2026-10-14/1851_pinyin_haunted_house.mp4",
-    "sha256": "93d49568b552666b8f2f0223f3070ecf40a8e243530ae470e623d624c944261f"
-  }
+  ]
 }
