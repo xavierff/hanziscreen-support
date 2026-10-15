@@ -508,6 +508,40 @@
       "sha256": "87fa793b7b355d8d34c7f16ac4f0311ada3dc1c25422941479295af601ce6732",
       "media_id": "17963701479212908",
       "url": "https://www.instagram.com/reel/DeewXPLgG7H/"
+    },
+    {
+      "date": "2026-10-15",
+      "slot": "12:00",
+      "content_type": "animated_meme",
+      "run": "20261015_noon",
+      "hook": "Chinese karaoke confidence becomes a hydration solo when lyrics start",
+      "topic": "喝水 hē shuǐ means drink water; original karaoke avoidance joke",
+      "audio": {
+        "title": "Fluffing a Duck",
+        "artist": "Kevin MacLeod",
+        "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Fluffing%20a%20Duck.mp3",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "license_evidence": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100768",
+        "path": "media/instagram/assets/fluffing_a_duck_30s.mp3",
+        "commercial_use": "CC BY 4.0 with attribution; 30-second cached excerpt, Reel trimmed and faded",
+        "checked_date": "2026-10-14",
+        "trend_status": "Cleared comedy fallback; no current trend claim",
+        "use_date": "2026-10-15",
+        "media_id": "18342186049269138"
+      },
+      "ending_assets": [
+        "media/instagram/assets/owner_lock_screen_no_spice.jpeg",
+        "media/instagram/assets/owner_ending_poster.jpeg"
+      ],
+      "video_path": "media/instagram/2026-10-15/1200_karaoke_water_break.mp4",
+      "sha256": "0c7249f14148081928dc93d064e16abe45481da946d765677a92abee9b35fc5e",
+      "size_bytes": 1030654,
+      "duration": 20,
+      "caption": "Chinese karaoke: my hydration solo starts exactly when the lyrics do. 🎤💧\n喝水 hē shuǐ = drink water.\n\nBuild Chinese vocabulary beyond karaoke—see Mandarin on your Lock Screen with Hanzi on Screen. FREE to start. Try it via the link in bio.\n\nFollow for quick Mandarin memes, share with your karaoke buddy, and comment your go-to song.\n\n#LearnMandarin #LearnChinese #MandarinMemes #iPhoneWidgets\n\nMusic: “Fluffing a Duck” — Kevin MacLeod (incompetech.com), CC BY 4.0: https://creativecommons.org/licenses/by/4.0/ (trimmed/faded).",
+      "quality": "Full decode passed; 1080x1920 H264/AAC; frame sheet reviewed. Fresh premise compared against entire published log.",
+      "media_id": "18342186049269138",
+      "url": "https://www.instagram.com/reel/DegKsgLgM93/",
+      "media_commit": "d6270c1d8a17aae25be56053553197ddab63f83a"
     }
   ],
   "verified_assets": [
@@ -1463,35 +1497,5 @@
       }
     ],
     "limitations": "No connected App Store download/attribution source; profile views unavailable. profile_links_taps excludes website/bio clicks (business contact taps), so its zero is not a verified bio-link result. No download inference."
-  },
-  "pending": {
-    "date": "2026-10-15",
-    "slot": "12:00",
-    "content_type": "animated_meme",
-    "run": "20261015_noon",
-    "hook": "Chinese karaoke confidence becomes a hydration solo when lyrics start",
-    "topic": "喝水 hē shuǐ means drink water; original karaoke avoidance joke",
-    "audio": {
-      "title": "Fluffing a Duck",
-      "artist": "Kevin MacLeod",
-      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Fluffing%20a%20Duck.mp3",
-      "license": "https://creativecommons.org/licenses/by/4.0/",
-      "license_evidence": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100768",
-      "path": "media/instagram/assets/fluffing_a_duck_30s.mp3",
-      "commercial_use": "CC BY 4.0 with attribution; 30-second cached excerpt, Reel trimmed and faded",
-      "checked_date": "2026-10-14",
-      "trend_status": "Cleared comedy fallback; no current trend claim",
-      "use_date": "2026-10-15"
-    },
-    "ending_assets": [
-      "media/instagram/assets/owner_lock_screen_no_spice.jpeg",
-      "media/instagram/assets/owner_ending_poster.jpeg"
-    ],
-    "video_path": "media/instagram/2026-10-15/1200_karaoke_water_break.mp4",
-    "sha256": "0c7249f14148081928dc93d064e16abe45481da946d765677a92abee9b35fc5e",
-    "size_bytes": 1030654,
-    "duration": 20,
-    "caption": "Chinese karaoke: my hydration solo starts exactly when the lyrics do. 🎤💧\n喝水 hē shuǐ = drink water.\n\nBuild Chinese vocabulary beyond karaoke—see Mandarin on your Lock Screen with Hanzi on Screen. FREE to start. Try it via the link in bio.\n\nFollow for quick Mandarin memes, share with your karaoke buddy, and comment your go-to song.\n\n#LearnMandarin #LearnChinese #MandarinMemes #iPhoneWidgets\n\nMusic: “Fluffing a Duck” — Kevin MacLeod (incompetech.com), CC BY 4.0: https://creativecommons.org/licenses/by/4.0/ (trimmed/faded).",
-    "quality": "Full decode passed; 1080x1920 H264/AAC; frame sheet reviewed. Fresh premise compared against entire published log."
   }
 }
