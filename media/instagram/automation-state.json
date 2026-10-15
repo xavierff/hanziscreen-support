@@ -542,6 +542,44 @@
       "media_id": "18342186049269138",
       "url": "https://www.instagram.com/reel/DegKsgLgM93/",
       "media_commit": "d6270c1d8a17aae25be56053553197ddab63f83a"
+    },
+    {
+      "date": "2026-10-15",
+      "slot": "20:00",
+      "content_type": "pov_screenshot_preview",
+      "comparison_group": "product_focused",
+      "recording_used": false,
+      "recording_limitation": "No genuine app screen recording in verified asset cache; authorized original animation plus genuine owner screenshot fallback. Do not classify as a video demo.",
+      "run": "20261015_evening",
+      "hook": "Mandarin room labels blow off in a fan breeze: my floor is fluent now",
+      "topic": "门 mén door and 水 shuǐ water; Lock Screen vocabulary offers an alternative place to encounter Chinese",
+      "audio": {
+        "title": "Sneaky Snitch",
+        "artist": "Kevin MacLeod",
+        "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Sneaky%20Snitch.mp3",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "license_evidence": "https://incompetech.com/music/royalty-free/index.html?Search=Search&isrc=USUAN1100772",
+        "path": "media/instagram/assets/sneaky_snitch.mp3",
+        "commercial_use": "CC BY 4.0 with attribution; trimmed and faded",
+        "checked_date": "2026-10-13",
+        "trend_status": "Licensed comedy fallback; current Instagram trend status unverified",
+        "use_date": "2026-10-15",
+        "media_id": "18633453964006554"
+      },
+      "ending_assets": [
+        "media/instagram/assets/owner_lock_screen_no_spice.jpeg",
+        "media/instagram/assets/owner_ending_poster.jpeg"
+      ],
+      "video_path": "media/instagram/2026-10-15/2000_sticky_note_resignation.mp4",
+      "size_bytes": 1391941,
+      "sha256": "67d2777c4bc11c65b3809314447fb3236d5f7ea39ae2e9e6d40a6627eaf18f6e",
+      "duration": 18,
+      "caption": "POV: you label the room to learn Chinese… then the fan teaches the floor. 📝💨\n门 mén = door · 水 shuǐ = water\n\nKeep a little Mandarin somewhere you already look: your Lock Screen. Hanzi on Screen is FREE to start—try it via the link in bio.\n\nFollow for bite-size Mandarin, share with a sticky-note learner, and comment what you’d label first.\n\nProduct visuals are genuine owner screenshot previews, not a screen recording.\n#LearnMandarin #ChineseVocabulary #LanguageLearning #iPhoneWidgets\n\nMusic: “Sneaky Snitch” — Kevin MacLeod (incompetech.com), CC BY 4.0: https://creativecommons.org/licenses/by/4.0/ (trimmed/faded).",
+      "quality": "Compared premise against published history; reviewed frame sheet; verified full decode, H264/AAC 1080x1920, intact full-height owner Lock Screen and full poster.",
+      "research": "Reused 2026-10-15 daily trend and performance cache as requested.",
+      "media_id": "18633453964006554",
+      "url": "https://www.instagram.com/reel/DehBx00DEtJ/",
+      "media_commit": "097df1156b24a6f78d751b78885400e82ac6bad8"
     }
   ],
   "verified_assets": [
@@ -1497,39 +1535,5 @@
       }
     ],
     "limitations": "No connected App Store download/attribution source; profile views unavailable. profile_links_taps excludes website/bio clicks (business contact taps), so its zero is not a verified bio-link result. No download inference."
-  },
-  "pending": {
-    "date": "2026-10-15",
-    "slot": "20:00",
-    "content_type": "pov_screenshot_preview",
-    "comparison_group": "product_focused",
-    "recording_used": false,
-    "recording_limitation": "No genuine app screen recording in verified asset cache; authorized original animation plus genuine owner screenshot fallback. Do not classify as a video demo.",
-    "run": "20261015_evening",
-    "hook": "Mandarin room labels blow off in a fan breeze: my floor is fluent now",
-    "topic": "门 mén door and 水 shuǐ water; Lock Screen vocabulary offers an alternative place to encounter Chinese",
-    "audio": {
-      "title": "Sneaky Snitch",
-      "artist": "Kevin MacLeod",
-      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Sneaky%20Snitch.mp3",
-      "license": "https://creativecommons.org/licenses/by/4.0/",
-      "license_evidence": "https://incompetech.com/music/royalty-free/index.html?Search=Search&isrc=USUAN1100772",
-      "path": "media/instagram/assets/sneaky_snitch.mp3",
-      "commercial_use": "CC BY 4.0 with attribution; trimmed and faded",
-      "checked_date": "2026-10-13",
-      "trend_status": "Licensed comedy fallback; current Instagram trend status unverified",
-      "use_date": "2026-10-15"
-    },
-    "ending_assets": [
-      "media/instagram/assets/owner_lock_screen_no_spice.jpeg",
-      "media/instagram/assets/owner_ending_poster.jpeg"
-    ],
-    "video_path": "media/instagram/2026-10-15/2000_sticky_note_resignation.mp4",
-    "size_bytes": 1391941,
-    "sha256": "67d2777c4bc11c65b3809314447fb3236d5f7ea39ae2e9e6d40a6627eaf18f6e",
-    "duration": 18,
-    "caption": "POV: you label the room to learn Chinese… then the fan teaches the floor. 📝💨\n门 mén = door · 水 shuǐ = water\n\nKeep a little Mandarin somewhere you already look: your Lock Screen. Hanzi on Screen is FREE to start—try it via the link in bio.\n\nFollow for bite-size Mandarin, share with a sticky-note learner, and comment what you’d label first.\n\nProduct visuals are genuine owner screenshot previews, not a screen recording.\n#LearnMandarin #ChineseVocabulary #LanguageLearning #iPhoneWidgets\n\nMusic: “Sneaky Snitch” — Kevin MacLeod (incompetech.com), CC BY 4.0: https://creativecommons.org/licenses/by/4.0/ (trimmed/faded).",
-    "quality": "Compared premise against published history; reviewed frame sheet; verified full decode, H264/AAC 1080x1920, intact full-height owner Lock Screen and full poster.",
-    "research": "Reused 2026-10-15 daily trend and performance cache as requested."
   }
 }
