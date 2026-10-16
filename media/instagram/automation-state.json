@@ -582,6 +582,41 @@
       "media_id": "18633453964006554",
       "url": "https://www.instagram.com/reel/DehBx00DEtJ/",
       "media_commit": "097df1156b24a6f78d751b78885400e82ac6bad8"
+    },
+    {
+      "date": "2026-10-16",
+      "slot": "12:00",
+      "content_type": "animated_meme",
+      "comparison_group": "meme",
+      "series": "Mandarin Mini Moments",
+      "hook": "Grandma says eat a little more; learner climbs the rice mountain to plant a summit flag",
+      "topic": "我饱了 wǒ bǎo le I’m full; 再吃一点 zài chī yìdiǎn eat a little more",
+      "audio": {
+        "title": "Fluffing a Duck",
+        "artist": "Kevin MacLeod",
+        "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Fluffing%20a%20Duck.mp3",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "license_evidence": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100768",
+        "path": "media/instagram/assets/fluffing_a_duck_30s.mp3",
+        "commercial_use": "CC BY 4.0 with attribution; 30-second cached excerpt, Reel trimmed and faded",
+        "checked_date": "2026-10-14",
+        "trend_status": "Cleared comedy fallback; no current trend claim",
+        "use_date": "2026-10-16",
+        "media_id": "18168244624467786"
+      },
+      "ending_assets": [
+        "media/instagram/assets/owner_lock_screen_no_spice.jpeg",
+        "media/instagram/assets/owner_ending_poster.jpeg"
+      ],
+      "video_path": "media/instagram/2026-10-16/1200_grandmas_little_more.mp4",
+      "size_bytes": 1043982,
+      "sha256": "ba6fb9e163b0e6bbaf27398139edcf4e98e1f2ab73e63e25a4ea5261df49b08c",
+      "duration": 20,
+      "caption": "Mandarin Mini Moments: Grandma’s definition of “a little.” 🍚⛰️\n我饱了 wǒ bǎo le = I’m full.\n再吃一点 zài chī yìdiǎn = Eat a little more.\n\nFollow for more everyday Mandarin phrases and learner-life jokes. What does “a little” mean in your family?\n\nWant Chinese vocabulary on your Lock Screen? Try Hanzi on Screen—FREE to start. Link in bio.\n#LearnMandarin #ChineseVocabulary #MandarinMemes #LearnChinese\n\nMusic: “Fluffing a Duck” — Kevin MacLeod (incompetech.com), CC BY 4.0: https://creativecommons.org/licenses/by/4.0/ (trimmed/faded).",
+      "quality": "Fresh premise checked against full log; frame sheet reviewed. Corrected bowl overlap of punchline. Final full decode passed; 1080x1920 H264/AAC, intact ending images.",
+      "media_id": "18168244624467786",
+      "url": "https://www.instagram.com/reel/DeivZFLiroy/",
+      "media_commit": "8ca1e39313e447bfd20c3b8f62d7e4427c2dd0f3"
     }
   ],
   "verified_assets": [
@@ -1900,36 +1935,5 @@
     "existing_app_store_link": "https://apps.apple.com/id/app/hanzi-screen/id6811871162",
     "checked_date": "2026-10-16",
     "avoid_repeated_attempts": true
-  },
-  "pending": {
-    "date": "2026-10-16",
-    "slot": "12:00",
-    "content_type": "animated_meme",
-    "comparison_group": "meme",
-    "series": "Mandarin Mini Moments",
-    "hook": "Grandma says eat a little more; learner climbs the rice mountain to plant a summit flag",
-    "topic": "我饱了 wǒ bǎo le I’m full; 再吃一点 zài chī yìdiǎn eat a little more",
-    "audio": {
-      "title": "Fluffing a Duck",
-      "artist": "Kevin MacLeod",
-      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Fluffing%20a%20Duck.mp3",
-      "license": "https://creativecommons.org/licenses/by/4.0/",
-      "license_evidence": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100768",
-      "path": "media/instagram/assets/fluffing_a_duck_30s.mp3",
-      "commercial_use": "CC BY 4.0 with attribution; 30-second cached excerpt, Reel trimmed and faded",
-      "checked_date": "2026-10-14",
-      "trend_status": "Cleared comedy fallback; no current trend claim",
-      "use_date": "2026-10-16"
-    },
-    "ending_assets": [
-      "media/instagram/assets/owner_lock_screen_no_spice.jpeg",
-      "media/instagram/assets/owner_ending_poster.jpeg"
-    ],
-    "video_path": "media/instagram/2026-10-16/1200_grandmas_little_more.mp4",
-    "size_bytes": 1043982,
-    "sha256": "ba6fb9e163b0e6bbaf27398139edcf4e98e1f2ab73e63e25a4ea5261df49b08c",
-    "duration": 20,
-    "caption": "Mandarin Mini Moments: Grandma’s definition of “a little.” 🍚⛰️\n我饱了 wǒ bǎo le = I’m full.\n再吃一点 zài chī yìdiǎn = Eat a little more.\n\nFollow for more everyday Mandarin phrases and learner-life jokes. What does “a little” mean in your family?\n\nWant Chinese vocabulary on your Lock Screen? Try Hanzi on Screen—FREE to start. Link in bio.\n#LearnMandarin #ChineseVocabulary #MandarinMemes #LearnChinese\n\nMusic: “Fluffing a Duck” — Kevin MacLeod (incompetech.com), CC BY 4.0: https://creativecommons.org/licenses/by/4.0/ (trimmed/faded).",
-    "quality": "Fresh premise checked against full log; frame sheet reviewed. Corrected bowl overlap of punchline. Final full decode passed; 1080x1920 H264/AAC, intact ending images."
   }
 }
