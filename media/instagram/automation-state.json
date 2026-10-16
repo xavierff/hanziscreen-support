@@ -2019,6 +2019,27 @@
         "tiktok_video_id": "7697188796495908097",
         "verification_note": "Metricool reports submitted video ID but awaits TikTok confirmation. No public URL in analytics yet; do not repost.",
         "public_url": "https://www.tiktok.com/@hanziscreen/video/7697188796495908097"
+      },
+      {
+        "status": "scheduled",
+        "source_instagram_media_id": "18464305003189705",
+        "source_sha256": "26dc018f0d1427a421d2e177a2c93d4546ba8b82d772edfb08b634a4d258b4bc",
+        "source_slot": "2026-10-16T20:00:00+07:00",
+        "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/d9f54ed0a3b09681bcca2b358585e643e4f92ac7/media/instagram/2026-10-16/2000_study_desk_designer.mp4",
+        "source_video_path": "media/instagram/2026-10-16/2000_study_desk_designer.mp4",
+        "scheduled_at": "2026-10-17T10:00:00+07:00",
+        "title": "My Mandarin study setup became interior design 🪴",
+        "caption": "POV: you meant to study Mandarin… now you’re an interior designer. 🪴📚\n学习 xuéxí = study / learn.\nWhat’s your favourite study distraction?\nFollow for daily Mandarin memes & free Chinese lessons!\nSee Chinese vocabulary on your iPhone Lock Screen with Hanzi on Screen. FREE to start—try it: https://apps.apple.com/id/app/hanzi-screen/id6811871162\nGenuine owner screenshot preview, not a screen recording.\n#LearnMandarin #LearnChinese #StudyTok #ChineseVocabulary\nMusic: Sneaky Snitch — Kevin MacLeod (incompetech.com), CC BY 4.0 https://creativecommons.org/licenses/by/4.0/ (trimmed/faded).",
+        "autoPublish": true,
+        "draft": false,
+        "network": "tiktok",
+        "queue_checked": "2026-10-16T20:04:00+07:00",
+        "post_id": "397742950",
+        "uuid": "-2783166777499367643",
+        "planner_url": "https://app.metricool.com/planner/calendar?blogId=7459891&openWithPostUuid=-2783166777499367643",
+        "metricool_media_url": "https://static.metricool.com/planner/202610/7459891-file-8650712654262559396.mp4",
+        "provider_status": "PENDING",
+        "confirmed_response_at": "2026-10-16T20:06:00+07:00"
       }
     ],
     "failures": [],
@@ -2158,21 +2179,6 @@
           ]
         ]
       }
-    },
-    "pending": {
-      "status": "intent_saved",
-      "source_instagram_media_id": "18464305003189705",
-      "source_sha256": "26dc018f0d1427a421d2e177a2c93d4546ba8b82d772edfb08b634a4d258b4bc",
-      "source_slot": "2026-10-16T20:00:00+07:00",
-      "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/d9f54ed0a3b09681bcca2b358585e643e4f92ac7/media/instagram/2026-10-16/2000_study_desk_designer.mp4",
-      "source_video_path": "media/instagram/2026-10-16/2000_study_desk_designer.mp4",
-      "scheduled_at": "2026-10-17T10:00:00+07:00",
-      "title": "My Mandarin study setup became interior design 🪴",
-      "caption": "POV: you meant to study Mandarin… now you’re an interior designer. 🪴📚\n学习 xuéxí = study / learn.\nWhat’s your favourite study distraction?\nFollow for daily Mandarin memes & free Chinese lessons!\nSee Chinese vocabulary on your iPhone Lock Screen with Hanzi on Screen. FREE to start—try it: https://apps.apple.com/id/app/hanzi-screen/id6811871162\nGenuine owner screenshot preview, not a screen recording.\n#LearnMandarin #LearnChinese #StudyTok #ChineseVocabulary\nMusic: Sneaky Snitch — Kevin MacLeod (incompetech.com), CC BY 4.0 https://creativecommons.org/licenses/by/4.0/ (trimmed/faded).",
-      "autoPublish": true,
-      "draft": false,
-      "network": "tiktok",
-      "queue_checked": "2026-10-16T20:04:00+07:00"
     }
   }
 }
