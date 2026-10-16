@@ -1935,5 +1935,49 @@
     "existing_app_store_link": "https://apps.apple.com/id/app/hanzi-screen/id6811871162",
     "checked_date": "2026-10-16",
     "avoid_repeated_attempts": true
+  },
+  "tiktok": {
+    "brand_id": "7459891",
+    "account": "Felix Tanjaya",
+    "timezone": "Asia/Jakarta",
+    "enabled": true,
+    "enabled_at": "2026-10-16T15:57:00+07:00",
+    "mode": "Extend existing Instagram automation; same future rendered MP4; no separate generator",
+    "test": {
+      "status": "scheduled_verified",
+      "publication_confirmed": false,
+      "post_id": "397545868",
+      "uuid": "-1256688461765390922",
+      "scheduled_at": "2026-10-16T18:00:00+07:00",
+      "planner_url": "https://app.metricool.com/planner/calendar?blogId=7459891&openWithPostUuid=-1256688461765390922"
+    },
+    "posts": [
+      {
+        "source_instagram_media_id": "18168244624467786",
+        "source_sha256": "ba6fb9e163b0e6bbaf27398139edcf4e98e1f2ab73e63e25a4ea5261df49b08c",
+        "source_slot": "2026-10-16T12:00:00+07:00",
+        "source_video_path": "media/instagram/2026-10-16/1200_grandmas_little_more.mp4",
+        "test_video_path": "media/instagram/2026-10-16/1200_grandmas_little_more_tiktok_cta.mp4",
+        "test_video_sha256": "043dd001c94b1c0882f2ebe32233923ced8d1625df80ec47c30fd3815adb0779",
+        "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/482bb2e6616dce6f82d9130bc1ace1f4df32e0ba/media/instagram/2026-10-16/1200_grandmas_little_more_tiktok_cta.mp4",
+        "metricool_media_url": "https://static.metricool.com/planner/202610/7459891-file-7359326077746630369.mp4",
+        "post_id": "397545868",
+        "uuid": "-1256688461765390922",
+        "status": "scheduled",
+        "verified_at": "2026-10-16T15:57:00+07:00",
+        "scheduled_at": "2026-10-16T18:00:00+07:00",
+        "caption": "POV: you tell Grandma “I’m full”… she unlocks the rice mountain 🍚⛰️\n我饱了 wǒ bǎo le = I’m full.\n再吃一点 zài chī yìdiǎn = Eat a little more.\nWho else has a Grandma like this? 😂\nFollow for daily Mandarin memes & free Chinese lessons!\nLearn Chinese on your iPhone Lock Screen with Hanzi on Screen — FREE to start: https://hanziscreen.com\n#LearnMandarin #LearnChinese #MandarinMemes #ChineseVocabulary #LanguageLearning\nMusic: Fluffing a Duck — Kevin MacLeod (incompetech.com), CC BY 4.0 https://creativecommons.org/licenses/by/4.0/ (trimmed/faded).",
+        "planner_url": "https://app.metricool.com/planner/calendar?blogId=7459891&openWithPostUuid=-1256688461765390922",
+        "notes": "Reused existing noon Reel with exact CTA text overlay only; original Instagram video untouched; full decode/frame/remote hash passed."
+      }
+    ],
+    "failures": [],
+    "best_times_cache": {
+      "checked_date": "2026-10-16",
+      "valid_through": "2026-10-22",
+      "timezone": "Asia/Jakarta",
+      "notes": "Metricool Friday 18:00 score 1222, best remaining Friday slot; use fresh daily recommendations for new future posts."
+    },
+    "verification_notes": "Metricool schedule creation and queue read-back passed. Pending is not published; check public URL through TKPO03/TKPO05 after scheduled time. Queue absence alone is not success."
   }
 }
