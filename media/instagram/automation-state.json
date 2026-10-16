@@ -1946,9 +1946,9 @@
     "test": {
       "status": "scheduled_verified",
       "publication_confirmed": false,
-      "post_id": "397545868",
+      "post_id": "397548008",
       "uuid": "-1256688461765390922",
-      "scheduled_at": "2026-10-16T18:00:00+07:00",
+      "scheduled_at": "2026-10-16T16:00:00+07:00",
       "planner_url": "https://app.metricool.com/planner/calendar?blogId=7459891&openWithPostUuid=-1256688461765390922"
     },
     "posts": [
@@ -1961,14 +1961,15 @@
         "test_video_sha256": "043dd001c94b1c0882f2ebe32233923ced8d1625df80ec47c30fd3815adb0779",
         "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/482bb2e6616dce6f82d9130bc1ace1f4df32e0ba/media/instagram/2026-10-16/1200_grandmas_little_more_tiktok_cta.mp4",
         "metricool_media_url": "https://static.metricool.com/planner/202610/7459891-file-7359326077746630369.mp4",
-        "post_id": "397545868",
+        "post_id": "397548008",
         "uuid": "-1256688461765390922",
         "status": "scheduled",
         "verified_at": "2026-10-16T15:57:00+07:00",
-        "scheduled_at": "2026-10-16T18:00:00+07:00",
+        "scheduled_at": "2026-10-16T16:00:00+07:00",
         "caption": "POV: you tell Grandma “I’m full”… she unlocks the rice mountain 🍚⛰️\n我饱了 wǒ bǎo le = I’m full.\n再吃一点 zài chī yìdiǎn = Eat a little more.\nWho else has a Grandma like this? 😂\nFollow for daily Mandarin memes & free Chinese lessons!\nLearn Chinese on your iPhone Lock Screen with Hanzi on Screen — FREE to start: https://hanziscreen.com\n#LearnMandarin #LearnChinese #MandarinMemes #ChineseVocabulary #LanguageLearning\nMusic: Fluffing a Duck — Kevin MacLeod (incompetech.com), CC BY 4.0 https://creativecommons.org/licenses/by/4.0/ (trimmed/faded).",
         "planner_url": "https://app.metricool.com/planner/calendar?blogId=7459891&openWithPostUuid=-1256688461765390922",
-        "notes": "Reused existing noon Reel with exact CTA text overlay only; original Instagram video untouched; full decode/frame/remote hash passed."
+        "notes": "Reused existing noon Reel with exact CTA text overlay only; original Instagram video untouched; full decode/frame/remote hash passed.",
+        "rescheduled_reason": "Owner requested immediate publishing test; moved existing post, no duplicate."
       }
     ],
     "failures": [],
