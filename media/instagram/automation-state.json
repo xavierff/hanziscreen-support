@@ -1,20 +1,22 @@
 {
   "trend_cache": {
-    "date": "2026-10-15",
+    "date": "2026-10-16",
     "sources": [
-      "https://buffer.com/resources/trending-audio-instagram/",
-      "https://socialbee.com/blog/trending-instagram-songs-this-week/"
+      "https://kabo.sh/tools/trending-instagram-audio",
+      "https://www.socialpilot.co/blog/instagram-reels-trends",
+      "https://buffer.com/resources/trending-audio-instagram/"
     ],
     "source_dates": [
-      "2026-10-14",
+      "2026-10-16",
+      "2026-10-16",
       "2026-10-14"
     ],
+    "finding": "Current reports emphasize October/Halloween and circulating music. No suitable sound with verified commercial promotional permission/workflow compatibility. Use original family-dinner comedy with existing CC BY cleared music; no viral claim.",
     "ideas": [
-      "relatable minor frustrations and simple narrative comedy"
+      "Original relatable mini-story with an accurate everyday Mandarin phrase"
     ],
-    "finding": "Current reports checked; no relevant trending sound with verified commercial permission and API compatibility. Original karaoke-water-break joke; no viral claim.",
-    "audio_research_date": "2026-10-15",
-    "audio_limitation": "Trending audio rights unverified; CC BY 4.0 cleared Fluffing a Duck used non-consecutively."
+    "audio_research_date": "2026-10-16",
+    "audio_limitation": "Current trend status does not establish music permission. Cleared non-consecutive Fluffing a Duck selected."
   },
   "published": [
     {
@@ -635,7 +637,7 @@
     }
   ],
   "metrics": {
-    "date": "2026-10-15",
+    "date": "2026-10-16",
     "available": [
       {
         "media_id": "17951002089335411",
@@ -649,11 +651,11 @@
       {
         "media_id": "18110301092230806",
         "media_permalink": "https://www.instagram.com/reel/DeaQMvGjDDq/",
-        "media_views": 91,
+        "media_views": 92,
         "media_like_count": 0,
         "media_saved": 0,
         "media_shares": 0,
-        "media_reel_avg_watch_time": 4349
+        "media_reel_avg_watch_time": 4432
       },
       {
         "media_id": "18109934183464885",
@@ -856,29 +858,29 @@
       {
         "media_id": "17963701479212908",
         "media_permalink": "https://www.instagram.com/reel/DeewXPLgG7H/",
-        "media_views": 32,
-        "media_like_count": 0,
-        "media_saved": 0,
+        "media_views": 58,
+        "media_like_count": 1,
+        "media_saved": 1,
         "media_shares": 0,
-        "media_reel_avg_watch_time": 4258
+        "media_reel_avg_watch_time": 3781
       },
       {
         "media_id": "18168995725479644",
         "media_permalink": "https://www.instagram.com/reel/Deeh0RGn_Rt/",
-        "media_views": 124,
+        "media_views": 125,
         "media_like_count": 1,
         "media_saved": 1,
         "media_shares": 0,
-        "media_reel_avg_watch_time": 2884
+        "media_reel_avg_watch_time": 2899
       },
       {
         "media_id": "18388817245225347",
         "media_permalink": "https://www.instagram.com/reel/DeeUvaTk4Bq/",
-        "media_views": 89,
+        "media_views": 91,
         "media_like_count": 0,
         "media_saved": 0,
         "media_shares": 0,
-        "media_reel_avg_watch_time": 3054
+        "media_reel_avg_watch_time": 3053
       },
       {
         "media_id": "18023322239868003",
@@ -892,54 +894,67 @@
       {
         "media_id": "18215666734361215",
         "media_permalink": "https://www.instagram.com/reel/Ded4W_zCRgd/",
-        "media_views": 46,
+        "media_views": 52,
         "media_like_count": 0,
         "media_saved": 0,
         "media_shares": 0,
-        "media_reel_avg_watch_time": 4366
+        "media_reel_avg_watch_time": 4583
       },
       {
         "media_id": "18000318000041280",
         "media_permalink": "https://www.instagram.com/reel/DedrPTljsh7/",
-        "media_views": 90,
+        "media_views": 94,
         "media_like_count": 1,
         "media_saved": 0,
         "media_shares": 0,
-        "media_reel_avg_watch_time": 3865
+        "media_reel_avg_watch_time": 3735
       },
       {
         "media_id": "18135800143659204",
         "media_permalink": "https://www.instagram.com/reel/Dedc88KDues/",
-        "media_views": 110,
+        "media_views": 111,
         "media_like_count": 2,
         "media_saved": 0,
         "media_shares": 0,
-        "media_reel_avg_watch_time": 3962
+        "media_reel_avg_watch_time": 4068
       },
       {
         "media_id": "18168640951481231",
         "media_permalink": "https://www.instagram.com/reel/DedPUctGl0_/",
-        "media_views": 90,
+        "media_views": 93,
         "media_like_count": 0,
         "media_saved": 0,
         "media_shares": 0,
-        "media_reel_avg_watch_time": 2540
+        "media_reel_avg_watch_time": 2980
+      },
+      {
+        "media_id": "18633453964006554",
+        "media_permalink": "https://www.instagram.com/reel/DehBx00DEtJ/",
+        "media_views": 117,
+        "media_like_count": 2,
+        "media_saved": 2,
+        "media_shares": 0,
+        "media_reel_avg_watch_time": 4879
+      },
+      {
+        "media_id": "18342186049269138",
+        "media_permalink": "https://www.instagram.com/reel/DegKsgLgM93/",
+        "media_views": 93,
+        "media_like_count": 1,
+        "media_saved": 0,
+        "media_shares": 0,
+        "media_reel_avg_watch_time": 4056
       }
     ],
     "account": [
       {
-        "followers_count": null,
-        "profile_links_taps": 0,
-        "profile_views": null
-      },
-      {
         "followers_count": 1,
-        "profile_links_taps": null,
-        "profile_views": null
+        "profile_views": null,
+        "website_clicks_1d": null
       }
     ],
-    "summary": "Confidence joke remains 3 likes; buffet greeting and eraser each 2. Most average watch times remain roughly 3–6 seconds; keep fast, readable setups. Samples small; no strategy shift.",
-    "limitations": "No connected App Store download/attribution source; profile views unavailable. profile_links_taps excludes website/bio clicks (business contact taps), so its zero is not a verified bio-link result. No download inference."
+    "summary": "Follower count 1. Oct15 screenshot POV 117 views, 2 likes, 2 saves, 4879ms average watch; noon karaoke 93 views, 1 like, no saves, 4056ms. Small samples and different exposure; no strategy change. Confidence joke remains 3 likes.",
+    "limitations": "Profile views and website clicks returned null. No authorized App Store downloads/attribution source. Follower total does not establish whether follows are genuine or attributable to a specific post. Do not infer installs or bio clicks from views."
   },
   "animation_assets": [
     {
@@ -1060,6 +1075,23 @@
         ],
         "finding": "Current trend reports cover frustration sounds and callout formats; appropriate commercial audio permission unverified. Original growing-puppy meme chosen instead, cleared non-consecutive Chat Pop Groove; no viral claim."
       }
+    },
+    {
+      "date": "2026-10-15",
+      "sources": [
+        "https://buffer.com/resources/trending-audio-instagram/",
+        "https://socialbee.com/blog/trending-instagram-songs-this-week/"
+      ],
+      "source_dates": [
+        "2026-10-14",
+        "2026-10-14"
+      ],
+      "ideas": [
+        "relatable minor frustrations and simple narrative comedy"
+      ],
+      "finding": "Current reports checked; no relevant trending sound with verified commercial permission and API compatibility. Original karaoke-water-break joke; no viral claim.",
+      "audio_research_date": "2026-10-15",
+      "audio_limitation": "Trending audio rights unverified; CC BY 4.0 cleared Fluffing a Duck used non-consecutively."
     }
   ],
   "creative_update": {
@@ -1070,7 +1102,7 @@
     "performance_guidance": "Favour clear relatable novice situations based on likes, saves and retention; do not copy or overreact to small samples."
   },
   "performance_review": {
-    "date": "2026-10-15",
+    "date": "2026-10-16",
     "metrics": [
       {
         "media_id": "17951002089335411",
@@ -1084,11 +1116,11 @@
       {
         "media_id": "18110301092230806",
         "media_permalink": "https://www.instagram.com/reel/DeaQMvGjDDq/",
-        "media_views": 91,
+        "media_views": 92,
         "media_like_count": 0,
         "media_saved": 0,
         "media_shares": 0,
-        "media_reel_avg_watch_time": 4349
+        "media_reel_avg_watch_time": 4432
       },
       {
         "media_id": "18109934183464885",
@@ -1291,29 +1323,29 @@
       {
         "media_id": "17963701479212908",
         "media_permalink": "https://www.instagram.com/reel/DeewXPLgG7H/",
-        "media_views": 32,
-        "media_like_count": 0,
-        "media_saved": 0,
+        "media_views": 58,
+        "media_like_count": 1,
+        "media_saved": 1,
         "media_shares": 0,
-        "media_reel_avg_watch_time": 4258
+        "media_reel_avg_watch_time": 3781
       },
       {
         "media_id": "18168995725479644",
         "media_permalink": "https://www.instagram.com/reel/Deeh0RGn_Rt/",
-        "media_views": 124,
+        "media_views": 125,
         "media_like_count": 1,
         "media_saved": 1,
         "media_shares": 0,
-        "media_reel_avg_watch_time": 2884
+        "media_reel_avg_watch_time": 2899
       },
       {
         "media_id": "18388817245225347",
         "media_permalink": "https://www.instagram.com/reel/DeeUvaTk4Bq/",
-        "media_views": 89,
+        "media_views": 91,
         "media_like_count": 0,
         "media_saved": 0,
         "media_shares": 0,
-        "media_reel_avg_watch_time": 3054
+        "media_reel_avg_watch_time": 3053
       },
       {
         "media_id": "18023322239868003",
@@ -1327,41 +1359,59 @@
       {
         "media_id": "18215666734361215",
         "media_permalink": "https://www.instagram.com/reel/Ded4W_zCRgd/",
-        "media_views": 46,
+        "media_views": 52,
         "media_like_count": 0,
         "media_saved": 0,
         "media_shares": 0,
-        "media_reel_avg_watch_time": 4366
+        "media_reel_avg_watch_time": 4583
       },
       {
         "media_id": "18000318000041280",
         "media_permalink": "https://www.instagram.com/reel/DedrPTljsh7/",
-        "media_views": 90,
+        "media_views": 94,
         "media_like_count": 1,
         "media_saved": 0,
         "media_shares": 0,
-        "media_reel_avg_watch_time": 3865
+        "media_reel_avg_watch_time": 3735
       },
       {
         "media_id": "18135800143659204",
         "media_permalink": "https://www.instagram.com/reel/Dedc88KDues/",
-        "media_views": 110,
+        "media_views": 111,
         "media_like_count": 2,
         "media_saved": 0,
         "media_shares": 0,
-        "media_reel_avg_watch_time": 3962
+        "media_reel_avg_watch_time": 4068
       },
       {
         "media_id": "18168640951481231",
         "media_permalink": "https://www.instagram.com/reel/DedPUctGl0_/",
-        "media_views": 90,
+        "media_views": 93,
         "media_like_count": 0,
         "media_saved": 0,
         "media_shares": 0,
-        "media_reel_avg_watch_time": 2540
+        "media_reel_avg_watch_time": 2980
+      },
+      {
+        "media_id": "18633453964006554",
+        "media_permalink": "https://www.instagram.com/reel/DehBx00DEtJ/",
+        "media_views": 117,
+        "media_like_count": 2,
+        "media_saved": 2,
+        "media_shares": 0,
+        "media_reel_avg_watch_time": 4879
+      },
+      {
+        "media_id": "18342186049269138",
+        "media_permalink": "https://www.instagram.com/reel/DegKsgLgM93/",
+        "media_views": 93,
+        "media_like_count": 1,
+        "media_saved": 0,
+        "media_shares": 0,
+        "media_reel_avg_watch_time": 4056
       }
     ],
-    "clues": "Confidence joke remains 3 likes; buffet greeting and eraser each 2. Most average watch times remain roughly 3–6 seconds; keep fast, readable setups. Samples small; no strategy shift."
+    "clues": "Follower count 1. Oct15 screenshot POV 117 views, 2 likes, 2 saves, 4879ms average watch; noon karaoke 93 views, 1 like, no saves, 4056ms. Small samples and different exposure; no strategy change. Confidence joke remains 3 likes."
   },
   "audio_pool": [
     {
@@ -1517,6 +1567,313 @@
       ],
       "summary": "Among available 2026-10-13 Reels, the 100 phone-check teacher had the lowest early skip rate (0.408) and strongest average watch time (5677 ms). Do not overreact to one day; retain fast readable hooks while varying concepts.",
       "limitations": "No connected App Store download source. Profile links taps are available as an account-level proxy and remained 0 for 2026-10-13. Reel-specific profile visits are unsupported. Do not infer downloads from views."
+    },
+    {
+      "date": "2026-10-15",
+      "available": [
+        {
+          "media_id": "17951002089335411",
+          "media_permalink": "https://www.instagram.com/reel/Deac3xDDQBG/",
+          "media_views": 127,
+          "media_like_count": 0,
+          "media_saved": 0,
+          "media_shares": 0,
+          "media_reel_avg_watch_time": 4861
+        },
+        {
+          "media_id": "18110301092230806",
+          "media_permalink": "https://www.instagram.com/reel/DeaQMvGjDDq/",
+          "media_views": 91,
+          "media_like_count": 0,
+          "media_saved": 0,
+          "media_shares": 0,
+          "media_reel_avg_watch_time": 4349
+        },
+        {
+          "media_id": "18109934183464885",
+          "media_permalink": "https://www.instagram.com/reel/DeaBuxOjV0S/",
+          "media_views": 108,
+          "media_like_count": 0,
+          "media_saved": 0,
+          "media_shares": 0,
+          "media_reel_avg_watch_time": 3301
+        },
+        {
+          "media_id": "18114705566115337",
+          "media_permalink": "https://www.instagram.com/reel/DeZ0xPgDEfd/",
+          "media_views": 144,
+          "media_like_count": 0,
+          "media_saved": 0,
+          "media_shares": 0,
+          "media_reel_avg_watch_time": 5065
+        },
+        {
+          "media_id": "18169011904482382",
+          "media_permalink": "https://www.instagram.com/reel/DeZmp2wmtep/",
+          "media_views": 142,
+          "media_like_count": 1,
+          "media_saved": 1,
+          "media_shares": 0,
+          "media_reel_avg_watch_time": 5992
+        },
+        {
+          "media_id": "18179069206432399",
+          "media_permalink": "https://www.instagram.com/reel/DeZZRhBlrJs/",
+          "media_views": 119,
+          "media_like_count": 0,
+          "media_saved": 0,
+          "media_shares": 0,
+          "media_reel_avg_watch_time": 3794
+        },
+        {
+          "media_id": "18130470418764180",
+          "media_permalink": "https://www.instagram.com/reel/DeZKYArDRYX/",
+          "media_views": 199,
+          "media_like_count": 3,
+          "media_saved": 0,
+          "media_shares": 0,
+          "media_reel_avg_watch_time": 5232
+        },
+        {
+          "media_id": "18051287753602043",
+          "media_permalink": "https://www.instagram.com/reel/DeY9CVYDYcs/",
+          "media_views": 105,
+          "media_like_count": 1,
+          "media_saved": 0,
+          "media_shares": 0,
+          "media_reel_avg_watch_time": 4584
+        },
+        {
+          "media_id": "18475458250118634",
+          "media_permalink": "https://www.instagram.com/reel/DeYtEU_DX2X/",
+          "media_views": 112,
+          "media_like_count": 0,
+          "media_saved": 1,
+          "media_shares": 0,
+          "media_reel_avg_watch_time": 5018
+        },
+        {
+          "media_id": "18119850412977244",
+          "media_permalink": "https://www.instagram.com/reel/DeYeBEsDX0p/",
+          "media_views": 13,
+          "media_like_count": 2,
+          "media_saved": 1,
+          "media_shares": 0,
+          "media_reel_avg_watch_time": 7775
+        },
+        {
+          "media_id": "17908565574481872",
+          "media_permalink": "https://www.instagram.com/p/DeYYWHVCvC8/",
+          "media_views": 0,
+          "media_like_count": 0,
+          "media_saved": 0,
+          "media_shares": 0,
+          "media_reel_avg_watch_time": 0
+        },
+        {
+          "media_id": "18493352764111454",
+          "media_permalink": "https://www.instagram.com/p/DeYQCLTE-if/",
+          "media_views": 0,
+          "media_like_count": 0,
+          "media_saved": 0,
+          "media_shares": 0,
+          "media_reel_avg_watch_time": 0
+        },
+        {
+          "media_id": "18106519703253044",
+          "media_permalink": "https://www.instagram.com/reel/DedBh58Anm6/",
+          "media_views": 113,
+          "media_like_count": 1,
+          "media_saved": 0,
+          "media_shares": 0,
+          "media_reel_avg_watch_time": 4415
+        },
+        {
+          "media_id": "18112261643154960",
+          "media_permalink": "https://www.instagram.com/reel/Dec0D_PFHrF/",
+          "media_views": 116,
+          "media_like_count": 1,
+          "media_saved": 0,
+          "media_shares": 0,
+          "media_reel_avg_watch_time": 3105
+        },
+        {
+          "media_id": "18247141837313239",
+          "media_permalink": "https://www.instagram.com/reel/DecmhRalCX8/",
+          "media_views": 107,
+          "media_like_count": 0,
+          "media_saved": 0,
+          "media_shares": 0,
+          "media_reel_avg_watch_time": 3136
+        },
+        {
+          "media_id": "18189404692406817",
+          "media_permalink": "https://www.instagram.com/reel/DecZREPidt6/",
+          "media_views": 113,
+          "media_like_count": 2,
+          "media_saved": 0,
+          "media_shares": 0,
+          "media_reel_avg_watch_time": 3294
+        },
+        {
+          "media_id": "18044901614820565",
+          "media_permalink": "https://www.instagram.com/reel/DecLUBUAoZo/",
+          "media_views": 124,
+          "media_like_count": 0,
+          "media_saved": 0,
+          "media_shares": 0,
+          "media_reel_avg_watch_time": 1339
+        },
+        {
+          "media_id": "17965137554979728",
+          "media_permalink": "https://www.instagram.com/reel/Deb9HpjlXmT/",
+          "media_views": 108,
+          "media_like_count": 1,
+          "media_saved": 0,
+          "media_shares": 0,
+          "media_reel_avg_watch_time": 3331
+        },
+        {
+          "media_id": "18123534512475507",
+          "media_permalink": "https://www.instagram.com/reel/DebvRhbIJoJ/",
+          "media_views": 101,
+          "media_like_count": 0,
+          "media_saved": 0,
+          "media_shares": 0,
+          "media_reel_avg_watch_time": 2952
+        },
+        {
+          "media_id": "18060020642542406",
+          "media_permalink": "https://www.instagram.com/reel/DebiciGilyd/",
+          "media_views": 128,
+          "media_like_count": 0,
+          "media_saved": 1,
+          "media_shares": 0,
+          "media_reel_avg_watch_time": 2779
+        },
+        {
+          "media_id": "18146946064566422",
+          "media_permalink": "https://www.instagram.com/reel/DebVKVIlHpY/",
+          "media_views": 110,
+          "media_like_count": 1,
+          "media_saved": 0,
+          "media_shares": 0,
+          "media_reel_avg_watch_time": 3638
+        },
+        {
+          "media_id": "18130896391802054",
+          "media_permalink": "https://www.instagram.com/reel/DebGIKijxvy/",
+          "media_views": 115,
+          "media_like_count": 0,
+          "media_saved": 0,
+          "media_shares": 0,
+          "media_reel_avg_watch_time": 5669
+        },
+        {
+          "media_id": "18394845514165179",
+          "media_permalink": "https://www.instagram.com/reel/Dea5L7YiHA5/",
+          "media_views": 74,
+          "media_like_count": 0,
+          "media_saved": 0,
+          "media_shares": 0,
+          "media_reel_avg_watch_time": 3086
+        },
+        {
+          "media_id": "18136680817640144",
+          "media_permalink": "https://www.instagram.com/reel/DeaqmdEDax7/",
+          "media_views": 108,
+          "media_like_count": 1,
+          "media_saved": 0,
+          "media_shares": 0,
+          "media_reel_avg_watch_time": 3608
+        },
+        {
+          "media_id": "17963701479212908",
+          "media_permalink": "https://www.instagram.com/reel/DeewXPLgG7H/",
+          "media_views": 32,
+          "media_like_count": 0,
+          "media_saved": 0,
+          "media_shares": 0,
+          "media_reel_avg_watch_time": 4258
+        },
+        {
+          "media_id": "18168995725479644",
+          "media_permalink": "https://www.instagram.com/reel/Deeh0RGn_Rt/",
+          "media_views": 124,
+          "media_like_count": 1,
+          "media_saved": 1,
+          "media_shares": 0,
+          "media_reel_avg_watch_time": 2884
+        },
+        {
+          "media_id": "18388817245225347",
+          "media_permalink": "https://www.instagram.com/reel/DeeUvaTk4Bq/",
+          "media_views": 89,
+          "media_like_count": 0,
+          "media_saved": 0,
+          "media_shares": 0,
+          "media_reel_avg_watch_time": 3054
+        },
+        {
+          "media_id": "18023322239868003",
+          "media_permalink": "https://www.instagram.com/reel/DeeGkFyFaKm/",
+          "media_views": 113,
+          "media_like_count": 1,
+          "media_saved": 0,
+          "media_shares": 0,
+          "media_reel_avg_watch_time": 4486
+        },
+        {
+          "media_id": "18215666734361215",
+          "media_permalink": "https://www.instagram.com/reel/Ded4W_zCRgd/",
+          "media_views": 46,
+          "media_like_count": 0,
+          "media_saved": 0,
+          "media_shares": 0,
+          "media_reel_avg_watch_time": 4366
+        },
+        {
+          "media_id": "18000318000041280",
+          "media_permalink": "https://www.instagram.com/reel/DedrPTljsh7/",
+          "media_views": 90,
+          "media_like_count": 1,
+          "media_saved": 0,
+          "media_shares": 0,
+          "media_reel_avg_watch_time": 3865
+        },
+        {
+          "media_id": "18135800143659204",
+          "media_permalink": "https://www.instagram.com/reel/Dedc88KDues/",
+          "media_views": 110,
+          "media_like_count": 2,
+          "media_saved": 0,
+          "media_shares": 0,
+          "media_reel_avg_watch_time": 3962
+        },
+        {
+          "media_id": "18168640951481231",
+          "media_permalink": "https://www.instagram.com/reel/DedPUctGl0_/",
+          "media_views": 90,
+          "media_like_count": 0,
+          "media_saved": 0,
+          "media_shares": 0,
+          "media_reel_avg_watch_time": 2540
+        }
+      ],
+      "account": [
+        {
+          "followers_count": null,
+          "profile_links_taps": 0,
+          "profile_views": null
+        },
+        {
+          "followers_count": 1,
+          "profile_links_taps": null,
+          "profile_views": null
+        }
+      ],
+      "summary": "Confidence joke remains 3 likes; buffet greeting and eraser each 2. Most average watch times remain roughly 3–6 seconds; keep fast, readable setups. Samples small; no strategy shift.",
+      "limitations": "No connected App Store download/attribution source; profile views unavailable. profile_links_taps excludes website/bio clicks (business contact taps), so its zero is not a verified bio-link result. No download inference."
     }
   ],
   "strategy_baseline": {
@@ -1535,5 +1892,44 @@
       }
     ],
     "limitations": "No connected App Store download/attribution source; profile views unavailable. profile_links_taps excludes website/bio clicks (business contact taps), so its zero is not a verified bio-link result. No download inference."
+  },
+  "profile_strategy": {
+    "status": "pending",
+    "bio": "Not edited: Windsor actions do not support bio edits; browser fallback permission requested in owner conversation but not received.",
+    "pins": "Not pinned: connected action unsupported; no browser fallback authorization received.",
+    "existing_app_store_link": "https://apps.apple.com/id/app/hanzi-screen/id6811871162",
+    "checked_date": "2026-10-16",
+    "avoid_repeated_attempts": true
+  },
+  "pending": {
+    "date": "2026-10-16",
+    "slot": "12:00",
+    "content_type": "animated_meme",
+    "comparison_group": "meme",
+    "series": "Mandarin Mini Moments",
+    "hook": "Grandma says eat a little more; learner climbs the rice mountain to plant a summit flag",
+    "topic": "我饱了 wǒ bǎo le I’m full; 再吃一点 zài chī yìdiǎn eat a little more",
+    "audio": {
+      "title": "Fluffing a Duck",
+      "artist": "Kevin MacLeod",
+      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Fluffing%20a%20Duck.mp3",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "license_evidence": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100768",
+      "path": "media/instagram/assets/fluffing_a_duck_30s.mp3",
+      "commercial_use": "CC BY 4.0 with attribution; 30-second cached excerpt, Reel trimmed and faded",
+      "checked_date": "2026-10-14",
+      "trend_status": "Cleared comedy fallback; no current trend claim",
+      "use_date": "2026-10-16"
+    },
+    "ending_assets": [
+      "media/instagram/assets/owner_lock_screen_no_spice.jpeg",
+      "media/instagram/assets/owner_ending_poster.jpeg"
+    ],
+    "video_path": "media/instagram/2026-10-16/1200_grandmas_little_more.mp4",
+    "size_bytes": 1043982,
+    "sha256": "ba6fb9e163b0e6bbaf27398139edcf4e98e1f2ab73e63e25a4ea5261df49b08c",
+    "duration": 20,
+    "caption": "Mandarin Mini Moments: Grandma’s definition of “a little.” 🍚⛰️\n我饱了 wǒ bǎo le = I’m full.\n再吃一点 zài chī yìdiǎn = Eat a little more.\n\nFollow for more everyday Mandarin phrases and learner-life jokes. What does “a little” mean in your family?\n\nWant Chinese vocabulary on your Lock Screen? Try Hanzi on Screen—FREE to start. Link in bio.\n#LearnMandarin #ChineseVocabulary #MandarinMemes #LearnChinese\n\nMusic: “Fluffing a Duck” — Kevin MacLeod (incompetech.com), CC BY 4.0: https://creativecommons.org/licenses/by/4.0/ (trimmed/faded).",
+    "quality": "Fresh premise checked against full log; frame sheet reviewed. Corrected bowl overlap of punchline. Final full decode passed; 1080x1920 H264/AAC, intact ending images."
   }
 }
