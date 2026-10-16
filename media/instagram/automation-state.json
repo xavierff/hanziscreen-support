@@ -1944,12 +1944,13 @@
     "enabled_at": "2026-10-16T15:57:00+07:00",
     "mode": "Extend existing Instagram automation; same future rendered MP4; no separate generator",
     "test": {
-      "status": "scheduled_verified",
+      "status": "awaiting_confirmation",
       "publication_confirmed": false,
       "post_id": "397548008",
       "uuid": "-1256688461765390922",
       "scheduled_at": "2026-10-16T16:00:00+07:00",
-      "planner_url": "https://app.metricool.com/planner/calendar?blogId=7459891&openWithPostUuid=-1256688461765390922"
+      "planner_url": "https://app.metricool.com/planner/calendar?blogId=7459891&openWithPostUuid=-1256688461765390922",
+      "tiktok_video_id": "7697188758329968648"
     },
     "posts": [
       {
@@ -1963,13 +1964,17 @@
         "metricool_media_url": "https://static.metricool.com/planner/202610/7459891-file-7359326077746630369.mp4",
         "post_id": "397548008",
         "uuid": "-1256688461765390922",
-        "status": "scheduled",
-        "verified_at": "2026-10-16T15:57:00+07:00",
+        "status": "awaiting_confirmation",
+        "verified_at": "2026-10-16T16:04:00+07:00",
         "scheduled_at": "2026-10-16T16:00:00+07:00",
         "caption": "POV: you tell Grandma “I’m full”… she unlocks the rice mountain 🍚⛰️\n我饱了 wǒ bǎo le = I’m full.\n再吃一点 zài chī yìdiǎn = Eat a little more.\nWho else has a Grandma like this? 😂\nFollow for daily Mandarin memes & free Chinese lessons!\nLearn Chinese on your iPhone Lock Screen with Hanzi on Screen — FREE to start: https://hanziscreen.com\n#LearnMandarin #LearnChinese #MandarinMemes #ChineseVocabulary #LanguageLearning\nMusic: Fluffing a Duck — Kevin MacLeod (incompetech.com), CC BY 4.0 https://creativecommons.org/licenses/by/4.0/ (trimmed/faded).",
         "planner_url": "https://app.metricool.com/planner/calendar?blogId=7459891&openWithPostUuid=-1256688461765390922",
         "notes": "Reused existing noon Reel with exact CTA text overlay only; original Instagram video untouched; full decode/frame/remote hash passed.",
-        "rescheduled_reason": "Owner requested immediate publishing test; moved existing post, no duplicate."
+        "rescheduled_reason": "Owner requested immediate publishing test; moved existing post, no duplicate.",
+        "provider_status": "AWAITING_CONFIRMATION",
+        "provider_detail": "Published:7697188758329968648",
+        "tiktok_video_id": "7697188758329968648",
+        "verification_note": "Metricool reports submitted video ID but awaits TikTok confirmation. No public URL in analytics yet; do not repost."
       }
     ],
     "failures": [],
