@@ -617,6 +617,48 @@
       "media_id": "18168244624467786",
       "url": "https://www.instagram.com/reel/DeivZFLiroy/",
       "media_commit": "8ca1e39313e447bfd20c3b8f62d7e4427c2dd0f3"
+    },
+    {
+      "date": "2026-10-16",
+      "slot": "20:00",
+      "content_type": "pov_screenshot_preview",
+      "comparison_group": "product_focused",
+      "series": "Mandarin Learner Problems",
+      "hook": "Perfect Mandarin study setup turns learner into interior designer while book stays closed",
+      "topic": "学习 xuéxí study/learn; give Chinese a place on your Lock Screen too",
+      "recording_used": false,
+      "recording_limitation": "No genuine screen recording in verified media cache; authorized authentic screenshot fallback.",
+      "audio": {
+        "title": "Sneaky Snitch",
+        "artist": "Kevin MacLeod",
+        "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Sneaky%20Snitch.mp3",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "license_evidence": "https://incompetech.com/music/royalty-free/index.html?Search=Search&isrc=USUAN1100772",
+        "path": "media/instagram/assets/sneaky_snitch.mp3",
+        "commercial_use": "CC BY 4.0 with attribution; trimmed and faded",
+        "checked_date": "2026-10-13",
+        "trend_status": "Licensed comedy fallback; current Instagram trend status unverified",
+        "use_date": "2026-10-16",
+        "media_id": "18464305003189705"
+      },
+      "ending_assets": [
+        "media/instagram/assets/owner_lock_screen_no_spice.jpeg",
+        "media/instagram/assets/owner_ending_poster.jpeg"
+      ],
+      "video_path": "media/instagram/2026-10-16/2000_study_desk_designer.mp4",
+      "size_bytes": 1089063,
+      "sha256": "26dc018f0d1427a421d2e177a2c93d4546ba8b82d772edfb08b634a4d258b4bc",
+      "duration": 20,
+      "caption": "POV: your Mandarin study setup is ready for a magazine. The book is still closed. 🪴📚\n学习 xuéxí = study / learn.\n\nA little Chinese can live on your Lock Screen, too. Hanzi on Screen is FREE to start—link in bio.\nFollow for daily Mandarin memes & free Chinese lessons! What’s your favourite study distraction?\n\nGenuine owner screenshot preview; no screen recording used.\n#LearnMandarin #LearnChinese #StudyMotivation #ChineseVocabulary\nMusic: “Sneaky Snitch” — Kevin MacLeod (incompetech.com), CC BY 4.0: https://creativecommons.org/licenses/by/4.0/ (trimmed/faded).",
+      "visible_follow_cta": {
+        "text": "Follow for daily Mandarin memes & free Chinese lessons!",
+        "start": 12,
+        "end": 15
+      },
+      "quality": "Fresh premise checked against history, exact follow CTA reviewed, full decode passed 1080x1920 H264/AAC. Intact end images; daily trends/metrics reused.",
+      "media_id": "18464305003189705",
+      "url": "https://www.instagram.com/reel/DejmZ4DjyVA/",
+      "media_commit": "d9f54ed0a3b09681bcca2b358585e643e4f92ac7"
     }
   ],
   "verified_assets": [
@@ -2116,45 +2158,21 @@
           ]
         ]
       }
+    },
+    "pending": {
+      "status": "intent_saved",
+      "source_instagram_media_id": "18464305003189705",
+      "source_sha256": "26dc018f0d1427a421d2e177a2c93d4546ba8b82d772edfb08b634a4d258b4bc",
+      "source_slot": "2026-10-16T20:00:00+07:00",
+      "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/d9f54ed0a3b09681bcca2b358585e643e4f92ac7/media/instagram/2026-10-16/2000_study_desk_designer.mp4",
+      "source_video_path": "media/instagram/2026-10-16/2000_study_desk_designer.mp4",
+      "scheduled_at": "2026-10-17T10:00:00+07:00",
+      "title": "My Mandarin study setup became interior design 🪴",
+      "caption": "POV: you meant to study Mandarin… now you’re an interior designer. 🪴📚\n学习 xuéxí = study / learn.\nWhat’s your favourite study distraction?\nFollow for daily Mandarin memes & free Chinese lessons!\nSee Chinese vocabulary on your iPhone Lock Screen with Hanzi on Screen. FREE to start—try it: https://apps.apple.com/id/app/hanzi-screen/id6811871162\nGenuine owner screenshot preview, not a screen recording.\n#LearnMandarin #LearnChinese #StudyTok #ChineseVocabulary\nMusic: Sneaky Snitch — Kevin MacLeod (incompetech.com), CC BY 4.0 https://creativecommons.org/licenses/by/4.0/ (trimmed/faded).",
+      "autoPublish": true,
+      "draft": false,
+      "network": "tiktok",
+      "queue_checked": "2026-10-16T20:04:00+07:00"
     }
-  },
-  "pending": {
-    "date": "2026-10-16",
-    "slot": "20:00",
-    "content_type": "pov_screenshot_preview",
-    "comparison_group": "product_focused",
-    "series": "Mandarin Learner Problems",
-    "hook": "Perfect Mandarin study setup turns learner into interior designer while book stays closed",
-    "topic": "学习 xuéxí study/learn; give Chinese a place on your Lock Screen too",
-    "recording_used": false,
-    "recording_limitation": "No genuine screen recording in verified media cache; authorized authentic screenshot fallback.",
-    "audio": {
-      "title": "Sneaky Snitch",
-      "artist": "Kevin MacLeod",
-      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Sneaky%20Snitch.mp3",
-      "license": "https://creativecommons.org/licenses/by/4.0/",
-      "license_evidence": "https://incompetech.com/music/royalty-free/index.html?Search=Search&isrc=USUAN1100772",
-      "path": "media/instagram/assets/sneaky_snitch.mp3",
-      "commercial_use": "CC BY 4.0 with attribution; trimmed and faded",
-      "checked_date": "2026-10-13",
-      "trend_status": "Licensed comedy fallback; current Instagram trend status unverified",
-      "use_date": "2026-10-16",
-      "media_id": null
-    },
-    "ending_assets": [
-      "media/instagram/assets/owner_lock_screen_no_spice.jpeg",
-      "media/instagram/assets/owner_ending_poster.jpeg"
-    ],
-    "video_path": "media/instagram/2026-10-16/2000_study_desk_designer.mp4",
-    "size_bytes": 1089063,
-    "sha256": "26dc018f0d1427a421d2e177a2c93d4546ba8b82d772edfb08b634a4d258b4bc",
-    "duration": 20,
-    "caption": "POV: your Mandarin study setup is ready for a magazine. The book is still closed. 🪴📚\n学习 xuéxí = study / learn.\n\nA little Chinese can live on your Lock Screen, too. Hanzi on Screen is FREE to start—link in bio.\nFollow for daily Mandarin memes & free Chinese lessons! What’s your favourite study distraction?\n\nGenuine owner screenshot preview; no screen recording used.\n#LearnMandarin #LearnChinese #StudyMotivation #ChineseVocabulary\nMusic: “Sneaky Snitch” — Kevin MacLeod (incompetech.com), CC BY 4.0: https://creativecommons.org/licenses/by/4.0/ (trimmed/faded).",
-    "visible_follow_cta": {
-      "text": "Follow for daily Mandarin memes & free Chinese lessons!",
-      "start": 12,
-      "end": 15
-    },
-    "quality": "Fresh premise checked against history, exact follow CTA reviewed, full decode passed 1080x1920 H264/AAC. Intact end images; daily trends/metrics reused."
   }
 }
