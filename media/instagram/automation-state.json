@@ -1944,13 +1944,14 @@
     "enabled_at": "2026-10-16T15:57:00+07:00",
     "mode": "Extend existing Instagram automation; same future rendered MP4; no separate generator",
     "test": {
-      "status": "awaiting_confirmation",
-      "publication_confirmed": false,
+      "status": "published",
+      "publication_confirmed": true,
       "post_id": "397548008",
       "uuid": "-1256688461765390922",
       "scheduled_at": "2026-10-16T16:00:00+07:00",
       "planner_url": "https://app.metricool.com/planner/calendar?blogId=7459891&openWithPostUuid=-1256688461765390922",
-      "tiktok_video_id": "7697188758329968648"
+      "tiktok_video_id": "7697188758329968648",
+      "public_url": "https://www.tiktok.com/@hanziscreen/video/7697188796495908097"
     },
     "posts": [
       {
@@ -1964,26 +1965,196 @@
         "metricool_media_url": "https://static.metricool.com/planner/202610/7459891-file-7359326077746630369.mp4",
         "post_id": "397548008",
         "uuid": "-1256688461765390922",
-        "status": "awaiting_confirmation",
-        "verified_at": "2026-10-16T16:04:00+07:00",
+        "status": "published",
+        "verified_at": "2026-10-16T20:04:00+07:00",
         "scheduled_at": "2026-10-16T16:00:00+07:00",
         "caption": "POV: you tell Grandma “I’m full”… she unlocks the rice mountain 🍚⛰️\n我饱了 wǒ bǎo le = I’m full.\n再吃一点 zài chī yìdiǎn = Eat a little more.\nWho else has a Grandma like this? 😂\nFollow for daily Mandarin memes & free Chinese lessons!\nLearn Chinese on your iPhone Lock Screen with Hanzi on Screen — FREE to start: https://hanziscreen.com\n#LearnMandarin #LearnChinese #MandarinMemes #ChineseVocabulary #LanguageLearning\nMusic: Fluffing a Duck — Kevin MacLeod (incompetech.com), CC BY 4.0 https://creativecommons.org/licenses/by/4.0/ (trimmed/faded).",
         "planner_url": "https://app.metricool.com/planner/calendar?blogId=7459891&openWithPostUuid=-1256688461765390922",
         "notes": "Reused existing noon Reel with exact CTA text overlay only; original Instagram video untouched; full decode/frame/remote hash passed.",
         "rescheduled_reason": "Owner requested immediate publishing test; moved existing post, no duplicate.",
-        "provider_status": "AWAITING_CONFIRMATION",
+        "provider_status": "PUBLISHED",
         "provider_detail": "Published:7697188758329968648",
-        "tiktok_video_id": "7697188758329968648",
-        "verification_note": "Metricool reports submitted video ID but awaits TikTok confirmation. No public URL in analytics yet; do not repost."
+        "tiktok_video_id": "7697188796495908097",
+        "verification_note": "Metricool reports submitted video ID but awaits TikTok confirmation. No public URL in analytics yet; do not repost.",
+        "public_url": "https://www.tiktok.com/@hanziscreen/video/7697188796495908097"
       }
     ],
     "failures": [],
     "best_times_cache": {
       "checked_date": "2026-10-16",
-      "valid_through": "2026-10-22",
       "timezone": "Asia/Jakarta",
-      "notes": "Metricool Friday 18:00 score 1222, best remaining Friday slot; use fresh daily recommendations for new future posts."
+      "from": "2026-10-16T20:00:00+07:00",
+      "to": "2026-10-17T20:00:00+07:00",
+      "data": {
+        "data": [
+          {
+            "dayOfWeek": 5,
+            "bestTimesByHour": [
+              {
+                "hourOfDay": 20,
+                "value": 689
+              },
+              {
+                "hourOfDay": 21,
+                "value": 474
+              },
+              {
+                "hourOfDay": 22,
+                "value": 328
+              },
+              {
+                "hourOfDay": 23,
+                "value": 294
+              }
+            ]
+          },
+          {
+            "dayOfWeek": 6,
+            "bestTimesByHour": [
+              {
+                "hourOfDay": 0,
+                "value": 170
+              },
+              {
+                "hourOfDay": 1,
+                "value": 105
+              },
+              {
+                "hourOfDay": 2,
+                "value": 76
+              },
+              {
+                "hourOfDay": 3,
+                "value": 51
+              },
+              {
+                "hourOfDay": 4,
+                "value": 49
+              },
+              {
+                "hourOfDay": 5,
+                "value": 69
+              },
+              {
+                "hourOfDay": 6,
+                "value": 145
+              },
+              {
+                "hourOfDay": 7,
+                "value": 257
+              },
+              {
+                "hourOfDay": 8,
+                "value": 396
+              },
+              {
+                "hourOfDay": 9,
+                "value": 517
+              },
+              {
+                "hourOfDay": 10,
+                "value": 852
+              },
+              {
+                "hourOfDay": 11,
+                "value": 566
+              },
+              {
+                "hourOfDay": 12,
+                "value": 815
+              },
+              {
+                "hourOfDay": 13,
+                "value": 564
+              },
+              {
+                "hourOfDay": 14,
+                "value": 560
+              },
+              {
+                "hourOfDay": 15,
+                "value": 552
+              },
+              {
+                "hourOfDay": 16,
+                "value": 620
+              },
+              {
+                "hourOfDay": 17,
+                "value": 531
+              },
+              {
+                "hourOfDay": 18,
+                "value": 709
+              },
+              {
+                "hourOfDay": 19,
+                "value": 573
+              }
+            ]
+          }
+        ]
+      },
+      "selected": "2026-10-17T10:00:00+07:00",
+      "selected_score": 852,
+      "reason": "Highest returned future score in next24h; distinct from earlier test."
     },
-    "verification_notes": "Metricool schedule creation and queue read-back passed. Pending is not published; check public URL through TKPO03/TKPO05 after scheduled time. Queue absence alone is not success."
+    "verification_notes": "Metricool schedule creation and queue read-back passed. Pending is not published; check public URL through TKPO03/TKPO05 after scheduled time. Queue absence alone is not success.",
+    "analytics_cache": {
+      "date": "2026-10-16",
+      "metrics": [
+        "TKPO02",
+        "TKPO03",
+        "TKPO05"
+      ],
+      "data": {
+        "rows": [
+          [
+            "20261016090348",
+            "https://www.tiktok.com/@hanziscreen/video/7697188796495908097?utm_campaign=tt4d_open_api&utm_source=awwuexz91plpu87c",
+            "POV: you tell Grandma “I’m full”… she unlocks the rice mountain 🍚⛰️ 我饱了 wǒ bǎo le = I’m full. 再吃一点 zài chī yìdiǎn = Eat a little more. Who else has a Grandma like this? 😂 Follow for daily Mandarin memes & free Chinese lessons! Learn Chinese on your iPhone Lock Screen with Hanzi on Screen — FREE to start: https://hanziscreen.com #LearnMandarin #LearnChinese #MandarinMemes #ChineseVocabulary #LanguageLearning Music: Fluffing a Duck — Kevin MacLeod (incompetech.com), CC BY 4.0 https://creativecommons.org/licenses/by/4.0/ (trimmed/faded)."
+          ]
+        ]
+      }
+    }
+  },
+  "pending": {
+    "date": "2026-10-16",
+    "slot": "20:00",
+    "content_type": "pov_screenshot_preview",
+    "comparison_group": "product_focused",
+    "series": "Mandarin Learner Problems",
+    "hook": "Perfect Mandarin study setup turns learner into interior designer while book stays closed",
+    "topic": "学习 xuéxí study/learn; give Chinese a place on your Lock Screen too",
+    "recording_used": false,
+    "recording_limitation": "No genuine screen recording in verified media cache; authorized authentic screenshot fallback.",
+    "audio": {
+      "title": "Sneaky Snitch",
+      "artist": "Kevin MacLeod",
+      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Sneaky%20Snitch.mp3",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "license_evidence": "https://incompetech.com/music/royalty-free/index.html?Search=Search&isrc=USUAN1100772",
+      "path": "media/instagram/assets/sneaky_snitch.mp3",
+      "commercial_use": "CC BY 4.0 with attribution; trimmed and faded",
+      "checked_date": "2026-10-13",
+      "trend_status": "Licensed comedy fallback; current Instagram trend status unverified",
+      "use_date": "2026-10-16",
+      "media_id": null
+    },
+    "ending_assets": [
+      "media/instagram/assets/owner_lock_screen_no_spice.jpeg",
+      "media/instagram/assets/owner_ending_poster.jpeg"
+    ],
+    "video_path": "media/instagram/2026-10-16/2000_study_desk_designer.mp4",
+    "size_bytes": 1089063,
+    "sha256": "26dc018f0d1427a421d2e177a2c93d4546ba8b82d772edfb08b634a4d258b4bc",
+    "duration": 20,
+    "caption": "POV: your Mandarin study setup is ready for a magazine. The book is still closed. 🪴📚\n学习 xuéxí = study / learn.\n\nA little Chinese can live on your Lock Screen, too. Hanzi on Screen is FREE to start—link in bio.\nFollow for daily Mandarin memes & free Chinese lessons! What’s your favourite study distraction?\n\nGenuine owner screenshot preview; no screen recording used.\n#LearnMandarin #LearnChinese #StudyMotivation #ChineseVocabulary\nMusic: “Sneaky Snitch” — Kevin MacLeod (incompetech.com), CC BY 4.0: https://creativecommons.org/licenses/by/4.0/ (trimmed/faded).",
+    "visible_follow_cta": {
+      "text": "Follow for daily Mandarin memes & free Chinese lessons!",
+      "start": 12,
+      "end": 15
+    },
+    "quality": "Fresh premise checked against history, exact follow CTA reviewed, full decode passed 1080x1920 H264/AAC. Intact end images; daily trends/metrics reused."
   }
 }
