@@ -2396,6 +2396,27 @@
         "verification_note": "Metricool explicitly reports PUBLISHED and matching caption/public URL. TKPO analytics has no matching row yet (lag); no repost.",
         "public_url": "https://www.tiktok.com/@hanziscreen/video/7697466887231294738",
         "tiktok_video_id": "7697466887231294738"
+      },
+      {
+        "status": "scheduled",
+        "source_instagram_media_id": "18121285220071383",
+        "source_sha256": "7c110b9311269be33d5e5ba85b0b7391876e6dee3f56e9b2796bb0fe413819fe",
+        "source_slot": "2026-10-17T12:00:00+07:00",
+        "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/2bcf4daaba807a4d0a3d558c3384b874775adcac/media/instagram/2026-10-17/1200_anything_terms_apply.mp4",
+        "source_video_path": "media/instagram/2026-10-17/1200_anything_terms_apply.mp4",
+        "scheduled_at": "2026-10-18T10:00:00+07:00",
+        "title": "Anything is fine… terms apply 😅 | 随便",
+        "caption": "Me: “Anything is fine.” Also me: rejects the entire menu 😅\n随便 suíbiàn = whatever / anything is fine (when choosing).\nWhat’s your automatic food veto?\nFollow for daily Mandarin memes & free Chinese lessons!\nTry Hanzi on Screen—FREE to start: https://apps.apple.com/id/app/hanzi-screen/id6811871162\n#LearnMandarin #LearnChinese #MandarinMemes #ChineseVocabulary\nMusic: Carefree — Kevin MacLeod (incompetech.com), CC BY 4.0 https://creativecommons.org/licenses/by/4.0/ (trimmed/faded).",
+        "autoPublish": true,
+        "draft": false,
+        "network": "tiktok",
+        "queue_checked": "2026-10-17T12:05:00+07:00",
+        "post_id": "398314143",
+        "uuid": "-2226567884993772489",
+        "planner_url": "https://app.metricool.com/planner/calendar?blogId=7459891&openWithPostUuid=-2226567884993772489",
+        "metricool_media_url": "https://static.metricool.com/planner/202610/7459891-file-15743432985994414127.mp4",
+        "provider_status": "PENDING",
+        "confirmed_response_at": "2026-10-17T12:08:00+07:00"
       }
     ],
     "failures": [],
@@ -2529,21 +2550,6 @@
       "data": {
         "rows": []
       }
-    },
-    "pending": {
-      "status": "intent_saved",
-      "source_instagram_media_id": "18121285220071383",
-      "source_sha256": "7c110b9311269be33d5e5ba85b0b7391876e6dee3f56e9b2796bb0fe413819fe",
-      "source_slot": "2026-10-17T12:00:00+07:00",
-      "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/2bcf4daaba807a4d0a3d558c3384b874775adcac/media/instagram/2026-10-17/1200_anything_terms_apply.mp4",
-      "source_video_path": "media/instagram/2026-10-17/1200_anything_terms_apply.mp4",
-      "scheduled_at": "2026-10-18T10:00:00+07:00",
-      "title": "Anything is fine… terms apply 😅 | 随便",
-      "caption": "Me: “Anything is fine.” Also me: rejects the entire menu 😅\n随便 suíbiàn = whatever / anything is fine (when choosing).\nWhat’s your automatic food veto?\nFollow for daily Mandarin memes & free Chinese lessons!\nTry Hanzi on Screen—FREE to start: https://apps.apple.com/id/app/hanzi-screen/id6811871162\n#LearnMandarin #LearnChinese #MandarinMemes #ChineseVocabulary\nMusic: Carefree — Kevin MacLeod (incompetech.com), CC BY 4.0 https://creativecommons.org/licenses/by/4.0/ (trimmed/faded).",
-      "autoPublish": true,
-      "draft": false,
-      "network": "tiktok",
-      "queue_checked": "2026-10-17T12:05:00+07:00"
     }
   }
 }
