@@ -657,6 +657,46 @@
       "media_id": "18464305003189705",
       "url": "https://www.instagram.com/reel/DejmZ4DjyVA/",
       "media_commit": "d9f54ed0a3b09681bcca2b358585e643e4f92ac7"
+    },
+    {
+      "date": "2026-10-17",
+      "slot": "12:00",
+      "content_type": "animated_meme",
+      "comparison_group": "meme",
+      "series": "Mandarin Mini Moments",
+      "hook": "Anything is fine, then veto every food and unroll a terms-and-conditions contract",
+      "topic": "随便 suíbiàn means whatever/anything is fine in a choice context",
+      "audio": {
+        "title": "Carefree",
+        "artist": "Kevin MacLeod",
+        "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Carefree.mp3",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "license_evidence": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400037",
+        "path": "media/instagram/assets/carefree_30s.mp3",
+        "commercial_use": "CC BY 4.0 allows commercial promotional use with attribution; cached30s excerpt, Reel trimmed/faded.",
+        "checked_date": "2026-10-17",
+        "trend_status": "Cleared alternative; no current trend claim",
+        "use_date": "2026-10-17",
+        "media_id": "18121285220071383"
+      },
+      "ending_assets": [
+        "media/instagram/assets/owner_lock_screen_no_spice.jpeg",
+        "media/instagram/assets/owner_ending_poster.jpeg"
+      ],
+      "video_path": "media/instagram/2026-10-17/1200_anything_terms_apply.mp4",
+      "size_bytes": 1040227,
+      "sha256": "7c110b9311269be33d5e5ba85b0b7391876e6dee3f56e9b2796bb0fe413819fe",
+      "duration": 19,
+      "caption": "Mandarin Mini Moments: “Anything is fine”… terms and conditions apply. 😅\n随便 suíbiàn = whatever / anything is fine (when choosing).\n\nWhat food do you always veto? Follow for daily Mandarin memes & free Chinese lessons!\n\nSee Chinese vocabulary on your iPhone Lock Screen with Hanzi on Screen—FREE to start. Link in bio.\n#LearnMandarin #LearnChinese #MandarinMemes #ChineseVocabulary\nMusic: “Carefree” — Kevin MacLeod (incompetech.com), CC BY 4.0 https://creativecommons.org/licenses/by/4.0/ (trimmed/faded).",
+      "visible_follow_cta": {
+        "text": "Follow for daily Mandarin memes & free Chinese lessons!",
+        "start": 11,
+        "end": 14
+      },
+      "quality": "Fresh premise checked against published history; final representative sheet legible, exact follow CTA, full decode passed 1080x1920 H264/AAC. Intact ending assets, music attribution.",
+      "media_id": "18121285220071383",
+      "url": "https://www.instagram.com/reel/DelUfwrmHUA/",
+      "media_commit": "2bcf4daaba807a4d0a3d558c3384b874775adcac"
     }
   ],
   "verified_assets": [
@@ -2489,42 +2529,21 @@
       "data": {
         "rows": []
       }
+    },
+    "pending": {
+      "status": "intent_saved",
+      "source_instagram_media_id": "18121285220071383",
+      "source_sha256": "7c110b9311269be33d5e5ba85b0b7391876e6dee3f56e9b2796bb0fe413819fe",
+      "source_slot": "2026-10-17T12:00:00+07:00",
+      "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/2bcf4daaba807a4d0a3d558c3384b874775adcac/media/instagram/2026-10-17/1200_anything_terms_apply.mp4",
+      "source_video_path": "media/instagram/2026-10-17/1200_anything_terms_apply.mp4",
+      "scheduled_at": "2026-10-18T10:00:00+07:00",
+      "title": "Anything is fine… terms apply 😅 | 随便",
+      "caption": "Me: “Anything is fine.” Also me: rejects the entire menu 😅\n随便 suíbiàn = whatever / anything is fine (when choosing).\nWhat’s your automatic food veto?\nFollow for daily Mandarin memes & free Chinese lessons!\nTry Hanzi on Screen—FREE to start: https://apps.apple.com/id/app/hanzi-screen/id6811871162\n#LearnMandarin #LearnChinese #MandarinMemes #ChineseVocabulary\nMusic: Carefree — Kevin MacLeod (incompetech.com), CC BY 4.0 https://creativecommons.org/licenses/by/4.0/ (trimmed/faded).",
+      "autoPublish": true,
+      "draft": false,
+      "network": "tiktok",
+      "queue_checked": "2026-10-17T12:05:00+07:00"
     }
-  },
-  "pending": {
-    "date": "2026-10-17",
-    "slot": "12:00",
-    "content_type": "animated_meme",
-    "comparison_group": "meme",
-    "series": "Mandarin Mini Moments",
-    "hook": "Anything is fine, then veto every food and unroll a terms-and-conditions contract",
-    "topic": "随便 suíbiàn means whatever/anything is fine in a choice context",
-    "audio": {
-      "title": "Carefree",
-      "artist": "Kevin MacLeod",
-      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Carefree.mp3",
-      "license": "https://creativecommons.org/licenses/by/4.0/",
-      "license_evidence": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400037",
-      "path": "media/instagram/assets/carefree_30s.mp3",
-      "commercial_use": "CC BY 4.0 allows commercial promotional use with attribution; cached30s excerpt, Reel trimmed/faded.",
-      "checked_date": "2026-10-17",
-      "trend_status": "Cleared alternative; no current trend claim",
-      "use_date": "2026-10-17"
-    },
-    "ending_assets": [
-      "media/instagram/assets/owner_lock_screen_no_spice.jpeg",
-      "media/instagram/assets/owner_ending_poster.jpeg"
-    ],
-    "video_path": "media/instagram/2026-10-17/1200_anything_terms_apply.mp4",
-    "size_bytes": 1040227,
-    "sha256": "7c110b9311269be33d5e5ba85b0b7391876e6dee3f56e9b2796bb0fe413819fe",
-    "duration": 19,
-    "caption": "Mandarin Mini Moments: “Anything is fine”… terms and conditions apply. 😅\n随便 suíbiàn = whatever / anything is fine (when choosing).\n\nWhat food do you always veto? Follow for daily Mandarin memes & free Chinese lessons!\n\nSee Chinese vocabulary on your iPhone Lock Screen with Hanzi on Screen—FREE to start. Link in bio.\n#LearnMandarin #LearnChinese #MandarinMemes #ChineseVocabulary\nMusic: “Carefree” — Kevin MacLeod (incompetech.com), CC BY 4.0 https://creativecommons.org/licenses/by/4.0/ (trimmed/faded).",
-    "visible_follow_cta": {
-      "text": "Follow for daily Mandarin memes & free Chinese lessons!",
-      "start": 11,
-      "end": 14
-    },
-    "quality": "Fresh premise checked against published history; final representative sheet legible, exact follow CTA, full decode passed 1080x1920 H264/AAC. Intact ending assets, music attribution."
   }
 }
