@@ -697,6 +697,48 @@
       "media_id": "18121285220071383",
       "url": "https://www.instagram.com/reel/DelUfwrmHUA/",
       "media_commit": "2bcf4daaba807a4d0a3d558c3384b874775adcac"
+    },
+    {
+      "date": "2026-10-17",
+      "slot": "20:00",
+      "content_type": "pov_screenshot_preview",
+      "comparison_group": "product_focused",
+      "series": "Mandarin Learner Problems",
+      "hook": "Packed calendar physically rejects a Mandarin study block: invitation declined",
+      "topic": "太忙了 tài máng le too busy; seeing Chinese on the genuine Lock Screen preview",
+      "recording_used": false,
+      "recording_limitation": "No genuine app screen recording in verified cache; authorized screenshot fallback. Fictional flat2D calendar is not app UI.",
+      "audio": {
+        "title": "Fluffing a Duck",
+        "artist": "Kevin MacLeod",
+        "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Fluffing%20a%20Duck.mp3",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "license_evidence": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100768",
+        "path": "media/instagram/assets/fluffing_a_duck_30s.mp3",
+        "commercial_use": "CC BY 4.0 with attribution; 30-second cached excerpt, Reel trimmed and faded",
+        "checked_date": "2026-10-14",
+        "trend_status": "Cleared comedy fallback; no current trend claim",
+        "use_date": "2026-10-17",
+        "media_id": "17980715637121140"
+      },
+      "ending_assets": [
+        "media/instagram/assets/owner_lock_screen_no_spice.jpeg",
+        "media/instagram/assets/owner_ending_poster.jpeg"
+      ],
+      "video_path": "media/instagram/2026-10-17/2000_calendar_says_busy.mp4",
+      "size_bytes": 1241298,
+      "sha256": "5b1a927c3e58c1ba2391a835581b198435067fb66d76ebec292c8fe204551fe4",
+      "duration": 20,
+      "caption": "POV: you try to fit Mandarin into a packed day… even your calendar says 太忙了 😅\n太忙了 tài máng le = too busy.\n\nA little Chinese can live somewhere you already look: your Lock Screen. Try Hanzi on Screen—FREE to start. Link in bio.\nFollow for daily Mandarin memes & free Chinese lessons!\n\nGenuine owner screenshot preview, not a screen recording. Fictional calendar animation.\n#LearnMandarin #LearnChinese #LanguageLearning #iPhoneWidgets\nMusic: “Fluffing a Duck” — Kevin MacLeod (incompetech.com), CC BY 4.0 https://creativecommons.org/licenses/by/4.0/ (trimmed/faded).",
+      "visible_follow_cta": {
+        "text": "Follow for daily Mandarin memes & free Chinese lessons!",
+        "start": 12,
+        "end": 15
+      },
+      "quality": "Fresh premise compared with history; representative sheet reviewed; full decode passed1080x1920H264/AAC. Exact visible follow CTA and intact end images. Cached daily research and metrics reused.",
+      "media_id": "17980715637121140",
+      "url": "https://www.instagram.com/reel/DemK97AiDa0/",
+      "media_commit": "7fb66572c0a00730f84d7fee82d4fd1455629ef3"
     }
   ],
   "verified_assets": [
@@ -2552,44 +2594,22 @@
       "data": {
         "rows": []
       }
+    },
+    "pending": {
+      "status": "intent_saved",
+      "source_instagram_media_id": "17980715637121140",
+      "source_sha256": "5b1a927c3e58c1ba2391a835581b198435067fb66d76ebec292c8fe204551fe4",
+      "source_slot": "2026-10-17T20:00:00+07:00",
+      "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/7fb66572c0a00730f84d7fee82d4fd1455629ef3/media/instagram/2026-10-17/2000_calendar_says_busy.mp4",
+      "source_video_path": "media/instagram/2026-10-17/2000_calendar_says_busy.mp4",
+      "scheduled_at": "2026-10-17T21:00:00+07:00",
+      "title": "My calendar said 太忙了 😅 | Too busy for Mandarin?",
+      "caption": "POV: your calendar rejects your Mandarin study plans 😅\n太忙了 tài máng le = too busy.\nWho else needs an extra day in the week?\nFollow for daily Mandarin memes & free Chinese lessons!\nSee Chinese vocabulary on your iPhone Lock Screen with Hanzi on Screen. FREE to start: https://apps.apple.com/id/app/hanzi-screen/id6811871162\nGenuine owner screenshot preview; fictional calendar animation, not app footage.\n#LearnMandarin #LearnChinese #LanguageLearning #StudyTok\nMusic: Fluffing a Duck — Kevin MacLeod (incompetech.com), CC BY 4.0 https://creativecommons.org/licenses/by/4.0/ (trimmed/faded).",
+      "autoPublish": true,
+      "draft": false,
+      "network": "tiktok",
+      "queue_checked": "2026-10-17T20:01:00+07:00",
+      "selection_reason": "Reused Oct17 cached recommendations. 21:00 score347 is highest remaining eligible cached hour with >=4h separation from queued Oct18 10:00. No duplicate slot."
     }
-  },
-  "pending": {
-    "date": "2026-10-17",
-    "slot": "20:00",
-    "content_type": "pov_screenshot_preview",
-    "comparison_group": "product_focused",
-    "series": "Mandarin Learner Problems",
-    "hook": "Packed calendar physically rejects a Mandarin study block: invitation declined",
-    "topic": "太忙了 tài máng le too busy; seeing Chinese on the genuine Lock Screen preview",
-    "recording_used": false,
-    "recording_limitation": "No genuine app screen recording in verified cache; authorized screenshot fallback. Fictional flat2D calendar is not app UI.",
-    "audio": {
-      "title": "Fluffing a Duck",
-      "artist": "Kevin MacLeod",
-      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Fluffing%20a%20Duck.mp3",
-      "license": "https://creativecommons.org/licenses/by/4.0/",
-      "license_evidence": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100768",
-      "path": "media/instagram/assets/fluffing_a_duck_30s.mp3",
-      "commercial_use": "CC BY 4.0 with attribution; 30-second cached excerpt, Reel trimmed and faded",
-      "checked_date": "2026-10-14",
-      "trend_status": "Cleared comedy fallback; no current trend claim",
-      "use_date": "2026-10-17"
-    },
-    "ending_assets": [
-      "media/instagram/assets/owner_lock_screen_no_spice.jpeg",
-      "media/instagram/assets/owner_ending_poster.jpeg"
-    ],
-    "video_path": "media/instagram/2026-10-17/2000_calendar_says_busy.mp4",
-    "size_bytes": 1241298,
-    "sha256": "5b1a927c3e58c1ba2391a835581b198435067fb66d76ebec292c8fe204551fe4",
-    "duration": 20,
-    "caption": "POV: you try to fit Mandarin into a packed day… even your calendar says 太忙了 😅\n太忙了 tài máng le = too busy.\n\nA little Chinese can live somewhere you already look: your Lock Screen. Try Hanzi on Screen—FREE to start. Link in bio.\nFollow for daily Mandarin memes & free Chinese lessons!\n\nGenuine owner screenshot preview, not a screen recording. Fictional calendar animation.\n#LearnMandarin #LearnChinese #LanguageLearning #iPhoneWidgets\nMusic: “Fluffing a Duck” — Kevin MacLeod (incompetech.com), CC BY 4.0 https://creativecommons.org/licenses/by/4.0/ (trimmed/faded).",
-    "visible_follow_cta": {
-      "text": "Follow for daily Mandarin memes & free Chinese lessons!",
-      "start": 12,
-      "end": 15
-    },
-    "quality": "Fresh premise compared with history; representative sheet reviewed; full decode passed1080x1920H264/AAC. Exact visible follow CTA and intact end images. Cached daily research and metrics reused."
   }
 }
