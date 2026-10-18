@@ -736,6 +736,46 @@
       "media_id": "17980715637121140",
       "url": "https://www.instagram.com/reel/DemK97AiDa0/",
       "media_commit": "7fb66572c0a00730f84d7fee82d4fd1455629ef3"
+    },
+    {
+      "date": "2026-10-18",
+      "slot": "12:00",
+      "content_type": "animated_meme",
+      "comparison_group": "meme",
+      "series": "Mandarin Mini Moments",
+      "hook": "Learner keeps agreeing 对 to a shorter haircut until bald; learns 可以了 too late",
+      "topic": "对 duì right/correct; 可以了 kěyǐ le that's enough in the haircut context",
+      "audio": {
+        "title": "Sneaky Snitch",
+        "artist": "Kevin MacLeod",
+        "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Sneaky%20Snitch.mp3",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "license_evidence": "https://incompetech.com/music/royalty-free/index.html?Search=Search&isrc=USUAN1100772",
+        "path": "media/instagram/assets/sneaky_snitch.mp3",
+        "commercial_use": "CC BY 4.0 with attribution; trimmed and faded",
+        "checked_date": "2026-10-13",
+        "trend_status": "Licensed comedy fallback; current Instagram trend status unverified",
+        "use_date": "2026-10-18",
+        "media_id": "18018204878745061"
+      },
+      "ending_assets": [
+        "media/instagram/assets/owner_lock_screen_no_spice.jpeg",
+        "media/instagram/assets/owner_ending_poster.jpeg"
+      ],
+      "video_path": "media/instagram/2026-10-18/1200_barber_agreement_trap.mp4",
+      "size_bytes": 1266228,
+      "sha256": "5a12c6a4bae6e5b5780b5c5cc848b8932477a44821b467ba74e48b9133c20631",
+      "duration": 22,
+      "caption": "Mandarin Mini Moments: my haircut kept getting shorter… my answer stayed the same. ✂️😅\n对 duì = right/correct (agreeing here).\n可以了 kěyǐ le = that’s enough (in this context).\n\nWhat phrase would you learn before a haircut? Follow for daily Mandarin memes & free Chinese lessons!\nSee Chinese vocabulary on your Lock Screen with Hanzi on Screen—FREE to start. Link in bio.\n#LearnMandarin #LearnChinese #MandarinMemes #ChineseVocabulary\nMusic: “Sneaky Snitch” — Kevin MacLeod (incompetech.com), CC BY 4.0 https://creativecommons.org/licenses/by/4.0/ (trimmed/faded).",
+      "visible_follow_cta": {
+        "text": "Follow for daily Mandarin memes & free Chinese lessons!",
+        "start": 14,
+        "end": 17
+      },
+      "quality": "Premise checked against complete log; Chinese/pinyin/context checked; final sheet reviewed; full decode passed1080x1920H264/AAC; intact ending images, cleared nonconsecutive track with attribution.",
+      "media_id": "18018204878745061",
+      "url": "https://www.instagram.com/reel/Den4eOqgXdu/",
+      "media_commit": "0ae5906ca8db318e11fb69d7d7d42807f462b028"
     }
   ],
   "verified_assets": [
@@ -3011,43 +3051,22 @@
           ]
         ]
       }
+    },
+    "pending": {
+      "status": "intent_saved",
+      "source_instagram_media_id": "18018204878745061",
+      "source_sha256": "5a12c6a4bae6e5b5780b5c5cc848b8932477a44821b467ba74e48b9133c20631",
+      "source_slot": "2026-10-18T12:00:00+07:00",
+      "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/0ae5906ca8db318e11fb69d7d7d42807f462b028/media/instagram/2026-10-18/1200_barber_agreement_trap.mp4",
+      "source_video_path": "media/instagram/2026-10-18/1200_barber_agreement_trap.mp4",
+      "scheduled_at": "2026-10-19T10:00:00+07:00",
+      "title": "My Mandarin haircut: 对 went too far ✂️",
+      "caption": "When 对 is your most confident barber-shop answer… ✂️😅\n对 duì = right/correct (agreeing here).\n可以了 kěyǐ le = that’s enough (in this context).\nWhich phrase should I have learned first?\nFollow for daily Mandarin memes & free Chinese lessons!\nTry Hanzi on Screen—FREE to start: https://apps.apple.com/id/app/hanzi-screen/id6811871162\n#LearnMandarin #LearnChinese #MandarinMemes #ChineseVocabulary\nMusic: Sneaky Snitch — Kevin MacLeod (incompetech.com), CC BY 4.0 https://creativecommons.org/licenses/by/4.0/ (trimmed/faded).",
+      "autoPublish": true,
+      "draft": false,
+      "network": "tiktok",
+      "queue_checked": "2026-10-18T11:58:00+07:00",
+      "selection_reason": "Highest returned score1089 within next24h, no queue conflict and >=4h separation."
     }
-  },
-  "pending": {
-    "date": "2026-10-18",
-    "slot": "12:00",
-    "content_type": "animated_meme",
-    "comparison_group": "meme",
-    "series": "Mandarin Mini Moments",
-    "hook": "Learner keeps agreeing 对 to a shorter haircut until bald; learns 可以了 too late",
-    "topic": "对 duì right/correct; 可以了 kěyǐ le that's enough in the haircut context",
-    "audio": {
-      "title": "Sneaky Snitch",
-      "artist": "Kevin MacLeod",
-      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Sneaky%20Snitch.mp3",
-      "license": "https://creativecommons.org/licenses/by/4.0/",
-      "license_evidence": "https://incompetech.com/music/royalty-free/index.html?Search=Search&isrc=USUAN1100772",
-      "path": "media/instagram/assets/sneaky_snitch.mp3",
-      "commercial_use": "CC BY 4.0 with attribution; trimmed and faded",
-      "checked_date": "2026-10-13",
-      "trend_status": "Licensed comedy fallback; current Instagram trend status unverified",
-      "use_date": "2026-10-18",
-      "media_id": null
-    },
-    "ending_assets": [
-      "media/instagram/assets/owner_lock_screen_no_spice.jpeg",
-      "media/instagram/assets/owner_ending_poster.jpeg"
-    ],
-    "video_path": "media/instagram/2026-10-18/1200_barber_agreement_trap.mp4",
-    "size_bytes": 1266228,
-    "sha256": "5a12c6a4bae6e5b5780b5c5cc848b8932477a44821b467ba74e48b9133c20631",
-    "duration": 22,
-    "caption": "Mandarin Mini Moments: my haircut kept getting shorter… my answer stayed the same. ✂️😅\n对 duì = right/correct (agreeing here).\n可以了 kěyǐ le = that’s enough (in this context).\n\nWhat phrase would you learn before a haircut? Follow for daily Mandarin memes & free Chinese lessons!\nSee Chinese vocabulary on your Lock Screen with Hanzi on Screen—FREE to start. Link in bio.\n#LearnMandarin #LearnChinese #MandarinMemes #ChineseVocabulary\nMusic: “Sneaky Snitch” — Kevin MacLeod (incompetech.com), CC BY 4.0 https://creativecommons.org/licenses/by/4.0/ (trimmed/faded).",
-    "visible_follow_cta": {
-      "text": "Follow for daily Mandarin memes & free Chinese lessons!",
-      "start": 14,
-      "end": 17
-    },
-    "quality": "Premise checked against complete log; Chinese/pinyin/context checked; final sheet reviewed; full decode passed1080x1920H264/AAC; intact ending images, cleared nonconsecutive track with attribution."
   }
 }
