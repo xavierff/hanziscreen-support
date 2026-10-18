@@ -2941,6 +2941,28 @@
         "confirmed_response_at": "2026-10-18T12:01:00+07:00",
         "verified_at": "2026-10-18T12:02:00+07:00",
         "verification_note": "Queue read-back verified TikTok, exact date, MP4, caption with direct App Store URL, autoPublish=true/draft=false. Scheduled not published."
+      },
+      {
+        "status": "scheduled",
+        "source_instagram_media_id": "18115646572839963",
+        "source_sha256": "22337d428a3fbc51c69b1fa2b2693bb3335854f5dbc501655b8b8482be4760af",
+        "source_slot": "2026-10-18T20:00:00+07:00",
+        "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/f89acd30de92fce6ae31bbab71500ebcccb6a2a3/media/instagram/2026-10-18/2000_remote_employee_month.mp4",
+        "source_video_path": "media/instagram/2026-10-18/2000_remote_employee_month.mp4",
+        "scheduled_at": "2026-10-19T18:00:00+07:00",
+        "title": "My drama remote deserves a promotion 📺 | 等一下",
+        "caption": "POV: you learn Mandarin through dramas… the remote gets Employee of the Month 📺🏅\n等一下 děng yíxià = wait a moment.\nWhich drama makes you pause the most?\nFollow for daily Mandarin memes & free Chinese lessons!\nTry Hanzi on Screen—FREE to start: https://apps.apple.com/id/app/hanzi-screen/id6811871162\nOriginal cartoon; genuine owner screenshot preview, not app footage.\n#LearnMandarin #LearnChinese #ChineseDrama #LanguageLearning\nMusic: Carefree — Kevin MacLeod (incompetech.com), CC BY 4.0 https://creativecommons.org/licenses/by/4.0/ (trimmed/faded).",
+        "autoPublish": true,
+        "draft": false,
+        "network": "tiktok",
+        "queue_checked": "2026-10-18T20:04:00+07:00",
+        "selection_reason": "Reused today's best-time cache: Monday18 score1096, highest eligible next24h;8h from queued10AM copy.",
+        "post_id": "399125120",
+        "uuid": "33667691111465040",
+        "planner_url": "https://app.metricool.com/planner/calendar?blogId=7459891&openWithPostUuid=33667691111465040",
+        "metricool_media_url": "https://static.metricool.com/planner/202610/7459891-file-17341079659681857761.mp4",
+        "provider_status": "PENDING",
+        "confirmed_response_at": "2026-10-18T20:07:00+07:00"
       }
     ],
     "failures": [],
@@ -3117,22 +3139,6 @@
           ]
         ]
       }
-    },
-    "pending": {
-      "status": "intent_saved",
-      "source_instagram_media_id": "18115646572839963",
-      "source_sha256": "22337d428a3fbc51c69b1fa2b2693bb3335854f5dbc501655b8b8482be4760af",
-      "source_slot": "2026-10-18T20:00:00+07:00",
-      "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/f89acd30de92fce6ae31bbab71500ebcccb6a2a3/media/instagram/2026-10-18/2000_remote_employee_month.mp4",
-      "source_video_path": "media/instagram/2026-10-18/2000_remote_employee_month.mp4",
-      "scheduled_at": "2026-10-19T18:00:00+07:00",
-      "title": "My drama remote deserves a promotion 📺 | 等一下",
-      "caption": "POV: you learn Mandarin through dramas… the remote gets Employee of the Month 📺🏅\n等一下 děng yíxià = wait a moment.\nWhich drama makes you pause the most?\nFollow for daily Mandarin memes & free Chinese lessons!\nTry Hanzi on Screen—FREE to start: https://apps.apple.com/id/app/hanzi-screen/id6811871162\nOriginal cartoon; genuine owner screenshot preview, not app footage.\n#LearnMandarin #LearnChinese #ChineseDrama #LanguageLearning\nMusic: Carefree — Kevin MacLeod (incompetech.com), CC BY 4.0 https://creativecommons.org/licenses/by/4.0/ (trimmed/faded).",
-      "autoPublish": true,
-      "draft": false,
-      "network": "tiktok",
-      "queue_checked": "2026-10-18T20:04:00+07:00",
-      "selection_reason": "Reused today's best-time cache: Monday18 score1096, highest eligible next24h;8h from queued10AM copy."
     }
   }
 }
