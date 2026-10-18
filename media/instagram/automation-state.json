@@ -2875,6 +2875,28 @@
         "verified_at": "2026-10-18T11:59:00+07:00",
         "verification_note": "Matched TikTok analytics description and public URL; no repost.",
         "public_url": "https://www.tiktok.com/@hanziscreen/video/7697637456920710418"
+      },
+      {
+        "status": "scheduled",
+        "source_instagram_media_id": "18018204878745061",
+        "source_sha256": "5a12c6a4bae6e5b5780b5c5cc848b8932477a44821b467ba74e48b9133c20631",
+        "source_slot": "2026-10-18T12:00:00+07:00",
+        "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/0ae5906ca8db318e11fb69d7d7d42807f462b028/media/instagram/2026-10-18/1200_barber_agreement_trap.mp4",
+        "source_video_path": "media/instagram/2026-10-18/1200_barber_agreement_trap.mp4",
+        "scheduled_at": "2026-10-19T10:00:00+07:00",
+        "title": "My Mandarin haircut: 对 went too far ✂️",
+        "caption": "When 对 is your most confident barber-shop answer… ✂️😅\n对 duì = right/correct (agreeing here).\n可以了 kěyǐ le = that’s enough (in this context).\nWhich phrase should I have learned first?\nFollow for daily Mandarin memes & free Chinese lessons!\nTry Hanzi on Screen—FREE to start: https://apps.apple.com/id/app/hanzi-screen/id6811871162\n#LearnMandarin #LearnChinese #MandarinMemes #ChineseVocabulary\nMusic: Sneaky Snitch — Kevin MacLeod (incompetech.com), CC BY 4.0 https://creativecommons.org/licenses/by/4.0/ (trimmed/faded).",
+        "autoPublish": true,
+        "draft": false,
+        "network": "tiktok",
+        "queue_checked": "2026-10-18T11:58:00+07:00",
+        "selection_reason": "Highest returned score1089 within next24h, no queue conflict and >=4h separation.",
+        "post_id": "398924873",
+        "uuid": "-2883965835749142607",
+        "planner_url": "https://app.metricool.com/planner/calendar?blogId=7459891&openWithPostUuid=-2883965835749142607",
+        "metricool_media_url": "https://static.metricool.com/planner/202610/7459891-file-18095436381028623928.mp4",
+        "provider_status": "PENDING",
+        "confirmed_response_at": "2026-10-18T12:01:00+07:00"
       }
     ],
     "failures": [],
@@ -3051,22 +3073,6 @@
           ]
         ]
       }
-    },
-    "pending": {
-      "status": "intent_saved",
-      "source_instagram_media_id": "18018204878745061",
-      "source_sha256": "5a12c6a4bae6e5b5780b5c5cc848b8932477a44821b467ba74e48b9133c20631",
-      "source_slot": "2026-10-18T12:00:00+07:00",
-      "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/0ae5906ca8db318e11fb69d7d7d42807f462b028/media/instagram/2026-10-18/1200_barber_agreement_trap.mp4",
-      "source_video_path": "media/instagram/2026-10-18/1200_barber_agreement_trap.mp4",
-      "scheduled_at": "2026-10-19T10:00:00+07:00",
-      "title": "My Mandarin haircut: 对 went too far ✂️",
-      "caption": "When 对 is your most confident barber-shop answer… ✂️😅\n对 duì = right/correct (agreeing here).\n可以了 kěyǐ le = that’s enough (in this context).\nWhich phrase should I have learned first?\nFollow for daily Mandarin memes & free Chinese lessons!\nTry Hanzi on Screen—FREE to start: https://apps.apple.com/id/app/hanzi-screen/id6811871162\n#LearnMandarin #LearnChinese #MandarinMemes #ChineseVocabulary\nMusic: Sneaky Snitch — Kevin MacLeod (incompetech.com), CC BY 4.0 https://creativecommons.org/licenses/by/4.0/ (trimmed/faded).",
-      "autoPublish": true,
-      "draft": false,
-      "network": "tiktok",
-      "queue_checked": "2026-10-18T11:58:00+07:00",
-      "selection_reason": "Highest returned score1089 within next24h, no queue conflict and >=4h separation."
     }
   }
 }
