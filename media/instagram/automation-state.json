@@ -3076,5 +3076,43 @@
         ]
       }
     }
+  },
+  "pending": {
+    "date": "2026-10-18",
+    "slot": "20:00",
+    "content_type": "pov_screenshot_preview",
+    "comparison_group": "product_focused",
+    "series": "Mandarin Learner Problems",
+    "hook": "Mandarin drama learner pauses so often the remote wins Employee of the Month",
+    "topic": "等一下 děng yíxià wait a moment; keep everyday Chinese in sight on Lock Screen",
+    "recording_used": false,
+    "recording_limitation": "No genuine app recording in verified cache; original cartoon plus authorized genuine screenshot preview fallback.",
+    "audio": {
+      "title": "Carefree",
+      "artist": "Kevin MacLeod",
+      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Carefree.mp3",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "license_evidence": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400037",
+      "path": "media/instagram/assets/carefree_30s.mp3",
+      "commercial_use": "CC BY 4.0 allows commercial promotional use with attribution; cached30s excerpt, Reel trimmed/faded.",
+      "checked_date": "2026-10-17",
+      "trend_status": "Cleared alternative; no current trend claim",
+      "use_date": "2026-10-18"
+    },
+    "ending_assets": [
+      "media/instagram/assets/owner_lock_screen_no_spice.jpeg",
+      "media/instagram/assets/owner_ending_poster.jpeg"
+    ],
+    "video_path": "media/instagram/2026-10-18/2000_remote_employee_month.mp4",
+    "size_bytes": 1046280,
+    "sha256": "22337d428a3fbc51c69b1fa2b2693bb3335854f5dbc501655b8b8482be4760af",
+    "duration": 20,
+    "caption": "POV: learning Mandarin through dramas. My pause button deserves a promotion. 📺🏅\n等一下 děng yíxià = wait a moment.\n\nWhich Chinese drama keeps you reaching for pause?\nFollow for daily Mandarin memes & free Chinese lessons!\nKeep everyday Chinese in sight with Hanzi on Screen—FREE to start. Link in bio.\n\nOriginal cartoon scene; product visuals are genuine owner screenshot previews, not a recording.\n#LearnMandarin #LearnChinese #ChineseDrama #ChineseVocabulary\nMusic: “Carefree” — Kevin MacLeod (incompetech.com), CC BY 4.0 https://creativecommons.org/licenses/by/4.0/ (trimmed/faded).",
+    "visible_follow_cta": {
+      "text": "Follow for daily Mandarin memes & free Chinese lessons!",
+      "start": 12,
+      "end": 15
+    },
+    "quality": "Fresh premise compared against history; Chinese/pinyin checked; fulldecode1080x1920H264/AAC and representative sheet passed. ExactfollowCTA/intactownerimages. Reused dailytrends/metrics and cleared nonconsecutive audio."
   }
 }
