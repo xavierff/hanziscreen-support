@@ -2896,7 +2896,9 @@
         "planner_url": "https://app.metricool.com/planner/calendar?blogId=7459891&openWithPostUuid=-2883965835749142607",
         "metricool_media_url": "https://static.metricool.com/planner/202610/7459891-file-18095436381028623928.mp4",
         "provider_status": "PENDING",
-        "confirmed_response_at": "2026-10-18T12:01:00+07:00"
+        "confirmed_response_at": "2026-10-18T12:01:00+07:00",
+        "verified_at": "2026-10-18T12:02:00+07:00",
+        "verification_note": "Queue read-back verified TikTok, exact date, MP4, caption with direct App Store URL, autoPublish=true/draft=false. Scheduled not published."
       }
     ],
     "failures": [],
