@@ -3576,15 +3576,18 @@
   "stories": {
     "enabled": true,
     "enabled_at": "2026-10-19T16:14:07+07:00",
-    "records": [],
-    "pending": [
+    "records": [
       {
         "source_instagram_media_id": "18168995725479644",
-        "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/main/media/instagram/2026-10-14/2045_verb_luggage.mp4",
+        "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/33ef984a82b7c40b82ed23a2dd0cac7620016076/media/instagram/2026-10-14/2045_verb_luggage.mp4",
         "source_sha256": "03fb2459c5ce1eec1b03d517a01a7d7c80b2afd6fa545868683b77c835ecc668",
-        "status": "pending",
-        "reason": "owner requested initial previous-Reel Story test"
-      },
+        "status": "published",
+        "reason": "owner requested initial previous-Reel Story test",
+        "story_media_id": "18131511334811948",
+        "published_at": "2026-10-19T09:16:21.752Z"
+      }
+    ],
+    "pending": [
       {
         "source_instagram_media_id": "17963701479212908",
         "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/main/media/instagram/2026-10-14/2251_little_dog_big_dog.mp4",
