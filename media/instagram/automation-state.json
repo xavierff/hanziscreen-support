@@ -3585,16 +3585,17 @@
         "reason": "owner requested initial previous-Reel Story test",
         "story_media_id": "18131511334811948",
         "published_at": "2026-10-19T09:16:21.752Z"
-      }
-    ],
-    "pending": [
+      },
       {
         "source_instagram_media_id": "17963701479212908",
-        "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/main/media/instagram/2026-10-14/2251_little_dog_big_dog.mp4",
+        "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/0c047a09aa0263d16cc427f9cbfc651779f5f855/media/instagram/2026-10-14/2251_little_dog_big_dog.mp4",
         "source_sha256": "87fa793b7b355d8d34c7f16ac4f0311ada3dc1c25422941479295af601ce6732",
-        "status": "pending",
-        "reason": "owner requested initial previous-Reel Story test"
+        "status": "published",
+        "reason": "owner requested initial previous-Reel Story test",
+        "story_media_id": "18343480489287262",
+        "published_at": "2026-10-19T09:17:36.866Z"
       }
-    ]
+    ],
+    "pending": []
   }
 }
