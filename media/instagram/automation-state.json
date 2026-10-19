@@ -3382,6 +3382,28 @@
         "confirmed_response_at": "2026-10-18T20:07:00+07:00",
         "verified_at": "2026-10-18T20:08:00+07:00",
         "verification_note": "Verified queue date/time, TikTok provider, exact caption incl App Store link, hosted MP4, autoPublish=true and draft=false. Scheduled not yet published."
+      },
+      {
+        "status": "scheduled",
+        "source_instagram_media_id": "18476902066114273",
+        "source_sha256": "0cd53d2619cb9e54740e9a0aab847849e8dc3595856a6ae2ac289cf6b1bc2f28",
+        "source_slot": "2026-10-19T12:00:00+07:00",
+        "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/81d0455e04612b8133c6227baf7799919b3b1aeb/media/instagram/2026-10-19/1200_apple_shopping_challenge.mp4",
+        "source_video_path": "media/instagram/2026-10-19/1200_apple_shopping_challenge.mp4",
+        "scheduled_at": "2026-10-20T10:00:00+07:00",
+        "title": "Beginner Mandarin shopping challenge 🍎 | 苹果",
+        "caption": "Challenge: only buy what you can name in Mandarin. Me: opens an apple shop 🍎😅\n苹果 píngguǒ = apple.\nWhich fruit or vegetable should I learn next?\nFollow for daily Mandarin memes & free Chinese lessons!\nTry Hanzi on Screen—FREE to start: https://apps.apple.com/id/app/hanzi-screen/id6811871162\n#LearnMandarin #LearnChinese #MandarinMemes #ChineseVocabulary\nMusic: Investigations — Kevin MacLeod (incompetech.com), CC BY 4.0 https://creativecommons.org/licenses/by/4.0/ (trimmed/faded).",
+        "autoPublish": true,
+        "draft": false,
+        "network": "tiktok",
+        "queue_checked": "2026-10-19T12:01:00+07:00",
+        "selection_reason": "Tuesday10 score1136 is highest next24h, no slot conflict;16h after queued Monday18.",
+        "post_id": "399637244",
+        "uuid": "5581579688741653230",
+        "planner_url": "https://app.metricool.com/planner/calendar?blogId=7459891&openWithPostUuid=5581579688741653230",
+        "metricool_media_url": "https://static.metricool.com/planner/202610/7459891-file-6277039406230189916.mp4",
+        "provider_status": "PENDING",
+        "confirmed_response_at": "2026-10-19T12:04:00+07:00"
       }
     ],
     "failures": [],
@@ -3547,22 +3569,6 @@
       "data": {
         "rows": []
       }
-    },
-    "pending": {
-      "status": "intent_saved",
-      "source_instagram_media_id": "18476902066114273",
-      "source_sha256": "0cd53d2619cb9e54740e9a0aab847849e8dc3595856a6ae2ac289cf6b1bc2f28",
-      "source_slot": "2026-10-19T12:00:00+07:00",
-      "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/81d0455e04612b8133c6227baf7799919b3b1aeb/media/instagram/2026-10-19/1200_apple_shopping_challenge.mp4",
-      "source_video_path": "media/instagram/2026-10-19/1200_apple_shopping_challenge.mp4",
-      "scheduled_at": "2026-10-20T10:00:00+07:00",
-      "title": "Beginner Mandarin shopping challenge 🍎 | 苹果",
-      "caption": "Challenge: only buy what you can name in Mandarin. Me: opens an apple shop 🍎😅\n苹果 píngguǒ = apple.\nWhich fruit or vegetable should I learn next?\nFollow for daily Mandarin memes & free Chinese lessons!\nTry Hanzi on Screen—FREE to start: https://apps.apple.com/id/app/hanzi-screen/id6811871162\n#LearnMandarin #LearnChinese #MandarinMemes #ChineseVocabulary\nMusic: Investigations — Kevin MacLeod (incompetech.com), CC BY 4.0 https://creativecommons.org/licenses/by/4.0/ (trimmed/faded).",
-      "autoPublish": true,
-      "draft": false,
-      "network": "tiktok",
-      "queue_checked": "2026-10-19T12:01:00+07:00",
-      "selection_reason": "Tuesday10 score1136 is highest next24h, no slot conflict;16h after queued Monday18."
     }
   }
 }
