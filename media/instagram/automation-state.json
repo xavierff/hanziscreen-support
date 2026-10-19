@@ -819,6 +819,46 @@
       "media_id": "18115646572839963",
       "url": "https://www.instagram.com/reel/DeowIG1DQy9/",
       "media_commit": "f89acd30de92fce6ae31bbab71500ebcccb6a2a3"
+    },
+    {
+      "date": "2026-10-19",
+      "slot": "12:00",
+      "content_type": "animated_meme",
+      "comparison_group": "meme",
+      "series": "Mandarin Mini Moments",
+      "hook": "Buy only what you can name in Mandarin; beginner accidentally stocks an apple shop",
+      "topic": "苹果 píngguǒ apple; fictional vocabulary shopping challenge",
+      "audio": {
+        "title": "Investigations",
+        "artist": "Kevin MacLeod",
+        "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Investigations.mp3",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "license_evidence": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100646",
+        "path": "media/instagram/assets/investigations_30s.mp3",
+        "commercial_use": "CCBY4.0 commercial promotional use with attribution;30s cached excerpt, Reel trimmed/faded.",
+        "checked_date": "2026-10-19",
+        "trend_status": "New cleared alternative; no trend claim",
+        "use_date": "2026-10-19",
+        "media_id": "18476902066114273"
+      },
+      "ending_assets": [
+        "media/instagram/assets/owner_lock_screen_no_spice.jpeg",
+        "media/instagram/assets/owner_ending_poster.jpeg"
+      ],
+      "video_path": "media/instagram/2026-10-19/1200_apple_shopping_challenge.mp4",
+      "size_bytes": 1060002,
+      "sha256": "0cd53d2619cb9e54740e9a0aab847849e8dc3595856a6ae2ac289cf6b1bc2f28",
+      "duration": 20,
+      "caption": "Mandarin Mini Moments: buy only what you can name… accidentally stock an entire apple shop. 🍎😅\n苹果 píngguǒ = apple.\n\nWhat fruit or vegetable should this beginner learn next?\nFollow for daily Mandarin memes & free Chinese lessons!\nSee Chinese vocabulary on your Lock Screen with Hanzi on Screen—FREE to start. Link in bio.\n\nA fictional learner challenge, not shopping advice.\n#LearnMandarin #LearnChinese #MandarinMemes #ChineseVocabulary\nMusic: “Investigations” — Kevin MacLeod (incompetech.com), CC BY 4.0 https://creativecommons.org/licenses/by/4.0/ (trimmed/faded).",
+      "visible_follow_cta": {
+        "text": "Follow for daily Mandarin memes & free Chinese lessons!",
+        "start": 12,
+        "end": 15
+      },
+      "quality": "Fresh premise compared with published log; correctChinese/pinyin; representative sheet and full decode passed1080x1920H264/AAC. Exact followCTA/intactendingimages; newly cleared attributed audio.",
+      "media_id": "18476902066114273",
+      "url": "https://www.instagram.com/reel/Deqdo8xE07k/",
+      "media_commit": "81d0455e04612b8133c6227baf7799919b3b1aeb"
     }
   ],
   "verified_assets": [
@@ -3507,42 +3547,22 @@
       "data": {
         "rows": []
       }
+    },
+    "pending": {
+      "status": "intent_saved",
+      "source_instagram_media_id": "18476902066114273",
+      "source_sha256": "0cd53d2619cb9e54740e9a0aab847849e8dc3595856a6ae2ac289cf6b1bc2f28",
+      "source_slot": "2026-10-19T12:00:00+07:00",
+      "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/81d0455e04612b8133c6227baf7799919b3b1aeb/media/instagram/2026-10-19/1200_apple_shopping_challenge.mp4",
+      "source_video_path": "media/instagram/2026-10-19/1200_apple_shopping_challenge.mp4",
+      "scheduled_at": "2026-10-20T10:00:00+07:00",
+      "title": "Beginner Mandarin shopping challenge 🍎 | 苹果",
+      "caption": "Challenge: only buy what you can name in Mandarin. Me: opens an apple shop 🍎😅\n苹果 píngguǒ = apple.\nWhich fruit or vegetable should I learn next?\nFollow for daily Mandarin memes & free Chinese lessons!\nTry Hanzi on Screen—FREE to start: https://apps.apple.com/id/app/hanzi-screen/id6811871162\n#LearnMandarin #LearnChinese #MandarinMemes #ChineseVocabulary\nMusic: Investigations — Kevin MacLeod (incompetech.com), CC BY 4.0 https://creativecommons.org/licenses/by/4.0/ (trimmed/faded).",
+      "autoPublish": true,
+      "draft": false,
+      "network": "tiktok",
+      "queue_checked": "2026-10-19T12:01:00+07:00",
+      "selection_reason": "Tuesday10 score1136 is highest next24h, no slot conflict;16h after queued Monday18."
     }
-  },
-  "pending": {
-    "date": "2026-10-19",
-    "slot": "12:00",
-    "content_type": "animated_meme",
-    "comparison_group": "meme",
-    "series": "Mandarin Mini Moments",
-    "hook": "Buy only what you can name in Mandarin; beginner accidentally stocks an apple shop",
-    "topic": "苹果 píngguǒ apple; fictional vocabulary shopping challenge",
-    "audio": {
-      "title": "Investigations",
-      "artist": "Kevin MacLeod",
-      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Investigations.mp3",
-      "license": "https://creativecommons.org/licenses/by/4.0/",
-      "license_evidence": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100646",
-      "path": "media/instagram/assets/investigations_30s.mp3",
-      "commercial_use": "CCBY4.0 commercial promotional use with attribution;30s cached excerpt, Reel trimmed/faded.",
-      "checked_date": "2026-10-19",
-      "trend_status": "New cleared alternative; no trend claim",
-      "use_date": "2026-10-19"
-    },
-    "ending_assets": [
-      "media/instagram/assets/owner_lock_screen_no_spice.jpeg",
-      "media/instagram/assets/owner_ending_poster.jpeg"
-    ],
-    "video_path": "media/instagram/2026-10-19/1200_apple_shopping_challenge.mp4",
-    "size_bytes": 1060002,
-    "sha256": "0cd53d2619cb9e54740e9a0aab847849e8dc3595856a6ae2ac289cf6b1bc2f28",
-    "duration": 20,
-    "caption": "Mandarin Mini Moments: buy only what you can name… accidentally stock an entire apple shop. 🍎😅\n苹果 píngguǒ = apple.\n\nWhat fruit or vegetable should this beginner learn next?\nFollow for daily Mandarin memes & free Chinese lessons!\nSee Chinese vocabulary on your Lock Screen with Hanzi on Screen—FREE to start. Link in bio.\n\nA fictional learner challenge, not shopping advice.\n#LearnMandarin #LearnChinese #MandarinMemes #ChineseVocabulary\nMusic: “Investigations” — Kevin MacLeod (incompetech.com), CC BY 4.0 https://creativecommons.org/licenses/by/4.0/ (trimmed/faded).",
-    "visible_follow_cta": {
-      "text": "Follow for daily Mandarin memes & free Chinese lessons!",
-      "start": 12,
-      "end": 15
-    },
-    "quality": "Fresh premise compared with published log; correctChinese/pinyin; representative sheet and full decode passed1080x1920H264/AAC. Exact followCTA/intactendingimages; newly cleared attributed audio."
   }
 }
