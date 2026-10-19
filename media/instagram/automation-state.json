@@ -1,17 +1,18 @@
 {
   "trend_cache": {
-    "date": "2026-10-18",
+    "date": "2026-10-19",
     "sources": [
-      "https://kabo.sh/tools/trending-instagram-audio",
-      "https://www.socialpilot.co/blog/instagram-reels-trends"
+      "https://inmagic.ai/top-10-instagram-reels-to-try-this-week/",
+      "https://later.com/blog/instagram-reels-trends/"
     ],
     "source_dates": [
-      "2026-10-18",
-      "2026-10-16"
+      "2026-10-19 report heading (original publication older)",
+      "October2026 roundup"
     ],
-    "finding": "Current sound reports checked. No fitting commercially cleared trending sound with publishing compatibility verified. Original barber agreement-trap story uses existing licensed nonconsecutive Sneaky Snitch; no viral claim.",
-    "audio_research_date": "2026-10-18",
-    "audio_limitation": "Popularity/availability does not confer promotional rights; use cached rights-cleared audio."
+    "finding": "Current reports checked for relatable short-form/story formats; no commercially cleared fitting trending sound verified. Original beginner shopping challenge chosen; no viral claim.",
+    "audio_research_date": "2026-10-19",
+    "audio_pool_expanded_date": "2026-10-19",
+    "audio_limitation": "Use newly cleared Investigations rather than unverified trending music."
   },
   "published": [
     {
@@ -873,7 +874,7 @@
     }
   ],
   "metrics": {
-    "date": "2026-10-18",
+    "date": "2026-10-19",
     "available": [
       {
         "media_id": "17951002089335411",
@@ -1137,7 +1138,7 @@
         "media_like_count": 2,
         "media_saved": 2,
         "media_shares": 0,
-        "media_reel_avg_watch_time": 4845
+        "media_reel_avg_watch_time": 4825
       },
       {
         "media_id": "18342186049269138",
@@ -1145,7 +1146,7 @@
         "media_like_count": 1,
         "media_saved": 0,
         "media_shares": 0,
-        "media_reel_avg_watch_time": 4056
+        "media_reel_avg_watch_time": 4027
       },
       {
         "media_id": "18464305003189705",
@@ -1153,7 +1154,7 @@
         "media_like_count": 0,
         "media_saved": 0,
         "media_shares": 0,
-        "media_reel_avg_watch_time": 3240
+        "media_reel_avg_watch_time": 3444
       },
       {
         "media_id": "18168244624467786",
@@ -1161,7 +1162,7 @@
         "media_like_count": 3,
         "media_saved": 1,
         "media_shares": 0,
-        "media_reel_avg_watch_time": 5046
+        "media_reel_avg_watch_time": 5054
       },
       {
         "media_id": "17980715637121140",
@@ -1169,7 +1170,7 @@
         "media_like_count": 0,
         "media_saved": 1,
         "media_shares": 0,
-        "media_reel_avg_watch_time": 1300
+        "media_reel_avg_watch_time": 1389
       },
       {
         "media_id": "18121285220071383",
@@ -1177,18 +1178,34 @@
         "media_like_count": 0,
         "media_saved": 0,
         "media_shares": 1,
-        "media_reel_avg_watch_time": 3017
+        "media_reel_avg_watch_time": 3325
+      },
+      {
+        "media_id": "18115646572839963",
+        "media_views": 12,
+        "media_like_count": 0,
+        "media_saved": 0,
+        "media_shares": 0,
+        "media_reel_avg_watch_time": 1306
+      },
+      {
+        "media_id": "18018204878745061",
+        "media_views": 118,
+        "media_like_count": 0,
+        "media_saved": 0,
+        "media_shares": 0,
+        "media_reel_avg_watch_time": 5052
       }
     ],
     "account": [
       {
-        "followers_count": 1,
+        "followers_count": 2,
         "profile_views": null,
         "website_clicks_1d": null
       }
     ],
-    "summary": "Follower count1. Rice138views/3likes/1save/5046ms; sticky118views/2likes/2saves/4845ms. Latest anything60views/1share/3017ms and calendar116views/1save/1300ms. Small, uneven exposure; maintain test period, keep clear useful setups; no causal conclusions.",
-    "limitations": "Profile views and website clicks unavailable(null). No authorized App Store download source; no inferred downloads/clicks or post-specific follower attribution."
+    "summary": "Instagram follower total2 vs prior1; no attribution. Rice138views/3likes/1save/5054ms; barber118views/5052ms; anything60views/1share/3325ms. Samples small; preserve14day test and clear setups.",
+    "limitations": "Profile views/website clicks null. No authorized App Store downloads/attribution source. No inferred clicks or installs."
   },
   "animation_assets": [
     {
@@ -1362,6 +1379,20 @@
       "audio_research_date": "2026-10-17",
       "audio_pool_expanded_date": "2026-10-17",
       "audio_limitation": "Use newly cleared Carefree rather than unverified trending tracks."
+    },
+    {
+      "date": "2026-10-18",
+      "sources": [
+        "https://kabo.sh/tools/trending-instagram-audio",
+        "https://www.socialpilot.co/blog/instagram-reels-trends"
+      ],
+      "source_dates": [
+        "2026-10-18",
+        "2026-10-16"
+      ],
+      "finding": "Current sound reports checked. No fitting commercially cleared trending sound with publishing compatibility verified. Original barber agreement-trap story uses existing licensed nonconsecutive Sneaky Snitch; no viral claim.",
+      "audio_research_date": "2026-10-18",
+      "audio_limitation": "Popularity/availability does not confer promotional rights; use cached rights-cleared audio."
     }
   ],
   "creative_update": {
@@ -1372,7 +1403,7 @@
     "performance_guidance": "Favour clear relatable novice situations based on likes, saves and retention; do not copy or overreact to small samples."
   },
   "performance_review": {
-    "date": "2026-10-18",
+    "date": "2026-10-19",
     "metrics": [
       {
         "media_id": "17951002089335411",
@@ -1636,7 +1667,7 @@
         "media_like_count": 2,
         "media_saved": 2,
         "media_shares": 0,
-        "media_reel_avg_watch_time": 4845
+        "media_reel_avg_watch_time": 4825
       },
       {
         "media_id": "18342186049269138",
@@ -1644,7 +1675,7 @@
         "media_like_count": 1,
         "media_saved": 0,
         "media_shares": 0,
-        "media_reel_avg_watch_time": 4056
+        "media_reel_avg_watch_time": 4027
       },
       {
         "media_id": "18464305003189705",
@@ -1652,7 +1683,7 @@
         "media_like_count": 0,
         "media_saved": 0,
         "media_shares": 0,
-        "media_reel_avg_watch_time": 3240
+        "media_reel_avg_watch_time": 3444
       },
       {
         "media_id": "18168244624467786",
@@ -1660,7 +1691,7 @@
         "media_like_count": 3,
         "media_saved": 1,
         "media_shares": 0,
-        "media_reel_avg_watch_time": 5046
+        "media_reel_avg_watch_time": 5054
       },
       {
         "media_id": "17980715637121140",
@@ -1668,7 +1699,7 @@
         "media_like_count": 0,
         "media_saved": 1,
         "media_shares": 0,
-        "media_reel_avg_watch_time": 1300
+        "media_reel_avg_watch_time": 1389
       },
       {
         "media_id": "18121285220071383",
@@ -1676,10 +1707,26 @@
         "media_like_count": 0,
         "media_saved": 0,
         "media_shares": 1,
-        "media_reel_avg_watch_time": 3017
+        "media_reel_avg_watch_time": 3325
+      },
+      {
+        "media_id": "18115646572839963",
+        "media_views": 12,
+        "media_like_count": 0,
+        "media_saved": 0,
+        "media_shares": 0,
+        "media_reel_avg_watch_time": 1306
+      },
+      {
+        "media_id": "18018204878745061",
+        "media_views": 118,
+        "media_like_count": 0,
+        "media_saved": 0,
+        "media_shares": 0,
+        "media_reel_avg_watch_time": 5052
       }
     ],
-    "clues": "Follower count1. Rice138views/3likes/1save/5046ms; sticky118views/2likes/2saves/4845ms. Latest anything60views/1share/3017ms and calendar116views/1save/1300ms. Small, uneven exposure; maintain test period, keep clear useful setups; no causal conclusions."
+    "clues": "Instagram follower total2 vs prior1; no attribution. Rice138views/3likes/1save/5054ms; barber118views/5052ms; anything60views/1share/3325ms. Samples small; preserve14day test and clear setups."
   },
   "audio_pool": [
     {
@@ -1703,6 +1750,17 @@
       "commercial_use": "CC BY 4.0 allows commercial promotional use with attribution; cached30s excerpt, Reel trimmed/faded.",
       "checked_date": "2026-10-17",
       "trend_status": "Cleared alternative; no current trend claim"
+    },
+    {
+      "title": "Investigations",
+      "artist": "Kevin MacLeod",
+      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Investigations.mp3",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "license_evidence": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100646",
+      "path": "media/instagram/assets/investigations_30s.mp3",
+      "commercial_use": "CCBY4.0 commercial promotional use with attribution;30s cached excerpt, Reel trimmed/faded.",
+      "checked_date": "2026-10-19",
+      "trend_status": "New cleared alternative; no trend claim"
     }
   ],
   "metrics_history": [
@@ -2775,6 +2833,324 @@
       ],
       "summary": "Follower total remains 1. Rice mountain 138 views/3likes/1save/5046ms average; sticky notes118views/2likes/2saves/4845ms; latest desk21views/0likes/1784ms, too early/small for conclusions. Favor clear relatable setups; preserve test period.",
       "limitations": "Profile views and website clicks null/unavailable. No authorized App Store download/attribution source. Do not infer clicks or installs from views."
+    },
+    {
+      "date": "2026-10-18",
+      "available": [
+        {
+          "media_id": "17951002089335411",
+          "media_views": 127,
+          "media_like_count": 0,
+          "media_saved": 0,
+          "media_shares": 0,
+          "media_reel_avg_watch_time": 4861
+        },
+        {
+          "media_id": "18110301092230806",
+          "media_views": 92,
+          "media_like_count": 0,
+          "media_saved": 0,
+          "media_shares": 0,
+          "media_reel_avg_watch_time": 4432
+        },
+        {
+          "media_id": "18109934183464885",
+          "media_views": 108,
+          "media_like_count": 0,
+          "media_saved": 0,
+          "media_shares": 0,
+          "media_reel_avg_watch_time": 3301
+        },
+        {
+          "media_id": "18114705566115337",
+          "media_views": 144,
+          "media_like_count": 0,
+          "media_saved": 0,
+          "media_shares": 0,
+          "media_reel_avg_watch_time": 5065
+        },
+        {
+          "media_id": "18169011904482382",
+          "media_views": 142,
+          "media_like_count": 1,
+          "media_saved": 1,
+          "media_shares": 0,
+          "media_reel_avg_watch_time": 5992
+        },
+        {
+          "media_id": "18179069206432399",
+          "media_views": 119,
+          "media_like_count": 0,
+          "media_saved": 0,
+          "media_shares": 0,
+          "media_reel_avg_watch_time": 3794
+        },
+        {
+          "media_id": "18130470418764180",
+          "media_views": 199,
+          "media_like_count": 3,
+          "media_saved": 0,
+          "media_shares": 0,
+          "media_reel_avg_watch_time": 5232
+        },
+        {
+          "media_id": "18051287753602043",
+          "media_views": 105,
+          "media_like_count": 1,
+          "media_saved": 0,
+          "media_shares": 0,
+          "media_reel_avg_watch_time": 4584
+        },
+        {
+          "media_id": "18475458250118634",
+          "media_views": 112,
+          "media_like_count": 0,
+          "media_saved": 1,
+          "media_shares": 0,
+          "media_reel_avg_watch_time": 5018
+        },
+        {
+          "media_id": "18119850412977244",
+          "media_views": 13,
+          "media_like_count": 2,
+          "media_saved": 1,
+          "media_shares": 0,
+          "media_reel_avg_watch_time": 7775
+        },
+        {
+          "media_id": "17908565574481872",
+          "media_views": 0,
+          "media_like_count": 0,
+          "media_saved": 0,
+          "media_shares": 0,
+          "media_reel_avg_watch_time": 0
+        },
+        {
+          "media_id": "18493352764111454",
+          "media_views": 0,
+          "media_like_count": 0,
+          "media_saved": 0,
+          "media_shares": 0,
+          "media_reel_avg_watch_time": 0
+        },
+        {
+          "media_id": "18106519703253044",
+          "media_views": 113,
+          "media_like_count": 1,
+          "media_saved": 0,
+          "media_shares": 0,
+          "media_reel_avg_watch_time": 4415
+        },
+        {
+          "media_id": "18112261643154960",
+          "media_views": 116,
+          "media_like_count": 1,
+          "media_saved": 0,
+          "media_shares": 0,
+          "media_reel_avg_watch_time": 3105
+        },
+        {
+          "media_id": "18247141837313239",
+          "media_views": 107,
+          "media_like_count": 0,
+          "media_saved": 0,
+          "media_shares": 0,
+          "media_reel_avg_watch_time": 3136
+        },
+        {
+          "media_id": "18189404692406817",
+          "media_views": 113,
+          "media_like_count": 2,
+          "media_saved": 0,
+          "media_shares": 0,
+          "media_reel_avg_watch_time": 3294
+        },
+        {
+          "media_id": "18044901614820565",
+          "media_views": 124,
+          "media_like_count": 0,
+          "media_saved": 0,
+          "media_shares": 0,
+          "media_reel_avg_watch_time": 1339
+        },
+        {
+          "media_id": "17965137554979728",
+          "media_views": 108,
+          "media_like_count": 1,
+          "media_saved": 0,
+          "media_shares": 0,
+          "media_reel_avg_watch_time": 3331
+        },
+        {
+          "media_id": "18123534512475507",
+          "media_views": 101,
+          "media_like_count": 0,
+          "media_saved": 0,
+          "media_shares": 0,
+          "media_reel_avg_watch_time": 2952
+        },
+        {
+          "media_id": "18060020642542406",
+          "media_views": 128,
+          "media_like_count": 0,
+          "media_saved": 1,
+          "media_shares": 0,
+          "media_reel_avg_watch_time": 2779
+        },
+        {
+          "media_id": "18146946064566422",
+          "media_views": 110,
+          "media_like_count": 1,
+          "media_saved": 0,
+          "media_shares": 0,
+          "media_reel_avg_watch_time": 3638
+        },
+        {
+          "media_id": "18130896391802054",
+          "media_views": 115,
+          "media_like_count": 0,
+          "media_saved": 0,
+          "media_shares": 0,
+          "media_reel_avg_watch_time": 5669
+        },
+        {
+          "media_id": "18394845514165179",
+          "media_views": 74,
+          "media_like_count": 0,
+          "media_saved": 0,
+          "media_shares": 0,
+          "media_reel_avg_watch_time": 3086
+        },
+        {
+          "media_id": "18136680817640144",
+          "media_views": 108,
+          "media_like_count": 1,
+          "media_saved": 0,
+          "media_shares": 0,
+          "media_reel_avg_watch_time": 3608
+        },
+        {
+          "media_id": "17963701479212908",
+          "media_views": 58,
+          "media_like_count": 1,
+          "media_saved": 1,
+          "media_shares": 0,
+          "media_reel_avg_watch_time": 3781
+        },
+        {
+          "media_id": "18168995725479644",
+          "media_views": 125,
+          "media_like_count": 1,
+          "media_saved": 1,
+          "media_shares": 0,
+          "media_reel_avg_watch_time": 2899
+        },
+        {
+          "media_id": "18388817245225347",
+          "media_views": 91,
+          "media_like_count": 0,
+          "media_saved": 0,
+          "media_shares": 0,
+          "media_reel_avg_watch_time": 3053
+        },
+        {
+          "media_id": "18023322239868003",
+          "media_views": 113,
+          "media_like_count": 1,
+          "media_saved": 0,
+          "media_shares": 0,
+          "media_reel_avg_watch_time": 4486
+        },
+        {
+          "media_id": "18215666734361215",
+          "media_views": 52,
+          "media_like_count": 0,
+          "media_saved": 0,
+          "media_shares": 0,
+          "media_reel_avg_watch_time": 4583
+        },
+        {
+          "media_id": "18000318000041280",
+          "media_views": 94,
+          "media_like_count": 1,
+          "media_saved": 0,
+          "media_shares": 0,
+          "media_reel_avg_watch_time": 3735
+        },
+        {
+          "media_id": "18135800143659204",
+          "media_views": 111,
+          "media_like_count": 2,
+          "media_saved": 0,
+          "media_shares": 0,
+          "media_reel_avg_watch_time": 4068
+        },
+        {
+          "media_id": "18168640951481231",
+          "media_views": 93,
+          "media_like_count": 0,
+          "media_saved": 0,
+          "media_shares": 0,
+          "media_reel_avg_watch_time": 2980
+        },
+        {
+          "media_id": "18633453964006554",
+          "media_views": 118,
+          "media_like_count": 2,
+          "media_saved": 2,
+          "media_shares": 0,
+          "media_reel_avg_watch_time": 4845
+        },
+        {
+          "media_id": "18342186049269138",
+          "media_views": 93,
+          "media_like_count": 1,
+          "media_saved": 0,
+          "media_shares": 0,
+          "media_reel_avg_watch_time": 4056
+        },
+        {
+          "media_id": "18464305003189705",
+          "media_views": 25,
+          "media_like_count": 0,
+          "media_saved": 0,
+          "media_shares": 0,
+          "media_reel_avg_watch_time": 3240
+        },
+        {
+          "media_id": "18168244624467786",
+          "media_views": 138,
+          "media_like_count": 3,
+          "media_saved": 1,
+          "media_shares": 0,
+          "media_reel_avg_watch_time": 5046
+        },
+        {
+          "media_id": "17980715637121140",
+          "media_views": 116,
+          "media_like_count": 0,
+          "media_saved": 1,
+          "media_shares": 0,
+          "media_reel_avg_watch_time": 1300
+        },
+        {
+          "media_id": "18121285220071383",
+          "media_views": 60,
+          "media_like_count": 0,
+          "media_saved": 0,
+          "media_shares": 1,
+          "media_reel_avg_watch_time": 3017
+        }
+      ],
+      "account": [
+        {
+          "followers_count": 1,
+          "profile_views": null,
+          "website_clicks_1d": null
+        }
+      ],
+      "summary": "Follower count1. Rice138views/3likes/1save/5046ms; sticky118views/2likes/2saves/4845ms. Latest anything60views/1share/3017ms and calendar116views/1save/1300ms. Small, uneven exposure; maintain test period, keep clear useful setups; no causal conclusions.",
+      "limitations": "Profile views and website clicks unavailable(null). No authorized App Store download source; no inferred downloads/clicks or post-specific follower attribution."
     }
   ],
   "strategy_baseline": {
@@ -2919,7 +3295,7 @@
         "public_url": "https://www.tiktok.com/@hanziscreen/video/7697637456920710418"
       },
       {
-        "status": "scheduled",
+        "status": "published",
         "source_instagram_media_id": "18018204878745061",
         "source_sha256": "5a12c6a4bae6e5b5780b5c5cc848b8932477a44821b467ba74e48b9133c20631",
         "source_slot": "2026-10-18T12:00:00+07:00",
@@ -2937,10 +3313,11 @@
         "uuid": "-2883965835749142607",
         "planner_url": "https://app.metricool.com/planner/calendar?blogId=7459891&openWithPostUuid=-2883965835749142607",
         "metricool_media_url": "https://static.metricool.com/planner/202610/7459891-file-18095436381028623928.mp4",
-        "provider_status": "PENDING",
+        "provider_status": "PUBLISHED",
         "confirmed_response_at": "2026-10-18T12:01:00+07:00",
-        "verified_at": "2026-10-18T12:02:00+07:00",
-        "verification_note": "Queue read-back verified TikTok, exact date, MP4, caption with direct App Store URL, autoPublish=true/draft=false. Scheduled not published."
+        "verified_at": "2026-10-19T12:03:00+07:00",
+        "verification_note": "Explicit Metricool provider PUBLISHED + matching caption/public URL; TKPO analytics still empty (lag). No repost.",
+        "public_url": "https://www.tiktok.com/@hanziscreen/video/7698208932006841608"
       },
       {
         "status": "scheduled",
@@ -2969,116 +3346,15 @@
     ],
     "failures": [],
     "best_times_cache": {
-      "checked_date": "2026-10-18",
+      "checked_date": "2026-10-19",
       "timezone": "Asia/Jakarta",
-      "from": "2026-10-18T12:00:00+07:00",
-      "to": "2026-10-19T20:00:00+07:00",
+      "from": "2026-10-19T12:00:00+07:00",
+      "to": "2026-10-20T20:00:00+07:00",
       "data": {
         "data": [
           {
-            "dayOfWeek": 7,
-            "bestTimesByHour": [
-              {
-                "hourOfDay": 12,
-                "value": 720
-              },
-              {
-                "hourOfDay": 13,
-                "value": 487
-              },
-              {
-                "hourOfDay": 14,
-                "value": 493
-              },
-              {
-                "hourOfDay": 15,
-                "value": 492
-              },
-              {
-                "hourOfDay": 16,
-                "value": 595
-              },
-              {
-                "hourOfDay": 17,
-                "value": 524
-              },
-              {
-                "hourOfDay": 18,
-                "value": 677
-              },
-              {
-                "hourOfDay": 19,
-                "value": 632
-              },
-              {
-                "hourOfDay": 20,
-                "value": 579
-              },
-              {
-                "hourOfDay": 21,
-                "value": 402
-              },
-              {
-                "hourOfDay": 22,
-                "value": 283
-              },
-              {
-                "hourOfDay": 23,
-                "value": 161
-              }
-            ]
-          },
-          {
             "dayOfWeek": 1,
             "bestTimesByHour": [
-              {
-                "hourOfDay": 0,
-                "value": 125
-              },
-              {
-                "hourOfDay": 1,
-                "value": 68
-              },
-              {
-                "hourOfDay": 2,
-                "value": 67
-              },
-              {
-                "hourOfDay": 3,
-                "value": 60
-              },
-              {
-                "hourOfDay": 4,
-                "value": 66
-              },
-              {
-                "hourOfDay": 5,
-                "value": 91
-              },
-              {
-                "hourOfDay": 6,
-                "value": 193
-              },
-              {
-                "hourOfDay": 7,
-                "value": 318
-              },
-              {
-                "hourOfDay": 8,
-                "value": 508
-              },
-              {
-                "hourOfDay": 9,
-                "value": 653
-              },
-              {
-                "hourOfDay": 10,
-                "value": 1089
-              },
-              {
-                "hourOfDay": 11,
-                "value": 741
-              },
               {
                 "hourOfDay": 12,
                 "value": 1050
@@ -3110,37 +3386,163 @@
               {
                 "hourOfDay": 19,
                 "value": 804
+              },
+              {
+                "hourOfDay": 20,
+                "value": 702
+              },
+              {
+                "hourOfDay": 21,
+                "value": 503
+              },
+              {
+                "hourOfDay": 22,
+                "value": 346
+              },
+              {
+                "hourOfDay": 23,
+                "value": 255
+              }
+            ]
+          },
+          {
+            "dayOfWeek": 2,
+            "bestTimesByHour": [
+              {
+                "hourOfDay": 0,
+                "value": 136
+              },
+              {
+                "hourOfDay": 1,
+                "value": 91
+              },
+              {
+                "hourOfDay": 2,
+                "value": 66
+              },
+              {
+                "hourOfDay": 3,
+                "value": 53
+              },
+              {
+                "hourOfDay": 4,
+                "value": 48
+              },
+              {
+                "hourOfDay": 5,
+                "value": 73
+              },
+              {
+                "hourOfDay": 6,
+                "value": 177
+              },
+              {
+                "hourOfDay": 7,
+                "value": 327
+              },
+              {
+                "hourOfDay": 8,
+                "value": 452
+              },
+              {
+                "hourOfDay": 9,
+                "value": 646
+              },
+              {
+                "hourOfDay": 10,
+                "value": 1136
+              },
+              {
+                "hourOfDay": 11,
+                "value": 736
+              },
+              {
+                "hourOfDay": 12,
+                "value": 1082
+              },
+              {
+                "hourOfDay": 13,
+                "value": 707
+              },
+              {
+                "hourOfDay": 14,
+                "value": 681
+              },
+              {
+                "hourOfDay": 15,
+                "value": 771
+              },
+              {
+                "hourOfDay": 16,
+                "value": 812
+              },
+              {
+                "hourOfDay": 17,
+                "value": 883
+              },
+              {
+                "hourOfDay": 18,
+                "value": 1119
+              },
+              {
+                "hourOfDay": 19,
+                "value": 859
               }
             ]
           }
         ]
       },
-      "selected": "2026-10-19T10:00:00+07:00",
-      "selected_score": 1089,
-      "reason": "Highest returned score within next24h; previous copy Oct18 10:00 and no queue collision."
+      "selected": "2026-10-20T10:00:00+07:00",
+      "selected_score": 1136,
+      "reason": "Highest eligible next24h score; no slot conflict;16h after queued Oct19 18."
     },
     "verification_notes": "Metricool schedule creation and queue read-back passed. Pending is not published; check public URL through TKPO03/TKPO05 after scheduled time. Queue absence alone is not success.",
     "analytics_cache": {
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "metrics": [
         "TKPO02",
         "TKPO03",
         "TKPO05"
       ],
       "data": {
-        "rows": [
-          [
-            "20261017140441",
-            "https://www.tiktok.com/@hanziscreen/video/7697637456920710418?utm_campaign=tt4d_open_api&utm_source=awwuexz91plpu87c",
-            "POV: your calendar rejects your Mandarin study plans 😅 太忙了 tài máng le = too busy. Who else needs an extra day in the week? Follow for daily Mandarin memes & free Chinese lessons! See Chinese vocabulary on your iPhone Lock Screen with Hanzi on Screen. FREE to start: https://apps.apple.com/id/app/hanzi-screen/id6811871162 Genuine owner screenshot preview; fictional calendar animation, not app footage. #LearnMandarin #LearnChinese #LanguageLearning #StudyTok Music: Fluffing a Duck — Kevin MacLeod (incompetech.com), CC BY 4.0 https://creativecommons.org/licenses/by/4.0/ (trimmed/faded)."
-          ],
-          [
-            "20261017030248",
-            "https://www.tiktok.com/@hanziscreen/video/7697466887231294738?utm_campaign=tt4d_open_api&utm_source=awwuexz91plpu87c",
-            "POV: you meant to study Mandarin… now you’re an interior designer. 🪴📚 学习 xuéxí = study / learn. What’s your favourite study distraction? Follow for daily Mandarin memes & free Chinese lessons! See Chinese vocabulary on your iPhone Lock Screen with Hanzi on Screen. FREE to start—try it: https://apps.apple.com/id/app/hanzi-screen/id6811871162 Genuine owner screenshot preview, not a screen recording. #LearnMandarin #LearnChinese #StudyTok #ChineseVocabulary Music: Sneaky Snitch — Kevin MacLeod (incompetech.com), CC BY 4.0 https://creativecommons.org/licenses/by/4.0/ (trimmed/faded)."
-          ]
-        ]
+        "rows": []
       }
     }
+  },
+  "pending": {
+    "date": "2026-10-19",
+    "slot": "12:00",
+    "content_type": "animated_meme",
+    "comparison_group": "meme",
+    "series": "Mandarin Mini Moments",
+    "hook": "Buy only what you can name in Mandarin; beginner accidentally stocks an apple shop",
+    "topic": "苹果 píngguǒ apple; fictional vocabulary shopping challenge",
+    "audio": {
+      "title": "Investigations",
+      "artist": "Kevin MacLeod",
+      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Investigations.mp3",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "license_evidence": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100646",
+      "path": "media/instagram/assets/investigations_30s.mp3",
+      "commercial_use": "CCBY4.0 commercial promotional use with attribution;30s cached excerpt, Reel trimmed/faded.",
+      "checked_date": "2026-10-19",
+      "trend_status": "New cleared alternative; no trend claim",
+      "use_date": "2026-10-19"
+    },
+    "ending_assets": [
+      "media/instagram/assets/owner_lock_screen_no_spice.jpeg",
+      "media/instagram/assets/owner_ending_poster.jpeg"
+    ],
+    "video_path": "media/instagram/2026-10-19/1200_apple_shopping_challenge.mp4",
+    "size_bytes": 1060002,
+    "sha256": "0cd53d2619cb9e54740e9a0aab847849e8dc3595856a6ae2ac289cf6b1bc2f28",
+    "duration": 20,
+    "caption": "Mandarin Mini Moments: buy only what you can name… accidentally stock an entire apple shop. 🍎😅\n苹果 píngguǒ = apple.\n\nWhat fruit or vegetable should this beginner learn next?\nFollow for daily Mandarin memes & free Chinese lessons!\nSee Chinese vocabulary on your Lock Screen with Hanzi on Screen—FREE to start. Link in bio.\n\nA fictional learner challenge, not shopping advice.\n#LearnMandarin #LearnChinese #MandarinMemes #ChineseVocabulary\nMusic: “Investigations” — Kevin MacLeod (incompetech.com), CC BY 4.0 https://creativecommons.org/licenses/by/4.0/ (trimmed/faded).",
+    "visible_follow_cta": {
+      "text": "Follow for daily Mandarin memes & free Chinese lessons!",
+      "start": 12,
+      "end": 15
+    },
+    "quality": "Fresh premise compared with published log; correctChinese/pinyin; representative sheet and full decode passed1080x1920H264/AAC. Exact followCTA/intactendingimages; newly cleared attributed audio."
   }
 }
