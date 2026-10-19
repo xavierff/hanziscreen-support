@@ -880,7 +880,8 @@
         "title": "Slower Mandarin test plucks and ticks",
         "artist": "Hanzi on Screen",
         "license": "Original synthesized sound design, no third-party samples"
-      }
+      },
+      "url": "https://www.instagram.com/reel/DerxGFTAfoS/"
     }
   ],
   "verified_assets": [
@@ -3428,6 +3429,17 @@
         "confirmed_response_at": "2026-10-19T12:04:00+07:00",
         "verified_at": "2026-10-19T12:05:00+07:00",
         "verification_note": "Queue read-back verified TikTok provider, exact date/time, MP4, caption including direct App Store URL, autoPublish=true/draft=false. Scheduled, not published."
+      },
+      {
+        "status": "pending",
+        "source_instagram_media_id": "18119766298965216",
+        "source_sha256": "ed115659b56880cf2b2c6eea11a1c00b2b4db8a0d0bba268feb3a6e4fad9500c",
+        "source_slot": "2026-10-19T20:00:00+07:00",
+        "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/07444adf061738882a658d69ad604bab01c7957f/media/instagram/2026-10-19/2000_slower_mandarin_test.mp4",
+        "scheduled_at": "2026-10-20T18:00:00+07:00",
+        "title": "Slower Mandarin… not next year 😅 | 慢一点",
+        "caption": "When you ask your friend for slower Mandarin… and grow a beard waiting 😅\n慢一点 màn yì diǎn = a little slower.\nWhat phrase saves you in a Mandarin conversation?\nFollow for daily Mandarin memes & bite-sized lessons.\nLearn Chinese on your iPhone with Hanzi on Screen—FREE to start. Search Hanzi Screen in the App Store:\nhttps://apps.apple.com/id/app/hanzi-screen/id6811871162\nOriginal cartoon and sound design; authentic widget screenshot preview.\n#LearnMandarin #LearnChinese #MandarinMemes #iPhoneWidgets",
+        "selection_reason": "Reused cached Tuesday18 score1119;10AM occupied,8h separation; cached fallback at recovery."
       }
     ],
     "failures": [],
@@ -3616,15 +3628,16 @@
         "reason": "owner requested initial previous-Reel Story test",
         "story_media_id": "18343480489287262",
         "published_at": "2026-10-19T09:17:36.866Z"
-      }
-    ],
-    "pending": [
+      },
       {
         "source_instagram_media_id": "18119766298965216",
         "source_sha256": "ed115659b56880cf2b2c6eea11a1c00b2b4db8a0d0bba268feb3a6e4fad9500c",
         "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/07444adf061738882a658d69ad604bab01c7957f/media/instagram/2026-10-19/2000_slower_mandarin_test.mp4",
-        "status": "pending"
+        "status": "published",
+        "story_media_id": "18107493407628879",
+        "published_at": "2026-10-19T17:15:18.800Z"
       }
-    ]
+    ],
+    "pending": []
   }
 }
