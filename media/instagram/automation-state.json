@@ -859,6 +859,28 @@
       "media_id": "18476902066114273",
       "url": "https://www.instagram.com/reel/Deqdo8xE07k/",
       "media_commit": "81d0455e04612b8133c6227baf7799919b3b1aeb"
+    },
+    {
+      "date": "2026-10-19",
+      "slot": "20:00",
+      "requested_recovery_at": "2026-10-19T17:11:28.047Z",
+      "test_tag": "engagement_test_20261019",
+      "hook": "Slower Mandarin, not next year",
+      "video_path": "media/instagram/2026-10-19/2000_slower_mandarin_test.mp4",
+      "sha256": "ed115659b56880cf2b2c6eea11a1c00b2b4db8a0d0bba268feb3a6e4fad9500c",
+      "size_bytes": 1067368,
+      "duration": 22,
+      "caption": "I asked for slower Mandarin. Not next year. 😅\n慢一点 màn yì diǎn = a little slower.\n\nWhat phrase saves you in a Mandarin conversation?\nFollow for daily Mandarin memes & bite-sized lessons.\nSee Chinese vocabulary on your iPhone Lock Screen with Hanzi on Screen—FREE to start. Tap @hanziscreen, then the App Store link in our bio.\nhttps://apps.apple.com/id/app/hanzi-screen/id6811871162\n\nFictional learner joke; genuine widget screenshot previews with an enlarged detail. Original animation and sound design.\n#LearnMandarin #LearnChinese #MandarinMemes #iPhoneWidgets",
+      "media_id": "18119766298965216",
+      "published_at": "2026-10-19T17:13:37.322Z",
+      "content_type": "pov_screenshot_preview",
+      "comparison_group": "product_focused",
+      "media_commit": "07444adf061738882a658d69ad604bab01c7957f",
+      "audio": {
+        "title": "Slower Mandarin test plucks and ticks",
+        "artist": "Hanzi on Screen",
+        "license": "Original synthesized sound design, no third-party samples"
+      }
     }
   ],
   "verified_assets": [
@@ -3596,18 +3618,13 @@
         "published_at": "2026-10-19T09:17:36.866Z"
       }
     ],
-    "pending": []
-  },
-  "pending": {
-    "date": "2026-10-19",
-    "slot": "20:00",
-    "requested_recovery_at": "2026-10-19T17:11:28.047Z",
-    "test_tag": "engagement_test_20261019",
-    "hook": "Slower Mandarin, not next year",
-    "video_path": "media/instagram/2026-10-19/2000_slower_mandarin_test.mp4",
-    "sha256": "ed115659b56880cf2b2c6eea11a1c00b2b4db8a0d0bba268feb3a6e4fad9500c",
-    "size_bytes": 1067368,
-    "duration": 22,
-    "caption": "I asked for slower Mandarin. Not next year. 😅\n慢一点 màn yì diǎn = a little slower.\n\nWhat phrase saves you in a Mandarin conversation?\nFollow for daily Mandarin memes & bite-sized lessons.\nSee Chinese vocabulary on your iPhone Lock Screen with Hanzi on Screen—FREE to start. Tap @hanziscreen, then the App Store link in our bio.\nhttps://apps.apple.com/id/app/hanzi-screen/id6811871162\n\nFictional learner joke; genuine widget screenshot previews with an enlarged detail. Original animation and sound design.\n#LearnMandarin #LearnChinese #MandarinMemes #iPhoneWidgets"
+    "pending": [
+      {
+        "source_instagram_media_id": "18119766298965216",
+        "source_sha256": "ed115659b56880cf2b2c6eea11a1c00b2b4db8a0d0bba268feb3a6e4fad9500c",
+        "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/07444adf061738882a658d69ad604bab01c7957f/media/instagram/2026-10-19/2000_slower_mandarin_test.mp4",
+        "status": "pending"
+      }
+    ]
   }
 }
