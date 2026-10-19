@@ -3431,7 +3431,7 @@
         "verification_note": "Queue read-back verified TikTok provider, exact date/time, MP4, caption including direct App Store URL, autoPublish=true/draft=false. Scheduled, not published."
       },
       {
-        "status": "pending",
+        "status": "scheduled",
         "source_instagram_media_id": "18119766298965216",
         "source_sha256": "ed115659b56880cf2b2c6eea11a1c00b2b4db8a0d0bba268feb3a6e4fad9500c",
         "source_slot": "2026-10-19T20:00:00+07:00",
@@ -3439,7 +3439,16 @@
         "scheduled_at": "2026-10-20T18:00:00+07:00",
         "title": "Slower Mandarin… not next year 😅 | 慢一点",
         "caption": "When you ask your friend for slower Mandarin… and grow a beard waiting 😅\n慢一点 màn yì diǎn = a little slower.\nWhat phrase saves you in a Mandarin conversation?\nFollow for daily Mandarin memes & bite-sized lessons.\nLearn Chinese on your iPhone with Hanzi on Screen—FREE to start. Search Hanzi Screen in the App Store:\nhttps://apps.apple.com/id/app/hanzi-screen/id6811871162\nOriginal cartoon and sound design; authentic widget screenshot preview.\n#LearnMandarin #LearnChinese #MandarinMemes #iPhoneWidgets",
-        "selection_reason": "Reused cached Tuesday18 score1119;10AM occupied,8h separation; cached fallback at recovery."
+        "selection_reason": "Reused cached Tuesday18 score1119;10AM occupied,8h separation; cached fallback at recovery.",
+        "post_id": "400278637",
+        "uuid": "5119476512191892147",
+        "planner_url": "https://app.metricool.com/planner/calendar?blogId=7459891&openWithPostUuid=5119476512191892147",
+        "metricool_media_url": "https://static.metricool.com/planner/202610/7459891-file-16991543834829668697.mp4",
+        "autoPublish": true,
+        "draft": false,
+        "provider_status": "PENDING",
+        "confirmed_response_at": "2026-10-19T17:15:44.626Z",
+        "verified_at": "2026-10-19T17:15:47.902Z"
       }
     ],
     "failures": [],
