@@ -3645,6 +3645,13 @@
         "status": "published",
         "story_media_id": "18107493407628879",
         "published_at": "2026-10-19T17:15:18.800Z"
+      },
+      {
+        "source_instagram_media_id": "18009928482005376",
+        "story_media_id": "18107281790254873",
+        "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/9b50099332ef5b62a456c8f1b3f66e4169080342/media/instagram/2026-10-20/1200_horse_tiger_review.mp4",
+        "status": "published",
+        "highlight_status": "pending"
       }
     ],
     "pending": []
