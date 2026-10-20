@@ -3678,9 +3678,25 @@
         "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/9b50099332ef5b62a456c8f1b3f66e4169080342/media/instagram/2026-10-20/1200_horse_tiger_review.mp4",
         "status": "published",
         "highlight_status": "pending"
+      },
+      {
+        "source_instagram_media_id": "18109287098577371",
+        "story_media_id": "18112212545273482",
+        "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/9b50099332ef5b62a456c8f1b3f66e4169080342/media/instagram/2026-10-20/2000_coffee_followup.mp4",
+        "status": "published",
+        "highlight_status": "pending"
       }
     ],
     "pending": []
   },
-  "pending_recovery": []
+  "pending_recovery": [],
+  "highlights": {
+    "name": "Mandarin",
+    "status": "pending",
+    "reason": "Oct20 browser New Highlight picker empty after noon Story publication; live Story menu offers Delete, About this account, View insights, Boost story, Cancel; no Highlight action. Retry archived Stories during normal future runs without duplicate uploads.",
+    "pending_story_ids": [
+      "18107281790254873",
+      "18112212545273482"
+    ]
+  }
 }
