@@ -3648,5 +3648,19 @@
       }
     ],
     "pending": []
-  }
+  },
+  "pending_recovery": [
+    {
+      "date": "2026-10-20",
+      "slot": "12:00",
+      "video_path": "media/instagram/2026-10-20/1200_horse_tiger_review.mp4",
+      "status": "prepared"
+    },
+    {
+      "date": "2026-10-20",
+      "slot": "20:00",
+      "video_path": "media/instagram/2026-10-20/2000_coffee_followup.mp4",
+      "status": "prepared"
+    }
+  ]
 }
