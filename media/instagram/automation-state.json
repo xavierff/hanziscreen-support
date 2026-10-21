@@ -3261,6 +3261,40 @@
       ],
       "summary": "Follower count1. Rice138views/3likes/1save/5046ms; sticky118views/2likes/2saves/4845ms. Latest anything60views/1share/3017ms and calendar116views/1save/1300ms. Small, uneven exposure; maintain test period, keep clear useful setups; no causal conclusions.",
       "limitations": "Profile views and website clicks unavailable(null). No authorized App Store download source; no inferred downloads/clicks or post-specific follower attribution."
+    },
+    {
+      "date": "2026-10-21",
+      "source": "Windsor Instagram",
+      "rows": [
+        {
+          "media_id": "18119766298965216",
+          "views": 120,
+          "reach": 109,
+          "avg_watch_seconds": 4.153,
+          "skip_fraction": 0.664,
+          "saves": 0,
+          "shares": 2
+        },
+        {
+          "media_id": "18109287098577371",
+          "views": 127,
+          "reach": 116,
+          "avg_watch_seconds": 4.814,
+          "skip_fraction": 0.585,
+          "saves": 1,
+          "shares": 0
+        },
+        {
+          "media_id": "18009928482005376",
+          "views": 152,
+          "reach": 139,
+          "avg_watch_seconds": 2.476,
+          "skip_fraction": 0.842,
+          "saves": 1,
+          "shares": 0
+        }
+      ],
+      "note": "Slower-Mandarin test under48h; defer required comparison. No same-age snapshots or App Store attribution; no winner declared."
     }
   ],
   "strategy_baseline": {
@@ -3518,7 +3552,9 @@
         "metricool_media_url": "https://static.metricool.com/planner/202610/7459891-file-128281410424357349.mp4",
         "autoPublish": true,
         "draft": false,
-        "confirmed_at": "2026-10-21T05:04:49.170Z"
+        "confirmed_at": "2026-10-21T05:04:49.170Z",
+        "queue_checked": "2026-10-21T05:05:29.249Z",
+        "verification_note": "Read-back matched exact date, TikTok provider, caption, hosted MP4, autoPublish=true/draft=false. Live audio remains audio_unverified."
       }
     ],
     "failures": [],
@@ -4324,11 +4360,12 @@
   "highlights": {
     "name": "Mandarin",
     "status": "pending",
-    "reason": "Oct20 browser New Highlight picker empty after noon Story publication; live Story menu offers Delete, About this account, View insights, Boost story, Cancel; no Highlight action. Retry archived Stories during normal future runs without duplicate uploads.",
+    "reason": "Oct21 signed-in browser: New Highlight → Mandarin → Stories picker remains empty with Next disabled. No Highlight created; existing Stories retained, no reuploads.",
     "pending_story_ids": [
       "18107281790254873",
       "18112212545273482",
       "18034505723906390"
-    ]
+    ],
+    "last_attempt_at": "2026-10-21T05:05:29.249Z"
   }
 }
