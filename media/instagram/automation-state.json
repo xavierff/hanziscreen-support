@@ -4243,6 +4243,18 @@
         "source_mp4_peak_db": -7.2,
         "quarantined": true
       }
+    ],
+    "pending": [
+      {
+        "source_sha256": "c25d8d4df0b6647947ddba1390f2696b35bca246c89233c9baf1c87193abac05",
+        "source_slot": "2026-10-21T12:00:00+07:00",
+        "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/4ac70107f2e545c61ce9ff8b6503763b6514e826/media/instagram/2026-10-21/1200_buy_sell_shop.mp4",
+        "scheduled_at": "2026-10-22T10:00:00+07:00",
+        "status": "pending",
+        "title": "I wanted to buy a phone… got hired to sell them 😅",
+        "caption": "One Mandarin tone later: customer → phone salesperson 😅\n买 mǎi = buy • 卖 mài = sell.\n我想买手机。Wǒ xiǎng mǎi shǒujī. = I want to buy a phone.\nWhich tone pair trips you up?\nFollow for daily Mandarin memes & free Chinese lessons!\nHanzi on Screen is FREE to start. Search Hanzi Screen in the App Store:\nhttps://apps.apple.com/id/app/hanzi-screen/id6811871162\nFictional joke; genuine screenshot preview. Original sound design.\n#LearnMandarin #LearnChinese #MandarinMemes #ChineseVocabulary",
+        "audio_status": "audio_unverified"
+      }
     ]
   },
   "stories": {
@@ -4288,16 +4300,18 @@
         "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/9b50099332ef5b62a456c8f1b3f66e4169080342/media/instagram/2026-10-20/2000_coffee_followup.mp4",
         "status": "published",
         "highlight_status": "pending"
-      }
-    ],
-    "pending": [
+      },
       {
         "source_instagram_media_id": "18119349058764454",
         "source_sha256": "c25d8d4df0b6647947ddba1390f2696b35bca246c89233c9baf1c87193abac05",
         "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/4ac70107f2e545c61ce9ff8b6503763b6514e826/media/instagram/2026-10-21/1200_buy_sell_shop.mp4",
-        "status": "pending"
+        "status": "published",
+        "story_media_id": "18034505723906390",
+        "published_at": "2026-10-21T05:03:39.294Z",
+        "highlight_status": "pending"
       }
-    ]
+    ],
+    "pending": []
   },
   "pending_recovery": [],
   "highlights": {
@@ -4306,7 +4320,8 @@
     "reason": "Oct20 browser New Highlight picker empty after noon Story publication; live Story menu offers Delete, About this account, View insights, Boost story, Cancel; no Highlight action. Retry archived Stories during normal future runs without duplicate uploads.",
     "pending_story_ids": [
       "18107281790254873",
-      "18112212545273482"
+      "18112212545273482",
+      "18034505723906390"
     ]
   }
 }
