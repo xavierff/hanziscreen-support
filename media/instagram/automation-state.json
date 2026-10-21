@@ -3554,7 +3554,8 @@
         "draft": false,
         "confirmed_at": "2026-10-21T05:04:49.170Z",
         "queue_checked": "2026-10-21T05:05:29.249Z",
-        "verification_note": "Read-back matched exact date, TikTok provider, caption, hosted MP4, autoPublish=true/draft=false. Live audio remains audio_unverified."
+        "verification_note": "Read-back matched exact date, TikTok provider, caption, hosted MP4, autoPublish=true/draft=false. Live audio remains audio_unverified.",
+        "source_instagram_media_id": "18119349058764454"
       },
       {
         "source_instagram_media_id": "18109287098577371",
@@ -3578,7 +3579,7 @@
         "source_slot": "2026-10-20T12:00:00+07:00",
         "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/9b50099332ef5b62a456c8f1b3f66e4169080342/media/instagram/2026-10-20/1200_horse_tiger_review.mp4",
         "source_video_path": "media/instagram/2026-10-20/1200_horse_tiger_review.mp4",
-        "status": "scheduled",
+        "status": "published",
         "scheduled_at": "2026-10-21T18:06:00+07:00",
         "title": "Two horses, two tigers… so-so Mandarin? 🐴🐯",
         "caption": "My Mandarin got reviewed by two horses and two tigers 🐴🐯😅\n马马虎虎 mǎmǎhūhū = so-so / just okay.\nThe animals make a visual joke—the expression means “so-so,” not an actual animal review!\nFollow for daily Mandarin memes & free Chinese lessons!\nHanzi on Screen is FREE to start. Search Hanzi Screen in the App Store:\nhttps://apps.apple.com/id/app/hanzi-screen/id6811871162\nOriginal cartoon and sound design; genuine widget screenshot preview.\n#LearnMandarin #LearnChinese #MandarinMemes #ChineseVocabulary",
@@ -3589,7 +3590,10 @@
         "planner_url": "https://app.metricool.com/planner/calendar?blogId=7459891&openWithPostUuid=-244112906673566476",
         "metricool_media_url": "https://static.metricool.com/planner/202610/7459891-file-14306802681776260607.mp4",
         "autoPublish": true,
-        "draft": false
+        "draft": false,
+        "public_url": "https://www.tiktok.com/@hanziscreen/video/7699075835285802292",
+        "provider_status": "PUBLISHED",
+        "verified_at": "2026-10-21T13:00:06.722Z"
       }
     ],
     "failures": [],
@@ -4338,7 +4342,17 @@
       "10:00",
       "18:00"
     ],
-    "missing_post_policy": "Recover immediately when detected at existing automation runs, after dedup; preserve next regular reservations."
+    "missing_post_policy": "Recover immediately when detected at existing automation runs, after dedup; preserve next regular reservations.",
+    "coverage_audit": {
+      "date": "2026-10-21",
+      "checked_at": "2026-10-21T13:00:06.722Z",
+      "sources_since": "2026-10-16",
+      "source_count": 11,
+      "published": 10,
+      "future_reserved": 1,
+      "missing": [],
+      "note": "Matched source id/path/hash against state and full Metricool Oct16–23 records. Coffee and horse recoveries already public; no duplicate recovery."
+    }
   },
   "stories": {
     "enabled": true,
@@ -4407,5 +4421,28 @@
       "18034505723906390"
     ],
     "last_attempt_at": "2026-10-21T05:05:29.249Z"
+  },
+  "pending": {
+    "date": "2026-10-21",
+    "slot": "20:00",
+    "hook": "Packed the entire Mandarin library for a weekend; baggage scale complains",
+    "content_type": "pov_screenshot_preview",
+    "comparison_group": "product_focused",
+    "video_path": "media/instagram/2026-10-21/2000_phrasebook_baggage.mp4",
+    "sha256": "1be0f937aa2a2511a982c8257f0522decddf1ec74fe49fceda5b83b2f4160b95",
+    "size_bytes": 924226,
+    "duration": 20,
+    "status": "pending",
+    "caption": "POV: packing for a weekend… your Mandarin phrasebooks need their own suitcase. 🧳😅\n手机 shǒujī = mobile phone.\nA little Chinese can live somewhere you already look: your iPhone Lock Screen.\nFollow for daily Mandarin memes & free Chinese lessons!\nHanzi on Screen is FREE to start. Tap @hanziscreen, then the App Store link in our bio.\nhttps://apps.apple.com/id/app/hanzi-screen/id6811871162\nFictional packing joke; genuine owner screenshot preview, not an app recording. Original animation and sound design.\n#LearnMandarin #LearnChinese #ChineseVocabulary #iPhoneWidgets",
+    "audio": {
+      "title": "Suitcase Waltz and Zipper Pops",
+      "artist": "Hanzi on Screen",
+      "source": "Original deterministic synthesis in phrasebook_baggage_20261021.py; no third-party samples",
+      "license": "Owner-controlled original audio",
+      "source_mean_db": -31.5,
+      "source_peak_db": -12.9,
+      "live_status": "audio_unverified"
+    },
+    "quality": "1080x1920 H264/AAC20s; frame sheet verified; authentic whole ending assets."
   }
 }
