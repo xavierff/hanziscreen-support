@@ -3560,7 +3560,7 @@
         "source_instagram_media_id": "18109287098577371",
         "source_slot": "2026-10-20T20:00:00+07:00",
         "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/9b50099332ef5b62a456c8f1b3f66e4169080342/media/instagram/2026-10-20/2000_coffee_followup.mp4",
-        "status": "scheduled",
+        "status": "awaiting_confirmation",
         "scheduled_at": "2026-10-21T12:35:00+07:00",
         "recovery_reason": "Owner explicitly requested missing coffee Reel published now; keep future schedule.",
         "post_id": "401794918",
@@ -3568,7 +3568,9 @@
         "caption": "You rehearsed your Mandarin coffee order… then the barista asked ONE more question ☕️😅\n热的还是冰的？Rè de háishi bīng de? = Hot or iced?\n我要冰的。Wǒ yào bīng de. = I’d like it iced.\nWhat follow-up question catches you out?\nFollow for daily Mandarin memes & free Chinese lessons!\nHanzi on Screen is FREE to start. Search Hanzi Screen in the App Store:\nhttps://apps.apple.com/id/app/hanzi-screen/id6811871162\nFictional learner joke; genuine screenshot previews. Original sound design.\n#LearnMandarin #LearnChinese #ChineseVocabulary #MandarinMemes",
         "planner_url": "https://app.metricool.com/planner/calendar?blogId=7459891&openWithPostUuid=1569408074441441666",
         "metricool_media_url": "https://static.metricool.com/planner/202610/7459891-file-3226834609910332995.mp4",
-        "audio_status": "live_audio_unverified"
+        "audio_status": "live_audio_unverified",
+        "provider_status": "AWAITING_CONFIRMATION",
+        "provider_detail": "Published:7698989937995253768"
       }
     ],
     "failures": [],
