@@ -927,7 +927,8 @@
       "media_id": "18119349058764454",
       "video_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/4ac70107f2e545c61ce9ff8b6503763b6514e826/media/instagram/2026-10-21/1200_buy_sell_shop.mp4",
       "media_commit": "4ac70107f2e545c61ce9ff8b6503763b6514e826",
-      "published_at": "2026-10-21T05:02:18.895Z"
+      "published_at": "2026-10-21T05:02:18.895Z",
+      "url": "https://www.instagram.com/reel/DevnAUXD1N-/"
     }
   ],
   "verified_assets": [
@@ -3501,6 +3502,23 @@
         "verified_at": "2026-10-21T05:00:29.182Z",
         "public_url": "https://www.tiktok.com/@hanziscreen/video/7698703904145427730",
         "audio_status": "audio_unverified"
+      },
+      {
+        "source_sha256": "c25d8d4df0b6647947ddba1390f2696b35bca246c89233c9baf1c87193abac05",
+        "source_slot": "2026-10-21T12:00:00+07:00",
+        "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/4ac70107f2e545c61ce9ff8b6503763b6514e826/media/instagram/2026-10-21/1200_buy_sell_shop.mp4",
+        "scheduled_at": "2026-10-22T10:00:00+07:00",
+        "status": "scheduled",
+        "title": "I wanted to buy a phone… got hired to sell them 😅",
+        "caption": "One Mandarin tone later: customer → phone salesperson 😅\n买 mǎi = buy • 卖 mài = sell.\n我想买手机。Wǒ xiǎng mǎi shǒujī. = I want to buy a phone.\nWhich tone pair trips you up?\nFollow for daily Mandarin memes & free Chinese lessons!\nHanzi on Screen is FREE to start. Search Hanzi Screen in the App Store:\nhttps://apps.apple.com/id/app/hanzi-screen/id6811871162\nFictional joke; genuine screenshot preview. Original sound design.\n#LearnMandarin #LearnChinese #MandarinMemes #ChineseVocabulary",
+        "audio_status": "audio_unverified",
+        "post_id": "401782277",
+        "uuid": "6592769101221283997",
+        "planner_url": "https://app.metricool.com/planner/calendar?blogId=7459891&openWithPostUuid=6592769101221283997",
+        "metricool_media_url": "https://static.metricool.com/planner/202610/7459891-file-128281410424357349.mp4",
+        "autoPublish": true,
+        "draft": false,
+        "confirmed_at": "2026-10-21T05:04:49.170Z"
       }
     ],
     "failures": [],
@@ -4244,18 +4262,7 @@
         "quarantined": true
       }
     ],
-    "pending": [
-      {
-        "source_sha256": "c25d8d4df0b6647947ddba1390f2696b35bca246c89233c9baf1c87193abac05",
-        "source_slot": "2026-10-21T12:00:00+07:00",
-        "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/4ac70107f2e545c61ce9ff8b6503763b6514e826/media/instagram/2026-10-21/1200_buy_sell_shop.mp4",
-        "scheduled_at": "2026-10-22T10:00:00+07:00",
-        "status": "pending",
-        "title": "I wanted to buy a phone… got hired to sell them 😅",
-        "caption": "One Mandarin tone later: customer → phone salesperson 😅\n买 mǎi = buy • 卖 mài = sell.\n我想买手机。Wǒ xiǎng mǎi shǒujī. = I want to buy a phone.\nWhich tone pair trips you up?\nFollow for daily Mandarin memes & free Chinese lessons!\nHanzi on Screen is FREE to start. Search Hanzi Screen in the App Store:\nhttps://apps.apple.com/id/app/hanzi-screen/id6811871162\nFictional joke; genuine screenshot preview. Original sound design.\n#LearnMandarin #LearnChinese #MandarinMemes #ChineseVocabulary",
-        "audio_status": "audio_unverified"
-      }
-    ]
+    "pending": []
   },
   "stories": {
     "enabled": true,
