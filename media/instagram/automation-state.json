@@ -4365,7 +4365,22 @@
         "quarantined": true
       }
     ],
-    "pending": [],
+    "pending": [
+      {
+        "source_instagram_media_id": "18094990637422514",
+        "source_sha256": "1be0f937aa2a2511a982c8257f0522decddf1ec74fe49fceda5b83b2f4160b95",
+        "source_video_path": "media/instagram/2026-10-21/2000_phrasebook_baggage.mp4",
+        "source_slot": "2026-10-21T20:00:00+07:00",
+        "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/5910d9b803eb930fd6517e908c20e66affb30950/media/instagram/2026-10-21/2000_phrasebook_baggage.mp4",
+        "scheduled_at": "2026-10-22T18:00:00+07:00",
+        "status": "pending",
+        "idempotency_key": "instagram:18094990637422514:tiktok",
+        "title": "My Mandarin phrasebooks need their own suitcase 🧳",
+        "caption": "Packing for a weekend: passport, charger… the entire Mandarin library 🧳😅\n手机 shǒujī = mobile phone.\nKeep a little Chinese in sight on your iPhone Lock Screen.\nFollow for daily Mandarin memes & free Chinese lessons!\nHanzi on Screen is FREE to start. Search Hanzi Screen in the App Store:\nhttps://apps.apple.com/id/app/hanzi-screen/id6811871162\nFictional packing joke; genuine screenshot preview, not an app recording. Original animation and sound design.\n#LearnMandarin #LearnChinese #ChineseVocabulary #iPhoneWidgets",
+        "audio_status": "audio_unverified",
+        "selection_reason": "Fixed next-day18:00 evening-source reservation; owner Oct21 consistency rule."
+      }
+    ],
     "regular_slots": [
       "10:00",
       "18:00"
@@ -4434,27 +4449,30 @@
         "story_media_id": "18034505723906390",
         "published_at": "2026-10-21T05:03:39.294Z",
         "highlight_status": "pending"
-      }
-    ],
-    "pending": [
+      },
       {
         "source_instagram_media_id": "18094990637422514",
         "source_sha256": "1be0f937aa2a2511a982c8257f0522decddf1ec74fe49fceda5b83b2f4160b95",
         "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/5910d9b803eb930fd6517e908c20e66affb30950/media/instagram/2026-10-21/2000_phrasebook_baggage.mp4",
-        "status": "pending"
+        "status": "published",
+        "story_media_id": "18141644740611225",
+        "published_at": "2026-10-21T13:04:35.722Z",
+        "highlight_status": "pending"
       }
-    ]
+    ],
+    "pending": []
   },
   "pending_recovery": [],
   "highlights": {
     "name": "Mandarin",
     "status": "pending",
-    "reason": "Oct21 signed-in browser: New Highlight → Mandarin → Stories picker remains empty with Next disabled. No Highlight created; existing Stories retained, no reuploads.",
+    "reason": "Oct21 evening signed-in New Highlight → Mandarin → Stories: empty picker, Next disabled. No Highlight action completed.",
     "pending_story_ids": [
       "18107281790254873",
       "18112212545273482",
-      "18034505723906390"
+      "18034505723906390",
+      "18141644740611225"
     ],
-    "last_attempt_at": "2026-10-21T05:05:29.249Z"
+    "last_attempt_at": "2026-10-21T13:04:35.722Z"
   }
 }
