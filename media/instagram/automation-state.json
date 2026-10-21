@@ -3560,7 +3560,7 @@
         "source_instagram_media_id": "18109287098577371",
         "source_slot": "2026-10-20T20:00:00+07:00",
         "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/9b50099332ef5b62a456c8f1b3f66e4169080342/media/instagram/2026-10-20/2000_coffee_followup.mp4",
-        "status": "awaiting_confirmation",
+        "status": "published",
         "scheduled_at": "2026-10-21T12:35:00+07:00",
         "recovery_reason": "Owner explicitly requested missing coffee Reel published now; keep future schedule.",
         "post_id": "401794918",
@@ -3569,8 +3569,21 @@
         "planner_url": "https://app.metricool.com/planner/calendar?blogId=7459891&openWithPostUuid=1569408074441441666",
         "metricool_media_url": "https://static.metricool.com/planner/202610/7459891-file-3226834609910332995.mp4",
         "audio_status": "live_audio_unverified",
-        "provider_status": "AWAITING_CONFIRMATION",
-        "provider_detail": "Published:7698989937995253768"
+        "provider_status": "PUBLISHED",
+        "provider_detail": "Published:7698989937995253768",
+        "public_url": "https://www.tiktok.com/@hanziscreen/video/7698990519266938119"
+      },
+      {
+        "source_instagram_media_id": "18009928482005376",
+        "source_slot": "2026-10-20T12:00:00+07:00",
+        "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/9b50099332ef5b62a456c8f1b3f66e4169080342/media/instagram/2026-10-20/1200_horse_tiger_review.mp4",
+        "source_video_path": "media/instagram/2026-10-20/1200_horse_tiger_review.mp4",
+        "status": "pending_submission",
+        "scheduled_at": "2026-10-21T18:06:00+07:00",
+        "title": "Two horses, two tigers… so-so Mandarin? 🐴🐯",
+        "caption": "My Mandarin got reviewed by two horses and two tigers 🐴🐯😅\n马马虎虎 mǎmǎhūhū = so-so / just okay.\nThe animals make a visual joke—the expression means “so-so,” not an actual animal review!\nFollow for daily Mandarin memes & free Chinese lessons!\nHanzi on Screen is FREE to start. Search Hanzi Screen in the App Store:\nhttps://apps.apple.com/id/app/hanzi-screen/id6811871162\nOriginal cartoon and sound design; genuine widget screenshot preview.\n#LearnMandarin #LearnChinese #MandarinMemes #ChineseVocabulary",
+        "recovery_reason": "Owner authorized immediate automatic recovery; missing source verified absent from queue/state/recent analytics.",
+        "audio_status": "live_audio_unverified"
       }
     ],
     "failures": [],
@@ -4314,7 +4327,12 @@
         "quarantined": true
       }
     ],
-    "pending": []
+    "pending": [],
+    "regular_slots": [
+      "10:00",
+      "18:00"
+    ],
+    "missing_post_policy": "Recover immediately when detected at existing automation runs, after dedup; preserve next regular reservations."
   },
   "stories": {
     "enabled": true,
