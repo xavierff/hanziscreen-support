@@ -3622,6 +3622,27 @@
         "public_url": "https://www.tiktok.com/@hanziscreen/video/7699075835285802292",
         "provider_status": "PUBLISHED",
         "verified_at": "2026-10-21T13:00:06.722Z"
+      },
+      {
+        "source_instagram_media_id": "18094990637422514",
+        "source_sha256": "1be0f937aa2a2511a982c8257f0522decddf1ec74fe49fceda5b83b2f4160b95",
+        "source_video_path": "media/instagram/2026-10-21/2000_phrasebook_baggage.mp4",
+        "source_slot": "2026-10-21T20:00:00+07:00",
+        "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/5910d9b803eb930fd6517e908c20e66affb30950/media/instagram/2026-10-21/2000_phrasebook_baggage.mp4",
+        "scheduled_at": "2026-10-22T18:00:00+07:00",
+        "status": "scheduled",
+        "idempotency_key": "instagram:18094990637422514:tiktok",
+        "title": "My Mandarin phrasebooks need their own suitcase 🧳",
+        "caption": "Packing for a weekend: passport, charger… the entire Mandarin library 🧳😅\n手机 shǒujī = mobile phone.\nKeep a little Chinese in sight on your iPhone Lock Screen.\nFollow for daily Mandarin memes & free Chinese lessons!\nHanzi on Screen is FREE to start. Search Hanzi Screen in the App Store:\nhttps://apps.apple.com/id/app/hanzi-screen/id6811871162\nFictional packing joke; genuine screenshot preview, not an app recording. Original animation and sound design.\n#LearnMandarin #LearnChinese #ChineseVocabulary #iPhoneWidgets",
+        "audio_status": "audio_unverified",
+        "selection_reason": "Fixed next-day18:00 evening-source reservation; owner Oct21 consistency rule.",
+        "post_id": "402114502",
+        "uuid": "2781108025486953870",
+        "planner_url": "https://app.metricool.com/planner/calendar?blogId=7459891&openWithPostUuid=2781108025486953870",
+        "metricool_media_url": "https://static.metricool.com/planner/202610/7459891-file-11531138441779933447.mp4",
+        "autoPublish": true,
+        "draft": false,
+        "confirmed_at": "2026-10-21T13:05:05.072Z"
       }
     ],
     "failures": [],
@@ -4365,22 +4386,7 @@
         "quarantined": true
       }
     ],
-    "pending": [
-      {
-        "source_instagram_media_id": "18094990637422514",
-        "source_sha256": "1be0f937aa2a2511a982c8257f0522decddf1ec74fe49fceda5b83b2f4160b95",
-        "source_video_path": "media/instagram/2026-10-21/2000_phrasebook_baggage.mp4",
-        "source_slot": "2026-10-21T20:00:00+07:00",
-        "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/5910d9b803eb930fd6517e908c20e66affb30950/media/instagram/2026-10-21/2000_phrasebook_baggage.mp4",
-        "scheduled_at": "2026-10-22T18:00:00+07:00",
-        "status": "pending",
-        "idempotency_key": "instagram:18094990637422514:tiktok",
-        "title": "My Mandarin phrasebooks need their own suitcase 🧳",
-        "caption": "Packing for a weekend: passport, charger… the entire Mandarin library 🧳😅\n手机 shǒujī = mobile phone.\nKeep a little Chinese in sight on your iPhone Lock Screen.\nFollow for daily Mandarin memes & free Chinese lessons!\nHanzi on Screen is FREE to start. Search Hanzi Screen in the App Store:\nhttps://apps.apple.com/id/app/hanzi-screen/id6811871162\nFictional packing joke; genuine screenshot preview, not an app recording. Original animation and sound design.\n#LearnMandarin #LearnChinese #ChineseVocabulary #iPhoneWidgets",
-        "audio_status": "audio_unverified",
-        "selection_reason": "Fixed next-day18:00 evening-source reservation; owner Oct21 consistency rule."
-      }
-    ],
+    "pending": [],
     "regular_slots": [
       "10:00",
       "18:00"
