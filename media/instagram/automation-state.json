@@ -1,18 +1,13 @@
 {
   "trend_cache": {
-    "date": "2026-10-19",
+    "date": "2026-10-21",
     "sources": [
-      "https://inmagic.ai/top-10-instagram-reels-to-try-this-week/",
       "https://later.com/blog/instagram-reels-trends/"
     ],
     "source_dates": [
-      "2026-10-19 report heading (original publication older)",
-      "October2026 roundup"
+      "Oct16 2026 weekly update returned by search"
     ],
-    "finding": "Current reports checked for relatable short-form/story formats; no commercially cleared fitting trending sound verified. Original beginner shopping challenge chosen; no viral claim.",
-    "audio_research_date": "2026-10-19",
-    "audio_pool_expanded_date": "2026-10-19",
-    "audio_limitation": "Use newly cleared Investigations rather than unverified trending music."
+    "finding": "Relatable narrative formats; original buy/sell tone joke chosen, no viral or licensed trending-audio claim."
   },
   "published": [
     {
@@ -3409,7 +3404,7 @@
         "public_url": "https://www.tiktok.com/@hanziscreen/video/7698208932006841608"
       },
       {
-        "status": "scheduled",
+        "status": "published",
         "source_instagram_media_id": "18115646572839963",
         "source_sha256": "22337d428a3fbc51c69b1fa2b2693bb3335854f5dbc501655b8b8482be4760af",
         "source_slot": "2026-10-18T20:00:00+07:00",
@@ -3429,11 +3424,13 @@
         "metricool_media_url": "https://static.metricool.com/planner/202610/7459891-file-17341079659681857761.mp4",
         "provider_status": "PENDING",
         "confirmed_response_at": "2026-10-18T20:07:00+07:00",
-        "verified_at": "2026-10-18T20:08:00+07:00",
-        "verification_note": "Verified queue date/time, TikTok provider, exact caption incl App Store link, hosted MP4, autoPublish=true and draft=false. Scheduled not yet published."
+        "verified_at": "2026-10-21T05:00:29.181Z",
+        "verification_note": "Verified queue date/time, TikTok provider, exact caption incl App Store link, hosted MP4, autoPublish=true and draft=false. Scheduled not yet published.",
+        "public_url": "https://www.tiktok.com/@hanziscreen/video/7698332743125536007",
+        "audio_status": "audio_unverified"
       },
       {
-        "status": "scheduled",
+        "status": "published",
         "source_instagram_media_id": "18476902066114273",
         "source_sha256": "0cd53d2619cb9e54740e9a0aab847849e8dc3595856a6ae2ac289cf6b1bc2f28",
         "source_slot": "2026-10-19T12:00:00+07:00",
@@ -3453,11 +3450,13 @@
         "metricool_media_url": "https://static.metricool.com/planner/202610/7459891-file-6277039406230189916.mp4",
         "provider_status": "PENDING",
         "confirmed_response_at": "2026-10-19T12:04:00+07:00",
-        "verified_at": "2026-10-19T12:05:00+07:00",
-        "verification_note": "Queue read-back verified TikTok provider, exact date/time, MP4, caption including direct App Store URL, autoPublish=true/draft=false. Scheduled, not published."
+        "verified_at": "2026-10-21T05:00:29.182Z",
+        "verification_note": "Queue read-back verified TikTok provider, exact date/time, MP4, caption including direct App Store URL, autoPublish=true/draft=false. Scheduled, not published.",
+        "public_url": "https://www.tiktok.com/@hanziscreen/video/7698580093152578834",
+        "audio_status": "audio_unverified"
       },
       {
-        "status": "scheduled",
+        "status": "published",
         "source_instagram_media_id": "18119766298965216",
         "source_sha256": "ed115659b56880cf2b2c6eea11a1c00b2b4db8a0d0bba268feb3a6e4fad9500c",
         "source_slot": "2026-10-19T20:00:00+07:00",
@@ -3474,20 +3473,572 @@
         "draft": false,
         "provider_status": "PENDING",
         "confirmed_response_at": "2026-10-19T17:15:44.626Z",
-        "verified_at": "2026-10-19T17:15:47.902Z"
+        "verified_at": "2026-10-21T05:00:29.182Z",
+        "public_url": "https://www.tiktok.com/@hanziscreen/video/7698703904145427730",
+        "audio_status": "audio_unverified"
       }
     ],
     "failures": [],
     "best_times_cache": {
-      "checked_date": "2026-10-19",
-      "timezone": "Asia/Jakarta",
-      "from": "2026-10-19T12:00:00+07:00",
-      "to": "2026-10-20T20:00:00+07:00",
-      "data": {
+      "date": "2026-10-21",
+      "response": {
         "data": [
+          {
+            "dayOfWeek": 3,
+            "bestTimesByHour": [
+              {
+                "hourOfDay": 0,
+                "value": 158
+              },
+              {
+                "hourOfDay": 1,
+                "value": 119
+              },
+              {
+                "hourOfDay": 2,
+                "value": 85
+              },
+              {
+                "hourOfDay": 3,
+                "value": 116
+              },
+              {
+                "hourOfDay": 4,
+                "value": 106
+              },
+              {
+                "hourOfDay": 5,
+                "value": 99
+              },
+              {
+                "hourOfDay": 6,
+                "value": 237
+              },
+              {
+                "hourOfDay": 7,
+                "value": 420
+              },
+              {
+                "hourOfDay": 8,
+                "value": 772
+              },
+              {
+                "hourOfDay": 9,
+                "value": 856
+              },
+              {
+                "hourOfDay": 10,
+                "value": 1432
+              },
+              {
+                "hourOfDay": 11,
+                "value": 985
+              },
+              {
+                "hourOfDay": 12,
+                "value": 1359
+              },
+              {
+                "hourOfDay": 13,
+                "value": 947
+              },
+              {
+                "hourOfDay": 14,
+                "value": 940
+              },
+              {
+                "hourOfDay": 15,
+                "value": 947
+              },
+              {
+                "hourOfDay": 16,
+                "value": 1122
+              },
+              {
+                "hourOfDay": 17,
+                "value": 1095
+              },
+              {
+                "hourOfDay": 18,
+                "value": 1386
+              },
+              {
+                "hourOfDay": 19,
+                "value": 1039
+              },
+              {
+                "hourOfDay": 20,
+                "value": 907
+              },
+              {
+                "hourOfDay": 21,
+                "value": 580
+              },
+              {
+                "hourOfDay": 22,
+                "value": 370
+              },
+              {
+                "hourOfDay": 23,
+                "value": 279
+              }
+            ]
+          },
+          {
+            "dayOfWeek": 4,
+            "bestTimesByHour": [
+              {
+                "hourOfDay": 0,
+                "value": 188
+              },
+              {
+                "hourOfDay": 1,
+                "value": 126
+              },
+              {
+                "hourOfDay": 2,
+                "value": 88
+              },
+              {
+                "hourOfDay": 3,
+                "value": 85
+              },
+              {
+                "hourOfDay": 4,
+                "value": 78
+              },
+              {
+                "hourOfDay": 5,
+                "value": 118
+              },
+              {
+                "hourOfDay": 6,
+                "value": 239
+              },
+              {
+                "hourOfDay": 7,
+                "value": 425
+              },
+              {
+                "hourOfDay": 8,
+                "value": 630
+              },
+              {
+                "hourOfDay": 9,
+                "value": 803
+              },
+              {
+                "hourOfDay": 10,
+                "value": 1471
+              },
+              {
+                "hourOfDay": 11,
+                "value": 978
+              },
+              {
+                "hourOfDay": 12,
+                "value": 1299
+              },
+              {
+                "hourOfDay": 13,
+                "value": 941
+              },
+              {
+                "hourOfDay": 14,
+                "value": 887
+              },
+              {
+                "hourOfDay": 15,
+                "value": 947
+              },
+              {
+                "hourOfDay": 16,
+                "value": 1118
+              },
+              {
+                "hourOfDay": 17,
+                "value": 1097
+              },
+              {
+                "hourOfDay": 18,
+                "value": 1378
+              },
+              {
+                "hourOfDay": 19,
+                "value": 999
+              },
+              {
+                "hourOfDay": 20,
+                "value": 838
+              },
+              {
+                "hourOfDay": 21,
+                "value": 643
+              },
+              {
+                "hourOfDay": 22,
+                "value": 439
+              },
+              {
+                "hourOfDay": 23,
+                "value": 280
+              }
+            ]
+          },
+          {
+            "dayOfWeek": 5,
+            "bestTimesByHour": [
+              {
+                "hourOfDay": 0,
+                "value": 175
+              },
+              {
+                "hourOfDay": 1,
+                "value": 113
+              },
+              {
+                "hourOfDay": 2,
+                "value": 101
+              },
+              {
+                "hourOfDay": 3,
+                "value": 85
+              },
+              {
+                "hourOfDay": 4,
+                "value": 79
+              },
+              {
+                "hourOfDay": 5,
+                "value": 81
+              },
+              {
+                "hourOfDay": 6,
+                "value": 226
+              },
+              {
+                "hourOfDay": 7,
+                "value": 444
+              },
+              {
+                "hourOfDay": 8,
+                "value": 684
+              },
+              {
+                "hourOfDay": 9,
+                "value": 890
+              },
+              {
+                "hourOfDay": 10,
+                "value": 1379
+              },
+              {
+                "hourOfDay": 11,
+                "value": 899
+              },
+              {
+                "hourOfDay": 12,
+                "value": 1251
+              },
+              {
+                "hourOfDay": 13,
+                "value": 876
+              },
+              {
+                "hourOfDay": 14,
+                "value": 854
+              },
+              {
+                "hourOfDay": 15,
+                "value": 978
+              },
+              {
+                "hourOfDay": 16,
+                "value": 1079
+              },
+              {
+                "hourOfDay": 17,
+                "value": 1044
+              },
+              {
+                "hourOfDay": 18,
+                "value": 1222
+              },
+              {
+                "hourOfDay": 19,
+                "value": 891
+              },
+              {
+                "hourOfDay": 20,
+                "value": 689
+              },
+              {
+                "hourOfDay": 21,
+                "value": 474
+              },
+              {
+                "hourOfDay": 22,
+                "value": 328
+              },
+              {
+                "hourOfDay": 23,
+                "value": 294
+              }
+            ]
+          },
+          {
+            "dayOfWeek": 6,
+            "bestTimesByHour": [
+              {
+                "hourOfDay": 0,
+                "value": 170
+              },
+              {
+                "hourOfDay": 1,
+                "value": 105
+              },
+              {
+                "hourOfDay": 2,
+                "value": 76
+              },
+              {
+                "hourOfDay": 3,
+                "value": 51
+              },
+              {
+                "hourOfDay": 4,
+                "value": 49
+              },
+              {
+                "hourOfDay": 5,
+                "value": 69
+              },
+              {
+                "hourOfDay": 6,
+                "value": 145
+              },
+              {
+                "hourOfDay": 7,
+                "value": 257
+              },
+              {
+                "hourOfDay": 8,
+                "value": 396
+              },
+              {
+                "hourOfDay": 9,
+                "value": 517
+              },
+              {
+                "hourOfDay": 10,
+                "value": 852
+              },
+              {
+                "hourOfDay": 11,
+                "value": 566
+              },
+              {
+                "hourOfDay": 12,
+                "value": 815
+              },
+              {
+                "hourOfDay": 13,
+                "value": 564
+              },
+              {
+                "hourOfDay": 14,
+                "value": 560
+              },
+              {
+                "hourOfDay": 15,
+                "value": 552
+              },
+              {
+                "hourOfDay": 16,
+                "value": 620
+              },
+              {
+                "hourOfDay": 17,
+                "value": 531
+              },
+              {
+                "hourOfDay": 18,
+                "value": 709
+              },
+              {
+                "hourOfDay": 19,
+                "value": 573
+              },
+              {
+                "hourOfDay": 20,
+                "value": 523
+              },
+              {
+                "hourOfDay": 21,
+                "value": 347
+              },
+              {
+                "hourOfDay": 22,
+                "value": 275
+              },
+              {
+                "hourOfDay": 23,
+                "value": 185
+              }
+            ]
+          },
+          {
+            "dayOfWeek": 7,
+            "bestTimesByHour": [
+              {
+                "hourOfDay": 0,
+                "value": 130
+              },
+              {
+                "hourOfDay": 1,
+                "value": 87
+              },
+              {
+                "hourOfDay": 2,
+                "value": 69
+              },
+              {
+                "hourOfDay": 3,
+                "value": 61
+              },
+              {
+                "hourOfDay": 4,
+                "value": 35
+              },
+              {
+                "hourOfDay": 5,
+                "value": 53
+              },
+              {
+                "hourOfDay": 6,
+                "value": 129
+              },
+              {
+                "hourOfDay": 7,
+                "value": 228
+              },
+              {
+                "hourOfDay": 8,
+                "value": 337
+              },
+              {
+                "hourOfDay": 9,
+                "value": 506
+              },
+              {
+                "hourOfDay": 10,
+                "value": 816
+              },
+              {
+                "hourOfDay": 11,
+                "value": 493
+              },
+              {
+                "hourOfDay": 12,
+                "value": 720
+              },
+              {
+                "hourOfDay": 13,
+                "value": 487
+              },
+              {
+                "hourOfDay": 14,
+                "value": 493
+              },
+              {
+                "hourOfDay": 15,
+                "value": 492
+              },
+              {
+                "hourOfDay": 16,
+                "value": 595
+              },
+              {
+                "hourOfDay": 17,
+                "value": 524
+              },
+              {
+                "hourOfDay": 18,
+                "value": 677
+              },
+              {
+                "hourOfDay": 19,
+                "value": 632
+              },
+              {
+                "hourOfDay": 20,
+                "value": 579
+              },
+              {
+                "hourOfDay": 21,
+                "value": 402
+              },
+              {
+                "hourOfDay": 22,
+                "value": 283
+              },
+              {
+                "hourOfDay": 23,
+                "value": 161
+              }
+            ]
+          },
           {
             "dayOfWeek": 1,
             "bestTimesByHour": [
+              {
+                "hourOfDay": 0,
+                "value": 125
+              },
+              {
+                "hourOfDay": 1,
+                "value": 68
+              },
+              {
+                "hourOfDay": 2,
+                "value": 67
+              },
+              {
+                "hourOfDay": 3,
+                "value": 60
+              },
+              {
+                "hourOfDay": 4,
+                "value": 66
+              },
+              {
+                "hourOfDay": 5,
+                "value": 91
+              },
+              {
+                "hourOfDay": 6,
+                "value": 193
+              },
+              {
+                "hourOfDay": 7,
+                "value": 318
+              },
+              {
+                "hourOfDay": 8,
+                "value": 508
+              },
+              {
+                "hourOfDay": 9,
+                "value": 653
+              },
+              {
+                "hourOfDay": 10,
+                "value": 1089
+              },
+              {
+                "hourOfDay": 11,
+                "value": 741
+              },
               {
                 "hourOfDay": 12,
                 "value": 1050
@@ -3620,14 +4171,29 @@
               {
                 "hourOfDay": 19,
                 "value": 859
+              },
+              {
+                "hourOfDay": 20,
+                "value": 767
+              },
+              {
+                "hourOfDay": 21,
+                "value": 588
+              },
+              {
+                "hourOfDay": 22,
+                "value": 379
+              },
+              {
+                "hourOfDay": 23,
+                "value": 290
               }
             ]
           }
         ]
       },
-      "selected": "2026-10-20T10:00:00+07:00",
-      "selected_score": 1136,
-      "reason": "Highest eligible next24h score; no slot conflict;16h after queued Oct19 18."
+      "selected": "2026-10-22T10:00:00+07:00",
+      "score": 1471
     },
     "verification_notes": "Metricool schedule creation and queue read-back passed. Pending is not published; check public URL through TKPO03/TKPO05 after scheduled time. Queue absence alone is not success.",
     "analytics_cache": {
@@ -3640,7 +4206,19 @@
       "data": {
         "rows": []
       }
-    }
+    },
+    "audio_incidents": [
+      {
+        "video_id": "7698580093152578834",
+        "track": "Investigations — Kevin MacLeod",
+        "status": "owner_reported_muted",
+        "cause": "unconfirmed",
+        "notice": null,
+        "source_mp4_mean_db": -23.9,
+        "source_mp4_peak_db": -7.2,
+        "quarantined": true
+      }
+    ]
   },
   "stories": {
     "enabled": true,
@@ -3698,5 +4276,26 @@
       "18107281790254873",
       "18112212545273482"
     ]
+  },
+  "pending": {
+    "date": "2026-10-21",
+    "slot": "12:00",
+    "hook": "Buy a phone, accidentally hired to sell phones",
+    "topic": "买 mǎi buy versus 卖 mài sell",
+    "content_type": "animated_meme",
+    "video_path": "media/instagram/2026-10-21/1200_buy_sell_shop.mp4",
+    "sha256": "c25d8d4df0b6647947ddba1390f2696b35bca246c89233c9baf1c87193abac05",
+    "size_bytes": 995193,
+    "duration": 20,
+    "caption": "I went to BUY a phone. My Mandarin tones got me hired to SELL them. 😅\n买 mǎi = buy • 卖 mài = sell.\n我想买手机。Wǒ xiǎng mǎi shǒujī. = I want to buy a phone.\nWhich tone pair trips you up?\nFollow for daily Mandarin memes & free Chinese lessons!\nLearn Chinese on your iPhone with Hanzi on Screen—FREE to start. Tap @hanziscreen, then the App Store link in our bio.\nhttps://apps.apple.com/id/app/hanzi-screen/id6811871162\nFictional learner joke; genuine widget screenshot preview. Original animation and sound design.\n#LearnMandarin #LearnChinese #MandarinMemes #ChineseVocabulary",
+    "audio": {
+      "title": "Checkout Pluck Shuffle",
+      "artist": "Hanzi on Screen",
+      "source": "Original deterministic synthesis in render script",
+      "license": "Owner-controlled; no third-party samples",
+      "audio_status": "source_non_silent_AAC; live_audio_unverified"
+    },
+    "quality": "Full1080x1920 H264/AAC decode and frame sheet passed; peak -9.6dB",
+    "status": "pending"
   }
 }
