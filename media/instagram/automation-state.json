@@ -903,6 +903,31 @@
       "hook": "Coffee-order follow-up",
       "content_type": "pov_screenshot_preview",
       "media_commit": "9b50099332ef5b62a456c8f1b3f66e4169080342"
+    },
+    {
+      "date": "2026-10-21",
+      "slot": "12:00",
+      "hook": "Buy a phone, accidentally hired to sell phones",
+      "topic": "买 mǎi buy versus 卖 mài sell",
+      "content_type": "animated_meme",
+      "video_path": "media/instagram/2026-10-21/1200_buy_sell_shop.mp4",
+      "sha256": "c25d8d4df0b6647947ddba1390f2696b35bca246c89233c9baf1c87193abac05",
+      "size_bytes": 995193,
+      "duration": 20,
+      "caption": "I went to BUY a phone. My Mandarin tones got me hired to SELL them. 😅\n买 mǎi = buy • 卖 mài = sell.\n我想买手机。Wǒ xiǎng mǎi shǒujī. = I want to buy a phone.\nWhich tone pair trips you up?\nFollow for daily Mandarin memes & free Chinese lessons!\nLearn Chinese on your iPhone with Hanzi on Screen—FREE to start. Tap @hanziscreen, then the App Store link in our bio.\nhttps://apps.apple.com/id/app/hanzi-screen/id6811871162\nFictional learner joke; genuine widget screenshot preview. Original animation and sound design.\n#LearnMandarin #LearnChinese #MandarinMemes #ChineseVocabulary",
+      "audio": {
+        "title": "Checkout Pluck Shuffle",
+        "artist": "Hanzi on Screen",
+        "source": "Original deterministic synthesis in render script",
+        "license": "Owner-controlled; no third-party samples",
+        "audio_status": "source_non_silent_AAC; live_audio_unverified"
+      },
+      "quality": "Full1080x1920 H264/AAC decode and frame sheet passed; peak -9.6dB",
+      "status": "published",
+      "media_id": "18119349058764454",
+      "video_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/4ac70107f2e545c61ce9ff8b6503763b6514e826/media/instagram/2026-10-21/1200_buy_sell_shop.mp4",
+      "media_commit": "4ac70107f2e545c61ce9ff8b6503763b6514e826",
+      "published_at": "2026-10-21T05:02:18.895Z"
     }
   ],
   "verified_assets": [
@@ -4265,7 +4290,14 @@
         "highlight_status": "pending"
       }
     ],
-    "pending": []
+    "pending": [
+      {
+        "source_instagram_media_id": "18119349058764454",
+        "source_sha256": "c25d8d4df0b6647947ddba1390f2696b35bca246c89233c9baf1c87193abac05",
+        "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/4ac70107f2e545c61ce9ff8b6503763b6514e826/media/instagram/2026-10-21/1200_buy_sell_shop.mp4",
+        "status": "pending"
+      }
+    ]
   },
   "pending_recovery": [],
   "highlights": {
@@ -4276,26 +4308,5 @@
       "18107281790254873",
       "18112212545273482"
     ]
-  },
-  "pending": {
-    "date": "2026-10-21",
-    "slot": "12:00",
-    "hook": "Buy a phone, accidentally hired to sell phones",
-    "topic": "买 mǎi buy versus 卖 mài sell",
-    "content_type": "animated_meme",
-    "video_path": "media/instagram/2026-10-21/1200_buy_sell_shop.mp4",
-    "sha256": "c25d8d4df0b6647947ddba1390f2696b35bca246c89233c9baf1c87193abac05",
-    "size_bytes": 995193,
-    "duration": 20,
-    "caption": "I went to BUY a phone. My Mandarin tones got me hired to SELL them. 😅\n买 mǎi = buy • 卖 mài = sell.\n我想买手机。Wǒ xiǎng mǎi shǒujī. = I want to buy a phone.\nWhich tone pair trips you up?\nFollow for daily Mandarin memes & free Chinese lessons!\nLearn Chinese on your iPhone with Hanzi on Screen—FREE to start. Tap @hanziscreen, then the App Store link in our bio.\nhttps://apps.apple.com/id/app/hanzi-screen/id6811871162\nFictional learner joke; genuine widget screenshot preview. Original animation and sound design.\n#LearnMandarin #LearnChinese #MandarinMemes #ChineseVocabulary",
-    "audio": {
-      "title": "Checkout Pluck Shuffle",
-      "artist": "Hanzi on Screen",
-      "source": "Original deterministic synthesis in render script",
-      "license": "Owner-controlled; no third-party samples",
-      "audio_status": "source_non_silent_AAC; live_audio_unverified"
-    },
-    "quality": "Full1080x1920 H264/AAC decode and frame sheet passed; peak -9.6dB",
-    "status": "pending"
   }
 }
