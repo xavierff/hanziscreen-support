@@ -3578,12 +3578,18 @@
         "source_slot": "2026-10-20T12:00:00+07:00",
         "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/9b50099332ef5b62a456c8f1b3f66e4169080342/media/instagram/2026-10-20/1200_horse_tiger_review.mp4",
         "source_video_path": "media/instagram/2026-10-20/1200_horse_tiger_review.mp4",
-        "status": "pending_submission",
+        "status": "scheduled",
         "scheduled_at": "2026-10-21T18:06:00+07:00",
         "title": "Two horses, two tigers… so-so Mandarin? 🐴🐯",
         "caption": "My Mandarin got reviewed by two horses and two tigers 🐴🐯😅\n马马虎虎 mǎmǎhūhū = so-so / just okay.\nThe animals make a visual joke—the expression means “so-so,” not an actual animal review!\nFollow for daily Mandarin memes & free Chinese lessons!\nHanzi on Screen is FREE to start. Search Hanzi Screen in the App Store:\nhttps://apps.apple.com/id/app/hanzi-screen/id6811871162\nOriginal cartoon and sound design; genuine widget screenshot preview.\n#LearnMandarin #LearnChinese #MandarinMemes #ChineseVocabulary",
         "recovery_reason": "Owner authorized immediate automatic recovery; missing source verified absent from queue/state/recent analytics.",
-        "audio_status": "live_audio_unverified"
+        "audio_status": "live_audio_unverified",
+        "post_id": "402014126",
+        "uuid": "-244112906673566476",
+        "planner_url": "https://app.metricool.com/planner/calendar?blogId=7459891&openWithPostUuid=-244112906673566476",
+        "metricool_media_url": "https://static.metricool.com/planner/202610/7459891-file-14306802681776260607.mp4",
+        "autoPublish": true,
+        "draft": false
       }
     ],
     "failures": [],
