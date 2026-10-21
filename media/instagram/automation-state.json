@@ -3555,6 +3555,14 @@
         "confirmed_at": "2026-10-21T05:04:49.170Z",
         "queue_checked": "2026-10-21T05:05:29.249Z",
         "verification_note": "Read-back matched exact date, TikTok provider, caption, hosted MP4, autoPublish=true/draft=false. Live audio remains audio_unverified."
+      },
+      {
+        "source_instagram_media_id": "18109287098577371",
+        "source_slot": "2026-10-20T20:00:00+07:00",
+        "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/9b50099332ef5b62a456c8f1b3f66e4169080342/media/instagram/2026-10-20/2000_coffee_followup.mp4",
+        "status": "pending_submission",
+        "scheduled_at": "2026-10-21T12:35:00+07:00",
+        "recovery_reason": "Owner explicitly requested missing coffee Reel published now; keep future schedule."
       }
     ],
     "failures": [],
