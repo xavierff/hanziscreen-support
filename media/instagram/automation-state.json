@@ -929,6 +929,34 @@
       "media_commit": "4ac70107f2e545c61ce9ff8b6503763b6514e826",
       "published_at": "2026-10-21T05:02:18.895Z",
       "url": "https://www.instagram.com/reel/DevnAUXD1N-/"
+    },
+    {
+      "date": "2026-10-21",
+      "slot": "20:00",
+      "hook": "Packed the entire Mandarin library for a weekend; baggage scale complains",
+      "content_type": "pov_screenshot_preview",
+      "comparison_group": "product_focused",
+      "video_path": "media/instagram/2026-10-21/2000_phrasebook_baggage.mp4",
+      "sha256": "1be0f937aa2a2511a982c8257f0522decddf1ec74fe49fceda5b83b2f4160b95",
+      "size_bytes": 924226,
+      "duration": 20,
+      "status": "published",
+      "caption": "POV: packing for a weekend… your Mandarin phrasebooks need their own suitcase. 🧳😅\n手机 shǒujī = mobile phone.\nA little Chinese can live somewhere you already look: your iPhone Lock Screen.\nFollow for daily Mandarin memes & free Chinese lessons!\nHanzi on Screen is FREE to start. Tap @hanziscreen, then the App Store link in our bio.\nhttps://apps.apple.com/id/app/hanzi-screen/id6811871162\nFictional packing joke; genuine owner screenshot preview, not an app recording. Original animation and sound design.\n#LearnMandarin #LearnChinese #ChineseVocabulary #iPhoneWidgets",
+      "audio": {
+        "title": "Suitcase Waltz and Zipper Pops",
+        "artist": "Hanzi on Screen",
+        "source": "Original deterministic synthesis in phrasebook_baggage_20261021.py; no third-party samples",
+        "license": "Owner-controlled original audio",
+        "source_mean_db": -31.5,
+        "source_peak_db": -12.9,
+        "live_status": "audio_unverified"
+      },
+      "quality": "1080x1920 H264/AAC20s; frame sheet verified; authentic whole ending assets.",
+      "media_id": "18094990637422514",
+      "url": "https://www.instagram.com/hanziscreen/reel/Dewd9v0gfzY/",
+      "video_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/5910d9b803eb930fd6517e908c20e66affb30950/media/instagram/2026-10-21/2000_phrasebook_baggage.mp4",
+      "media_commit": "5910d9b803eb930fd6517e908c20e66affb30950",
+      "published_at": "2026-10-21T13:03:21.059Z"
     }
   ],
   "verified_assets": [
@@ -4408,7 +4436,14 @@
         "highlight_status": "pending"
       }
     ],
-    "pending": []
+    "pending": [
+      {
+        "source_instagram_media_id": "18094990637422514",
+        "source_sha256": "1be0f937aa2a2511a982c8257f0522decddf1ec74fe49fceda5b83b2f4160b95",
+        "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/5910d9b803eb930fd6517e908c20e66affb30950/media/instagram/2026-10-21/2000_phrasebook_baggage.mp4",
+        "status": "pending"
+      }
+    ]
   },
   "pending_recovery": [],
   "highlights": {
@@ -4421,28 +4456,5 @@
       "18034505723906390"
     ],
     "last_attempt_at": "2026-10-21T05:05:29.249Z"
-  },
-  "pending": {
-    "date": "2026-10-21",
-    "slot": "20:00",
-    "hook": "Packed the entire Mandarin library for a weekend; baggage scale complains",
-    "content_type": "pov_screenshot_preview",
-    "comparison_group": "product_focused",
-    "video_path": "media/instagram/2026-10-21/2000_phrasebook_baggage.mp4",
-    "sha256": "1be0f937aa2a2511a982c8257f0522decddf1ec74fe49fceda5b83b2f4160b95",
-    "size_bytes": 924226,
-    "duration": 20,
-    "status": "pending",
-    "caption": "POV: packing for a weekend… your Mandarin phrasebooks need their own suitcase. 🧳😅\n手机 shǒujī = mobile phone.\nA little Chinese can live somewhere you already look: your iPhone Lock Screen.\nFollow for daily Mandarin memes & free Chinese lessons!\nHanzi on Screen is FREE to start. Tap @hanziscreen, then the App Store link in our bio.\nhttps://apps.apple.com/id/app/hanzi-screen/id6811871162\nFictional packing joke; genuine owner screenshot preview, not an app recording. Original animation and sound design.\n#LearnMandarin #LearnChinese #ChineseVocabulary #iPhoneWidgets",
-    "audio": {
-      "title": "Suitcase Waltz and Zipper Pops",
-      "artist": "Hanzi on Screen",
-      "source": "Original deterministic synthesis in phrasebook_baggage_20261021.py; no third-party samples",
-      "license": "Owner-controlled original audio",
-      "source_mean_db": -31.5,
-      "source_peak_db": -12.9,
-      "live_status": "audio_unverified"
-    },
-    "quality": "1080x1920 H264/AAC20s; frame sheet verified; authentic whole ending assets."
   }
 }
