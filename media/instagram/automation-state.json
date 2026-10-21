@@ -3642,7 +3642,9 @@
         "metricool_media_url": "https://static.metricool.com/planner/202610/7459891-file-11531138441779933447.mp4",
         "autoPublish": true,
         "draft": false,
-        "confirmed_at": "2026-10-21T13:05:05.072Z"
+        "confirmed_at": "2026-10-21T13:05:05.072Z",
+        "queue_checked": "2026-10-21T13:05:28.468Z",
+        "verification_note": "Exact date/media/caption/provider, autoPublish=true, draft=false verified in queue. Publication pending; audio_unverified."
       }
     ],
     "failures": [],
@@ -4394,13 +4396,37 @@
     "missing_post_policy": "Recover immediately when detected at existing automation runs, after dedup; preserve next regular reservations.",
     "coverage_audit": {
       "date": "2026-10-21",
-      "checked_at": "2026-10-21T13:00:06.722Z",
+      "checked_at": "2026-10-21T13:05:28.468Z",
       "sources_since": "2026-10-16",
-      "source_count": 11,
+      "source_count": 12,
       "published": 10,
-      "future_reserved": 1,
+      "future_reserved": 2,
       "missing": [],
-      "note": "Matched source id/path/hash against state and full Metricool Oct16–23 records. Coffee and horse recoveries already public; no duplicate recovery."
+      "note": "All extension-era sources matched by id/path/hash. Horse and coffee public, no recovery submitted this run. Both tomorrow reservations verified.",
+      "next_day": "2026-10-22",
+      "slots": [
+        {
+          "time": "10:00",
+          "post_id": "401782277",
+          "source_id": "18119349058764454",
+          "status": "scheduled"
+        },
+        {
+          "time": "18:00",
+          "post_id": "402114502",
+          "source_id": "18094990637422514",
+          "status": "scheduled"
+        }
+      ]
+    },
+    "regular_slot_policy": {
+      "timezone": "Asia/Jakarta",
+      "times": [
+        "10:00",
+        "18:00"
+      ],
+      "mapping": "noon source→next-day10:00;evening source→next-day18:00",
+      "recovery": "Genuinely missing overdue sources recovered separately without moving regular reservations"
     }
   },
   "stories": {
