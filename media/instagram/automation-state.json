@@ -957,6 +957,34 @@
       "video_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/5910d9b803eb930fd6517e908c20e66affb30950/media/instagram/2026-10-21/2000_phrasebook_baggage.mp4",
       "media_commit": "5910d9b803eb930fd6517e908c20e66affb30950",
       "published_at": "2026-10-21T13:03:21.059Z"
+    },
+    {
+      "date": "2026-10-22",
+      "slot": "12:00",
+      "hook": "Learner brings surfboard to Wi-Fi router; router wants lifeguard",
+      "topic": "上网 shàngwǎng go online/use the internet",
+      "content_type": "animated_meme",
+      "comparison_group": "meme",
+      "video_path": "media/instagram/2026-10-22/1200_wifi_surfer.mp4",
+      "sha256": "761bb9c6c5f7d3faa53726747fbbc5da2d5e80027f5307aa637b8c95ed49a40a",
+      "size_bytes": 1221878,
+      "duration": 20,
+      "status": "published",
+      "caption": "“Go online,” they said. My brain brought a surfboard. 🏄😅\n上网 shàngwǎng = go online / use the internet.\n我在上网。Wǒ zài shàngwǎng. = I’m using the internet.\nThe router did not sign up to be a lifeguard.\nFollow for daily Mandarin memes & free Chinese lessons!\nKeep useful Chinese in sight with Hanzi on Screen—FREE to start. Tap @hanziscreen, then the App Store link in our bio.\nhttps://apps.apple.com/id/app/hanzi-screen/id6811871162\nFictional learner joke; genuine widget screenshot preview. Original animation and sound design.\n#LearnMandarin #LearnChinese #MandarinMemes #ChineseVocabulary",
+      "audio": {
+        "title": "Wi-Fi Surf Stomp",
+        "artist": "Hanzi on Screen",
+        "source": "Original deterministic synthesis in wifi_surfer_20261022.py; no third-party samples",
+        "license": "Owner-controlled original audio",
+        "mean_db": -28.8,
+        "peak_db": -9.7,
+        "live_status": "audio_unverified"
+      },
+      "quality": "1080x1920 H264/AAC20s; full decode, frame sheet and audio checks passed; whole authentic ending assets.",
+      "media_id": "18168799759468584",
+      "video_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/dadf245dbb6f91a56313fc8fec9ce0b533be3446/media/instagram/2026-10-22/1200_wifi_surfer.mp4",
+      "media_commit": "dadf245dbb6f91a56313fc8fec9ce0b533be3446",
+      "published_at": "2026-10-22T05:01:45.681Z"
     }
   ],
   "verified_assets": [
@@ -4747,7 +4775,14 @@
         "highlight_status": "pending"
       }
     ],
-    "pending": []
+    "pending": [
+      {
+        "source_instagram_media_id": "18168799759468584",
+        "source_sha256": "761bb9c6c5f7d3faa53726747fbbc5da2d5e80027f5307aa637b8c95ed49a40a",
+        "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/dadf245dbb6f91a56313fc8fec9ce0b533be3446/media/instagram/2026-10-22/1200_wifi_surfer.mp4",
+        "status": "pending"
+      }
+    ]
   },
   "pending_recovery": [],
   "highlights": {
@@ -4842,29 +4877,5 @@
       "skip_fraction": 0.65
     },
     "assessment": "120views;4.134s average watch;66.4%skip. Targets unmet; small observational sample. No App Store attribution; continue observation toOct29."
-  },
-  "pending": {
-    "date": "2026-10-22",
-    "slot": "12:00",
-    "hook": "Learner brings surfboard to Wi-Fi router; router wants lifeguard",
-    "topic": "上网 shàngwǎng go online/use the internet",
-    "content_type": "animated_meme",
-    "comparison_group": "meme",
-    "video_path": "media/instagram/2026-10-22/1200_wifi_surfer.mp4",
-    "sha256": "761bb9c6c5f7d3faa53726747fbbc5da2d5e80027f5307aa637b8c95ed49a40a",
-    "size_bytes": 1221878,
-    "duration": 20,
-    "status": "pending",
-    "caption": "“Go online,” they said. My brain brought a surfboard. 🏄😅\n上网 shàngwǎng = go online / use the internet.\n我在上网。Wǒ zài shàngwǎng. = I’m using the internet.\nThe router did not sign up to be a lifeguard.\nFollow for daily Mandarin memes & free Chinese lessons!\nKeep useful Chinese in sight with Hanzi on Screen—FREE to start. Tap @hanziscreen, then the App Store link in our bio.\nhttps://apps.apple.com/id/app/hanzi-screen/id6811871162\nFictional learner joke; genuine widget screenshot preview. Original animation and sound design.\n#LearnMandarin #LearnChinese #MandarinMemes #ChineseVocabulary",
-    "audio": {
-      "title": "Wi-Fi Surf Stomp",
-      "artist": "Hanzi on Screen",
-      "source": "Original deterministic synthesis in wifi_surfer_20261022.py; no third-party samples",
-      "license": "Owner-controlled original audio",
-      "mean_db": -28.8,
-      "peak_db": -9.7,
-      "live_status": "audio_unverified"
-    },
-    "quality": "1080x1920 H264/AAC20s; full decode, frame sheet and audio checks passed; whole authentic ending assets."
   }
 }
