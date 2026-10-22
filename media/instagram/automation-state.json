@@ -986,6 +986,34 @@
       "media_commit": "dadf245dbb6f91a56313fc8fec9ce0b533be3446",
       "published_at": "2026-10-22T05:01:45.681Z",
       "url": "https://www.instagram.com/reel/DeyLrwnCesc/"
+    },
+    {
+      "date": "2026-10-22",
+      "slot": "20:00",
+      "hook": "Learner asks for bill in Chinese; wallet hides under restaurant table",
+      "topic": "买单 mǎidān pay the bill",
+      "content_type": "pov_screenshot_preview",
+      "comparison_group": "product_focused",
+      "video_path": "media/instagram/2026-10-22/2000_wallet_not_ready.mp4",
+      "sha256": "2b8f9e47a8d475a43d6fae8c3daa5ad61968c447de883f43b5ed257edde058e6",
+      "size_bytes": 921043,
+      "duration": 20,
+      "status": "published",
+      "caption": "POV: your Chinese is ready to ask for the bill. Your wallet is hiding under the table. 😅\n买单 mǎidān = pay the bill.\n买单，谢谢！Mǎidān, xièxie! = The bill, please. Thank you!\nFollow for daily Mandarin memes & free Chinese lessons!\nKeep everyday Chinese in sight with Hanzi on Screen—FREE to start. Tap @hanziscreen, then the App Store link in our bio.\nhttps://apps.apple.com/id/app/hanzi-screen/id6811871162\nFictional restaurant joke; genuine owner screenshot preview, not an app recording. Original animation and sound design.\n#LearnMandarin #LearnChinese #ChineseVocabulary #iPhoneWidgets",
+      "audio": {
+        "title": "Wallet Tiptoe",
+        "artist": "Hanzi on Screen",
+        "source": "Original deterministic synthesis in wallet_not_ready_20261022.py; no third-party samples",
+        "license": "Owner-controlled original audio",
+        "mean_db": -30.7,
+        "peak_db": -9.5,
+        "live_status": "audio_unverified"
+      },
+      "quality": "1080x1920H264/AAC20s; full decode,frame sheet,audio verified; whole owner ending images.",
+      "media_id": "18105692558636540",
+      "video_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/6f0fc532c05c2ccd8c519b6373ec83d68047d801/media/instagram/2026-10-22/2000_wallet_not_ready.mp4",
+      "media_commit": "6f0fc532c05c2ccd8c519b6373ec83d68047d801",
+      "published_at": "2026-10-22T13:05:24.404Z"
     }
   ],
   "verified_assets": [
@@ -4809,7 +4837,14 @@
         "highlight_status": "pending"
       }
     ],
-    "pending": []
+    "pending": [
+      {
+        "source_instagram_media_id": "18105692558636540",
+        "source_sha256": "2b8f9e47a8d475a43d6fae8c3daa5ad61968c447de883f43b5ed257edde058e6",
+        "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/6f0fc532c05c2ccd8c519b6373ec83d68047d801/media/instagram/2026-10-22/2000_wallet_not_ready.mp4",
+        "status": "pending"
+      }
+    ]
   },
   "pending_recovery": [],
   "highlights": {
@@ -4905,29 +4940,5 @@
       "skip_fraction": 0.65
     },
     "assessment": "120views;4.134s average watch;66.4%skip. Targets unmet; small observational sample. No App Store attribution; continue observation toOct29."
-  },
-  "pending": {
-    "date": "2026-10-22",
-    "slot": "20:00",
-    "hook": "Learner asks for bill in Chinese; wallet hides under restaurant table",
-    "topic": "买单 mǎidān pay the bill",
-    "content_type": "pov_screenshot_preview",
-    "comparison_group": "product_focused",
-    "video_path": "media/instagram/2026-10-22/2000_wallet_not_ready.mp4",
-    "sha256": "2b8f9e47a8d475a43d6fae8c3daa5ad61968c447de883f43b5ed257edde058e6",
-    "size_bytes": 921043,
-    "duration": 20,
-    "status": "pending",
-    "caption": "POV: your Chinese is ready to ask for the bill. Your wallet is hiding under the table. 😅\n买单 mǎidān = pay the bill.\n买单，谢谢！Mǎidān, xièxie! = The bill, please. Thank you!\nFollow for daily Mandarin memes & free Chinese lessons!\nKeep everyday Chinese in sight with Hanzi on Screen—FREE to start. Tap @hanziscreen, then the App Store link in our bio.\nhttps://apps.apple.com/id/app/hanzi-screen/id6811871162\nFictional restaurant joke; genuine owner screenshot preview, not an app recording. Original animation and sound design.\n#LearnMandarin #LearnChinese #ChineseVocabulary #iPhoneWidgets",
-    "audio": {
-      "title": "Wallet Tiptoe",
-      "artist": "Hanzi on Screen",
-      "source": "Original deterministic synthesis in wallet_not_ready_20261022.py; no third-party samples",
-      "license": "Owner-controlled original audio",
-      "mean_db": -30.7,
-      "peak_db": -9.5,
-      "live_status": "audio_unverified"
-    },
-    "quality": "1080x1920H264/AAC20s; full decode,frame sheet,audio verified; whole owner ending images."
   }
 }
