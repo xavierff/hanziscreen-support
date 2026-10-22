@@ -3914,7 +3914,7 @@
         "source_slot": "2026-10-21T20:00:00+07:00",
         "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/5910d9b803eb930fd6517e908c20e66affb30950/media/instagram/2026-10-21/2000_phrasebook_baggage.mp4",
         "scheduled_at": "2026-10-22T18:00:00+07:00",
-        "status": "scheduled",
+        "status": "published",
         "idempotency_key": "instagram:18094990637422514:tiktok",
         "title": "My Mandarin phrasebooks need their own suitcase 🧳",
         "caption": "Packing for a weekend: passport, charger… the entire Mandarin library 🧳😅\n手机 shǒujī = mobile phone.\nKeep a little Chinese in sight on your iPhone Lock Screen.\nFollow for daily Mandarin memes & free Chinese lessons!\nHanzi on Screen is FREE to start. Search Hanzi Screen in the App Store:\nhttps://apps.apple.com/id/app/hanzi-screen/id6811871162\nFictional packing joke; genuine screenshot preview, not an app recording. Original animation and sound design.\n#LearnMandarin #LearnChinese #ChineseVocabulary #iPhoneWidgets",
@@ -3928,7 +3928,9 @@
         "draft": false,
         "confirmed_at": "2026-10-21T13:05:05.072Z",
         "queue_checked": "2026-10-21T13:05:28.468Z",
-        "verification_note": "Exact date/media/caption/provider, autoPublish=true, draft=false verified in queue. Publication pending; audio_unverified."
+        "verification_note": "Exact date/media/caption/provider, autoPublish=true, draft=false verified in queue. Publication pending; audio_unverified.",
+        "public_url": "https://www.tiktok.com/@hanziscreen/video/7699446102482881810",
+        "provider_status": "PUBLISHED"
       },
       {
         "source_instagram_media_id": "18168799759468584",
@@ -4903,5 +4905,29 @@
       "skip_fraction": 0.65
     },
     "assessment": "120views;4.134s average watch;66.4%skip. Targets unmet; small observational sample. No App Store attribution; continue observation toOct29."
+  },
+  "pending": {
+    "date": "2026-10-22",
+    "slot": "20:00",
+    "hook": "Learner asks for bill in Chinese; wallet hides under restaurant table",
+    "topic": "买单 mǎidān pay the bill",
+    "content_type": "pov_screenshot_preview",
+    "comparison_group": "product_focused",
+    "video_path": "media/instagram/2026-10-22/2000_wallet_not_ready.mp4",
+    "sha256": "2b8f9e47a8d475a43d6fae8c3daa5ad61968c447de883f43b5ed257edde058e6",
+    "size_bytes": 921043,
+    "duration": 20,
+    "status": "pending",
+    "caption": "POV: your Chinese is ready to ask for the bill. Your wallet is hiding under the table. 😅\n买单 mǎidān = pay the bill.\n买单，谢谢！Mǎidān, xièxie! = The bill, please. Thank you!\nFollow for daily Mandarin memes & free Chinese lessons!\nKeep everyday Chinese in sight with Hanzi on Screen—FREE to start. Tap @hanziscreen, then the App Store link in our bio.\nhttps://apps.apple.com/id/app/hanzi-screen/id6811871162\nFictional restaurant joke; genuine owner screenshot preview, not an app recording. Original animation and sound design.\n#LearnMandarin #LearnChinese #ChineseVocabulary #iPhoneWidgets",
+    "audio": {
+      "title": "Wallet Tiptoe",
+      "artist": "Hanzi on Screen",
+      "source": "Original deterministic synthesis in wallet_not_ready_20261022.py; no third-party samples",
+      "license": "Owner-controlled original audio",
+      "mean_db": -30.7,
+      "peak_db": -9.5,
+      "live_status": "audio_unverified"
+    },
+    "quality": "1080x1920H264/AAC20s; full decode,frame sheet,audio verified; whole owner ending images."
   }
 }
