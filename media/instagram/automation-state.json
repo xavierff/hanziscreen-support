@@ -984,7 +984,8 @@
       "media_id": "18168799759468584",
       "video_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/dadf245dbb6f91a56313fc8fec9ce0b533be3446/media/instagram/2026-10-22/1200_wifi_surfer.mp4",
       "media_commit": "dadf245dbb6f91a56313fc8fec9ce0b533be3446",
-      "published_at": "2026-10-22T05:01:45.681Z"
+      "published_at": "2026-10-22T05:01:45.681Z",
+      "url": "https://www.instagram.com/reel/DeyLrwnCesc/"
     }
   ],
   "verified_assets": [
@@ -3947,7 +3948,9 @@
         "metricool_media_url": "https://static.metricool.com/planner/202610/7459891-file-9273492439302335769.mp4",
         "autoPublish": true,
         "draft": false,
-        "confirmed_at": "2026-10-22T05:03:18.080Z"
+        "confirmed_at": "2026-10-22T05:03:18.080Z",
+        "queue_checked": "2026-10-22T05:03:35.618Z",
+        "verification_note": "Read-back exact caption/media/date,TikTok,autoPublish=true,draft=false. Hosted AAC non-silent;live audio_unverified."
       }
     ],
     "failures": [],
@@ -4698,29 +4701,29 @@
     ],
     "missing_post_policy": "Recover immediately when detected at existing automation runs, after dedup; preserve next regular reservations.",
     "coverage_audit": {
-      "date": "2026-10-21",
-      "checked_at": "2026-10-21T13:05:28.468Z",
-      "sources_since": "2026-10-16",
-      "source_count": 12,
-      "published": 10,
+      "checked_at": "2026-10-22T05:03:35.618Z",
+      "date": "2026-10-22",
+      "source_count": 13,
+      "published": 11,
       "future_reserved": 2,
       "missing": [],
-      "note": "All extension-era sources matched by id/path/hash. Horse and coffee public, no recovery submitted this run. Both tomorrow reservations verified.",
-      "next_day": "2026-10-22",
-      "slots": [
+      "recoveries_submitted": 0,
+      "next_actual_slots": [
         {
-          "time": "10:00",
-          "post_id": "401782277",
-          "source_id": "18119349058764454",
-          "status": "scheduled"
+          "date": "2026-10-22T18:00:00+07:00",
+          "post_id": "402114502"
         },
         {
-          "time": "18:00",
-          "post_id": "402114502",
-          "source_id": "18094990637422514",
-          "status": "scheduled"
+          "date": "2026-10-23T10:00:00+07:00",
+          "post_id": "402793844"
         }
-      ]
+      ],
+      "next_day_coverage": {
+        "date": "2026-10-23",
+        "10:00": "reserved402793844",
+        "18:00": "awaiting Oct22 evening source;not yet generated"
+      },
+      "note": "All extension sources accounted for by source id/path/hash plus Metricool full records; recent analytics confirms recoveries. No duplicate or missed source."
     },
     "regular_slot_policy": {
       "timezone": "Asia/Jakarta",
