@@ -3928,6 +3928,26 @@
         "confirmed_at": "2026-10-21T13:05:05.072Z",
         "queue_checked": "2026-10-21T13:05:28.468Z",
         "verification_note": "Exact date/media/caption/provider, autoPublish=true, draft=false verified in queue. Publication pending; audio_unverified."
+      },
+      {
+        "source_instagram_media_id": "18168799759468584",
+        "source_sha256": "761bb9c6c5f7d3faa53726747fbbc5da2d5e80027f5307aa637b8c95ed49a40a",
+        "source_video_path": "media/instagram/2026-10-22/1200_wifi_surfer.mp4",
+        "source_slot": "2026-10-22T12:00:00+07:00",
+        "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/dadf245dbb6f91a56313fc8fec9ce0b533be3446/media/instagram/2026-10-22/1200_wifi_surfer.mp4",
+        "scheduled_at": "2026-10-23T10:00:00+07:00",
+        "status": "scheduled",
+        "idempotency_key": "instagram:18168799759468584:tiktok",
+        "title": "Surfing the internet… my router needs a lifeguard 🏄",
+        "caption": "“Go online.” Me: brings a surfboard 🏄😅\n上网 shàngwǎng = go online / use the internet.\n我在上网。Wǒ zài shàngwǎng. = I’m using the internet.\nThe router did not sign up to be a lifeguard.\nFollow for daily Mandarin memes & free Chinese lessons!\nHanzi on Screen is FREE to start. Search Hanzi Screen in the App Store:\nhttps://apps.apple.com/id/app/hanzi-screen/id6811871162\nFictional learner joke; genuine screenshot preview. Original animation and sound design.\n#LearnMandarin #LearnChinese #MandarinMemes #ChineseVocabulary",
+        "audio_status": "audio_unverified",
+        "post_id": "402793844",
+        "uuid": "1797764743045991455",
+        "planner_url": "https://app.metricool.com/planner/calendar?blogId=7459891&openWithPostUuid=1797764743045991455",
+        "metricool_media_url": "https://static.metricool.com/planner/202610/7459891-file-9273492439302335769.mp4",
+        "autoPublish": true,
+        "draft": false,
+        "confirmed_at": "2026-10-22T05:03:18.080Z"
       }
     ],
     "failures": [],
@@ -4671,21 +4691,7 @@
         "quarantined": true
       }
     ],
-    "pending": [
-      {
-        "source_instagram_media_id": "18168799759468584",
-        "source_sha256": "761bb9c6c5f7d3faa53726747fbbc5da2d5e80027f5307aa637b8c95ed49a40a",
-        "source_video_path": "media/instagram/2026-10-22/1200_wifi_surfer.mp4",
-        "source_slot": "2026-10-22T12:00:00+07:00",
-        "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/dadf245dbb6f91a56313fc8fec9ce0b533be3446/media/instagram/2026-10-22/1200_wifi_surfer.mp4",
-        "scheduled_at": "2026-10-23T10:00:00+07:00",
-        "status": "pending",
-        "idempotency_key": "instagram:18168799759468584:tiktok",
-        "title": "Surfing the internet… my router needs a lifeguard 🏄",
-        "caption": "“Go online.” Me: brings a surfboard 🏄😅\n上网 shàngwǎng = go online / use the internet.\n我在上网。Wǒ zài shàngwǎng. = I’m using the internet.\nThe router did not sign up to be a lifeguard.\nFollow for daily Mandarin memes & free Chinese lessons!\nHanzi on Screen is FREE to start. Search Hanzi Screen in the App Store:\nhttps://apps.apple.com/id/app/hanzi-screen/id6811871162\nFictional learner joke; genuine screenshot preview. Original animation and sound design.\n#LearnMandarin #LearnChinese #MandarinMemes #ChineseVocabulary",
-        "audio_status": "audio_unverified"
-      }
-    ],
+    "pending": [],
     "regular_slots": [
       "10:00",
       "18:00"
