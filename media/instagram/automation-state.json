@@ -4724,7 +4724,21 @@
         "quarantined": true
       }
     ],
-    "pending": [],
+    "pending": [
+      {
+        "source_instagram_media_id": "18105692558636540",
+        "source_sha256": "2b8f9e47a8d475a43d6fae8c3daa5ad61968c447de883f43b5ed257edde058e6",
+        "source_video_path": "media/instagram/2026-10-22/2000_wallet_not_ready.mp4",
+        "source_slot": "2026-10-22T20:00:00+07:00",
+        "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/6f0fc532c05c2ccd8c519b6373ec83d68047d801/media/instagram/2026-10-22/2000_wallet_not_ready.mp4",
+        "scheduled_at": "2026-10-23T18:00:00+07:00",
+        "status": "pending",
+        "idempotency_key": "instagram:18105692558636540:tiktok",
+        "title": "My Chinese is ready. My wallet isn't. 😅 | 买单",
+        "caption": "Asking for the bill in Mandarin: confident. Paying it: wallet hides under the table 😅\n买单 mǎidān = pay the bill.\n买单，谢谢！Mǎidān, xièxie! = The bill, please. Thank you!\nFollow for daily Mandarin memes & free Chinese lessons!\nKeep everyday Chinese in sight with Hanzi on Screen—FREE to start. Search Hanzi Screen in the App Store:\nhttps://apps.apple.com/id/app/hanzi-screen/id6811871162\nFictional restaurant joke; genuine screenshot preview, not an app recording. Original animation and sound design.\n#LearnMandarin #LearnChinese #ChineseVocabulary #MandarinMemes",
+        "audio_status": "audio_unverified"
+      }
+    ],
     "regular_slots": [
       "10:00",
       "18:00"
@@ -4835,30 +4849,33 @@
         "story_media_id": "18127541471295855",
         "published_at": "2026-10-22T05:02:56.963Z",
         "highlight_status": "pending"
-      }
-    ],
-    "pending": [
+      },
       {
         "source_instagram_media_id": "18105692558636540",
         "source_sha256": "2b8f9e47a8d475a43d6fae8c3daa5ad61968c447de883f43b5ed257edde058e6",
         "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/6f0fc532c05c2ccd8c519b6373ec83d68047d801/media/instagram/2026-10-22/2000_wallet_not_ready.mp4",
-        "status": "pending"
+        "status": "published",
+        "story_media_id": "18148980928485347",
+        "published_at": "2026-10-22T13:06:57.336Z",
+        "highlight_status": "pending"
       }
-    ]
+    ],
+    "pending": []
   },
   "pending_recovery": [],
   "highlights": {
     "name": "Mandarin",
     "status": "pending",
-    "reason": "Oct22 signed-in Mandarin Highlight Story picker still empty;Next disabled. No Highlight created.",
+    "reason": "Oct22 evening signed-in Mandarin Highlight picker still empty;Next disabled.",
     "pending_story_ids": [
       "18107281790254873",
       "18112212545273482",
       "18034505723906390",
       "18141644740611225",
-      "18127541471295855"
+      "18127541471295855",
+      "18148980928485347"
     ],
-    "last_attempt_at": "2026-10-22T05:02:56.963Z"
+    "last_attempt_at": "2026-10-22T13:06:57.336Z"
   },
   "engagement_test_review": {
     "checked_at": "2026-10-22T04:59:09.778Z",
