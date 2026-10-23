@@ -1013,6 +1013,34 @@
       "published_at": "2026-10-22T13:05:24.404Z",
       "url": "https://www.instagram.com/hanziscreen/reel/DezDC3SlDO6/",
       "permalink_verification": "Visible signed-in profile link matched complete caption; Windsor media read currently lags latest publication."
+    },
+    {
+      "date": "2026-10-23",
+      "slot": "12:00",
+      "hook": "Cat hires grammar lawyer and refuses to be counted without classifier只",
+      "topic": "一只猫 yì zhī māo one cat;只classifier for cats",
+      "content_type": "animated_meme",
+      "comparison_group": "meme",
+      "video_path": "media/instagram/2026-10-23/1200_cat_classifier.mp4",
+      "sha256": "2ce6f7fd4f55786e651c2f6e773b889ea78068f3de2560609ffa73df63a98d3a",
+      "size_bytes": 908276,
+      "duration": 20,
+      "status": "published",
+      "caption": "I learned to count in Mandarin. My cat immediately hired a grammar lawyer. 🐱😅\n一只猫 yì zhī māo = one cat.\n只 zhī is the standard measure word used here for cats. Mandarin puts a measure word between the number and the noun.\nPermission to count: granted.\nFollow for daily Mandarin memes & free Chinese lessons!\nKeep useful Chinese in sight with Hanzi on Screen—FREE to start. Tap @hanziscreen, then the App Store link in our bio.\nhttps://apps.apple.com/id/app/hanzi-screen/id6811871162\nFictional cat joke; genuine widget screenshot preview. Original animation and sound design.\n#LearnMandarin #LearnChinese #MandarinMemes #ChineseVocabulary",
+      "audio": {
+        "title": "Cat Counter Pizzicato",
+        "artist": "Hanzi on Screen",
+        "source": "Original deterministic synthesis in cat_classifier_20261023.py;no third-party samples",
+        "license": "Owner-controlled original audio",
+        "mean_db": -30.8,
+        "peak_db": -11.1,
+        "live_status": "audio_unverified"
+      },
+      "quality": "Full1080x1920H264/AAC20s decode,frame sheet,audio checks passed;whole authentic ending assets.",
+      "media_id": "18577457167078824",
+      "video_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/6aff60fbf8c5d09edf11f1034342db68c9c70b54/media/instagram/2026-10-23/1200_cat_classifier.mp4",
+      "media_commit": "6aff60fbf8c5d09edf11f1034342db68c9c70b54",
+      "published_at": "2026-10-23T05:01:00.513Z"
     }
   ],
   "verified_assets": [
@@ -4954,7 +4982,14 @@
         "highlight_status": "pending"
       }
     ],
-    "pending": []
+    "pending": [
+      {
+        "source_instagram_media_id": "18577457167078824",
+        "source_sha256": "2ce6f7fd4f55786e651c2f6e773b889ea78068f3de2560609ffa73df63a98d3a",
+        "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/6aff60fbf8c5d09edf11f1034342db68c9c70b54/media/instagram/2026-10-23/1200_cat_classifier.mp4",
+        "status": "pending"
+      }
+    ]
   },
   "pending_recovery": [],
   "highlights": {
@@ -5066,29 +5101,5 @@
       "total_rows": 1
     },
     "notes": "Deprecated profile/website fields may be unavailable. Do not interpret business-contact taps as App Store clicks."
-  },
-  "pending": {
-    "date": "2026-10-23",
-    "slot": "12:00",
-    "hook": "Cat hires grammar lawyer and refuses to be counted without classifier只",
-    "topic": "一只猫 yì zhī māo one cat;只classifier for cats",
-    "content_type": "animated_meme",
-    "comparison_group": "meme",
-    "video_path": "media/instagram/2026-10-23/1200_cat_classifier.mp4",
-    "sha256": "2ce6f7fd4f55786e651c2f6e773b889ea78068f3de2560609ffa73df63a98d3a",
-    "size_bytes": 908276,
-    "duration": 20,
-    "status": "pending",
-    "caption": "I learned to count in Mandarin. My cat immediately hired a grammar lawyer. 🐱😅\n一只猫 yì zhī māo = one cat.\n只 zhī is the standard measure word used here for cats. Mandarin puts a measure word between the number and the noun.\nPermission to count: granted.\nFollow for daily Mandarin memes & free Chinese lessons!\nKeep useful Chinese in sight with Hanzi on Screen—FREE to start. Tap @hanziscreen, then the App Store link in our bio.\nhttps://apps.apple.com/id/app/hanzi-screen/id6811871162\nFictional cat joke; genuine widget screenshot preview. Original animation and sound design.\n#LearnMandarin #LearnChinese #MandarinMemes #ChineseVocabulary",
-    "audio": {
-      "title": "Cat Counter Pizzicato",
-      "artist": "Hanzi on Screen",
-      "source": "Original deterministic synthesis in cat_classifier_20261023.py;no third-party samples",
-      "license": "Owner-controlled original audio",
-      "mean_db": -30.8,
-      "peak_db": -11.1,
-      "live_status": "audio_unverified"
-    },
-    "quality": "Full1080x1920H264/AAC20s decode,frame sheet,audio checks passed;whole authentic ending assets."
   }
 }
