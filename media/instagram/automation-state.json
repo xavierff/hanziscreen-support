@@ -4923,7 +4923,21 @@
         "quarantined": true
       }
     ],
-    "pending": [],
+    "pending": [
+      {
+        "source_instagram_media_id": "17864330343694231",
+        "source_sha256": "93dd41e72f4eb3ade84f0fb7256b3f83d850125d6e39984e7a804d55301fa20e",
+        "source_video_path": "media/instagram/2026-10-23/2000_door_final_boss.mp4",
+        "source_slot": "2026-10-23T20:00:00+07:00",
+        "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/f8e14fcd2fe9409138473e04cb10013197f030eb/media/instagram/2026-10-23/2000_door_final_boss.mp4",
+        "scheduled_at": "2026-10-24T18:00:00+07:00",
+        "status": "pending",
+        "idempotency_key": "instagram:17864330343694231:tiktok",
+        "title": "Mandarin final boss: the pull door 🚪 | 推 vs 拉",
+        "caption": "Your Mandarin introduction: rehearsed. The door: final boss 🚪😅\n推 tuī = push. 拉 lā = pull.\nThe sign said 拉. My brain booked an accidental gym session.\nFollow for daily Mandarin memes & free Chinese lessons!\nKeep everyday Chinese in sight with Hanzi on Screen—FREE to start. Search Hanzi Screen in the App Store:\nhttps://apps.apple.com/id/app/hanzi-screen/id6811871162\nFictional learner joke; genuine screenshot preview, not an app recording. Original animation and sound design.\n#LearnMandarin #LearnChinese #ChineseVocabulary #MandarinMemes",
+        "audio_status": "audio_unverified"
+      }
+    ],
     "regular_slots": [
       "10:00",
       "18:00"
@@ -5052,16 +5066,18 @@
         "story_media_id": "18026553557925491",
         "published_at": "2026-10-23T05:02:12.079Z",
         "highlight_status": "pending"
-      }
-    ],
-    "pending": [
+      },
       {
         "source_instagram_media_id": "17864330343694231",
         "source_sha256": "93dd41e72f4eb3ade84f0fb7256b3f83d850125d6e39984e7a804d55301fa20e",
         "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/f8e14fcd2fe9409138473e04cb10013197f030eb/media/instagram/2026-10-23/2000_door_final_boss.mp4",
-        "status": "pending"
+        "status": "published",
+        "story_media_id": "18130973032806594",
+        "published_at": "2026-10-23T13:04:55.331Z",
+        "highlight_status": "pending"
       }
-    ]
+    ],
+    "pending": []
   },
   "pending_recovery": [],
   "highlights": {
@@ -5075,7 +5091,8 @@
       "18141644740611225",
       "18127541471295855",
       "18148980928485347",
-      "18026553557925491"
+      "18026553557925491",
+      "18130973032806594"
     ],
     "last_attempt_at": "2026-10-23T13:02:31.773Z"
   },
