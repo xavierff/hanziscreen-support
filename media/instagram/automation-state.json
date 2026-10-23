@@ -4127,6 +4127,26 @@
         "confirmed_at": "2026-10-22T13:07:23.370Z",
         "queue_checked": "2026-10-22T13:07:49.708Z",
         "verification_note": "Exact date/caption/media, TikTok provider, autoPublish=true,draft=false verified. Hosted AAC non-silent;live audio_unverified."
+      },
+      {
+        "source_instagram_media_id": "18577457167078824",
+        "source_sha256": "2ce6f7fd4f55786e651c2f6e773b889ea78068f3de2560609ffa73df63a98d3a",
+        "source_video_path": "media/instagram/2026-10-23/1200_cat_classifier.mp4",
+        "source_slot": "2026-10-23T12:00:00+07:00",
+        "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/6aff60fbf8c5d09edf11f1034342db68c9c70b54/media/instagram/2026-10-23/1200_cat_classifier.mp4",
+        "scheduled_at": "2026-10-24T10:00:00+07:00",
+        "status": "scheduled",
+        "idempotency_key": "instagram:18577457167078824:tiktok",
+        "title": "My cat hired a Mandarin grammar lawyer 🐱 | 一只猫",
+        "caption": "I learned to count in Mandarin. My cat demanded a grammar lawyer 🐱😅\n一只猫 yì zhī māo = one cat.\n只 zhī is the standard measure word here for cats: number + measure word + noun.\nPermission to count: granted.\nFollow for daily Mandarin memes & free Chinese lessons!\nHanzi on Screen is FREE to start. Search Hanzi Screen in the App Store:\nhttps://apps.apple.com/id/app/hanzi-screen/id6811871162\nFictional cat joke; genuine screenshot preview. Original animation and sound design.\n#LearnMandarin #LearnChinese #MandarinMemes #ChineseVocabulary",
+        "audio_status": "audio_unverified",
+        "post_id": "403808672",
+        "uuid": "4392523947157373026",
+        "planner_url": "https://app.metricool.com/planner/calendar?blogId=7459891&openWithPostUuid=4392523947157373026",
+        "metricool_media_url": "https://static.metricool.com/planner/202610/7459891-file-15602819159270879920.mp4",
+        "autoPublish": true,
+        "draft": false,
+        "confirmed_at": "2026-10-23T05:02:30.590Z"
       }
     ],
     "failures": [],
@@ -4870,21 +4890,7 @@
         "quarantined": true
       }
     ],
-    "pending": [
-      {
-        "source_instagram_media_id": "18577457167078824",
-        "source_sha256": "2ce6f7fd4f55786e651c2f6e773b889ea78068f3de2560609ffa73df63a98d3a",
-        "source_video_path": "media/instagram/2026-10-23/1200_cat_classifier.mp4",
-        "source_slot": "2026-10-23T12:00:00+07:00",
-        "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/6aff60fbf8c5d09edf11f1034342db68c9c70b54/media/instagram/2026-10-23/1200_cat_classifier.mp4",
-        "scheduled_at": "2026-10-24T10:00:00+07:00",
-        "status": "pending",
-        "idempotency_key": "instagram:18577457167078824:tiktok",
-        "title": "My cat hired a Mandarin grammar lawyer 🐱 | 一只猫",
-        "caption": "I learned to count in Mandarin. My cat demanded a grammar lawyer 🐱😅\n一只猫 yì zhī māo = one cat.\n只 zhī is the standard measure word here for cats: number + measure word + noun.\nPermission to count: granted.\nFollow for daily Mandarin memes & free Chinese lessons!\nHanzi on Screen is FREE to start. Search Hanzi Screen in the App Store:\nhttps://apps.apple.com/id/app/hanzi-screen/id6811871162\nFictional cat joke; genuine screenshot preview. Original animation and sound design.\n#LearnMandarin #LearnChinese #MandarinMemes #ChineseVocabulary",
-        "audio_status": "audio_unverified"
-      }
-    ],
+    "pending": [],
     "regular_slots": [
       "10:00",
       "18:00"
