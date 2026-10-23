@@ -5081,7 +5081,7 @@
         "status": "published",
         "story_media_id": "18130973032806594",
         "published_at": "2026-10-23T13:04:55.331Z",
-        "highlight_status": "pending"
+        "highlight_status": "confirmed"
       }
     ],
     "pending": []
@@ -5090,11 +5090,9 @@
   "highlights": {
     "name": "Mandarin",
     "status": "created",
-    "reason": "CreatedMandarinHighlightwith7identifiedarchivedStories;visibleprofilelinkconfirmedafterreload.LatestdoorStorynotyetinarchivepicker;retryexistinghighlightnextnormalrun.",
-    "pending_story_ids": [
-      "18130973032806594"
-    ],
-    "last_attempt_at": "2026-10-23T13:02:31.773Z",
+    "reason": "Mandarin Highlight created with seven archived Stories, then updated with tonight’s door Story. All eight selected memberships confirmed after reload.",
+    "pending_story_ids": [],
+    "last_attempt_at": "2026-10-23T13:12:13.818Z",
     "creation_attempt": {
       "at": "2026-10-23T13:07:00.914Z",
       "selected_source_ids": [
@@ -5118,9 +5116,18 @@
       "18141644740611225",
       "18127541471295855",
       "18148980928485347",
-      "18026553557925491"
+      "18026553557925491",
+      "18130973032806594"
     ],
-    "browser_note": "Story picker initially looks empty; wait for asynchronous thumbnail loading while doing other work, then inspect before closing. Never create another Mandarin Highlight if existing visible link."
+    "browser_note": "Story picker initially looks empty; wait for asynchronous thumbnail loading while doing other work, then inspect before closing. Never create another Mandarin Highlight if existing visible link.",
+    "updated_at": "2026-10-23T13:12:13.818Z",
+    "last_addition": {
+      "story_media_id": "18130973032806594",
+      "source_instagram_media_id": "17864330343694231",
+      "status": "confirmed",
+      "confirmed_at": "2026-10-23T13:12:13.818Z",
+      "verification": "Reloaded existing Highlight; Selected tab shows door Story checked with seven existing Stories."
+    }
   },
   "engagement_test_review": {
     "checked_at": "2026-10-22T04:59:09.778Z",
