@@ -1,13 +1,10 @@
 {
   "trend_cache": {
-    "date": "2026-10-22",
+    "date": "2026-10-23",
     "sources": [
       "https://later.com/blog/instagram-reels-trends/"
     ],
-    "source_dates": [
-      "October16 2026 newest listed update, checked Oct22"
-    ],
-    "finding": "Relatable narrative formats; original Wi-Fi surfer meme, no viral claim and no unlicensed trend audio."
+    "finding": "Fresh daily search reviewed; original cat-classifier meme chosen without viral claim or trend-audio reuse."
   },
   "published": [
     {
@@ -3630,6 +3627,101 @@
           "media_shares": 0
         }
       ]
+    },
+    {
+      "date": "2026-10-23",
+      "source": "Windsor",
+      "rows": [
+        {
+          "media_id": "18119766298965216",
+          "media_permalink": "https://www.instagram.com/reel/DerxGFTAfoS/",
+          "timestamp": "2026-10-19T17:13:17+0000",
+          "media_views": 120,
+          "media_reach": 109,
+          "media_reel_avg_watch_time": 4107,
+          "media_reel_skip_rate": 0.664,
+          "media_saved": 0,
+          "media_shares": 2
+        },
+        {
+          "media_id": "18476902066114273",
+          "media_permalink": "https://www.instagram.com/reel/Deqdo8xE07k/",
+          "timestamp": "2026-10-19T05:04:02+0000",
+          "media_views": 121,
+          "media_reach": 105,
+          "media_reel_avg_watch_time": 4553,
+          "media_reel_skip_rate": 0.667,
+          "media_saved": 0,
+          "media_shares": 0
+        },
+        {
+          "media_id": "18109287098577371",
+          "media_permalink": "https://www.instagram.com/reel/DeuFKVhlbmx/",
+          "timestamp": "2026-10-20T14:47:10+0000",
+          "media_views": 128,
+          "media_reach": 117,
+          "media_reel_avg_watch_time": 4884,
+          "media_reel_skip_rate": 0.588,
+          "media_saved": 1,
+          "media_shares": 0
+        },
+        {
+          "media_id": "18009928482005376",
+          "media_permalink": "https://www.instagram.com/reel/DeuE6dcFBv8/",
+          "timestamp": "2026-10-20T14:44:59+0000",
+          "media_views": 152,
+          "media_reach": 139,
+          "media_reel_avg_watch_time": 2466,
+          "media_reel_skip_rate": 0.842,
+          "media_saved": 1,
+          "media_shares": 0
+        },
+        {
+          "media_id": "18094990637422514",
+          "media_permalink": "https://www.instagram.com/reel/Dewd9v0gfzY/",
+          "timestamp": "2026-10-21T13:02:26+0000",
+          "media_views": 112,
+          "media_reach": 102,
+          "media_reel_avg_watch_time": 2484,
+          "media_reel_skip_rate": 0.87,
+          "media_saved": 0,
+          "media_shares": 0
+        },
+        {
+          "media_id": "18119349058764454",
+          "media_permalink": "https://www.instagram.com/reel/DevnAUXD1N-/",
+          "timestamp": "2026-10-21T05:02:01+0000",
+          "media_views": 117,
+          "media_reach": 107,
+          "media_reel_avg_watch_time": 3325,
+          "media_reel_skip_rate": 0.698,
+          "media_saved": 0,
+          "media_shares": 0
+        },
+        {
+          "media_id": "18105692558636540",
+          "media_permalink": "https://www.instagram.com/reel/DezDC3SlDO6/",
+          "timestamp": "2026-10-22T13:04:55+0000",
+          "media_views": 126,
+          "media_reach": 115,
+          "media_reel_avg_watch_time": 3809,
+          "media_reel_skip_rate": 0.629,
+          "media_saved": 0,
+          "media_shares": 1
+        },
+        {
+          "media_id": "18168799759468584",
+          "media_permalink": "https://www.instagram.com/reel/DeyLrwnCesc/",
+          "timestamp": "2026-10-22T05:01:10+0000",
+          "media_views": 63,
+          "media_reach": 58,
+          "media_reel_avg_watch_time": 3774,
+          "media_reel_skip_rate": 0.789,
+          "media_saved": 0,
+          "media_shares": 0
+        }
+      ],
+      "note": "Daily snapshot; no App Store attribution; no causal inference."
     }
   ],
   "strategy_baseline": {
@@ -3969,7 +4061,7 @@
         "source_slot": "2026-10-22T12:00:00+07:00",
         "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/dadf245dbb6f91a56313fc8fec9ce0b533be3446/media/instagram/2026-10-22/1200_wifi_surfer.mp4",
         "scheduled_at": "2026-10-23T10:00:00+07:00",
-        "status": "scheduled",
+        "status": "published",
         "idempotency_key": "instagram:18168799759468584:tiktok",
         "title": "Surfing the internet… my router needs a lifeguard 🏄",
         "caption": "“Go online.” Me: brings a surfboard 🏄😅\n上网 shàngwǎng = go online / use the internet.\n我在上网。Wǒ zài shàngwǎng. = I’m using the internet.\nThe router did not sign up to be a lifeguard.\nFollow for daily Mandarin memes & free Chinese lessons!\nHanzi on Screen is FREE to start. Search Hanzi Screen in the App Store:\nhttps://apps.apple.com/id/app/hanzi-screen/id6811871162\nFictional learner joke; genuine screenshot preview. Original animation and sound design.\n#LearnMandarin #LearnChinese #MandarinMemes #ChineseVocabulary",
@@ -3982,7 +4074,9 @@
         "draft": false,
         "confirmed_at": "2026-10-22T05:03:18.080Z",
         "queue_checked": "2026-10-22T05:03:35.618Z",
-        "verification_note": "Read-back exact caption/media/date,TikTok,autoPublish=true,draft=false. Hosted AAC non-silent;live audio_unverified."
+        "verification_note": "Read-back exact caption/media/date,TikTok,autoPublish=true,draft=false. Hosted AAC non-silent;live audio_unverified.",
+        "public_url": "https://www.tiktok.com/@hanziscreen/video/7699693148435516693",
+        "provider_status": "PUBLISHED"
       },
       {
         "source_instagram_media_id": "18105692558636540",
@@ -4957,5 +5051,44 @@
       "skip_fraction": 0.65
     },
     "assessment": "120views;4.134s average watch;66.4%skip. Targets unmet; small observational sample. No App Store attribution; continue observation toOct29."
+  },
+  "profile_metrics_cache": {
+    "date": "2026-10-23",
+    "result": {
+      "status": "done",
+      "data": [
+        {
+          "followers_count": 3,
+          "profile_views_1d": null,
+          "website_clicks_1d": null
+        }
+      ],
+      "total_rows": 1
+    },
+    "notes": "Deprecated profile/website fields may be unavailable. Do not interpret business-contact taps as App Store clicks."
+  },
+  "pending": {
+    "date": "2026-10-23",
+    "slot": "12:00",
+    "hook": "Cat hires grammar lawyer and refuses to be counted without classifier只",
+    "topic": "一只猫 yì zhī māo one cat;只classifier for cats",
+    "content_type": "animated_meme",
+    "comparison_group": "meme",
+    "video_path": "media/instagram/2026-10-23/1200_cat_classifier.mp4",
+    "sha256": "2ce6f7fd4f55786e651c2f6e773b889ea78068f3de2560609ffa73df63a98d3a",
+    "size_bytes": 908276,
+    "duration": 20,
+    "status": "pending",
+    "caption": "I learned to count in Mandarin. My cat immediately hired a grammar lawyer. 🐱😅\n一只猫 yì zhī māo = one cat.\n只 zhī is the standard measure word used here for cats. Mandarin puts a measure word between the number and the noun.\nPermission to count: granted.\nFollow for daily Mandarin memes & free Chinese lessons!\nKeep useful Chinese in sight with Hanzi on Screen—FREE to start. Tap @hanziscreen, then the App Store link in our bio.\nhttps://apps.apple.com/id/app/hanzi-screen/id6811871162\nFictional cat joke; genuine widget screenshot preview. Original animation and sound design.\n#LearnMandarin #LearnChinese #MandarinMemes #ChineseVocabulary",
+    "audio": {
+      "title": "Cat Counter Pizzicato",
+      "artist": "Hanzi on Screen",
+      "source": "Original deterministic synthesis in cat_classifier_20261023.py;no third-party samples",
+      "license": "Owner-controlled original audio",
+      "mean_db": -30.8,
+      "peak_db": -11.1,
+      "live_status": "audio_unverified"
+    },
+    "quality": "Full1080x1920H264/AAC20s decode,frame sheet,audio checks passed;whole authentic ending assets."
   }
 }
