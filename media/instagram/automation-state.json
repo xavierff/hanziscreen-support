@@ -4114,7 +4114,7 @@
         "source_slot": "2026-10-22T20:00:00+07:00",
         "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/6f0fc532c05c2ccd8c519b6373ec83d68047d801/media/instagram/2026-10-22/2000_wallet_not_ready.mp4",
         "scheduled_at": "2026-10-23T18:00:00+07:00",
-        "status": "scheduled",
+        "status": "published",
         "idempotency_key": "instagram:18105692558636540:tiktok",
         "title": "My Chinese is ready. My wallet isn't. 😅 | 买单",
         "caption": "Asking for the bill in Mandarin: confident. Paying it: wallet hides under the table 😅\n买单 mǎidān = pay the bill.\n买单，谢谢！Mǎidān, xièxie! = The bill, please. Thank you!\nFollow for daily Mandarin memes & free Chinese lessons!\nKeep everyday Chinese in sight with Hanzi on Screen—FREE to start. Search Hanzi Screen in the App Store:\nhttps://apps.apple.com/id/app/hanzi-screen/id6811871162\nFictional restaurant joke; genuine screenshot preview, not an app recording. Original animation and sound design.\n#LearnMandarin #LearnChinese #ChineseVocabulary #MandarinMemes",
@@ -4127,7 +4127,9 @@
         "draft": false,
         "confirmed_at": "2026-10-22T13:07:23.370Z",
         "queue_checked": "2026-10-22T13:07:49.708Z",
-        "verification_note": "Exact date/caption/media, TikTok provider, autoPublish=true,draft=false verified. Hosted AAC non-silent;live audio_unverified."
+        "verification_note": "Exact date/caption/media, TikTok provider, autoPublish=true,draft=false verified. Hosted AAC non-silent;live audio_unverified.",
+        "public_url": "https://www.tiktok.com/@hanziscreen/video/7699817218527300885",
+        "provider_status": "PUBLISHED"
       },
       {
         "source_instagram_media_id": "18577457167078824",
@@ -5137,5 +5139,29 @@
       "total_rows": 1
     },
     "notes": "Deprecated profile/website fields may be unavailable. Do not interpret business-contact taps as App Store clicks."
+  },
+  "pending": {
+    "date": "2026-10-23",
+    "slot": "20:00",
+    "hook": "Rehearsed Mandarin introduction;pull door becomes final boss and accidental gym",
+    "topic": "推 tuī push;拉 lā pull",
+    "content_type": "pov_screenshot_preview",
+    "comparison_group": "product_focused",
+    "video_path": "media/instagram/2026-10-23/2000_door_final_boss.mp4",
+    "sha256": "93dd41e72f4eb3ade84f0fb7256b3f83d850125d6e39984e7a804d55301fa20e",
+    "size_bytes": 912958,
+    "duration": 20,
+    "status": "pending",
+    "caption": "POV: you rehearsed your Mandarin introduction. Then a door tested your vocabulary. 🚪😅\n推 tuī = push. 拉 lā = pull.\nThe sign said 拉. My brain booked an accidental gym session.\nFollow for daily Mandarin memes & free Chinese lessons!\nKeep everyday Chinese in sight with Hanzi on Screen—FREE to start. Tap @hanziscreen, then the App Store link in our bio.\nhttps://apps.apple.com/id/app/hanzi-screen/id6811871162\nFictional learner joke; genuine owner screenshot preview, not an app recording. Original animation and sound design.\n#LearnMandarin #LearnChinese #ChineseVocabulary #iPhoneWidgets",
+    "audio": {
+      "title": "Doorstep Shuffle",
+      "artist": "Hanzi on Screen",
+      "source": "Original deterministic synthesis in door_final_boss_20261023.py; no third-party samples",
+      "license": "Owner-controlled original audio",
+      "mean_db": -30.1,
+      "peak_db": -10.4,
+      "live_status": "audio_unverified"
+    },
+    "quality": "Full1080x1920H264/AAC20s decode; frame sheet and non-silent audio passed; whole authentic ending images."
   }
 }
