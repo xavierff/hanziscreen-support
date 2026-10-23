@@ -1042,6 +1042,34 @@
       "media_commit": "6aff60fbf8c5d09edf11f1034342db68c9c70b54",
       "published_at": "2026-10-23T05:01:00.513Z",
       "url": "https://www.instagram.com/hanziscreen/reel/De0wafCCVt7/"
+    },
+    {
+      "date": "2026-10-23",
+      "slot": "20:00",
+      "hook": "Rehearsed Mandarin introduction;pull door becomes final boss and accidental gym",
+      "topic": "推 tuī push;拉 lā pull",
+      "content_type": "pov_screenshot_preview",
+      "comparison_group": "product_focused",
+      "video_path": "media/instagram/2026-10-23/2000_door_final_boss.mp4",
+      "sha256": "93dd41e72f4eb3ade84f0fb7256b3f83d850125d6e39984e7a804d55301fa20e",
+      "size_bytes": 912958,
+      "duration": 20,
+      "status": "published",
+      "caption": "POV: you rehearsed your Mandarin introduction. Then a door tested your vocabulary. 🚪😅\n推 tuī = push. 拉 lā = pull.\nThe sign said 拉. My brain booked an accidental gym session.\nFollow for daily Mandarin memes & free Chinese lessons!\nKeep everyday Chinese in sight with Hanzi on Screen—FREE to start. Tap @hanziscreen, then the App Store link in our bio.\nhttps://apps.apple.com/id/app/hanzi-screen/id6811871162\nFictional learner joke; genuine owner screenshot preview, not an app recording. Original animation and sound design.\n#LearnMandarin #LearnChinese #ChineseVocabulary #iPhoneWidgets",
+      "audio": {
+        "title": "Doorstep Shuffle",
+        "artist": "Hanzi on Screen",
+        "source": "Original deterministic synthesis in door_final_boss_20261023.py; no third-party samples",
+        "license": "Owner-controlled original audio",
+        "mean_db": -30.1,
+        "peak_db": -10.4,
+        "live_status": "audio_unverified"
+      },
+      "quality": "Full1080x1920H264/AAC20s decode; frame sheet and non-silent audio passed; whole authentic ending images.",
+      "media_id": "17864330343694231",
+      "video_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/f8e14fcd2fe9409138473e04cb10013197f030eb/media/instagram/2026-10-23/2000_door_final_boss.mp4",
+      "media_commit": "f8e14fcd2fe9409138473e04cb10013197f030eb",
+      "published_at": "2026-10-23T13:02:31.773Z"
     }
   ],
   "verified_assets": [
@@ -5026,13 +5054,20 @@
         "highlight_status": "pending"
       }
     ],
-    "pending": []
+    "pending": [
+      {
+        "source_instagram_media_id": "17864330343694231",
+        "source_sha256": "93dd41e72f4eb3ade84f0fb7256b3f83d850125d6e39984e7a804d55301fa20e",
+        "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/f8e14fcd2fe9409138473e04cb10013197f030eb/media/instagram/2026-10-23/2000_door_final_boss.mp4",
+        "status": "pending"
+      }
+    ]
   },
   "pending_recovery": [],
   "highlights": {
     "name": "Mandarin",
     "status": "pending",
-    "reason": "Oct23 signed-in Mandarin Highlight picker empty;Next disabled. No Highlight added.",
+    "reason": "Oct23 evening signed-in Mandarin Highlight Story picker still empty;Next disabled.",
     "pending_story_ids": [
       "18107281790254873",
       "18112212545273482",
@@ -5042,7 +5077,7 @@
       "18148980928485347",
       "18026553557925491"
     ],
-    "last_attempt_at": "2026-10-23T05:03:09.472Z"
+    "last_attempt_at": "2026-10-23T13:02:31.773Z"
   },
   "engagement_test_review": {
     "checked_at": "2026-10-22T04:59:09.778Z",
@@ -5139,29 +5174,5 @@
       "total_rows": 1
     },
     "notes": "Deprecated profile/website fields may be unavailable. Do not interpret business-contact taps as App Store clicks."
-  },
-  "pending": {
-    "date": "2026-10-23",
-    "slot": "20:00",
-    "hook": "Rehearsed Mandarin introduction;pull door becomes final boss and accidental gym",
-    "topic": "推 tuī push;拉 lā pull",
-    "content_type": "pov_screenshot_preview",
-    "comparison_group": "product_focused",
-    "video_path": "media/instagram/2026-10-23/2000_door_final_boss.mp4",
-    "sha256": "93dd41e72f4eb3ade84f0fb7256b3f83d850125d6e39984e7a804d55301fa20e",
-    "size_bytes": 912958,
-    "duration": 20,
-    "status": "pending",
-    "caption": "POV: you rehearsed your Mandarin introduction. Then a door tested your vocabulary. 🚪😅\n推 tuī = push. 拉 lā = pull.\nThe sign said 拉. My brain booked an accidental gym session.\nFollow for daily Mandarin memes & free Chinese lessons!\nKeep everyday Chinese in sight with Hanzi on Screen—FREE to start. Tap @hanziscreen, then the App Store link in our bio.\nhttps://apps.apple.com/id/app/hanzi-screen/id6811871162\nFictional learner joke; genuine owner screenshot preview, not an app recording. Original animation and sound design.\n#LearnMandarin #LearnChinese #ChineseVocabulary #iPhoneWidgets",
-    "audio": {
-      "title": "Doorstep Shuffle",
-      "artist": "Hanzi on Screen",
-      "source": "Original deterministic synthesis in door_final_boss_20261023.py; no third-party samples",
-      "license": "Owner-controlled original audio",
-      "mean_db": -30.1,
-      "peak_db": -10.4,
-      "live_status": "audio_unverified"
-    },
-    "quality": "Full1080x1920H264/AAC20s decode; frame sheet and non-silent audio passed; whole authentic ending images."
   }
 }
