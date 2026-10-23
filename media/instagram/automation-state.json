@@ -4870,7 +4870,21 @@
         "quarantined": true
       }
     ],
-    "pending": [],
+    "pending": [
+      {
+        "source_instagram_media_id": "18577457167078824",
+        "source_sha256": "2ce6f7fd4f55786e651c2f6e773b889ea78068f3de2560609ffa73df63a98d3a",
+        "source_video_path": "media/instagram/2026-10-23/1200_cat_classifier.mp4",
+        "source_slot": "2026-10-23T12:00:00+07:00",
+        "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/6aff60fbf8c5d09edf11f1034342db68c9c70b54/media/instagram/2026-10-23/1200_cat_classifier.mp4",
+        "scheduled_at": "2026-10-24T10:00:00+07:00",
+        "status": "pending",
+        "idempotency_key": "instagram:18577457167078824:tiktok",
+        "title": "My cat hired a Mandarin grammar lawyer 🐱 | 一只猫",
+        "caption": "I learned to count in Mandarin. My cat demanded a grammar lawyer 🐱😅\n一只猫 yì zhī māo = one cat.\n只 zhī is the standard measure word here for cats: number + measure word + noun.\nPermission to count: granted.\nFollow for daily Mandarin memes & free Chinese lessons!\nHanzi on Screen is FREE to start. Search Hanzi Screen in the App Store:\nhttps://apps.apple.com/id/app/hanzi-screen/id6811871162\nFictional cat joke; genuine screenshot preview. Original animation and sound design.\n#LearnMandarin #LearnChinese #MandarinMemes #ChineseVocabulary",
+        "audio_status": "audio_unverified"
+      }
+    ],
     "regular_slots": [
       "10:00",
       "18:00"
@@ -4980,16 +4994,18 @@
         "story_media_id": "18148980928485347",
         "published_at": "2026-10-22T13:06:57.336Z",
         "highlight_status": "pending"
-      }
-    ],
-    "pending": [
+      },
       {
         "source_instagram_media_id": "18577457167078824",
         "source_sha256": "2ce6f7fd4f55786e651c2f6e773b889ea78068f3de2560609ffa73df63a98d3a",
         "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/6aff60fbf8c5d09edf11f1034342db68c9c70b54/media/instagram/2026-10-23/1200_cat_classifier.mp4",
-        "status": "pending"
+        "status": "published",
+        "story_media_id": "18026553557925491",
+        "published_at": "2026-10-23T05:02:12.079Z",
+        "highlight_status": "pending"
       }
-    ]
+    ],
+    "pending": []
   },
   "pending_recovery": [],
   "highlights": {
@@ -5002,7 +5018,8 @@
       "18034505723906390",
       "18141644740611225",
       "18127541471295855",
-      "18148980928485347"
+      "18148980928485347",
+      "18026553557925491"
     ],
     "last_attempt_at": "2026-10-22T13:06:57.336Z"
   },
