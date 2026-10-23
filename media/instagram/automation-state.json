@@ -1069,7 +1069,8 @@
       "media_id": "17864330343694231",
       "video_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/f8e14fcd2fe9409138473e04cb10013197f030eb/media/instagram/2026-10-23/2000_door_final_boss.mp4",
       "media_commit": "f8e14fcd2fe9409138473e04cb10013197f030eb",
-      "published_at": "2026-10-23T13:02:31.773Z"
+      "published_at": "2026-10-23T13:02:31.773Z",
+      "url": "https://www.instagram.com/hanziscreen/reel/De1nhE4gWV7/"
     }
   ],
   "verified_assets": [
@@ -4199,9 +4200,7 @@
         "metricool_media_url": "https://static.metricool.com/planner/202610/7459891-file-16366322724490351498.mp4",
         "autoPublish": true,
         "draft": false,
-        "confirmed_at": "2026-10-23T13:05:18.616Z",
-        "queue_checked": "2026-10-23T13:07:00.916Z",
-        "verification_note": "Exactdate/caption/media,TikTok,autoPublish=true,draft=falseverified;hostedAACnon-silent;liveaudio_unverified."
+        "confirmed_at": "2026-10-23T13:05:18.616Z"
       }
     ],
     "failures": [],
@@ -4952,18 +4951,29 @@
     ],
     "missing_post_policy": "Recover immediately when detected at existing automation runs, after dedup; preserve next regular reservations.",
     "coverage_audit": {
+      "checked_at": "2026-10-23T05:03:09.472Z",
       "date": "2026-10-23",
-      "checked_at": "2026-10-23T13:07:00.916Z",
-      "source_count": 16,
-      "published": 14,
+      "source_count": 15,
+      "published": 13,
       "future_reserved": 2,
       "missing": [],
       "recoveries_submitted": 0,
+      "next_actual_slots": [
+        {
+          "date": "2026-10-23T18:00:00+07:00",
+          "post_id": "403133949"
+        },
+        {
+          "date": "2026-10-24T10:00:00+07:00",
+          "post_id": "403808672"
+        }
+      ],
       "next_day_coverage": {
         "date": "2026-10-24",
         "10:00": "reserved403808672",
-        "18:00": "reserved404153639"
-      }
+        "18:00": "awaiting Oct23 evening source"
+      },
+      "note": "All extension-era Instagram sources matched by id/path/hash against state and Metricool records. No missing/recovery source. Other network posts ignored."
     },
     "regular_slot_policy": {
       "timezone": "Asia/Jakarta",
@@ -5010,14 +5020,14 @@
         "story_media_id": "18107281790254873",
         "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/9b50099332ef5b62a456c8f1b3f66e4169080342/media/instagram/2026-10-20/1200_horse_tiger_review.mp4",
         "status": "published",
-        "highlight_status": "pending"
+        "highlight_status": "confirmed"
       },
       {
         "source_instagram_media_id": "18109287098577371",
         "story_media_id": "18112212545273482",
         "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/9b50099332ef5b62a456c8f1b3f66e4169080342/media/instagram/2026-10-20/2000_coffee_followup.mp4",
         "status": "published",
-        "highlight_status": "pending"
+        "highlight_status": "confirmed"
       },
       {
         "source_instagram_media_id": "18119349058764454",
@@ -5026,7 +5036,7 @@
         "status": "published",
         "story_media_id": "18034505723906390",
         "published_at": "2026-10-21T05:03:39.294Z",
-        "highlight_status": "pending"
+        "highlight_status": "confirmed"
       },
       {
         "source_instagram_media_id": "18094990637422514",
@@ -5035,7 +5045,7 @@
         "status": "published",
         "story_media_id": "18141644740611225",
         "published_at": "2026-10-21T13:04:35.722Z",
-        "highlight_status": "pending"
+        "highlight_status": "confirmed"
       },
       {
         "source_instagram_media_id": "18168799759468584",
@@ -5044,7 +5054,7 @@
         "status": "published",
         "story_media_id": "18127541471295855",
         "published_at": "2026-10-22T05:02:56.963Z",
-        "highlight_status": "pending"
+        "highlight_status": "confirmed"
       },
       {
         "source_instagram_media_id": "18105692558636540",
@@ -5053,7 +5063,7 @@
         "status": "published",
         "story_media_id": "18148980928485347",
         "published_at": "2026-10-22T13:06:57.336Z",
-        "highlight_status": "pending"
+        "highlight_status": "confirmed"
       },
       {
         "source_instagram_media_id": "18577457167078824",
@@ -5062,7 +5072,7 @@
         "status": "published",
         "story_media_id": "18026553557925491",
         "published_at": "2026-10-23T05:02:12.079Z",
-        "highlight_status": "pending"
+        "highlight_status": "confirmed"
       },
       {
         "source_instagram_media_id": "17864330343694231",
@@ -5079,16 +5089,9 @@
   "pending_recovery": [],
   "highlights": {
     "name": "Mandarin",
-    "status": "submitted_unverified",
-    "reason": "Story picker loaded after delayed response. Selected seven identified archived Stories (cat,wallet,wifi,travel,buy-sell,coffee,horse),clicked Done;await profile visibility verification. Do not recreate blindly.",
+    "status": "created",
+    "reason": "CreatedMandarinHighlightwith7identifiedarchivedStories;visibleprofilelinkconfirmedafterreload.LatestdoorStorynotyetinarchivepicker;retryexistinghighlightnextnormalrun.",
     "pending_story_ids": [
-      "18107281790254873",
-      "18112212545273482",
-      "18034505723906390",
-      "18141644740611225",
-      "18127541471295855",
-      "18148980928485347",
-      "18026553557925491",
       "18130973032806594"
     ],
     "last_attempt_at": "2026-10-23T13:02:31.773Z",
@@ -5104,8 +5107,20 @@
         "18009928482005376"
       ],
       "name": "Mandarin",
-      "status": "submitted_unverified"
-    }
+      "status": "confirmed"
+    },
+    "highlight_id": "17915558772495419",
+    "url": "https://www.instagram.com/stories/highlights/17915558772495419/",
+    "confirmed_story_ids": [
+      "18107281790254873",
+      "18112212545273482",
+      "18034505723906390",
+      "18141644740611225",
+      "18127541471295855",
+      "18148980928485347",
+      "18026553557925491"
+    ],
+    "browser_note": "Story picker initially looks empty; wait for asynchronous thumbnail loading while doing other work, then inspect before closing. Never create another Mandarin Highlight if existing visible link."
   },
   "engagement_test_review": {
     "checked_at": "2026-10-22T04:59:09.778Z",
