@@ -4199,7 +4199,9 @@
         "metricool_media_url": "https://static.metricool.com/planner/202610/7459891-file-16366322724490351498.mp4",
         "autoPublish": true,
         "draft": false,
-        "confirmed_at": "2026-10-23T13:05:18.616Z"
+        "confirmed_at": "2026-10-23T13:05:18.616Z",
+        "queue_checked": "2026-10-23T13:07:00.916Z",
+        "verification_note": "Exactdate/caption/media,TikTok,autoPublish=true,draft=falseverified;hostedAACnon-silent;liveaudio_unverified."
       }
     ],
     "failures": [],
@@ -4950,29 +4952,18 @@
     ],
     "missing_post_policy": "Recover immediately when detected at existing automation runs, after dedup; preserve next regular reservations.",
     "coverage_audit": {
-      "checked_at": "2026-10-23T05:03:09.472Z",
       "date": "2026-10-23",
-      "source_count": 15,
-      "published": 13,
+      "checked_at": "2026-10-23T13:07:00.916Z",
+      "source_count": 16,
+      "published": 14,
       "future_reserved": 2,
       "missing": [],
       "recoveries_submitted": 0,
-      "next_actual_slots": [
-        {
-          "date": "2026-10-23T18:00:00+07:00",
-          "post_id": "403133949"
-        },
-        {
-          "date": "2026-10-24T10:00:00+07:00",
-          "post_id": "403808672"
-        }
-      ],
       "next_day_coverage": {
         "date": "2026-10-24",
         "10:00": "reserved403808672",
-        "18:00": "awaiting Oct23 evening source"
-      },
-      "note": "All extension-era Instagram sources matched by id/path/hash against state and Metricool records. No missing/recovery source. Other network posts ignored."
+        "18:00": "reserved404153639"
+      }
     },
     "regular_slot_policy": {
       "timezone": "Asia/Jakarta",
@@ -5088,8 +5079,8 @@
   "pending_recovery": [],
   "highlights": {
     "name": "Mandarin",
-    "status": "pending",
-    "reason": "Oct23 evening signed-in Mandarin Highlight Story picker still empty;Next disabled.",
+    "status": "submitted_unverified",
+    "reason": "Story picker loaded after delayed response. Selected seven identified archived Stories (cat,wallet,wifi,travel,buy-sell,coffee,horse),clicked Done;await profile visibility verification. Do not recreate blindly.",
     "pending_story_ids": [
       "18107281790254873",
       "18112212545273482",
@@ -5100,7 +5091,21 @@
       "18026553557925491",
       "18130973032806594"
     ],
-    "last_attempt_at": "2026-10-23T13:02:31.773Z"
+    "last_attempt_at": "2026-10-23T13:02:31.773Z",
+    "creation_attempt": {
+      "at": "2026-10-23T13:07:00.914Z",
+      "selected_source_ids": [
+        "18577457167078824",
+        "18105692558636540",
+        "18168799759468584",
+        "18094990637422514",
+        "18119349058764454",
+        "18109287098577371",
+        "18009928482005376"
+      ],
+      "name": "Mandarin",
+      "status": "submitted_unverified"
+    }
   },
   "engagement_test_review": {
     "checked_at": "2026-10-22T04:59:09.778Z",
