@@ -1127,7 +1127,8 @@
       "video_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/501d4f49765d8a5ce3975350e78fbac564bdc5e1/media/instagram/2026-10-24/2000_pocket_phone_rescue.mp4",
       "media_commit": "501d4f49765d8a5ce3975350e78fbac564bdc5e1",
       "media_id": "18127161109909763",
-      "published_at": "2026-10-24T13:03:58.869Z"
+      "published_at": "2026-10-24T13:03:58.869Z",
+      "url": "https://www.instagram.com/hanziscreen/reel/De4Mc86kWxb/"
     }
   ],
   "verified_assets": [
@@ -5444,24 +5445,28 @@
         "story_media_id": "17920591299459113",
         "published_at": "2026-10-24T05:06:01.681Z",
         "highlight_status": "confirmed"
-      }
-    ],
-    "pending": [
+      },
       {
         "source_instagram_media_id": "18127161109909763",
         "source_sha256": "1f48eed28a56f4348dafebe4b5281ca16166648b0f9bcd15ee3657e9650ba17c",
         "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/501d4f49765d8a5ce3975350e78fbac564bdc5e1/media/instagram/2026-10-24/2000_pocket_phone_rescue.mp4",
-        "status": "pending",
-        "intent_at": "2026-10-24T13:03:58.869Z"
+        "status": "published",
+        "intent_at": "2026-10-24T13:03:58.869Z",
+        "story_media_id": "18137517433737742",
+        "published_at": "2026-10-24T13:05:10.107Z",
+        "highlight_status": "pending"
       }
-    ]
+    ],
+    "pending": []
   },
   "pending_recovery": [],
   "highlights": {
     "name": "Mandarin",
     "status": "created",
     "reason": "Nine Stories confirmed in Mandarin after reload;today’s pillow Story selected alongside previous eight.",
-    "pending_story_ids": [],
+    "pending_story_ids": [
+      "18137517433737742"
+    ],
     "last_attempt_at": "2026-10-23T13:12:13.818Z",
     "creation_attempt": {
       "at": "2026-10-23T13:07:00.914Z",
@@ -5500,12 +5505,11 @@
       "verification": "Reloaded existing Highlight; Selected tab shows door Story checked with seven existing Stories."
     },
     "addition_intent": {
-      "story_media_id": "17920591299459113",
-      "source_instagram_media_id": "18413673547092027",
+      "story_media_id": "18137517433737742",
+      "source_instagram_media_id": "18127161109909763",
       "highlight_id": "17915558772495419",
-      "status": "confirmed",
-      "at": "2026-10-24T05:06:01.681Z",
-      "confirmed_at": "2026-10-24T05:09:45.890Z"
+      "status": "pending",
+      "at": "2026-10-24T13:05:10.107Z"
     }
   },
   "engagement_test_review": {
