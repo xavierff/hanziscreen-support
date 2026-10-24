@@ -1,10 +1,10 @@
 {
   "trend_cache": {
-    "date": "2026-10-23",
+    "date": "2026-10-24",
     "sources": [
       "https://later.com/blog/instagram-reels-trends/"
     ],
-    "finding": "Fresh daily search reviewed; original cat-classifier meme chosen without viral claim or trend-audio reuse."
+    "finding": "Daily search reviewed;original weekend pillow joke selected,no viral claim or trend audio."
   },
   "published": [
     {
@@ -1090,10 +1090,14 @@
         "artist": "Hanzi on Screen",
         "source": "Original deterministic synthesis in flashcards_need_nap_20261024.py;no third-party samples",
         "license": "Owner-controlled original audio",
-        "live_status": "audio_unverified"
+        "live_status": "audio_unverified",
+        "mean_db": -30.9,
+        "peak_db": -10.3
       },
       "quality": "1080x1920H264/AAC20s;full decode and representative frame sheet verified;whole authentic ending assets.",
       "media_id": "18413673547092027",
+      "video_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/e47ded76bc980c75cf39ad7cef56e1c8f2dc5677/media/instagram/2026-10-24/1200_flashcards_need_nap.mp4",
+      "media_commit": "e47ded76bc980c75cf39ad7cef56e1c8f2dc5677",
       "published_at": "2026-10-24T05:03:28.501Z"
     }
   ],
@@ -3804,6 +3808,233 @@
         }
       ],
       "note": "Daily snapshot; no App Store attribution; no causal inference."
+    },
+    {
+      "date": "2026-10-24",
+      "checked_at": "2026-10-24T05:04:10.627Z",
+      "result": {
+        "status": "done",
+        "data": [
+          {
+            "media_id": "18633453964006554",
+            "media_caption": "POV: you label the room to learn Chinese… then the fan teaches the floor. 📝💨\n门 mén = door · 水 shuǐ = water\n\nKeep a little Mandarin somewhere you already look: your Lock Screen. Hanzi on Screen is FREE to start—try it via the link in bio.\n\nFollow for bite-size Mandarin, share with a sticky-note learner, and comment what you’d label first.\n\nProduct visuals are genuine owner screenshot previews, not a screen recording.\n#LearnMandarin #ChineseVocabulary #LanguageLearning #iPhoneWidgets\n\nMusic: “Sneaky Snitch” — Kevin MacLeod (incompetech.com), CC BY 4.0: https://creativecommons.org/licenses/by/4.0/ (trimmed/faded).",
+            "media_permalink": "https://www.instagram.com/reel/DehBx00DEtJ/",
+            "media_views": 118,
+            "media_reach": 105,
+            "media_reel_avg_watch_time": 4825,
+            "media_reel_skip_rate": 0.708,
+            "media_saved": 2,
+            "media_shares": 0,
+            "media_follows": null
+          },
+          {
+            "media_id": "18342186049269138",
+            "media_caption": "Chinese karaoke: my hydration solo starts exactly when the lyrics do. 🎤💧\n喝水 hē shuǐ = drink water.\n\nBuild Chinese vocabulary beyond karaoke—see Mandarin on your Lock Screen with Hanzi on Screen. FREE to start. Try it via the link in bio.\n\nFollow for quick Mandarin memes, share with your karaoke buddy, and comment your go-to song.\n\n#LearnMandarin #LearnChinese #MandarinMemes #iPhoneWidgets\n\nMusic: “Fluffing a Duck” — Kevin MacLeod (incompetech.com), CC BY 4.0: https://creativecommons.org/licenses/by/4.0/ (trimmed/faded).",
+            "media_permalink": "https://www.instagram.com/reel/DegKsgLgM93/",
+            "media_views": 93,
+            "media_reach": 88,
+            "media_reel_avg_watch_time": 3999,
+            "media_reel_skip_rate": 0.802,
+            "media_saved": 0,
+            "media_shares": 0,
+            "media_follows": null
+          },
+          {
+            "media_id": "18464305003189705",
+            "media_caption": "POV: your Mandarin study setup is ready for a magazine. The book is still closed. 🪴📚\n学习 xuéxí = study / learn.\n\nA little Chinese can live on your Lock Screen, too. Hanzi on Screen is FREE to start—link in bio.\nFollow for daily Mandarin memes & free Chinese lessons! What’s your favourite study distraction?\n\nGenuine owner screenshot preview; no screen recording used.\n#LearnMandarin #LearnChinese #StudyMotivation #ChineseVocabulary\nMusic: “Sneaky Snitch” — Kevin MacLeod (incompetech.com), CC BY 4.0: https://creativecommons.org/licenses/by/4.0/ (trimmed/faded).",
+            "media_permalink": "https://www.instagram.com/reel/DejmZ4DjyVA/",
+            "media_views": 28,
+            "media_reach": 27,
+            "media_reel_avg_watch_time": 3276,
+            "media_reel_skip_rate": 0.769,
+            "media_saved": 0,
+            "media_shares": 0,
+            "media_follows": null
+          },
+          {
+            "media_id": "18168244624467786",
+            "media_caption": "Mandarin Mini Moments: Grandma’s definition of “a little.” 🍚⛰️\n我饱了 wǒ bǎo le = I’m full.\n再吃一点 zài chī yìdiǎn = Eat a little more.\n\nFollow for more everyday Mandarin phrases and learner-life jokes. What does “a little” mean in your family?\n\nWant Chinese vocabulary on your Lock Screen? Try Hanzi on Screen—FREE to start. Link in bio.\n#LearnMandarin #ChineseVocabulary #MandarinMemes #LearnChinese\n\nMusic: “Fluffing a Duck” — Kevin MacLeod (incompetech.com), CC BY 4.0: https://creativecommons.org/licenses/by/4.0/ (trimmed/faded).",
+            "media_permalink": "https://www.instagram.com/reel/DeivZFLiroy/",
+            "media_views": 138,
+            "media_reach": 129,
+            "media_reel_avg_watch_time": 5054,
+            "media_reel_skip_rate": 0.646,
+            "media_saved": 1,
+            "media_shares": 0,
+            "media_follows": null
+          },
+          {
+            "media_id": "17980715637121140",
+            "media_caption": "POV: you try to fit Mandarin into a packed day… even your calendar says 太忙了 😅\n太忙了 tài máng le = too busy.\n\nA little Chinese can live somewhere you already look: your Lock Screen. Try Hanzi on Screen—FREE to start. Link in bio.\nFollow for daily Mandarin memes & free Chinese lessons!\n\nGenuine owner screenshot preview, not a screen recording. Fictional calendar animation.\n#LearnMandarin #LearnChinese #LanguageLearning #iPhoneWidgets\nMusic: “Fluffing a Duck” — Kevin MacLeod (incompetech.com), CC BY 4.0 https://creativecommons.org/licenses/by/4.0/ (trimmed/faded).",
+            "media_permalink": "https://www.instagram.com/reel/DemK97AiDa0/",
+            "media_views": 117,
+            "media_reach": 106,
+            "media_reel_avg_watch_time": 1373,
+            "media_reel_skip_rate": 0.953,
+            "media_saved": 1,
+            "media_shares": 0,
+            "media_follows": null
+          },
+          {
+            "media_id": "18121285220071383",
+            "media_caption": "Mandarin Mini Moments: “Anything is fine”… terms and conditions apply. 😅\n随便 suíbiàn = whatever / anything is fine (when choosing).\n\nWhat food do you always veto? Follow for daily Mandarin memes & free Chinese lessons!\n\nSee Chinese vocabulary on your iPhone Lock Screen with Hanzi on Screen—FREE to start. Link in bio.\n#LearnMandarin #LearnChinese #MandarinMemes #ChineseVocabulary\nMusic: “Carefree” — Kevin MacLeod (incompetech.com), CC BY 4.0 https://creativecommons.org/licenses/by/4.0/ (trimmed/faded).",
+            "media_permalink": "https://www.instagram.com/reel/DelUfwrmHUA/",
+            "media_views": 60,
+            "media_reach": 61,
+            "media_reel_avg_watch_time": 3277,
+            "media_reel_skip_rate": 0.746,
+            "media_saved": 0,
+            "media_shares": 1,
+            "media_follows": null
+          },
+          {
+            "media_id": "18115646572839963",
+            "media_caption": "POV: learning Mandarin through dramas. My pause button deserves a promotion. 📺🏅\n等一下 děng yíxià = wait a moment.\n\nWhich Chinese drama keeps you reaching for pause?\nFollow for daily Mandarin memes & free Chinese lessons!\nKeep everyday Chinese in sight with Hanzi on Screen—FREE to start. Link in bio.\n\nOriginal cartoon scene; product visuals are genuine owner screenshot previews, not a recording.\n#LearnMandarin #LearnChinese #ChineseDrama #ChineseVocabulary\nMusic: “Carefree” — Kevin MacLeod (incompetech.com), CC BY 4.0 https://creativecommons.org/licenses/by/4.0/ (trimmed/faded).",
+            "media_permalink": "https://www.instagram.com/reel/DeowIG1DQy9/",
+            "media_views": 15,
+            "media_reach": 13,
+            "media_reel_avg_watch_time": 1962,
+            "media_reel_skip_rate": 0.846,
+            "media_saved": 0,
+            "media_shares": 0,
+            "media_follows": null
+          },
+          {
+            "media_id": "18018204878745061",
+            "media_caption": "Mandarin Mini Moments: my haircut kept getting shorter… my answer stayed the same. ✂️😅\n对 duì = right/correct (agreeing here).\n可以了 kěyǐ le = that’s enough (in this context).\n\nWhat phrase would you learn before a haircut? Follow for daily Mandarin memes & free Chinese lessons!\nSee Chinese vocabulary on your Lock Screen with Hanzi on Screen—FREE to start. Link in bio.\n#LearnMandarin #LearnChinese #MandarinMemes #ChineseVocabulary\nMusic: “Sneaky Snitch” — Kevin MacLeod (incompetech.com), CC BY 4.0 https://creativecommons.org/licenses/by/4.0/ (trimmed/faded).",
+            "media_permalink": "https://www.instagram.com/reel/Den4eOqgXdu/",
+            "media_views": 120,
+            "media_reach": 104,
+            "media_reel_avg_watch_time": 5150,
+            "media_reel_skip_rate": 0.716,
+            "media_saved": 0,
+            "media_shares": 0,
+            "media_follows": null
+          },
+          {
+            "media_id": "18119766298965216",
+            "media_caption": "I asked for slower Mandarin. Not next year. 😅\n慢一点 màn yì diǎn = a little slower.\n\nWhat phrase saves you in a Mandarin conversation?\nFollow for daily Mandarin memes & bite-sized lessons.\nSee Chinese vocabulary on your iPhone Lock Screen with Hanzi on Screen—FREE to start. Tap @hanziscreen, then the App Store link in our bio.\nhttps://apps.apple.com/id/app/hanzi-screen/id6811871162\n\nFictional learner joke; genuine widget screenshot previews with an enlarged detail. Original animation and sound design.\n#LearnMandarin #LearnChinese #MandarinMemes #iPhoneWidgets",
+            "media_permalink": "https://www.instagram.com/reel/DerxGFTAfoS/",
+            "media_views": 120,
+            "media_reach": 109,
+            "media_reel_avg_watch_time": 4107,
+            "media_reel_skip_rate": 0.664,
+            "media_saved": 0,
+            "media_shares": 2,
+            "media_follows": null
+          },
+          {
+            "media_id": "18476902066114273",
+            "media_caption": "Mandarin Mini Moments: buy only what you can name… accidentally stock an entire apple shop. 🍎😅\n苹果 píngguǒ = apple.\n\nWhat fruit or vegetable should this beginner learn next?\nFollow for daily Mandarin memes & free Chinese lessons!\nSee Chinese vocabulary on your Lock Screen with Hanzi on Screen—FREE to start. Link in bio.\n\nA fictional learner challenge, not shopping advice.\n#LearnMandarin #LearnChinese #MandarinMemes #ChineseVocabulary\nMusic: “Investigations” — Kevin MacLeod (incompetech.com), CC BY 4.0 https://creativecommons.org/licenses/by/4.0/ (trimmed/faded).",
+            "media_permalink": "https://www.instagram.com/reel/Deqdo8xE07k/",
+            "media_views": 121,
+            "media_reach": 105,
+            "media_reel_avg_watch_time": 4553,
+            "media_reel_skip_rate": 0.667,
+            "media_saved": 0,
+            "media_shares": 0,
+            "media_follows": null
+          },
+          {
+            "media_id": "18109287098577371",
+            "media_caption": "POV: your rehearsed Mandarin coffee order meets a follow-up question. ☕️😅\n热的还是冰的？Rè de háishi bīng de? = Hot or iced?\n我要冰的。Wǒ yào bīng de. = I’d like it iced.\nFollow for daily Mandarin memes & free Chinese lessons!\nKeep useful Chinese in sight with Hanzi on Screen—FREE to start. Tap @hanziscreen, then the App Store link in our bio.\nhttps://apps.apple.com/id/app/hanzi-screen/id6811871162\nFictional learner story; genuine screenshot previews, not an app recording. Original sound design.\n#LearnMandarin #LearnChinese #ChineseVocabulary #iPhoneWidgets",
+            "media_permalink": "https://www.instagram.com/reel/DeuFKVhlbmx/",
+            "media_views": 128,
+            "media_reach": 118,
+            "media_reel_avg_watch_time": 4864,
+            "media_reel_skip_rate": 0.588,
+            "media_saved": 1,
+            "media_shares": 0,
+            "media_follows": null
+          },
+          {
+            "media_id": "18009928482005376",
+            "media_caption": "How was my Mandarin? My brain hired two horses and two tigers to review it. 😅\n马马虎虎 mǎmǎhūhū = so-so / just okay.\nFollow for daily Mandarin memes & free Chinese lessons!\nLearn Chinese on your iPhone with Hanzi on Screen—FREE to start. Tap @hanziscreen, then the App Store link in our bio.\nhttps://apps.apple.com/id/app/hanzi-screen/id6811871162\nOriginal cartoon and sound design; genuine widget screenshot preview.\n#LearnMandarin #LearnChinese #MandarinMemes #ChineseVocabulary",
+            "media_permalink": "https://www.instagram.com/reel/DeuE6dcFBv8/",
+            "media_views": 152,
+            "media_reach": 139,
+            "media_reel_avg_watch_time": 2466,
+            "media_reel_skip_rate": 0.842,
+            "media_saved": 1,
+            "media_shares": 0,
+            "media_follows": null
+          },
+          {
+            "media_id": "18094990637422514",
+            "media_caption": "POV: packing for a weekend… your Mandarin phrasebooks need their own suitcase. 🧳😅\n手机 shǒujī = mobile phone.\nA little Chinese can live somewhere you already look: your iPhone Lock Screen.\nFollow for daily Mandarin memes & free Chinese lessons!\nHanzi on Screen is FREE to start. Tap @hanziscreen, then the App Store link in our bio.\nhttps://apps.apple.com/id/app/hanzi-screen/id6811871162\nFictional packing joke; genuine owner screenshot preview, not an app recording. Original animation and sound design.\n#LearnMandarin #LearnChinese #ChineseVocabulary #iPhoneWidgets",
+            "media_permalink": "https://www.instagram.com/reel/Dewd9v0gfzY/",
+            "media_views": 112,
+            "media_reach": 102,
+            "media_reel_avg_watch_time": 2471,
+            "media_reel_skip_rate": 0.87,
+            "media_saved": 0,
+            "media_shares": 0,
+            "media_follows": null
+          },
+          {
+            "media_id": "18119349058764454",
+            "media_caption": "I went to BUY a phone. My Mandarin tones got me hired to SELL them. 😅\n买 mǎi = buy • 卖 mài = sell.\n我想买手机。Wǒ xiǎng mǎi shǒujī. = I want to buy a phone.\nWhich tone pair trips you up?\nFollow for daily Mandarin memes & free Chinese lessons!\nLearn Chinese on your iPhone with Hanzi on Screen—FREE to start. Tap @hanziscreen, then the App Store link in our bio.\nhttps://apps.apple.com/id/app/hanzi-screen/id6811871162\nFictional learner joke; genuine widget screenshot preview. Original animation and sound design.\n#LearnMandarin #LearnChinese #MandarinMemes #ChineseVocabulary",
+            "media_permalink": "https://www.instagram.com/reel/DevnAUXD1N-/",
+            "media_views": 117,
+            "media_reach": 107,
+            "media_reel_avg_watch_time": 3317,
+            "media_reel_skip_rate": 0.698,
+            "media_saved": 0,
+            "media_shares": 0,
+            "media_follows": null
+          },
+          {
+            "media_id": "18105692558636540",
+            "media_caption": "POV: your Chinese is ready to ask for the bill. Your wallet is hiding under the table. 😅\n买单 mǎidān = pay the bill.\n买单，谢谢！Mǎidān, xièxie! = The bill, please. Thank you!\nFollow for daily Mandarin memes & free Chinese lessons!\nKeep everyday Chinese in sight with Hanzi on Screen—FREE to start. Tap @hanziscreen, then the App Store link in our bio.\nhttps://apps.apple.com/id/app/hanzi-screen/id6811871162\nFictional restaurant joke; genuine owner screenshot preview, not an app recording. Original animation and sound design.\n#LearnMandarin #LearnChinese #ChineseVocabulary #iPhoneWidgets",
+            "media_permalink": "https://www.instagram.com/reel/DezDC3SlDO6/",
+            "media_views": 127,
+            "media_reach": 116,
+            "media_reel_avg_watch_time": 3759,
+            "media_reel_skip_rate": 0.632,
+            "media_saved": 0,
+            "media_shares": 1,
+            "media_follows": null
+          },
+          {
+            "media_id": "18168799759468584",
+            "media_caption": "“Go online,” they said. My brain brought a surfboard. 🏄😅\n上网 shàngwǎng = go online / use the internet.\n我在上网。Wǒ zài shàngwǎng. = I’m using the internet.\nThe router did not sign up to be a lifeguard.\nFollow for daily Mandarin memes & free Chinese lessons!\nKeep useful Chinese in sight with Hanzi on Screen—FREE to start. Tap @hanziscreen, then the App Store link in our bio.\nhttps://apps.apple.com/id/app/hanzi-screen/id6811871162\nFictional learner joke; genuine widget screenshot preview. Original animation and sound design.\n#LearnMandarin #LearnChinese #MandarinMemes #ChineseVocabulary",
+            "media_permalink": "https://www.instagram.com/reel/DeyLrwnCesc/",
+            "media_views": 64,
+            "media_reach": 60,
+            "media_reel_avg_watch_time": 3701,
+            "media_reel_skip_rate": 0.793,
+            "media_saved": 0,
+            "media_shares": 0,
+            "media_follows": null
+          },
+          {
+            "media_id": "17864330343694231",
+            "media_caption": "POV: you rehearsed your Mandarin introduction. Then a door tested your vocabulary. 🚪😅\n推 tuī = push. 拉 lā = pull.\nThe sign said 拉. My brain booked an accidental gym session.\nFollow for daily Mandarin memes & free Chinese lessons!\nKeep everyday Chinese in sight with Hanzi on Screen—FREE to start. Tap @hanziscreen, then the App Store link in our bio.\nhttps://apps.apple.com/id/app/hanzi-screen/id6811871162\nFictional learner joke; genuine owner screenshot preview, not an app recording. Original animation and sound design.\n#LearnMandarin #LearnChinese #ChineseVocabulary #iPhoneWidgets",
+            "media_permalink": "https://www.instagram.com/reel/De1nhE4gWV7/",
+            "media_views": 159,
+            "media_reach": 140,
+            "media_reel_avg_watch_time": 15123,
+            "media_reel_skip_rate": 0.772,
+            "media_saved": 1,
+            "media_shares": 1,
+            "media_follows": null
+          },
+          {
+            "media_id": "18577457167078824",
+            "media_caption": "I learned to count in Mandarin. My cat immediately hired a grammar lawyer. 🐱😅\n一只猫 yì zhī māo = one cat.\n只 zhī is the standard measure word used here for cats. Mandarin puts a measure word between the number and the noun.\nPermission to count: granted.\nFollow for daily Mandarin memes & free Chinese lessons!\nKeep useful Chinese in sight with Hanzi on Screen—FREE to start. Tap @hanziscreen, then the App Store link in our bio.\nhttps://apps.apple.com/id/app/hanzi-screen/id6811871162\nFictional cat joke; genuine widget screenshot preview. Original animation and sound design.\n#LearnMandarin #LearnChinese #MandarinMemes #ChineseVocabulary",
+            "media_permalink": "https://www.instagram.com/reel/De0wafCCVt7/",
+            "media_views": 120,
+            "media_reach": 115,
+            "media_reel_avg_watch_time": 3578,
+            "media_reel_skip_rate": 0.661,
+            "media_saved": 0,
+            "media_shares": 0,
+            "media_follows": null
+          }
+        ],
+        "total_rows": 18
+      },
+      "notes": "Daily snapshot;conversion metrics unavailable."
     }
   ],
   "strategy_baseline": {
@@ -4988,7 +5219,8 @@
         "status": "pending",
         "idempotency_key": "18413673547092027:3d4828d58877bf9ea8b99e217fcc1ac2ff8375e316399a1cac92131652ac67c8",
         "created_at": "2026-10-24T05:03:28.501Z",
-        "audio_status": "audio_unverified"
+        "audio_status": "audio_unverified",
+        "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/e47ded76bc980c75cf39ad7cef56e1c8f2dc5677/media/instagram/2026-10-24/1200_flashcards_need_nap.mp4"
       }
     ],
     "regular_slots": [
@@ -5135,7 +5367,14 @@
         "source_instagram_media_id": "18413673547092027",
         "source_sha256": "3d4828d58877bf9ea8b99e217fcc1ac2ff8375e316399a1cac92131652ac67c8",
         "status": "pending",
-        "intent_at": "2026-10-24T05:03:28.501Z"
+        "intent_at": "2026-10-24T05:03:28.501Z",
+        "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/e47ded76bc980c75cf39ad7cef56e1c8f2dc5677/media/instagram/2026-10-24/1200_flashcards_need_nap.mp4",
+        "errors": [
+          {
+            "at": "2026-10-24T05:04:10.627Z",
+            "error": "Pre-submission validation rejected missing video_url; no Story submission occurred."
+          }
+        ]
       }
     ]
   },
@@ -5183,19 +5422,20 @@
     }
   },
   "engagement_test_review": {
-    "checked_at": "2026-10-22T04:59:09.778Z",
+    "checked_at": "2026-10-24T05:04:10.627Z",
     "age_hours": 59.7,
     "test_tag": "engagement_test_20261019",
     "test": {
       "media_id": "18119766298965216",
+      "media_caption": "I asked for slower Mandarin. Not next year. 😅\n慢一点 màn yì diǎn = a little slower.\n\nWhat phrase saves you in a Mandarin conversation?\nFollow for daily Mandarin memes & bite-sized lessons.\nSee Chinese vocabulary on your iPhone Lock Screen with Hanzi on Screen—FREE to start. Tap @hanziscreen, then the App Store link in our bio.\nhttps://apps.apple.com/id/app/hanzi-screen/id6811871162\n\nFictional learner joke; genuine widget screenshot previews with an enlarged detail. Original animation and sound design.\n#LearnMandarin #LearnChinese #MandarinMemes #iPhoneWidgets",
       "media_permalink": "https://www.instagram.com/reel/DerxGFTAfoS/",
-      "timestamp": "2026-10-19T17:13:17+0000",
       "media_views": 120,
       "media_reach": 109,
-      "media_reel_avg_watch_time": 4134,
+      "media_reel_avg_watch_time": 4107,
       "media_reel_skip_rate": 0.664,
       "media_saved": 0,
-      "media_shares": 2
+      "media_shares": 2,
+      "media_follows": null
     },
     "previous_five_same_slot": [
       {
@@ -5261,7 +5501,7 @@
       "avg_watch_seconds": 5,
       "skip_fraction": 0.65
     },
-    "assessment": "120views;4.134s average watch;66.4%skip. Targets unmet; small observational sample. No App Store attribution; continue observation toOct29."
+    "assessment": "120 views,4.107s average watch,66.4% skip;targets unmet.Small observational sample;controls age mismatch.No App Store attribution."
   },
   "profile_metrics_cache": {
     "date": "2026-10-23",
