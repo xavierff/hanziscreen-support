@@ -4484,7 +4484,20 @@
         "metricool_media_url": "https://static.metricool.com/planner/202610/7459891-file-6835560438969575768.mp4",
         "planner_url": "https://app.metricool.com/planner/calendar?blogId=7459891&openWithPostUuid=8002467935104618104",
         "confirmed_response_at": "2026-10-24T05:06:23.506Z",
-        "provider_status": "PENDING"
+        "provider_status": "PENDING",
+        "verified_at": "2026-10-24T05:07:19.500Z",
+        "autoPublish": true,
+        "draft": false,
+        "network": "tiktok",
+        "queue_checked": "2026-10-24T05:07:19.500Z",
+        "verification_note": "Exact TikTok/date/caption/video verified;scheduled,not published.",
+        "hosted_audio_check": {
+          "codec": "AAC",
+          "mean_db": -30.9,
+          "peak_db": -10.3,
+          "full_decode": "passed",
+          "live_status": "audio_unverified"
+        }
       }
     ],
     "failures": [],
@@ -5206,15 +5219,18 @@
     },
     "verification_notes": "Metricool schedule creation and queue read-back passed. Pending is not published; check public URL through TKPO03/TKPO05 after scheduled time. Queue absence alone is not success.",
     "analytics_cache": {
-      "date": "2026-10-19",
-      "metrics": [
-        "TKPO02",
-        "TKPO03",
-        "TKPO05"
-      ],
-      "data": {
-        "rows": []
-      }
+      "date": "2026-10-24",
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "{\"rows\":[[\"20261023110317\",\"https://www.tiktok.com/@hanziscreen/video/7699817218527300885?utm_campaign=tt4d_open_api&utm_source=awwuexz91plpu87c\",\"Asking for the bill in Mandarin: confident. Paying it: wallet hides under the table 😅 买单 mǎidān = pay the bill. 买单，谢谢！Mǎidān, xièxie! = The bill, please. Thank you! Follow for daily Mandarin memes & free Chinese lessons! Keep everyday Chinese in sight with Hanzi on Screen—FREE to start. Search Hanzi Screen in the App Store: https://apps.apple.com/id/app/hanzi-screen/id6811871162 Fictional restaurant joke; genuine screenshot preview, not an app recording. Original animation and sound design. #LearnMandarin #LearnChinese #ChineseVocabulary #MandarinMemes\"],[\"20261023030155\",\"https://www.tiktok.com/@hanziscreen/video/7699693148435516693?utm_campaign=tt4d_open_api&utm_source=awwuexz91plpu87c\",\"“Go online.” Me: brings a surfboard 🏄😅 上网 shàngwǎng = go online / use the internet. 我在上网。Wǒ zài shàngwǎng. = I’m using the internet. The router did not sign up to be a lifeguard. Follow for daily Mandarin memes & free Chinese lessons! Hanzi on Screen is FREE to start. Search Hanzi Screen in the App Store: https://apps.apple.com/id/app/hanzi-screen/id6811871162 Fictional learner joke; genuine screenshot preview. Original animation and sound design. #LearnMandarin #LearnChinese #MandarinMemes #ChineseVocabulary\"]]}"
+          }
+        ],
+        "structuredContent": null,
+        "isError": false
+      },
+      "checked_at": "2026-10-24T05:07:19.500Z"
     },
     "audio_incidents": [
       {
@@ -5235,29 +5251,28 @@
     ],
     "missing_post_policy": "Recover immediately when detected at existing automation runs, after dedup; preserve next regular reservations.",
     "coverage_audit": {
-      "checked_at": "2026-10-23T05:03:09.472Z",
-      "date": "2026-10-23",
-      "source_count": 15,
-      "published": 13,
-      "future_reserved": 2,
+      "checked_at": "2026-10-24T05:07:19.500Z",
+      "source_count": 17,
+      "published": 15,
+      "reserved": 2,
       "missing": [],
-      "recoveries_submitted": 0,
-      "next_actual_slots": [
+      "recovered_this_run": 0,
+      "submitted_this_run": 1,
+      "next_day": {
+        "date": "2026-10-25",
+        "10:00": "verified 404772822",
+        "18:00": "source unavailable until tonight’s normal Instagram slot"
+      },
+      "next_queue_slots": [
         {
-          "date": "2026-10-23T18:00:00+07:00",
-          "post_id": "403133949"
+          "at": "2026-10-24T18:00:00+07:00",
+          "post_id": "404153639"
         },
         {
-          "date": "2026-10-24T10:00:00+07:00",
-          "post_id": "403808672"
+          "at": "2026-10-25T10:00:00+07:00",
+          "post_id": "404772822"
         }
-      ],
-      "next_day_coverage": {
-        "date": "2026-10-24",
-        "10:00": "reserved403808672",
-        "18:00": "awaiting Oct23 evening source"
-      },
-      "note": "All extension-era Instagram sources matched by id/path/hash against state and Metricool records. No missing/recovery source. Other network posts ignored."
+      ]
     },
     "regular_slot_policy": {
       "timezone": "Asia/Jakarta",
