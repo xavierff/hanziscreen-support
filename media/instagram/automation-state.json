@@ -4531,6 +4531,26 @@
           "full_decode": "passed",
           "live_status": "audio_unverified"
         }
+      },
+      {
+        "source_instagram_media_id": "18127161109909763",
+        "source_sha256": "1f48eed28a56f4348dafebe4b5281ca16166648b0f9bcd15ee3657e9650ba17c",
+        "source_slot": "2026-10-24T20:00:00+07:00",
+        "source_video_path": "media/instagram/2026-10-24/2000_pocket_phone_rescue.mp4",
+        "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/501d4f49765d8a5ce3975350e78fbac564bdc5e1/media/instagram/2026-10-24/2000_pocket_phone_rescue.mp4",
+        "scheduled_at": "2026-10-25T18:00:00+07:00",
+        "title": "My phone tried laundry day 🧺 | 口袋 + 手机",
+        "caption": "My phone joined the laundry. It did not pack a swimsuit 🧺😅\n口袋 kǒudài = pocket.\n手机 shǒujī = mobile phone.\nPocket check: phone rescued. Where did the sock go?\nFollow for daily Mandarin memes & free Chinese lessons!\nHanzi on Screen is FREE to start. Search Hanzi Screen in the App Store:\nhttps://apps.apple.com/id/app/hanzi-screen/id6811871162\nFictional laundry joke; genuine screenshot preview, not an app recording. Original animation and sound design.\n#LearnMandarin #LearnChinese #ChineseVocabulary #MandarinMemes",
+        "status": "scheduled",
+        "idempotency_key": "18127161109909763:1f48eed28a56f4348dafebe4b5281ca16166648b0f9bcd15ee3657e9650ba17c",
+        "created_at": "2026-10-24T13:03:58.869Z",
+        "audio_status": "audio_unverified",
+        "post_id": "404986738",
+        "uuid": "2079629737172160369",
+        "metricool_media_url": "https://static.metricool.com/planner/202610/7459891-file-15377733265311288706.mp4",
+        "planner_url": "https://app.metricool.com/planner/calendar?blogId=7459891&openWithPostUuid=2079629737172160369",
+        "confirmed_response_at": "2026-10-24T13:05:27.733Z",
+        "provider_status": "PENDING"
       }
     ],
     "failures": [],
@@ -5277,22 +5297,7 @@
         "quarantined": true
       }
     ],
-    "pending": [
-      {
-        "source_instagram_media_id": "18127161109909763",
-        "source_sha256": "1f48eed28a56f4348dafebe4b5281ca16166648b0f9bcd15ee3657e9650ba17c",
-        "source_slot": "2026-10-24T20:00:00+07:00",
-        "source_video_path": "media/instagram/2026-10-24/2000_pocket_phone_rescue.mp4",
-        "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/501d4f49765d8a5ce3975350e78fbac564bdc5e1/media/instagram/2026-10-24/2000_pocket_phone_rescue.mp4",
-        "scheduled_at": "2026-10-25T18:00:00+07:00",
-        "title": "My phone tried laundry day 🧺 | 口袋 + 手机",
-        "caption": "My phone joined the laundry. It did not pack a swimsuit 🧺😅\n口袋 kǒudài = pocket.\n手机 shǒujī = mobile phone.\nPocket check: phone rescued. Where did the sock go?\nFollow for daily Mandarin memes & free Chinese lessons!\nHanzi on Screen is FREE to start. Search Hanzi Screen in the App Store:\nhttps://apps.apple.com/id/app/hanzi-screen/id6811871162\nFictional laundry joke; genuine screenshot preview, not an app recording. Original animation and sound design.\n#LearnMandarin #LearnChinese #ChineseVocabulary #MandarinMemes",
-        "status": "pending",
-        "idempotency_key": "18127161109909763:1f48eed28a56f4348dafebe4b5281ca16166648b0f9bcd15ee3657e9650ba17c",
-        "created_at": "2026-10-24T13:03:58.869Z",
-        "audio_status": "audio_unverified"
-      }
-    ],
+    "pending": [],
     "regular_slots": [
       "10:00",
       "18:00"
