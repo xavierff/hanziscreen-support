@@ -4474,7 +4474,7 @@
         "verification_note": "Exact date,caption,media,TikTok,autoPublish=true,draft=false verified. Hosted AAC non-silent;live audio_unverified.",
         "provider_status": "PUBLISHED",
         "public_url": "https://www.tiktok.com/@hanziscreen/video/7700064442540657941",
-        "verified_at": "2026-10-24T13:00:11.597Z"
+        "verified_at": "2026-10-24T13:06:09.501Z"
       },
       {
         "source_instagram_media_id": "17864330343694231",
@@ -4497,7 +4497,7 @@
         "confirmed_at": "2026-10-23T13:05:18.616Z",
         "provider_status": "PUBLISHED",
         "public_url": "https://www.tiktok.com/@hanziscreen/video/7700188314367708417",
-        "verified_at": "2026-10-24T13:00:11.597Z"
+        "verified_at": "2026-10-24T13:06:09.501Z"
       },
       {
         "source_instagram_media_id": "18413673547092027",
@@ -4518,12 +4518,12 @@
         "planner_url": "https://app.metricool.com/planner/calendar?blogId=7459891&openWithPostUuid=8002467935104618104",
         "confirmed_response_at": "2026-10-24T05:06:23.506Z",
         "provider_status": "PENDING",
-        "verified_at": "2026-10-24T05:07:19.500Z",
+        "verified_at": "2026-10-24T13:06:09.501Z",
         "autoPublish": true,
         "draft": false,
         "network": "tiktok",
-        "queue_checked": "2026-10-24T05:07:19.500Z",
-        "verification_note": "Exact TikTok/date/caption/video verified;scheduled,not published.",
+        "queue_checked": "2026-10-24T13:06:09.501Z",
+        "verification_note": "Exact TikTok/date/caption/video read-back verified;scheduled not published.",
         "hosted_audio_check": {
           "codec": "AAC",
           "mean_db": -30.9,
@@ -4550,7 +4550,20 @@
         "metricool_media_url": "https://static.metricool.com/planner/202610/7459891-file-15377733265311288706.mp4",
         "planner_url": "https://app.metricool.com/planner/calendar?blogId=7459891&openWithPostUuid=2079629737172160369",
         "confirmed_response_at": "2026-10-24T13:05:27.733Z",
-        "provider_status": "PENDING"
+        "provider_status": "PENDING",
+        "verified_at": "2026-10-24T13:06:09.501Z",
+        "autoPublish": true,
+        "draft": false,
+        "network": "tiktok",
+        "queue_checked": "2026-10-24T13:06:09.501Z",
+        "verification_note": "Exact TikTok/date/caption/video read-back verified;scheduled not published.",
+        "hosted_audio_check": {
+          "codec": "AAC",
+          "mean_db": -29.8,
+          "peak_db": -10.5,
+          "full_decode": "passed",
+          "live_status": "audio_unverified"
+        }
       }
     ],
     "failures": [],
@@ -5304,26 +5317,26 @@
     ],
     "missing_post_policy": "Recover immediately when detected at existing automation runs, after dedup; preserve next regular reservations.",
     "coverage_audit": {
-      "checked_at": "2026-10-24T05:07:19.500Z",
-      "source_count": 17,
-      "published": 15,
+      "checked_at": "2026-10-24T13:06:09.501Z",
+      "source_count": 18,
+      "published": 16,
       "reserved": 2,
       "missing": [],
       "recovered_this_run": 0,
       "submitted_this_run": 1,
       "next_day": {
         "date": "2026-10-25",
-        "10:00": "verified 404772822",
-        "18:00": "source unavailable until tonight’s normal Instagram slot"
+        "10:00": "verified404772822",
+        "18:00": "verified404986738"
       },
       "next_queue_slots": [
         {
-          "at": "2026-10-24T18:00:00+07:00",
-          "post_id": "404153639"
-        },
-        {
           "at": "2026-10-25T10:00:00+07:00",
           "post_id": "404772822"
+        },
+        {
+          "at": "2026-10-25T18:00:00+07:00",
+          "post_id": "404986738"
         }
       ]
     },
