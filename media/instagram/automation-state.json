@@ -5472,7 +5472,7 @@
         "intent_at": "2026-10-24T13:03:58.869Z",
         "story_media_id": "18137517433737742",
         "published_at": "2026-10-24T13:05:10.107Z",
-        "highlight_status": "pending"
+        "highlight_status": "confirmed"
       }
     ],
     "pending": []
@@ -5481,10 +5481,8 @@
   "highlights": {
     "name": "Mandarin",
     "status": "created",
-    "reason": "Nine Stories confirmed in Mandarin after reload;today’s pillow Story selected alongside previous eight.",
-    "pending_story_ids": [
-      "18137517433737742"
-    ],
+    "reason": "Ten Stories confirmed after reload;laundry Story selected alongside previous nine.",
+    "pending_story_ids": [],
     "last_attempt_at": "2026-10-23T13:12:13.818Z",
     "creation_attempt": {
       "at": "2026-10-23T13:07:00.914Z",
@@ -5511,10 +5509,11 @@
       "18148980928485347",
       "18026553557925491",
       "18130973032806594",
-      "17920591299459113"
+      "17920591299459113",
+      "18137517433737742"
     ],
     "browser_note": "Story picker initially looks empty; wait for asynchronous thumbnail loading while doing other work, then inspect before closing. Never create another Mandarin Highlight if existing visible link.",
-    "updated_at": "2026-10-24T05:09:45.890Z",
+    "updated_at": "2026-10-24T13:08:41.359Z",
     "last_addition": {
       "story_media_id": "18130973032806594",
       "source_instagram_media_id": "17864330343694231",
@@ -5526,8 +5525,9 @@
       "story_media_id": "18137517433737742",
       "source_instagram_media_id": "18127161109909763",
       "highlight_id": "17915558772495419",
-      "status": "pending",
-      "at": "2026-10-24T13:05:10.107Z"
+      "status": "confirmed",
+      "at": "2026-10-24T13:05:10.107Z",
+      "confirmed_at": "2026-10-24T13:08:41.359Z"
     }
   },
   "engagement_test_review": {
