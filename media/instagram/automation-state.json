@@ -3837,7 +3837,7 @@
         "post_id": "397548008",
         "uuid": "-1256688461765390922",
         "status": "published",
-        "verified_at": "2026-10-16T20:04:00+07:00",
+        "verified_at": "2026-10-24T05:01:11.287Z",
         "scheduled_at": "2026-10-16T16:00:00+07:00",
         "caption": "POV: you tell Grandma “I’m full”… she unlocks the rice mountain 🍚⛰️\n我饱了 wǒ bǎo le = I’m full.\n再吃一点 zài chī yìdiǎn = Eat a little more.\nWho else has a Grandma like this? 😂\nFollow for daily Mandarin memes & free Chinese lessons!\nLearn Chinese on your iPhone Lock Screen with Hanzi on Screen — FREE to start: https://hanziscreen.com\n#LearnMandarin #LearnChinese #MandarinMemes #ChineseVocabulary #LanguageLearning\nMusic: Fluffing a Duck — Kevin MacLeod (incompetech.com), CC BY 4.0 https://creativecommons.org/licenses/by/4.0/ (trimmed/faded).",
         "planner_url": "https://app.metricool.com/planner/calendar?blogId=7459891&openWithPostUuid=-1256688461765390922",
@@ -3870,7 +3870,7 @@
         "metricool_media_url": "https://static.metricool.com/planner/202610/7459891-file-8650712654262559396.mp4",
         "provider_status": "PUBLISHED",
         "confirmed_response_at": "2026-10-16T20:06:00+07:00",
-        "verified_at": "2026-10-17T12:06:14+07:00",
+        "verified_at": "2026-10-24T05:01:11.287Z",
         "verification_note": "Metricool explicitly reports PUBLISHED and matching caption/public URL. TKPO analytics has no matching row yet (lag); no repost.",
         "public_url": "https://www.tiktok.com/@hanziscreen/video/7697466887231294738",
         "tiktok_video_id": "7697466887231294738",
@@ -3896,7 +3896,7 @@
         "metricool_media_url": "https://static.metricool.com/planner/202610/7459891-file-15743432985994414127.mp4",
         "provider_status": "PUBLISHED",
         "confirmed_response_at": "2026-10-17T12:08:00+07:00",
-        "verified_at": "2026-10-18T11:59:00+07:00",
+        "verified_at": "2026-10-24T05:01:11.287Z",
         "verification_note": "Explicit provider PUBLISHED with matching full caption and public URL; analytics row not yet available.",
         "public_url": "https://www.tiktok.com/@hanziscreen/video/7697837699738225941",
         "audio_status": "audio_unverified"
@@ -3922,7 +3922,7 @@
         "metricool_media_url": "https://static.metricool.com/planner/202610/7459891-file-3854748300293874622.mp4",
         "provider_status": "PUBLISHED",
         "confirmed_response_at": "2026-10-17T20:04:00+07:00",
-        "verified_at": "2026-10-18T11:59:00+07:00",
+        "verified_at": "2026-10-24T05:01:11.287Z",
         "verification_note": "Matched TikTok analytics description and public URL; no repost.",
         "public_url": "https://www.tiktok.com/@hanziscreen/video/7697637456920710418",
         "audio_status": "audio_unverified"
@@ -3948,7 +3948,7 @@
         "metricool_media_url": "https://static.metricool.com/planner/202610/7459891-file-18095436381028623928.mp4",
         "provider_status": "PUBLISHED",
         "confirmed_response_at": "2026-10-18T12:01:00+07:00",
-        "verified_at": "2026-10-19T12:03:00+07:00",
+        "verified_at": "2026-10-24T05:01:11.287Z",
         "verification_note": "Explicit Metricool provider PUBLISHED + matching caption/public URL; TKPO analytics still empty (lag). No repost.",
         "public_url": "https://www.tiktok.com/@hanziscreen/video/7698208932006841608",
         "audio_status": "audio_unverified"
@@ -3974,7 +3974,7 @@
         "metricool_media_url": "https://static.metricool.com/planner/202610/7459891-file-17341079659681857761.mp4",
         "provider_status": "PUBLISHED",
         "confirmed_response_at": "2026-10-18T20:07:00+07:00",
-        "verified_at": "2026-10-21T05:00:29.181Z",
+        "verified_at": "2026-10-24T05:01:11.287Z",
         "verification_note": "Verified queue date/time, TikTok provider, exact caption incl App Store link, hosted MP4, autoPublish=true and draft=false. Scheduled not yet published.",
         "public_url": "https://www.tiktok.com/@hanziscreen/video/7698332743125536007",
         "audio_status": "audio_unverified"
@@ -4000,7 +4000,7 @@
         "metricool_media_url": "https://static.metricool.com/planner/202610/7459891-file-6277039406230189916.mp4",
         "provider_status": "PUBLISHED",
         "confirmed_response_at": "2026-10-19T12:04:00+07:00",
-        "verified_at": "2026-10-21T05:00:29.182Z",
+        "verified_at": "2026-10-24T05:01:11.287Z",
         "verification_note": "Queue read-back verified TikTok provider, exact date/time, MP4, caption including direct App Store URL, autoPublish=true/draft=false. Scheduled, not published.",
         "public_url": "https://www.tiktok.com/@hanziscreen/video/7698580093152578834",
         "audio_status": "audio_unverified"
@@ -4023,7 +4023,7 @@
         "draft": false,
         "provider_status": "PUBLISHED",
         "confirmed_response_at": "2026-10-19T17:15:44.626Z",
-        "verified_at": "2026-10-21T05:00:29.182Z",
+        "verified_at": "2026-10-24T05:01:11.287Z",
         "public_url": "https://www.tiktok.com/@hanziscreen/video/7698703904145427730",
         "audio_status": "audio_unverified"
       },
@@ -4047,7 +4047,8 @@
         "verification_note": "Read-back matched exact date, TikTok provider, caption, hosted MP4, autoPublish=true/draft=false. Live audio remains audio_unverified.",
         "source_instagram_media_id": "18119349058764454",
         "public_url": "https://www.tiktok.com/@hanziscreen/video/7699322012480589063",
-        "provider_status": "PUBLISHED"
+        "provider_status": "PUBLISHED",
+        "verified_at": "2026-10-24T05:01:11.287Z"
       },
       {
         "source_instagram_media_id": "18109287098577371",
@@ -4064,7 +4065,8 @@
         "audio_status": "audio_unverified",
         "provider_status": "PUBLISHED",
         "provider_detail": "Published:7698989937995253768",
-        "public_url": "https://www.tiktok.com/@hanziscreen/video/7698990519266938119"
+        "public_url": "https://www.tiktok.com/@hanziscreen/video/7698990519266938119",
+        "verified_at": "2026-10-24T05:01:11.287Z"
       },
       {
         "source_instagram_media_id": "18009928482005376",
@@ -4085,7 +4087,7 @@
         "draft": false,
         "public_url": "https://www.tiktok.com/@hanziscreen/video/7699075835285802292",
         "provider_status": "PUBLISHED",
-        "verified_at": "2026-10-21T13:00:06.722Z"
+        "verified_at": "2026-10-24T05:01:11.287Z"
       },
       {
         "source_instagram_media_id": "18094990637422514",
@@ -4110,7 +4112,8 @@
         "queue_checked": "2026-10-21T13:05:28.468Z",
         "verification_note": "Exact date/media/caption/provider, autoPublish=true, draft=false verified in queue. Publication pending; audio_unverified.",
         "public_url": "https://www.tiktok.com/@hanziscreen/video/7699446102482881810",
-        "provider_status": "PUBLISHED"
+        "provider_status": "PUBLISHED",
+        "verified_at": "2026-10-24T05:01:11.287Z"
       },
       {
         "source_instagram_media_id": "18168799759468584",
@@ -4134,7 +4137,8 @@
         "queue_checked": "2026-10-22T05:03:35.618Z",
         "verification_note": "Read-back exact caption/media/date,TikTok,autoPublish=true,draft=false. Hosted AAC non-silent;live audio_unverified.",
         "public_url": "https://www.tiktok.com/@hanziscreen/video/7699693148435516693",
-        "provider_status": "PUBLISHED"
+        "provider_status": "PUBLISHED",
+        "verified_at": "2026-10-24T05:01:11.287Z"
       },
       {
         "source_instagram_media_id": "18105692558636540",
@@ -4158,7 +4162,8 @@
         "queue_checked": "2026-10-22T13:07:49.708Z",
         "verification_note": "Exact date/caption/media, TikTok provider, autoPublish=true,draft=false verified. Hosted AAC non-silent;live audio_unverified.",
         "public_url": "https://www.tiktok.com/@hanziscreen/video/7699817218527300885",
-        "provider_status": "PUBLISHED"
+        "provider_status": "PUBLISHED",
+        "verified_at": "2026-10-24T05:01:11.287Z"
       },
       {
         "source_instagram_media_id": "18577457167078824",
@@ -4167,7 +4172,7 @@
         "source_slot": "2026-10-23T12:00:00+07:00",
         "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/6aff60fbf8c5d09edf11f1034342db68c9c70b54/media/instagram/2026-10-23/1200_cat_classifier.mp4",
         "scheduled_at": "2026-10-24T10:00:00+07:00",
-        "status": "scheduled",
+        "status": "published",
         "idempotency_key": "instagram:18577457167078824:tiktok",
         "title": "My cat hired a Mandarin grammar lawyer 🐱 | 一只猫",
         "caption": "I learned to count in Mandarin. My cat demanded a grammar lawyer 🐱😅\n一只猫 yì zhī māo = one cat.\n只 zhī is the standard measure word here for cats: number + measure word + noun.\nPermission to count: granted.\nFollow for daily Mandarin memes & free Chinese lessons!\nHanzi on Screen is FREE to start. Search Hanzi Screen in the App Store:\nhttps://apps.apple.com/id/app/hanzi-screen/id6811871162\nFictional cat joke; genuine screenshot preview. Original animation and sound design.\n#LearnMandarin #LearnChinese #MandarinMemes #ChineseVocabulary",
@@ -4180,7 +4185,10 @@
         "draft": false,
         "confirmed_at": "2026-10-23T05:02:30.590Z",
         "queue_checked": "2026-10-23T05:03:09.472Z",
-        "verification_note": "Exact date,caption,media,TikTok,autoPublish=true,draft=false verified. Hosted AAC non-silent;live audio_unverified."
+        "verification_note": "Exact date,caption,media,TikTok,autoPublish=true,draft=false verified. Hosted AAC non-silent;live audio_unverified.",
+        "provider_status": "PUBLISHED",
+        "public_url": "https://www.tiktok.com/@hanziscreen/video/7700064442540657941",
+        "verified_at": "2026-10-24T05:01:11.287Z"
       },
       {
         "source_instagram_media_id": "17864330343694231",
