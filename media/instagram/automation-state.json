@@ -1071,6 +1071,30 @@
       "media_commit": "f8e14fcd2fe9409138473e04cb10013197f030eb",
       "published_at": "2026-10-23T13:02:31.773Z",
       "url": "https://www.instagram.com/hanziscreen/reel/De1nhE4gWV7/"
+    },
+    {
+      "date": "2026-10-24",
+      "slot": "12:00",
+      "hook": "Weekend study pillow tucks Mandarin flashcards into bed;even vocab needs a nap",
+      "topic": "周末 zhōumò weekend;睡觉 shuìjiào sleep",
+      "content_type": "animated_meme",
+      "comparison_group": "meme",
+      "video_path": "media/instagram/2026-10-24/1200_flashcards_need_nap.mp4",
+      "sha256": "3d4828d58877bf9ea8b99e217fcc1ac2ff8375e316399a1cac92131652ac67c8",
+      "size_bytes": 890275,
+      "duration": 20,
+      "status": "published",
+      "caption": "My weekend study buddy tucked my flashcards into bed. Even my vocabulary needs a nap. 😴\n周末 zhōumò = weekend.\n睡觉 shuìjiào = sleep.\nOne word awake is a start. Which word would survive your weekend?\nFollow for daily Mandarin memes & free Chinese lessons!\nKeep useful Chinese in sight with Hanzi on Screen—FREE to start. Tap @hanziscreen, then the App Store link in our bio.\nhttps://apps.apple.com/id/app/hanzi-screen/id6811871162\nFictional pillow joke; genuine widget screenshot preview. Original animation and sound design.\n#LearnMandarin #LearnChinese #MandarinMemes #ChineseVocabulary",
+      "audio": {
+        "title": "Pillow Parade",
+        "artist": "Hanzi on Screen",
+        "source": "Original deterministic synthesis in flashcards_need_nap_20261024.py;no third-party samples",
+        "license": "Owner-controlled original audio",
+        "live_status": "audio_unverified"
+      },
+      "quality": "1080x1920H264/AAC20s;full decode and representative frame sheet verified;whole authentic ending assets.",
+      "media_id": "18413673547092027",
+      "published_at": "2026-10-24T05:03:28.501Z"
     }
   ],
   "verified_assets": [
@@ -4952,7 +4976,21 @@
         "quarantined": true
       }
     ],
-    "pending": [],
+    "pending": [
+      {
+        "source_instagram_media_id": "18413673547092027",
+        "source_sha256": "3d4828d58877bf9ea8b99e217fcc1ac2ff8375e316399a1cac92131652ac67c8",
+        "source_slot": "2026-10-24T12:00:00+07:00",
+        "source_video_path": "media/instagram/2026-10-24/1200_flashcards_need_nap.mp4",
+        "scheduled_at": "2026-10-25T10:00:00+07:00",
+        "title": "My Mandarin flashcards needed a weekend nap 😴 | 周末",
+        "caption": "My weekend study buddy tucked my flashcards into bed. Even my vocabulary needs a nap 😴\n周末 zhōumò = weekend.\n睡觉 shuìjiào = sleep.\nWhich Mandarin word would survive your weekend?\nFollow for daily Mandarin memes & free Chinese lessons!\nHanzi on Screen is FREE to start. Search Hanzi Screen in the App Store:\nhttps://apps.apple.com/id/app/hanzi-screen/id6811871162\nFictional pillow joke; genuine screenshot preview. Original animation and sound design.\n#LearnMandarin #LearnChinese #MandarinMemes #ChineseVocabulary",
+        "status": "pending",
+        "idempotency_key": "18413673547092027:3d4828d58877bf9ea8b99e217fcc1ac2ff8375e316399a1cac92131652ac67c8",
+        "created_at": "2026-10-24T05:03:28.501Z",
+        "audio_status": "audio_unverified"
+      }
+    ],
     "regular_slots": [
       "10:00",
       "18:00"
@@ -5092,7 +5130,14 @@
         "highlight_status": "confirmed"
       }
     ],
-    "pending": []
+    "pending": [
+      {
+        "source_instagram_media_id": "18413673547092027",
+        "source_sha256": "3d4828d58877bf9ea8b99e217fcc1ac2ff8375e316399a1cac92131652ac67c8",
+        "status": "pending",
+        "intent_at": "2026-10-24T05:03:28.501Z"
+      }
+    ]
   },
   "pending_recovery": [],
   "highlights": {
