@@ -1486,7 +1486,8 @@
       }
     ],
     "summary": "Instagram follower total2 vs prior1; no attribution. Rice138views/3likes/1save/5054ms; barber118views/5052ms; anything60views/1share/3325ms. Samples small; preserve14day test and clear setups.",
-    "limitations": "Profile views/website clicks null. No authorized App Store downloads/attribution source. No inferred clicks or installs."
+    "limitations": "Profile views/website clicks null. No authorized App Store downloads/attribution source. No inferred clicks or installs.",
+    "last_daily_snapshot": "2026-10-24"
   },
   "animation_assets": [
     {
@@ -5396,7 +5397,7 @@
         ],
         "story_media_id": "17920591299459113",
         "published_at": "2026-10-24T05:06:01.681Z",
-        "highlight_status": "pending"
+        "highlight_status": "confirmed"
       }
     ],
     "pending": []
@@ -5405,10 +5406,8 @@
   "highlights": {
     "name": "Mandarin",
     "status": "created",
-    "reason": "Mandarin Highlight created with seven archived Stories, then updated with tonight’s door Story. All eight selected memberships confirmed after reload.",
-    "pending_story_ids": [
-      "17920591299459113"
-    ],
+    "reason": "Nine Stories confirmed in Mandarin after reload;today’s pillow Story selected alongside previous eight.",
+    "pending_story_ids": [],
     "last_attempt_at": "2026-10-23T13:12:13.818Z",
     "creation_attempt": {
       "at": "2026-10-23T13:07:00.914Z",
@@ -5434,10 +5433,11 @@
       "18127541471295855",
       "18148980928485347",
       "18026553557925491",
-      "18130973032806594"
+      "18130973032806594",
+      "17920591299459113"
     ],
     "browser_note": "Story picker initially looks empty; wait for asynchronous thumbnail loading while doing other work, then inspect before closing. Never create another Mandarin Highlight if existing visible link.",
-    "updated_at": "2026-10-23T13:12:13.818Z",
+    "updated_at": "2026-10-24T05:09:45.890Z",
     "last_addition": {
       "story_media_id": "18130973032806594",
       "source_instagram_media_id": "17864330343694231",
@@ -5449,13 +5449,14 @@
       "story_media_id": "17920591299459113",
       "source_instagram_media_id": "18413673547092027",
       "highlight_id": "17915558772495419",
-      "status": "pending",
-      "at": "2026-10-24T05:06:01.681Z"
+      "status": "confirmed",
+      "at": "2026-10-24T05:06:01.681Z",
+      "confirmed_at": "2026-10-24T05:09:45.890Z"
     }
   },
   "engagement_test_review": {
     "checked_at": "2026-10-24T05:04:10.627Z",
-    "age_hours": 59.7,
+    "age_hours": 107.92781416666666,
     "test_tag": "engagement_test_20261019",
     "test": {
       "media_id": "18119766298965216",
@@ -5490,7 +5491,9 @@
         "media_reel_avg_watch_time": 4825,
         "media_reel_skip_rate": 0.708,
         "media_saved": 2,
-        "media_shares": 0
+        "media_shares": 0,
+        "media_caption": "POV: you label the room to learn Chinese… then the fan teaches the floor. 📝💨\n门 mén = door · 水 shuǐ = water\n\nKeep a little Mandarin somewhere you already look: your Lock Screen. Hanzi on Screen is FREE to start—try it via the link in bio.\n\nFollow for bite-size Mandarin, share with a sticky-note learner, and comment what you’d label first.\n\nProduct visuals are genuine owner screenshot previews, not a screen recording.\n#LearnMandarin #ChineseVocabulary #LanguageLearning #iPhoneWidgets\n\nMusic: “Sneaky Snitch” — Kevin MacLeod (incompetech.com), CC BY 4.0: https://creativecommons.org/licenses/by/4.0/ (trimmed/faded).",
+        "media_follows": null
       },
       {
         "media_id": "18464305003189705",
@@ -5501,7 +5504,9 @@
         "media_reel_avg_watch_time": 3276,
         "media_reel_skip_rate": 0.769,
         "media_saved": 0,
-        "media_shares": 0
+        "media_shares": 0,
+        "media_caption": "POV: your Mandarin study setup is ready for a magazine. The book is still closed. 🪴📚\n学习 xuéxí = study / learn.\n\nA little Chinese can live on your Lock Screen, too. Hanzi on Screen is FREE to start—link in bio.\nFollow for daily Mandarin memes & free Chinese lessons! What’s your favourite study distraction?\n\nGenuine owner screenshot preview; no screen recording used.\n#LearnMandarin #LearnChinese #StudyMotivation #ChineseVocabulary\nMusic: “Sneaky Snitch” — Kevin MacLeod (incompetech.com), CC BY 4.0: https://creativecommons.org/licenses/by/4.0/ (trimmed/faded).",
+        "media_follows": null
       },
       {
         "media_id": "17980715637121140",
@@ -5512,7 +5517,9 @@
         "media_reel_avg_watch_time": 1373,
         "media_reel_skip_rate": 0.953,
         "media_saved": 1,
-        "media_shares": 0
+        "media_shares": 0,
+        "media_caption": "POV: you try to fit Mandarin into a packed day… even your calendar says 太忙了 😅\n太忙了 tài máng le = too busy.\n\nA little Chinese can live somewhere you already look: your Lock Screen. Try Hanzi on Screen—FREE to start. Link in bio.\nFollow for daily Mandarin memes & free Chinese lessons!\n\nGenuine owner screenshot preview, not a screen recording. Fictional calendar animation.\n#LearnMandarin #LearnChinese #LanguageLearning #iPhoneWidgets\nMusic: “Fluffing a Duck” — Kevin MacLeod (incompetech.com), CC BY 4.0 https://creativecommons.org/licenses/by/4.0/ (trimmed/faded).",
+        "media_follows": null
       },
       {
         "media_id": "18115646572839963",
@@ -5523,7 +5530,9 @@
         "media_reel_avg_watch_time": 1962,
         "media_reel_skip_rate": 0.846,
         "media_saved": 0,
-        "media_shares": 0
+        "media_shares": 0,
+        "media_caption": "POV: learning Mandarin through dramas. My pause button deserves a promotion. 📺🏅\n等一下 děng yíxià = wait a moment.\n\nWhich Chinese drama keeps you reaching for pause?\nFollow for daily Mandarin memes & free Chinese lessons!\nKeep everyday Chinese in sight with Hanzi on Screen—FREE to start. Link in bio.\n\nOriginal cartoon scene; product visuals are genuine owner screenshot previews, not a recording.\n#LearnMandarin #LearnChinese #ChineseDrama #ChineseVocabulary\nMusic: “Carefree” — Kevin MacLeod (incompetech.com), CC BY 4.0 https://creativecommons.org/licenses/by/4.0/ (trimmed/faded).",
+        "media_follows": null
       }
     ],
     "age_comparison": "age_mismatch: no comparable-age snapshots; controls older",
