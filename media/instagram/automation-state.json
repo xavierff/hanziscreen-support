@@ -4822,8 +4822,21 @@
           "live_status": "audio_unverified"
         },
         "provider_detail": "You have reached your Metricool account limit.",
-        "recovery_status": "blocked_owner_action",
-        "recovery_reason": "Account quota block;no automatic retry or alternate publisher."
+        "recovery_status": "published_via_publer",
+        "recovery_reason": "Metricool legacy failure retained; Publer confirmed published at14:07WIB. Never retry.",
+        "recovery": {
+          "source_instagram_media_id": "18413673547092027",
+          "source_sha256": "3d4828d58877bf9ea8b99e217fcc1ac2ff8375e316399a1cac92131652ac67c8",
+          "publisher": "Publer",
+          "status": "published_publisher_confirmed",
+          "tiktok_id": "7700496032395840774",
+          "url": "https://www.tiktok.com/@hanziscreen/video/7700496032395840774?utm_campaign=tt4d_open_api&utm_source=awzzzzrixltkdgr1",
+          "published_local": "2026-10-25T14:07:00+07:00",
+          "verified_at": "2026-10-25T13:13:32.480Z",
+          "public_readback": "Login/age wall blocks independent playback confirmation",
+          "audio_status": "audio_unverified",
+          "do_not_retry": true
+        }
       },
       {
         "source_instagram_media_id": "18127161109909763",
@@ -4834,7 +4847,7 @@
         "scheduled_at": "2026-10-25T18:00:00+07:00",
         "title": "My phone tried laundry day 🧺 | 口袋 + 手机",
         "caption": "My phone joined the laundry. It did not pack a swimsuit 🧺😅\n口袋 kǒudài = pocket.\n手机 shǒujī = mobile phone.\nPocket check: phone rescued. Where did the sock go?\nFollow for daily Mandarin memes & free Chinese lessons!\nHanzi on Screen is FREE to start. Search Hanzi Screen in the App Store:\nhttps://apps.apple.com/id/app/hanzi-screen/id6811871162\nFictional laundry joke; genuine screenshot preview, not an app recording. Original animation and sound design.\n#LearnMandarin #LearnChinese #ChineseVocabulary #MandarinMemes",
-        "status": "scheduled",
+        "status": "failed",
         "idempotency_key": "18127161109909763:1f48eed28a56f4348dafebe4b5281ca16166648b0f9bcd15ee3657e9650ba17c",
         "created_at": "2026-10-24T13:03:58.869Z",
         "audio_status": "audio_unverified",
@@ -4843,8 +4856,8 @@
         "metricool_media_url": "https://static.metricool.com/planner/202610/7459891-file-15377733265311288706.mp4",
         "planner_url": "https://app.metricool.com/planner/calendar?blogId=7459891&openWithPostUuid=2079629737172160369",
         "confirmed_response_at": "2026-10-24T13:05:27.733Z",
-        "provider_status": "PENDING",
-        "verified_at": "2026-10-24T13:06:09.501Z",
+        "provider_status": "ERROR",
+        "verified_at": "2026-10-25T13:15:57.026Z",
         "autoPublish": true,
         "draft": false,
         "network": "tiktok",
@@ -4856,7 +4869,9 @@
           "peak_db": -10.5,
           "full_decode": "passed",
           "live_status": "audio_unverified"
-        }
+        },
+        "provider_detail": "You have reached your Metricool account limit.",
+        "recovery_status": "blocked_complete_dedup"
       }
     ],
     "failures": [
@@ -5625,10 +5640,11 @@
         "submitted": false,
         "idempotency_key": "17878551951568081:088fc6fe912a268238c3290c0c9368d7371160a1197874843e3c355e0a0345d0",
         "error": "You have reached your Metricool account limit.",
-        "resolution_required": "Owner action;do not submit while confirmed account-limit block remains.",
+        "resolution_required": "Owner Studio/public TikTok sign-in required for full source dedupe; use Publer for new submissions.",
         "audio_status": "audio_unverified",
         "target_publisher": "Publer",
-        "blocker": "Full TikTok public/Studio dedupe blocked by owner login; Publer Scheduled/Failed empty, Published contains pillow only."
+        "blocker": "Full TikTok public/Studio dedupe blocked by owner login; Publer Scheduled/Failed empty, Published contains pillow only.",
+        "legacy_metricool_error": "You have reached your Metricool account limit."
       },
       {
         "source_instagram_media_id": "17906304255350114",
@@ -5650,40 +5666,16 @@
     ],
     "missing_post_policy": "Recover immediately when detected at existing automation runs, after dedup; preserve next regular reservations.",
     "coverage_audit": {
-      "checked_at": "2026-10-25T05:08:34.549Z",
-      "source_count": 19,
-      "published": 16,
-      "reserved": 1,
-      "failed_owner_action": [
-        {
-          "post_id": "404772822",
-          "error": "You have reached your Metricool account limit."
-        }
-      ],
-      "durable_pending": [
-        {
-          "source_id": "17878551951568081",
-          "requested_slot": "2026-10-26T10:00:00+07:00",
-          "status": "blocked_account_limit"
-        }
-      ],
-      "missing": [],
-      "recovered_this_run": 0,
-      "submitted_this_run": 0,
-      "published_this_run": 0,
-      "next_queue_slots": [
-        {
-          "at": "2026-10-25T18:00:00+07:00",
-          "post_id": "404986738",
-          "status": "PENDING",
-          "risk": "Account limit may prevent delivery."
-        }
-      ],
+      "checked_at": "2026-10-25T13:15:57.026Z",
+      "next_queue_slots": [],
       "next_day": {
         "date": "2026-10-26",
-        "10:00": "bookworm prepared,blocked_account_limit,not reserved",
-        "18:00": "source awaits tonight's Reel;account limit unresolved"
-      }
+        "10:00": "bookworm prepared,not reserved; complete dedupe blocked by login",
+        "18:00": "one-page reading prepared,not reserved; complete dedupe blocked by login"
+      },
+      "published_recovery": "7700496032395840774",
+      "legacy_failed": "404986738",
+      "submitted_this_run": 0
     },
     "regular_slot_policy": {
       "timezone": "Asia/Jakarta",
@@ -5699,7 +5691,8 @@
       "observed_at": "2026-10-25T05:04:07.498Z",
       "error": "You have reached your Metricool account limit.",
       "post_id": "404772822",
-      "notes": "Do not buy a plan,modify account,or retry unchanged quota-blocked submissions automatically."
+      "notes": "Do not buy a plan,modify account,or retry unchanged quota-blocked submissions automatically.",
+      "scope": "Metricool legacy only; not a Publer account block"
     },
     "studio_backup": {
       "authorized": true,
@@ -5746,6 +5739,47 @@
         "7700496032395840774"
       ],
       "note": "No new publisher writes; TikTok source checks blocked at login."
+    },
+    "coverage_audit_previous": {
+      "checked_at": "2026-10-25T05:08:34.549Z",
+      "source_count": 19,
+      "published": 16,
+      "reserved": 1,
+      "failed_owner_action": [
+        {
+          "post_id": "404772822",
+          "error": "You have reached your Metricool account limit."
+        }
+      ],
+      "durable_pending": [
+        {
+          "source_id": "17878551951568081",
+          "requested_slot": "2026-10-26T10:00:00+07:00",
+          "status": "blocked_account_limit"
+        }
+      ],
+      "missing": [],
+      "recovered_this_run": 0,
+      "submitted_this_run": 0,
+      "published_this_run": 0,
+      "next_queue_slots": [
+        {
+          "at": "2026-10-25T18:00:00+07:00",
+          "post_id": "404986738",
+          "status": "PENDING",
+          "risk": "Account limit may prevent delivery."
+        }
+      ],
+      "next_day": {
+        "date": "2026-10-26",
+        "10:00": "bookworm prepared,blocked_account_limit,not reserved",
+        "18:00": "source awaits tonight's Reel;account limit unresolved"
+      }
+    },
+    "primary_account": {
+      "handle": "hanziscreen",
+      "publisher": "Publer",
+      "timezone": "Asia/Jakarta"
     }
   },
   "stories": {
@@ -5943,12 +5977,11 @@
       "verification": "Reloaded existing Highlight; Selected tab shows door Story checked with seven existing Stories."
     },
     "addition_intent": {
-      "story_media_id": "17970374928008064",
-      "source_instagram_media_id": "17878551951568081",
+      "story_media_id": "18020908511949076",
+      "source_instagram_media_id": "17906304255350114",
       "highlight_id": "17915558772495419",
-      "status": "confirmed",
-      "at": "2026-10-25T05:08:03.069Z",
-      "confirmed_at": "2026-10-25T05:10:57.902Z"
+      "status": "selected_pending_save",
+      "at": "2026-10-25T13:15:57.026Z"
     }
   },
   "engagement_test_review": {
