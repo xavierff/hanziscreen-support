@@ -47,6 +47,12 @@ All statuses here are **PLANNED ONLY**. Publication timing is subject to confirm
 - Long lesson: timing and waiting in natural conversational contexts with a practice dialogue; distinguish reassurance from being late.
 - Status: planned; assets unset.
 
+## Completed source handoff — 2026-10-25 reading / bookworm
+- Noon master: `media/instagram/2026-10-25/1200_bookworm_study_buddy.mp4`, SHA256 `088fc6fe912a268238c3290c0c9368d7371160a1197874843e3c355e0a0345d0`, Instagram `17878551951568081`, https://www.instagram.com/hanziscreen/reel/De56nZwlNJj/ ; immutable master https://raw.githubusercontent.com/xavierff/hanziscreen-support/699bed3f4e09bff0f84af71a81f13ee62ffc099a/media/instagram/2026-10-25/1200_bookworm_study_buddy.mp4 .
+- Evening master: `media/instagram/2026-10-25/2000_one_page_bookworm.mp4`, SHA256 `dc20e16e4f41fa864bee0ce809c36210da242a38c33e661d4e08c32839958b3d`, Instagram `17906304255350114`, https://www.instagram.com/hanziscreen/reel/De6yIffkofG/ ; immutable master https://raw.githubusercontent.com/xavierff/hanziscreen-support/3a42dfc10adcf5161b68740fbda9d4c5eea3de7d/media/instagram/2026-10-25/2000_one_page_bookworm.mp4 . Companion Story `18020908511949076` published.
+- Phrase kit: 书虫 **shūchóng** — bookworm, a person who loves reading; 看书 **kàn shū** — read a book / read books. Noon literal worm joke; evening distinct bedtime-reading POV. Original deterministic owner-controlled instrumental and 2D art; genuine owner ending screenshots preserved. The 不要辣 Lock Screen is a product preview, not the reading lesson.
+- Both exact 1080×1920 H264/AAC MP4s are available for Oct26 TikTok 10:00/18:00 and compatible YouTube Shorts. **Prepared only, not reserved**: Publer's TikTok Scheduled/Failed lists empty at this check; public TikTok and TikTok Studio checks blocked by login. Do not claim queued or bypass deduplication. Long-form can expand reading habits and 看书 vs 书虫. Preserve all other queues and Oct26 directions source plan.
+
 ## Deduplication and publisher guardrails
 - @hanziscreen Instagram original Reels: Windsor.ai primary (Publer as verified-failure-only backup); 12:00 / 20:00 WIB.
 - @hanziscreen Instagram Stories: Windsor.ai after successful Reels; no invented TikTok Stories.
