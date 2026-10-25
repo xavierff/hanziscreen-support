@@ -1156,7 +1156,8 @@
       "video_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/699bed3f4e09bff0f84af71a81f13ee62ffc099a/media/instagram/2026-10-25/1200_bookworm_study_buddy.mp4",
       "media_commit": "699bed3f4e09bff0f84af71a81f13ee62ffc099a",
       "media_id": "17878551951568081",
-      "published_at": "2026-10-25T05:06:35.530Z"
+      "published_at": "2026-10-25T05:06:35.530Z",
+      "url": "https://www.instagram.com/hanziscreen/reel/De56nZwlNJj/"
     }
   ],
   "verified_assets": [
@@ -5767,24 +5768,28 @@
         "story_media_id": "18137517433737742",
         "published_at": "2026-10-24T13:05:10.107Z",
         "highlight_status": "confirmed"
-      }
-    ],
-    "pending": [
+      },
       {
         "source_instagram_media_id": "17878551951568081",
         "source_sha256": "088fc6fe912a268238c3290c0c9368d7371160a1197874843e3c355e0a0345d0",
         "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/699bed3f4e09bff0f84af71a81f13ee62ffc099a/media/instagram/2026-10-25/1200_bookworm_study_buddy.mp4",
-        "status": "pending",
-        "intent_at": "2026-10-25T05:06:35.530Z"
+        "status": "published",
+        "intent_at": "2026-10-25T05:06:35.530Z",
+        "story_media_id": "17970374928008064",
+        "published_at": "2026-10-25T05:08:03.069Z",
+        "highlight_status": "pending"
       }
-    ]
+    ],
+    "pending": []
   },
   "pending_recovery": [],
   "highlights": {
     "name": "Mandarin",
     "status": "created",
     "reason": "Ten Stories confirmed after reload;laundry Story selected alongside previous nine.",
-    "pending_story_ids": [],
+    "pending_story_ids": [
+      "17970374928008064"
+    ],
     "last_attempt_at": "2026-10-23T13:12:13.818Z",
     "creation_attempt": {
       "at": "2026-10-23T13:07:00.914Z",
@@ -5824,12 +5829,11 @@
       "verification": "Reloaded existing Highlight; Selected tab shows door Story checked with seven existing Stories."
     },
     "addition_intent": {
-      "story_media_id": "18137517433737742",
-      "source_instagram_media_id": "18127161109909763",
+      "story_media_id": "17970374928008064",
+      "source_instagram_media_id": "17878551951568081",
       "highlight_id": "17915558772495419",
-      "status": "confirmed",
-      "at": "2026-10-24T13:05:10.107Z",
-      "confirmed_at": "2026-10-24T13:08:41.359Z"
+      "status": "pending",
+      "at": "2026-10-25T05:08:03.069Z"
     }
   },
   "engagement_test_review": {
