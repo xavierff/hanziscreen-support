@@ -1186,7 +1186,8 @@
       "media_commit": "3a42dfc10adcf5161b68740fbda9d4c5eea3de7d",
       "intent_at": "2026-10-25T13:10:07.908Z",
       "media_id": "17906304255350114",
-      "published_at": "2026-10-25T13:11:55.809Z"
+      "published_at": "2026-10-25T13:11:55.809Z",
+      "url": "https://www.instagram.com/hanziscreen/reel/De6yIffkofG/"
     }
   ],
   "verified_assets": [
@@ -5619,12 +5620,27 @@
         "scheduled_at": "2026-10-26T10:00:00+07:00",
         "title": "My Mandarin study buddy ate chapter one 🐛 | 书虫",
         "caption": "I asked a bookworm to help with Mandarin. It ate chapter one 🐛📖\nGreat appetite. Terrible tutor.\n书虫 shūchóng = bookworm: someone who loves reading. The literal worm is the joke!\nFollow for daily Mandarin memes & free Chinese lessons!\nHanzi on Screen is FREE to start. Search Hanzi Screen in the App Store:\nhttps://apps.apple.com/id/app/hanzi-screen/id6811871162\nOriginal fictional cartoon and sound design; genuine screenshot preview.\n#LearnMandarin #LearnChinese #MandarinMemes #ChineseVocabulary",
-        "status": "blocked_account_limit",
+        "status": "prepared_not_scheduled",
         "intent_at": "2026-10-25T05:06:35.530Z",
         "submitted": false,
         "idempotency_key": "17878551951568081:088fc6fe912a268238c3290c0c9368d7371160a1197874843e3c355e0a0345d0",
         "error": "You have reached your Metricool account limit.",
         "resolution_required": "Owner action;do not submit while confirmed account-limit block remains.",
+        "audio_status": "audio_unverified",
+        "target_publisher": "Publer",
+        "blocker": "Full TikTok public/Studio dedupe blocked by owner login; Publer Scheduled/Failed empty, Published contains pillow only."
+      },
+      {
+        "source_instagram_media_id": "17906304255350114",
+        "source_sha256": "dc20e16e4f41fa864bee0ce809c36210da242a38c33e661d4e08c32839958b3d",
+        "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/3a42dfc10adcf5161b68740fbda9d4c5eea3de7d/media/instagram/2026-10-25/2000_one_page_bookworm.mp4",
+        "source_video_path": "media/instagram/2026-10-25/2000_one_page_bookworm.mp4",
+        "scheduled_at": "2026-10-26T18:00:00+07:00",
+        "status": "prepared_not_scheduled",
+        "submitted": false,
+        "target_publisher": "Publer",
+        "caption": "One page before bed. My pillow has other plans 📖😴\n看书 kàn shū = read a book / read books.\n书虫 shūchóng = bookworm: someone who loves reading.\nOne sentence counts. What are you reading?\nHanzi on Screen is FREE to start, with optional Premium. Search Hanzi Screen in the App Store:\nhttps://apps.apple.com/id/app/hanzi-screen/id6811871162\nOriginal cartoon and owner-controlled audio; genuine screenshot preview shows 不要辣, not this lesson.\n#LearnMandarin #LearnChinese #ChineseVocabulary #LanguageLearning",
+        "blocker": "Complete public/Studio dedupe unavailable pending owner sign-in.",
         "audio_status": "audio_unverified"
       }
     ],
@@ -5696,7 +5712,41 @@
       "url": "https://www.tiktok.com/tiktokstudio/upload",
       "rule": "Conclusive Publer failure and complete cross-platform absence only; pending outcomes block duplicate."
     },
-    "primary_publisher": "Publer"
+    "primary_publisher": "Publer",
+    "publer_recovery_records": [
+      {
+        "source_instagram_media_id": "18413673547092027",
+        "source_sha256": "3d4828d58877bf9ea8b99e217fcc1ac2ff8375e316399a1cac92131652ac67c8",
+        "publisher": "Publer",
+        "status": "published_publisher_confirmed",
+        "tiktok_id": "7700496032395840774",
+        "url": "https://www.tiktok.com/@hanziscreen/video/7700496032395840774?utm_campaign=tt4d_open_api&utm_source=awzzzzrixltkdgr1",
+        "published_local": "2026-10-25T14:07:00+07:00",
+        "verified_at": "2026-10-25T13:13:32.480Z",
+        "public_readback": "Login/age wall blocks independent playback confirmation",
+        "audio_status": "audio_unverified",
+        "do_not_retry": true
+      }
+    ],
+    "legacy_laundry_status": {
+      "post_id": "404986738",
+      "checked_at": "2026-10-25T13:13:32.480Z",
+      "status": "ERROR",
+      "error": "You have reached your Metricool account limit.",
+      "source_sha256": "1f48eed28a56f4348dafebe4b5281ca16166648b0f9bcd15ee3657e9650ba17c",
+      "recovery_status": "blocked_complete_dedup",
+      "reason": "Public TikTok and Studio cannot be inspected without owner sign-in. No retry submitted."
+    },
+    "last_publer_audit": {
+      "checked_at": "2026-10-25T13:13:32.480Z",
+      "account": "Hanzi on Screen TikTok @hanziscreen",
+      "scheduled": 0,
+      "failed": 0,
+      "published_verified": [
+        "7700496032395840774"
+      ],
+      "note": "No new publisher writes; TikTok source checks blocked at login."
+    }
   },
   "stories": {
     "enabled": true,
@@ -5836,8 +5886,11 @@
         "source_instagram_media_id": "17906304255350114",
         "source_sha256": "dc20e16e4f41fa864bee0ce809c36210da242a38c33e661d4e08c32839958b3d",
         "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/3a42dfc10adcf5161b68740fbda9d4c5eea3de7d/media/instagram/2026-10-25/2000_one_page_bookworm.mp4",
-        "status": "intent_saved",
-        "intent_at": "2026-10-25T13:11:58.952Z"
+        "status": "published",
+        "intent_at": "2026-10-25T13:11:58.952Z",
+        "story_media_id": "18020908511949076",
+        "published_at": "2026-10-25T13:13:32.479Z",
+        "highlight_status": "pending"
       }
     ],
     "pending": []
@@ -5847,7 +5900,9 @@
     "name": "Mandarin",
     "status": "created",
     "reason": "Eleven Stories confirmed after reload;bookworm Story checked alongside previous ten.",
-    "pending_story_ids": [],
+    "pending_story_ids": [
+      "18020908511949076"
+    ],
     "last_attempt_at": "2026-10-23T13:12:13.818Z",
     "creation_attempt": {
       "at": "2026-10-23T13:07:00.914Z",
