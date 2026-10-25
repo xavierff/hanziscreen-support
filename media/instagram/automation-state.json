@@ -1158,6 +1158,33 @@
       "media_id": "17878551951568081",
       "published_at": "2026-10-25T05:06:35.530Z",
       "url": "https://www.instagram.com/hanziscreen/reel/De56nZwlNJj/"
+    },
+    {
+      "date": "2026-10-25",
+      "slot": "20:00",
+      "hook": "One page before bed;impatient pillow meets determined beginner bookworm",
+      "topic": "看书 kàn shū read a book/read books; reading habit follows noon 书虫",
+      "content_type": "pov_screenshot_preview",
+      "comparison_group": "product_focused",
+      "video_path": "media/instagram/2026-10-25/2000_one_page_bookworm.mp4",
+      "sha256": "dc20e16e4f41fa864bee0ce809c36210da242a38c33e661d4e08c32839958b3d",
+      "size_bytes": 890189,
+      "duration": 20,
+      "status": "prepared_intent",
+      "caption": "POV: one page before bed. Your pillow has other plans. 📖😴\nThe pillow can wait. One sentence counts.\n看书 kàn shū = read a book / read books.\nA tiny reading habit for the aspiring 书虫 shūchóng (bookworm).\nFollow for daily Mandarin memes & free Chinese lessons!\nHanzi on Screen is FREE to start, with optional Premium. Tap @hanziscreen, then the App Store link in bio.\nhttps://apps.apple.com/id/app/hanzi-screen/id6811871162\nhttps://hanziscreen.com\nOriginal fictional cartoon and sound design; genuine owner Lock Screen screenshot shows 不要辣 (no spice), not this lesson. No app recording.\n#LearnMandarin #LearnChinese #ChineseVocabulary #LanguageLearning",
+      "audio": {
+        "title": "One Page Waltz",
+        "artist": "Hanzi on Screen",
+        "source": "Original deterministic synthesis in one_page_bookworm_20261025.py; no third-party samples",
+        "license": "Owner-controlled original audio",
+        "mean_db": -30.1,
+        "peak_db": -9.1,
+        "live_status": "audio_unverified"
+      },
+      "quality": "1080x1920 H264/AAC20s; full decode, intact ending assets and representative frame sheet verified.",
+      "video_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/3a42dfc10adcf5161b68740fbda9d4c5eea3de7d/media/instagram/2026-10-25/2000_one_page_bookworm.mp4",
+      "media_commit": "3a42dfc10adcf5161b68740fbda9d4c5eea3de7d",
+      "intent_at": "2026-10-25T13:10:07.908Z"
     }
   ],
   "verified_assets": [
@@ -5655,7 +5682,19 @@
       "error": "You have reached your Metricool account limit.",
       "post_id": "404772822",
       "notes": "Do not buy a plan,modify account,or retry unchanged quota-blocked submissions automatically."
-    }
+    },
+    "studio_backup": {
+      "authorized": true,
+      "checked_at": "2026-10-25T13:10:07.908Z",
+      "status": "login_required",
+      "account_verified": false,
+      "upload_verified": false,
+      "scheduling_verified": false,
+      "test_upload_performed": false,
+      "url": "https://www.tiktok.com/tiktokstudio/upload",
+      "rule": "Conclusive Publer failure and complete cross-platform absence only; pending outcomes block duplicate."
+    },
+    "primary_publisher": "Publer"
   },
   "stories": {
     "enabled": true,
