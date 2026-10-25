@@ -1129,6 +1129,34 @@
       "media_id": "18127161109909763",
       "published_at": "2026-10-24T13:03:58.869Z",
       "url": "https://www.instagram.com/hanziscreen/reel/De4Mc86kWxb/"
+    },
+    {
+      "date": "2026-10-25",
+      "slot": "12:00",
+      "hook": "Literal bookworm eats chapter one instead of tutoring;great appetite,terrible tutor",
+      "topic": "书虫 shūchóng bookworm,a keen reader",
+      "content_type": "animated_meme",
+      "comparison_group": "meme",
+      "video_path": "media/instagram/2026-10-25/1200_bookworm_study_buddy.mp4",
+      "sha256": "088fc6fe912a268238c3290c0c9368d7371160a1197874843e3c355e0a0345d0",
+      "size_bytes": 913898,
+      "duration": 20,
+      "status": "published",
+      "caption": "I asked a bookworm to help with Mandarin. It ate chapter one. 🐛📖\nGreat appetite. Terrible tutor.\n书虫 shūchóng = bookworm: a person who loves reading. The literal worm is the joke!\nFollow for daily Mandarin memes & free Chinese lessons!\nKeep useful Chinese in sight with Hanzi on Screen—FREE to start. Tap @hanziscreen, then the App Store link in our bio.\nhttps://apps.apple.com/id/app/hanzi-screen/id6811871162\nOriginal fictional cartoon and sound design; genuine widget screenshot preview.\n#LearnMandarin #LearnChinese #MandarinMemes #ChineseVocabulary",
+      "audio": {
+        "title": "Paper Snack Swing",
+        "artist": "Hanzi on Screen",
+        "source": "Original deterministic synthesis in bookworm_study_buddy_20261025.py;no third-party samples",
+        "license": "Owner-controlled original audio",
+        "mean_db": -30.4,
+        "peak_db": -10.2,
+        "live_status": "audio_unverified"
+      },
+      "quality": "1080x1920H264/AAC20s;full decode,frame sheet,non-silent audio passed;whole authentic ending images.",
+      "video_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/699bed3f4e09bff0f84af71a81f13ee62ffc099a/media/instagram/2026-10-25/1200_bookworm_study_buddy.mp4",
+      "media_commit": "699bed3f4e09bff0f84af71a81f13ee62ffc099a",
+      "media_id": "17878551951568081",
+      "published_at": "2026-10-25T05:06:35.530Z"
     }
   ],
   "verified_assets": [
@@ -5551,7 +5579,25 @@
         "quarantined": true
       }
     ],
-    "pending": [],
+    "pending": [
+      {
+        "source_instagram_media_id": "17878551951568081",
+        "source_sha256": "088fc6fe912a268238c3290c0c9368d7371160a1197874843e3c355e0a0345d0",
+        "source_slot": "2026-10-25T12:00:00+07:00",
+        "source_video_path": "media/instagram/2026-10-25/1200_bookworm_study_buddy.mp4",
+        "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/699bed3f4e09bff0f84af71a81f13ee62ffc099a/media/instagram/2026-10-25/1200_bookworm_study_buddy.mp4",
+        "scheduled_at": "2026-10-26T10:00:00+07:00",
+        "title": "My Mandarin study buddy ate chapter one 🐛 | 书虫",
+        "caption": "I asked a bookworm to help with Mandarin. It ate chapter one 🐛📖\nGreat appetite. Terrible tutor.\n书虫 shūchóng = bookworm: someone who loves reading. The literal worm is the joke!\nFollow for daily Mandarin memes & free Chinese lessons!\nHanzi on Screen is FREE to start. Search Hanzi Screen in the App Store:\nhttps://apps.apple.com/id/app/hanzi-screen/id6811871162\nOriginal fictional cartoon and sound design; genuine screenshot preview.\n#LearnMandarin #LearnChinese #MandarinMemes #ChineseVocabulary",
+        "status": "blocked_account_limit",
+        "intent_at": "2026-10-25T05:06:35.530Z",
+        "submitted": false,
+        "idempotency_key": "17878551951568081:088fc6fe912a268238c3290c0c9368d7371160a1197874843e3c355e0a0345d0",
+        "error": "You have reached your Metricool account limit.",
+        "resolution_required": "Owner action;do not submit while confirmed account-limit block remains.",
+        "audio_status": "audio_unverified"
+      }
+    ],
     "regular_slots": [
       "10:00",
       "18:00"
@@ -5723,34 +5769,17 @@
         "highlight_status": "confirmed"
       }
     ],
-    "pending": []
+    "pending": [
+      {
+        "source_instagram_media_id": "17878551951568081",
+        "source_sha256": "088fc6fe912a268238c3290c0c9368d7371160a1197874843e3c355e0a0345d0",
+        "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/699bed3f4e09bff0f84af71a81f13ee62ffc099a/media/instagram/2026-10-25/1200_bookworm_study_buddy.mp4",
+        "status": "pending",
+        "intent_at": "2026-10-25T05:06:35.530Z"
+      }
+    ]
   },
-  "pending_recovery": [
-    {
-      "date": "2026-10-25",
-      "slot": "12:00",
-      "hook": "Literal bookworm eats chapter one instead of tutoring;great appetite,terrible tutor",
-      "topic": "书虫 shūchóng bookworm,a keen reader",
-      "content_type": "animated_meme",
-      "comparison_group": "meme",
-      "video_path": "media/instagram/2026-10-25/1200_bookworm_study_buddy.mp4",
-      "sha256": "088fc6fe912a268238c3290c0c9368d7371160a1197874843e3c355e0a0345d0",
-      "size_bytes": 913898,
-      "duration": 20,
-      "status": "pending",
-      "caption": "I asked a bookworm to help with Mandarin. It ate chapter one. 🐛📖\nGreat appetite. Terrible tutor.\n书虫 shūchóng = bookworm: a person who loves reading. The literal worm is the joke!\nFollow for daily Mandarin memes & free Chinese lessons!\nKeep useful Chinese in sight with Hanzi on Screen—FREE to start. Tap @hanziscreen, then the App Store link in our bio.\nhttps://apps.apple.com/id/app/hanzi-screen/id6811871162\nOriginal fictional cartoon and sound design; genuine widget screenshot preview.\n#LearnMandarin #LearnChinese #MandarinMemes #ChineseVocabulary",
-      "audio": {
-        "title": "Paper Snack Swing",
-        "artist": "Hanzi on Screen",
-        "source": "Original deterministic synthesis in bookworm_study_buddy_20261025.py;no third-party samples",
-        "license": "Owner-controlled original audio",
-        "mean_db": -30.4,
-        "peak_db": -10.2,
-        "live_status": "audio_unverified"
-      },
-      "quality": "1080x1920H264/AAC20s;full decode,frame sheet,non-silent audio passed;whole authentic ending images."
-    }
-  ],
+  "pending_recovery": [],
   "highlights": {
     "name": "Mandarin",
     "status": "created",
