@@ -5555,18 +5555,18 @@
     },
     "verification_notes": "Metricool schedule creation and queue read-back passed. Pending is not published; check public URL through TKPO03/TKPO05 after scheduled time. Queue absence alone is not success.",
     "analytics_cache": {
-      "date": "2026-10-24",
+      "date": "2026-10-25",
+      "checked_at": "2026-10-25T05:08:34.549Z",
       "result": {
         "content": [
           {
             "type": "text",
-            "text": "{\"rows\":[[\"20261023110317\",\"https://www.tiktok.com/@hanziscreen/video/7699817218527300885?utm_campaign=tt4d_open_api&utm_source=awwuexz91plpu87c\",\"Asking for the bill in Mandarin: confident. Paying it: wallet hides under the table 😅 买单 mǎidān = pay the bill. 买单，谢谢！Mǎidān, xièxie! = The bill, please. Thank you! Follow for daily Mandarin memes & free Chinese lessons! Keep everyday Chinese in sight with Hanzi on Screen—FREE to start. Search Hanzi Screen in the App Store: https://apps.apple.com/id/app/hanzi-screen/id6811871162 Fictional restaurant joke; genuine screenshot preview, not an app recording. Original animation and sound design. #LearnMandarin #LearnChinese #ChineseVocabulary #MandarinMemes\"],[\"20261023030155\",\"https://www.tiktok.com/@hanziscreen/video/7699693148435516693?utm_campaign=tt4d_open_api&utm_source=awwuexz91plpu87c\",\"“Go online.” Me: brings a surfboard 🏄😅 上网 shàngwǎng = go online / use the internet. 我在上网。Wǒ zài shàngwǎng. = I’m using the internet. The router did not sign up to be a lifeguard. Follow for daily Mandarin memes & free Chinese lessons! Hanzi on Screen is FREE to start. Search Hanzi Screen in the App Store: https://apps.apple.com/id/app/hanzi-screen/id6811871162 Fictional learner joke; genuine screenshot preview. Original animation and sound design. #LearnMandarin #LearnChinese #MandarinMemes #ChineseVocabulary\"]]}"
+            "text": "{\"rows\":[]}"
           }
         ],
         "structuredContent": null,
         "isError": false
-      },
-      "checked_at": "2026-10-24T05:07:19.500Z"
+      }
     },
     "audio_incidents": [
       {
@@ -5605,28 +5605,40 @@
     ],
     "missing_post_policy": "Recover immediately when detected at existing automation runs, after dedup; preserve next regular reservations.",
     "coverage_audit": {
-      "checked_at": "2026-10-24T13:06:09.501Z",
-      "source_count": 18,
+      "checked_at": "2026-10-25T05:08:34.549Z",
+      "source_count": 19,
       "published": 16,
-      "reserved": 2,
+      "reserved": 1,
+      "failed_owner_action": [
+        {
+          "post_id": "404772822",
+          "error": "You have reached your Metricool account limit."
+        }
+      ],
+      "durable_pending": [
+        {
+          "source_id": "17878551951568081",
+          "requested_slot": "2026-10-26T10:00:00+07:00",
+          "status": "blocked_account_limit"
+        }
+      ],
       "missing": [],
       "recovered_this_run": 0,
-      "submitted_this_run": 1,
-      "next_day": {
-        "date": "2026-10-25",
-        "10:00": "verified404772822",
-        "18:00": "verified404986738"
-      },
+      "submitted_this_run": 0,
+      "published_this_run": 0,
       "next_queue_slots": [
         {
-          "at": "2026-10-25T10:00:00+07:00",
-          "post_id": "404772822"
-        },
-        {
           "at": "2026-10-25T18:00:00+07:00",
-          "post_id": "404986738"
+          "post_id": "404986738",
+          "status": "PENDING",
+          "risk": "Account limit may prevent delivery."
         }
-      ]
+      ],
+      "next_day": {
+        "date": "2026-10-26",
+        "10:00": "bookworm prepared,blocked_account_limit,not reserved",
+        "18:00": "source awaits tonight's Reel;account limit unresolved"
+      }
     },
     "regular_slot_policy": {
       "timezone": "Asia/Jakarta",
