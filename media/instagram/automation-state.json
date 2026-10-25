@@ -5831,6 +5831,13 @@
         "story_media_id": "17970374928008064",
         "published_at": "2026-10-25T05:08:03.069Z",
         "highlight_status": "confirmed"
+      },
+      {
+        "source_instagram_media_id": "17906304255350114",
+        "source_sha256": "dc20e16e4f41fa864bee0ce809c36210da242a38c33e661d4e08c32839958b3d",
+        "source_url": "https://raw.githubusercontent.com/xavierff/hanziscreen-support/3a42dfc10adcf5161b68740fbda9d4c5eea3de7d/media/instagram/2026-10-25/2000_one_page_bookworm.mp4",
+        "status": "intent_saved",
+        "intent_at": "2026-10-25T13:11:58.952Z"
       }
     ],
     "pending": []
