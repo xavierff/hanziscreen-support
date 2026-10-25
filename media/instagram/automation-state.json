@@ -1,10 +1,10 @@
 {
   "trend_cache": {
-    "date": "2026-10-24",
+    "date": "2026-10-25",
     "sources": [
       "https://later.com/blog/instagram-reels-trends/"
     ],
-    "finding": "Daily search reviewed;original weekend pillow joke selected,no viral claim or trend audio."
+    "finding": "Oct23 roundup formats reviewed;original bookworm joke selected,no viral claim or unlicensed trend audio."
   },
   "published": [
     {
@@ -1516,7 +1516,7 @@
     ],
     "summary": "Instagram follower total2 vs prior1; no attribution. Rice138views/3likes/1save/5054ms; barber118views/5052ms; anything60views/1share/3325ms. Samples small; preserve14day test and clear setups.",
     "limitations": "Profile views/website clicks null. No authorized App Store downloads/attribution source. No inferred clicks or installs.",
-    "last_daily_snapshot": "2026-10-24"
+    "last_daily_snapshot": "2026-10-25"
   },
   "animation_assets": [
     {
@@ -4066,6 +4066,237 @@
         "total_rows": 18
       },
       "notes": "Daily snapshot;conversion metrics unavailable."
+    },
+    {
+      "date": "2026-10-25",
+      "checked_at": "2026-10-25T05:04:39.319Z",
+      "result": {
+        "status": "done",
+        "data": [
+          {
+            "media_id": "18633453964006554",
+            "media_permalink": "https://www.instagram.com/reel/DehBx00DEtJ/",
+            "media_views": 118,
+            "media_reach": 105,
+            "media_reel_avg_watch_time": 4825,
+            "media_reel_skip_rate": 0.708,
+            "media_saved": 2,
+            "media_shares": 0,
+            "media_follows": null
+          },
+          {
+            "media_id": "18342186049269138",
+            "media_permalink": "https://www.instagram.com/reel/DegKsgLgM93/",
+            "media_views": 93,
+            "media_reach": 88,
+            "media_reel_avg_watch_time": 3999,
+            "media_reel_skip_rate": 0.802,
+            "media_saved": 0,
+            "media_shares": 0,
+            "media_follows": null
+          },
+          {
+            "media_id": "18464305003189705",
+            "media_permalink": "https://www.instagram.com/reel/DejmZ4DjyVA/",
+            "media_views": 28,
+            "media_reach": 27,
+            "media_reel_avg_watch_time": 3276,
+            "media_reel_skip_rate": 0.769,
+            "media_saved": 0,
+            "media_shares": 0,
+            "media_follows": null
+          },
+          {
+            "media_id": "18168244624467786",
+            "media_permalink": "https://www.instagram.com/reel/DeivZFLiroy/",
+            "media_views": 138,
+            "media_reach": 129,
+            "media_reel_avg_watch_time": 5054,
+            "media_reel_skip_rate": 0.646,
+            "media_saved": 1,
+            "media_shares": 0,
+            "media_follows": null
+          },
+          {
+            "media_id": "17980715637121140",
+            "media_permalink": "https://www.instagram.com/reel/DemK97AiDa0/",
+            "media_views": 117,
+            "media_reach": 106,
+            "media_reel_avg_watch_time": 1373,
+            "media_reel_skip_rate": 0.953,
+            "media_saved": 1,
+            "media_shares": 0,
+            "media_follows": null
+          },
+          {
+            "media_id": "18121285220071383",
+            "media_permalink": "https://www.instagram.com/reel/DelUfwrmHUA/",
+            "media_views": 60,
+            "media_reach": 61,
+            "media_reel_avg_watch_time": 3277,
+            "media_reel_skip_rate": 0.746,
+            "media_saved": 0,
+            "media_shares": 1,
+            "media_follows": null
+          },
+          {
+            "media_id": "18115646572839963",
+            "media_permalink": "https://www.instagram.com/reel/DeowIG1DQy9/",
+            "media_views": 15,
+            "media_reach": 13,
+            "media_reel_avg_watch_time": 1962,
+            "media_reel_skip_rate": 0.846,
+            "media_saved": 0,
+            "media_shares": 0,
+            "media_follows": null
+          },
+          {
+            "media_id": "18018204878745061",
+            "media_permalink": "https://www.instagram.com/reel/Den4eOqgXdu/",
+            "media_views": 120,
+            "media_reach": 104,
+            "media_reel_avg_watch_time": 5150,
+            "media_reel_skip_rate": 0.716,
+            "media_saved": 0,
+            "media_shares": 0,
+            "media_follows": null
+          },
+          {
+            "media_id": "18119766298965216",
+            "media_permalink": "https://www.instagram.com/reel/DerxGFTAfoS/",
+            "media_views": 120,
+            "media_reach": 109,
+            "media_reel_avg_watch_time": 4107,
+            "media_reel_skip_rate": 0.664,
+            "media_saved": 0,
+            "media_shares": 2,
+            "media_follows": null
+          },
+          {
+            "media_id": "18476902066114273",
+            "media_permalink": "https://www.instagram.com/reel/Deqdo8xE07k/",
+            "media_views": 121,
+            "media_reach": 105,
+            "media_reel_avg_watch_time": 4553,
+            "media_reel_skip_rate": 0.667,
+            "media_saved": 0,
+            "media_shares": 0,
+            "media_follows": null
+          },
+          {
+            "media_id": "18109287098577371",
+            "media_permalink": "https://www.instagram.com/reel/DeuFKVhlbmx/",
+            "media_views": 128,
+            "media_reach": 118,
+            "media_reel_avg_watch_time": 4864,
+            "media_reel_skip_rate": 0.588,
+            "media_saved": 1,
+            "media_shares": 0,
+            "media_follows": null
+          },
+          {
+            "media_id": "18009928482005376",
+            "media_permalink": "https://www.instagram.com/reel/DeuE6dcFBv8/",
+            "media_views": 152,
+            "media_reach": 139,
+            "media_reel_avg_watch_time": 2466,
+            "media_reel_skip_rate": 0.842,
+            "media_saved": 1,
+            "media_shares": 0,
+            "media_follows": null
+          },
+          {
+            "media_id": "18094990637422514",
+            "media_permalink": "https://www.instagram.com/reel/Dewd9v0gfzY/",
+            "media_views": 112,
+            "media_reach": 102,
+            "media_reel_avg_watch_time": 2471,
+            "media_reel_skip_rate": 0.87,
+            "media_saved": 0,
+            "media_shares": 0,
+            "media_follows": null
+          },
+          {
+            "media_id": "18119349058764454",
+            "media_permalink": "https://www.instagram.com/reel/DevnAUXD1N-/",
+            "media_views": 117,
+            "media_reach": 107,
+            "media_reel_avg_watch_time": 3317,
+            "media_reel_skip_rate": 0.698,
+            "media_saved": 0,
+            "media_shares": 0,
+            "media_follows": null
+          },
+          {
+            "media_id": "18105692558636540",
+            "media_permalink": "https://www.instagram.com/reel/DezDC3SlDO6/",
+            "media_views": 127,
+            "media_reach": 116,
+            "media_reel_avg_watch_time": 3759,
+            "media_reel_skip_rate": 0.632,
+            "media_saved": 0,
+            "media_shares": 1,
+            "media_follows": null
+          },
+          {
+            "media_id": "18168799759468584",
+            "media_permalink": "https://www.instagram.com/reel/DeyLrwnCesc/",
+            "media_views": 64,
+            "media_reach": 60,
+            "media_reel_avg_watch_time": 3701,
+            "media_reel_skip_rate": 0.793,
+            "media_saved": 0,
+            "media_shares": 0,
+            "media_follows": null
+          },
+          {
+            "media_id": "17864330343694231",
+            "media_permalink": "https://www.instagram.com/reel/De1nhE4gWV7/",
+            "media_views": 161,
+            "media_reach": 142,
+            "media_reel_avg_watch_time": 38009,
+            "media_reel_skip_rate": 0.762,
+            "media_saved": 1,
+            "media_shares": 1,
+            "media_follows": null
+          },
+          {
+            "media_id": "18577457167078824",
+            "media_permalink": "https://www.instagram.com/reel/De0wafCCVt7/",
+            "media_views": 120,
+            "media_reach": 117,
+            "media_reel_avg_watch_time": 3578,
+            "media_reel_skip_rate": 0.661,
+            "media_saved": 0,
+            "media_shares": 0,
+            "media_follows": null
+          },
+          {
+            "media_id": "18127161109909763",
+            "media_permalink": "https://www.instagram.com/reel/De4Mc86kWxb/",
+            "media_views": 109,
+            "media_reach": 102,
+            "media_reel_avg_watch_time": 2409,
+            "media_reel_skip_rate": 0.676,
+            "media_saved": 0,
+            "media_shares": 0,
+            "media_follows": null
+          },
+          {
+            "media_id": "18413673547092027",
+            "media_permalink": "https://www.instagram.com/reel/De3VcxtDWiS/",
+            "media_views": 104,
+            "media_reach": 93,
+            "media_reel_avg_watch_time": 2165,
+            "media_reel_skip_rate": 0.8,
+            "media_saved": 0,
+            "media_shares": 0,
+            "media_follows": null
+          }
+        ],
+        "total_rows": 20
+      },
+      "notes": "Daily snapshot;unsupported metrics unavailable,no installs inferred."
     }
   ],
   "strategy_baseline": {
@@ -4507,7 +4738,7 @@
         "scheduled_at": "2026-10-25T10:00:00+07:00",
         "title": "My Mandarin flashcards needed a weekend nap 😴 | 周末",
         "caption": "My weekend study buddy tucked my flashcards into bed. Even my vocabulary needs a nap 😴\n周末 zhōumò = weekend.\n睡觉 shuìjiào = sleep.\nWhich Mandarin word would survive your weekend?\nFollow for daily Mandarin memes & free Chinese lessons!\nHanzi on Screen is FREE to start. Search Hanzi Screen in the App Store:\nhttps://apps.apple.com/id/app/hanzi-screen/id6811871162\nFictional pillow joke; genuine screenshot preview. Original animation and sound design.\n#LearnMandarin #LearnChinese #MandarinMemes #ChineseVocabulary",
-        "status": "scheduled",
+        "status": "failed",
         "idempotency_key": "18413673547092027:3d4828d58877bf9ea8b99e217fcc1ac2ff8375e316399a1cac92131652ac67c8",
         "created_at": "2026-10-24T05:03:28.501Z",
         "audio_status": "audio_unverified",
@@ -4517,8 +4748,8 @@
         "metricool_media_url": "https://static.metricool.com/planner/202610/7459891-file-6835560438969575768.mp4",
         "planner_url": "https://app.metricool.com/planner/calendar?blogId=7459891&openWithPostUuid=8002467935104618104",
         "confirmed_response_at": "2026-10-24T05:06:23.506Z",
-        "provider_status": "PENDING",
-        "verified_at": "2026-10-24T13:06:09.501Z",
+        "provider_status": "ERROR",
+        "verified_at": "2026-10-25T05:04:07.498Z",
         "autoPublish": true,
         "draft": false,
         "network": "tiktok",
@@ -4530,7 +4761,10 @@
           "peak_db": -10.3,
           "full_decode": "passed",
           "live_status": "audio_unverified"
-        }
+        },
+        "provider_detail": "You have reached your Metricool account limit.",
+        "recovery_status": "blocked_owner_action",
+        "recovery_reason": "Account quota block;no automatic retry or alternate publisher."
       },
       {
         "source_instagram_media_id": "18127161109909763",
@@ -4566,7 +4800,14 @@
         }
       }
     ],
-    "failures": [],
+    "failures": [
+      {
+        "post_id": "404772822",
+        "source_instagram_media_id": "18413673547092027",
+        "error": "You have reached your Metricool account limit.",
+        "at": "2026-10-25T05:04:07.498Z"
+      }
+    ],
     "best_times_cache": {
       "date": "2026-10-21",
       "response": {
@@ -5348,6 +5589,13 @@
       ],
       "mapping": "noon source→next-day10:00;evening source→next-day18:00",
       "recovery": "Genuinely missing overdue sources recovered separately without moving regular reservations"
+    },
+    "account_block": {
+      "status": "owner_action_required",
+      "observed_at": "2026-10-25T05:04:07.498Z",
+      "error": "You have reached your Metricool account limit.",
+      "post_id": "404772822",
+      "notes": "Do not buy a plan,modify account,or retry unchanged quota-blocked submissions automatically."
     }
   },
   "stories": {
@@ -5477,7 +5725,32 @@
     ],
     "pending": []
   },
-  "pending_recovery": [],
+  "pending_recovery": [
+    {
+      "date": "2026-10-25",
+      "slot": "12:00",
+      "hook": "Literal bookworm eats chapter one instead of tutoring;great appetite,terrible tutor",
+      "topic": "书虫 shūchóng bookworm,a keen reader",
+      "content_type": "animated_meme",
+      "comparison_group": "meme",
+      "video_path": "media/instagram/2026-10-25/1200_bookworm_study_buddy.mp4",
+      "sha256": "088fc6fe912a268238c3290c0c9368d7371160a1197874843e3c355e0a0345d0",
+      "size_bytes": 913898,
+      "duration": 20,
+      "status": "pending",
+      "caption": "I asked a bookworm to help with Mandarin. It ate chapter one. 🐛📖\nGreat appetite. Terrible tutor.\n书虫 shūchóng = bookworm: a person who loves reading. The literal worm is the joke!\nFollow for daily Mandarin memes & free Chinese lessons!\nKeep useful Chinese in sight with Hanzi on Screen—FREE to start. Tap @hanziscreen, then the App Store link in our bio.\nhttps://apps.apple.com/id/app/hanzi-screen/id6811871162\nOriginal fictional cartoon and sound design; genuine widget screenshot preview.\n#LearnMandarin #LearnChinese #MandarinMemes #ChineseVocabulary",
+      "audio": {
+        "title": "Paper Snack Swing",
+        "artist": "Hanzi on Screen",
+        "source": "Original deterministic synthesis in bookworm_study_buddy_20261025.py;no third-party samples",
+        "license": "Owner-controlled original audio",
+        "mean_db": -30.4,
+        "peak_db": -10.2,
+        "live_status": "audio_unverified"
+      },
+      "quality": "1080x1920H264/AAC20s;full decode,frame sheet,non-silent audio passed;whole authentic ending images."
+    }
+  ],
   "highlights": {
     "name": "Mandarin",
     "status": "created",
@@ -5531,12 +5804,11 @@
     }
   },
   "engagement_test_review": {
-    "checked_at": "2026-10-24T05:04:10.627Z",
-    "age_hours": 107.92781416666666,
+    "checked_at": "2026-10-25T05:04:39.319Z",
+    "age_hours": 131.85619972222221,
     "test_tag": "engagement_test_20261019",
     "test": {
       "media_id": "18119766298965216",
-      "media_caption": "I asked for slower Mandarin. Not next year. 😅\n慢一点 màn yì diǎn = a little slower.\n\nWhat phrase saves you in a Mandarin conversation?\nFollow for daily Mandarin memes & bite-sized lessons.\nSee Chinese vocabulary on your iPhone Lock Screen with Hanzi on Screen—FREE to start. Tap @hanziscreen, then the App Store link in our bio.\nhttps://apps.apple.com/id/app/hanzi-screen/id6811871162\n\nFictional learner joke; genuine widget screenshot previews with an enlarged detail. Original animation and sound design.\n#LearnMandarin #LearnChinese #MandarinMemes #iPhoneWidgets",
       "media_permalink": "https://www.instagram.com/reel/DerxGFTAfoS/",
       "media_views": 120,
       "media_reach": 109,
@@ -5618,7 +5890,7 @@
       "avg_watch_seconds": 5,
       "skip_fraction": 0.65
     },
-    "assessment": "120 views,4.107s average watch,66.4% skip;targets unmet.Small observational sample;controls age mismatch.No App Store attribution."
+    "assessment": "Continue observation toOct29;comparisons have age mismatch;no App Store attribution."
   },
   "profile_metrics_cache": {
     "date": "2026-10-24",
