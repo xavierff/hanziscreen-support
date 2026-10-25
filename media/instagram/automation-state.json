@@ -5924,7 +5924,7 @@
         "intent_at": "2026-10-25T13:11:58.952Z",
         "story_media_id": "18020908511949076",
         "published_at": "2026-10-25T13:13:32.479Z",
-        "highlight_status": "pending"
+        "highlight_status": "confirmed"
       }
     ],
     "pending": []
@@ -5933,10 +5933,8 @@
   "highlights": {
     "name": "Mandarin",
     "status": "created",
-    "reason": "Eleven Stories confirmed after reload;bookworm Story checked alongside previous ten.",
-    "pending_story_ids": [
-      "18020908511949076"
-    ],
+    "reason": "Twelve selected Stories confirmed after reload; tonight's one-page reading is selected alongside eleven existing Stories.",
+    "pending_story_ids": [],
     "last_attempt_at": "2026-10-23T13:12:13.818Z",
     "creation_attempt": {
       "at": "2026-10-23T13:07:00.914Z",
@@ -5965,23 +5963,25 @@
       "18130973032806594",
       "17920591299459113",
       "18137517433737742",
-      "17970374928008064"
+      "17970374928008064",
+      "18020908511949076"
     ],
     "browser_note": "Story picker initially looks empty; wait for asynchronous thumbnail loading while doing other work, then inspect before closing. Never create another Mandarin Highlight if existing visible link.",
-    "updated_at": "2026-10-25T05:10:57.902Z",
+    "updated_at": "2026-10-25T13:17:26.180Z",
     "last_addition": {
-      "story_media_id": "18130973032806594",
-      "source_instagram_media_id": "17864330343694231",
+      "story_media_id": "18020908511949076",
+      "source_instagram_media_id": "17906304255350114",
       "status": "confirmed",
-      "confirmed_at": "2026-10-23T13:12:13.818Z",
-      "verification": "Reloaded existing Highlight; Selected tab shows door Story checked with seven existing Stories."
+      "confirmed_at": "2026-10-25T13:17:26.180Z",
+      "verification": "Reloaded existing Highlight; Selected tab contains twelve checked thumbnails including tonight's reading scene."
     },
     "addition_intent": {
       "story_media_id": "18020908511949076",
       "source_instagram_media_id": "17906304255350114",
       "highlight_id": "17915558772495419",
-      "status": "selected_pending_save",
-      "at": "2026-10-25T13:15:57.026Z"
+      "status": "confirmed",
+      "at": "2026-10-25T13:15:57.026Z",
+      "confirmed_at": "2026-10-25T13:17:26.180Z"
     }
   },
   "engagement_test_review": {
