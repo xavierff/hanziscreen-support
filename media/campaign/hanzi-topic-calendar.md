@@ -62,3 +62,12 @@ All statuses here are **PLANNED ONLY**. Publication timing is subject to confirm
 - Threads @hanziscreen: Windsor.ai 10:00 / 19:00 WIB, Thursdays and Sundays evenings may have an educational chain, one content slot.
 - X @hanziscreen: Buffer 09:00 / 19:00 WIB when its existing combined 'Refill Mandarin Jakarta' task is enabled; it is currently PAUSED. Do not enable it via this campaign.
 - No cross-publishing to Hidden Fortune Stories or Instagram @mandarinjakarta. Always verify exact channel, media identity and pending/published state. No paid upgrades.
+
+## YouTube handoff — 2026-10-26 (preflight and intent)
+- Verified Oct25 reading/bookworm pair above against Instagram automation-state.json; both original local MP4 SHA256 values match. H264/AAC, 1080×1920, 20s each; full decode and representative frames pass; non-silent owner-controlled original audio. No short-form re-render.
+- Studio verified exact channel UCnTFHhzyCoiSaDSfdGKFx5g: three public full lessons and five public Shorts, no reading assets or scheduled entries. Buffer Hanzi YouTube Queue 0, Drafts 0; Sent 8 matches existing public history; no failed queue item shown. Jakarta 18:00/20:00 slots empty.
+- Metricool Oct25 legacy ids405373970/405374305 now ERROR: account limit. Neither exists in Studio Shorts or Buffer Sent/Queue. Recovery eligible after final absence check; do not retry Metricool. Shopping long id405373631 superseded by PUBLIC HTfn8-s1t58, never upload again.
+- INTENT YouTube + reading/bookworm + 2026-10-26 + 18:00 + SHA088fc6fe912a268238c3290c0c9368d7371160a1197874843e3c355e0a0345d0: Buffer original noon master, not yet scheduled.
+- INTENT YouTube + reading/bookworm + 2026-10-26 + 20:00 + SHAdc20e16e4f41fa864bee0ce809c36210da242a38c33e661d4e08c32839958b3d: Buffer original evening master, not yet scheduled.
+- INTENT YouTube + reading/bookworm + 2026-10-26 + 10:00: Studio native 16:9 substantive reading-habits lesson expanding 书虫/看书; production in progress, not uploaded/scheduled.
+- Monday lightweight analytics: Studio last28days 363 views, 0.6 watch hours, 0 current subscribers. Latest shopping lesson 1 view, 0% thumbnail CTR and 0:00 average duration at very small sample; no retention/install conclusion warranted. No new trend research.
