@@ -94,3 +94,17 @@ All statuses here are **PLANNED ONLY**. Publication timing is subject to confirm
 - All five missed uploads recovered exactly once. Studio Video published confirmations verified. Oct25 shopping long HTfn8-s1t58 not reuploaded. Two Oct26 reading Shorts are exact unchanged Oct25Instagram originals; 5:33 long expands the same reading/bookworm topic with questions, habits, dialogue, listening and recall. No unrelated new Shorts.
 - Effective routing override: Hanzi YouTube Studio PRIMARY for all full lessons and Shorts; DO NOT USE METRICOOL, even as backup. Reconcile Buffer existing entries for duplicates but do not add new reservations there by default. Same automation resumed at08:00WIB, same10:00 long/18:00+20:00Short targets. Preserve all other accounts/tasks.
 - Next normal preparation Oct27: reread actual Oct26Instagram sources/state; seeded directions campaign is only usable when source clips actually available. Do not reupload old October24 directions lesson; new long must genuinely expand actual corresponding source campaign. Missing future source is a blocker, never invented availability. Recovery does not shift future slots.
+
+## Owner style correction — effective October 26, 2026; highest priority for future YouTube longs
+- Shared topic alone is insufficient. Longs must genuinely extend the SAME actual corresponding Reels creative: artwork/characters, colors, typography, motion, storytelling, pacing and audio personality, thoughtfully adapted to 16:9.
+- Inspect source masters and renderer/assets before production. Add substantive related scenes, dialogue, examples and practice; retain 3–6 minutes. Do not default to static lesson cards, stretch, loop or pad a Short. Missing matching assets/production ability is a blocker.
+- Shorts remain exact original masters. Studio primary for both formats; no Metricool. Existing public reading long 2MvTRiqIksU stays unchanged.
+
+## October 27 preparation — blocked, no uploads submitted
+- Live Instagram connector checked October 27 at 00:56:52 UTC (07:56:52 WIB): October 26 directions Reels DO exist, despite stale source state:
+  - Instagram ID 18106715510577963, https://www.instagram.com/reel/De9Tfx4MRVf/ — left/right café joke, 左转 zuǒ zhuǎn / 右转 yòu zhuǎn.
+  - Instagram ID 17920469457453394, https://www.instagram.com/reel/De9ajIdsMAC/ — rehearsal/answer POV, 请问，洗手间在哪里？ and 直走 / 往左走 / 往右走.
+- Slot mapping remains unverified: live date-only rows do not establish noon/evening timestamps. Do not infer mapping from response order.
+- Source automation-state.json latest completed originals are October 25 reading. No October 26 original paths/hashes/renderer references are recorded there. GitHub directory media/instagram/2026-10-26 returned 404. Live CDN renditions are not authenticated exact unchanged original masters; do not substitute them silently.
+- Studio direct exact-channel navigation blocked by Google unusual-traffic reCAPTCHA before Content could be inspected. No CAPTCHA attempt, upload, scheduling, visibility change or Metricool call occurred. Current public/private/draft/scheduled dedupe therefore incomplete.
+- Historical five-video recovery remains COMPLETE; never reupload those IDs. No new campaign media publisher ID or confirmed schedule produced in this run. Future continuation must obtain original masters + hashes + render assets, inspect actual style, and reconcile Studio/Buffer before any publisher write.
