@@ -1,0 +1,11 @@
+{
+  "catchup_key": "MJ_CINEMATIC_CATCHUP_2026_10_27",
+  "slug": "rumor_tiger",
+  "status": "scheduled_verified_in_buffer",
+  "post_id": "6ae0e33ca6b0ed79594f49b6",
+  "channel": "6ad9a4bc778b240e2f87c9e5",
+  "at": "2026-10-30T19:00:00+07:00",
+  "mode": "Automatic",
+  "sha256": "b2469be859a2c09e67ec97a7a93f41e2d7a6d45e83560c49cc5827177b02dc02",
+  "public": false
+}
