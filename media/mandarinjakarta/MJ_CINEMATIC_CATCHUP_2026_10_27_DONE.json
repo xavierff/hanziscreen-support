@@ -1,0 +1,34 @@
+{
+  "marker": "MJ_CINEMATIC_CATCHUP_2026_10_27_DONE",
+  "status": "complete_best_effort",
+  "channel": "6ad9a4bc778b240e2f87c9e5",
+  "preserved_existing": 5,
+  "queue_total": 7,
+  "scheduled": [
+    {
+      "slug": "rumor_tiger",
+      "post_id": "6ae0e33ca6b0ed79594f49b6",
+      "at": "2026-10-30T19:00:00+07:00",
+      "mode": "Automatic",
+      "sha256": "b2469be859a2c09e67ec97a7a93f41e2d7a6d45e83560c49cc5827177b02dc02"
+    },
+    {
+      "slug": "fox_authority",
+      "post_id": "6ae0e42740ed7abbc644a476",
+      "at": "2026-10-31T12:00:00+07:00",
+      "mode": "Automatic",
+      "sha256": "819b4944bb1bd0d2d0d84a31978db58cdd4d499925457544ef3358dc08cafbb8"
+    }
+  ],
+  "published_this_run": 0,
+  "next_two_existing_slots": [
+    "2026-10-28T12:00:00+07:00",
+    "2026-10-28T19:00:00+07:00"
+  ],
+  "first_unfilled": "2026-10-31T19:00:00+07:00",
+  "x_added": 0,
+  "x_unchanged": true,
+  "regular_recurrence": "unchanged; Oct29 15:00 WIB every three days",
+  "next_action": "Initial catch-up DONE. Future triggers ordinary maintenance only. Never recreate these two stories or pilot; preserve all manual reservations.",
+  "notes": "Queue/Sent and live Instagram reconciled. October27 owner-restored taxi/repeat posts already public. No failed/pending items visible. No other accounts modified."
+}
