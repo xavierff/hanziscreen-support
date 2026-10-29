@@ -1,0 +1,25 @@
+{
+  "status": "partial_in_progress",
+  "x_added": [
+    {
+      "id": "6ae2db07500a1b5ac56b8798",
+      "at": "2026-10-30T09:00:00+07:00"
+    },
+    {
+      "id": "6ae2db78a8c0a35f24eb0662",
+      "at": "2026-10-30T19:00:00+07:00"
+    }
+  ],
+  "ig": {
+    "new_added": 0,
+    "preserved": 4,
+    "first_gap": "2026-10-31T19:00:00+07:00",
+    "blocker": "Local Supertonic3 restored successfully from official package/model; M1 Indonesian question sample generated. Audition attempt returns audio content omitted because model does not support audio input. Mandatory real-sound question-prosody review cannot be completed; no new Reel or speculative placeholder submitted. Existing completed/scheduled files remain unchanged."
+  },
+  "reference": {
+    "url": "https://www.instagram.com/reel/DfABkf6hZB3/?rpxt=MWtiZ3N4YmtnZ3lpbw==",
+    "accessible_caption": true,
+    "play_attempt": "mute control clicked; play click failed; no genuine watched/listened claim"
+  },
+  "regular_schedule": "unchanged"
+}
