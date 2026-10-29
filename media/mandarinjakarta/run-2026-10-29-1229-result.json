@@ -1,0 +1,107 @@
+{
+  "date": "2026-10-29",
+  "result": "partial_success_attention_reserve_shortfall",
+  "catchup_marker_preserved": "MJ_CINEMATIC_CATCHUP_2026_10_27_DONE",
+  "instagram": {
+    "channel": "6ad9a4bc778b240e2f87c9e5",
+    "noon": {
+      "status": "public_verified_buffer_and_live_instagram",
+      "at": "2026-10-29T12:00:00+07:00",
+      "id": "6adeb93891ed3f4c3c62c0a2",
+      "url": "https://www.instagram.com/reel/DfENQhODsJ7/"
+    },
+    "preserved": [
+      {
+        "id": "6adeb9dd255ec35244ed098e",
+        "at": "2026-10-29T19:00:00+07:00"
+      },
+      {
+        "id": "6adeba422e1dc10e6cee827d",
+        "at": "2026-10-30T12:00:00+07:00"
+      },
+      {
+        "id": "6ae0e33ca6b0ed79594f49b6",
+        "at": "2026-10-30T19:00:00+07:00"
+      },
+      {
+        "id": "6ae0e42740ed7abbc644a476",
+        "at": "2026-10-31T12:00:00+07:00"
+      }
+    ],
+    "queue": 4,
+    "drafts": 0,
+    "sent": 21,
+    "new_added": 0,
+    "next_48h": "4/4 future targets provider-confirmed scheduled; existing Automatic reservations preserved",
+    "first_gap": "2026-10-31T19:00:00+07:00",
+    "new_production_blocker": "Official Supertonic package and M1 model restored; question_test.wav generated successfully. This session cannot receive audio input for mandatory real-sound audition: audio tool output explicitly omitted because model does not support audio input. No full sound-reviewed new Reel available; no new artwork/rendering binge or placeholders. Existing finished masters never changed.",
+    "backup": "No verified automatic backup supplies sound-reviewed new original media"
+  },
+  "x": {
+    "channel": "6ad8c4a6778b240e2f7b10d2",
+    "morning": {
+      "status": "published_buffer_sent_verified",
+      "id": "6adeac072e1dc10e6cebba10",
+      "at": "2026-10-29T09:00:00+07:00",
+      "url": "https://x.com/2112901672993472512/status/2115624854166569428"
+    },
+    "preserved": {
+      "id": "6adeac3953d354291fd1cd12",
+      "at": "2026-10-29T19:00:00+07:00"
+    },
+    "new_added": [
+      {
+        "id": "6ae2db07500a1b5ac56b8798",
+        "at": "2026-10-30T09:00:00+07:00"
+      },
+      {
+        "id": "6ae2db78a8c0a35f24eb0662",
+        "at": "2026-10-30T19:00:00+07:00"
+      },
+      {
+        "id": "6ae2dbe291e2bb070acc171b",
+        "at": "2026-10-31T09:00:00+07:00"
+      },
+      {
+        "id": "6ae2dc3f75c6eea312aa8c07",
+        "at": "2026-10-31T19:00:00+07:00"
+      }
+    ],
+    "mode": "Native Buffer X Schedule Post; actual queue readback verified; no Notify Me/reminder route used",
+    "queue": 5,
+    "drafts": 0,
+    "sent": 16,
+    "next_48h": "4/4 future targets scheduled",
+    "first_gap": "2026-11-01T09:00:00+07:00",
+    "gap_reason": "Shared approved source plan ends with Oct30rain, adapted nextdayOct31. No invented unsynced future topic.",
+    "texts": [
+      {
+        "at": "2026-10-30T09:00:00+07:00",
+        "text": "Your lunch alarm in Mandarin:\n我饿了。\nWǒ è le.\nI'm hungry.\n\n饿 è = hungry. The whole phrase is more useful than waiting for your stomach to translate itself."
+      },
+      {
+        "at": "2026-10-30T19:00:00+07:00",
+        "text": "吃饭吧！\nChīfàn ba!\nLet's eat!\n\n吃饭 chīfàn = eat / have a meal. 吧 ba makes this a suggestion.\nA tiny phrase for the friend who spends longer choosing lunch than eating it."
+      },
+      {
+        "at": "2026-10-31T09:00:00+07:00",
+        "text": "The forecast you can hear in Mandarin:\n下雨了。\nXià yǔ le.\nIt's raining.\n\n下雨 xià yǔ = rain. Here 了 le signals the new situation: the rain has started. Time to find that umbrella."
+      },
+      {
+        "at": "2026-10-31T19:00:00+07:00",
+        "text": "One useful reminder before you leave:\n记得带伞。\nJìde dài sǎn.\nRemember to bring an umbrella.\n\n带伞 dài sǎn = bring an umbrella.\nKnowing the forecast and remembering the umbrella are two different skills."
+      }
+    ],
+    "source_package": "libfile_bbe5d992097c8191a1702523b95738d7"
+  },
+  "status_checks": "No Failed/Pending items shown in either channel, Drafts0 each; all current queued/published items preserved; no ambiguous write retried.",
+  "reference": {
+    "url": "https://www.instagram.com/reel/DfABkf6hZB3/?rpxt=MWtiZ3N4YmtnZ3lpbw==",
+    "caption_accessible": true,
+    "play_attempt": "mute control succeeded but play interaction failed; no claim watched/listened"
+  },
+  "later_run": "Reconcile actual queue first. Four X IDs above block duplicates. Leave all existing IG posts unchanged. Continue ordinary refill only, no special catch-up, no schedule change.",
+  "schedule": "Oct29 15:00 and every-three-days recurrence untouched",
+  "other_accounts": "unchanged",
+  "browser": "disposable tabs closed"
+}
