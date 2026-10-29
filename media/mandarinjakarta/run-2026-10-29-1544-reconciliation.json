@@ -1,0 +1,81 @@
+{
+  "verified_date": "2026-10-29",
+  "window": "afternoon",
+  "status": "NEEDS_ATTENTION_reserve_shortfall_beyond48h",
+  "new_ig": 0,
+  "new_x": 0,
+  "reason_no_duplicate": "Four X additions made in earlier approved Oct29pass remain queued with original IDs; no retry or repost.",
+  "ig": {
+    "queue": 4,
+    "drafts": 0,
+    "sent": 21,
+    "public_noon": {
+      "id": "6adeb93891ed3f4c3c62c0a2",
+      "url": "https://www.instagram.com/reel/DfENQhODsJ7/"
+    },
+    "scheduled": [
+      {
+        "id": "6adeb9dd255ec35244ed098e",
+        "at": "2026-10-29T19:00:00+07:00"
+      },
+      {
+        "id": "6adeba422e1dc10e6cee827d",
+        "at": "2026-10-30T12:00:00+07:00"
+      },
+      {
+        "id": "6ae0e33ca6b0ed79594f49b6",
+        "at": "2026-10-30T19:00:00+07:00"
+      },
+      {
+        "id": "6ae0e42740ed7abbc644a476",
+        "at": "2026-10-31T12:00:00+07:00"
+      }
+    ],
+    "mode": "Previously verified automatic reservations preserved unchanged; no NotifyMe item shown",
+    "future48": "4/4",
+    "first_gap": "2026-10-31T19:00:00+07:00",
+    "blocker": "No new finished media with owner-mandated real-sound question-intonation audition. Prior successful Supertonic question synthesis recorded, but current model cannot receive audio input. No blind repetition of setup or generation. Completed two cinematic masters preserved."
+  },
+  "x": {
+    "queue": 5,
+    "drafts": 0,
+    "sent": 16,
+    "public_morning": {
+      "id": "6adeac072e1dc10e6cebba10",
+      "url": "https://x.com/2112901672993472512/status/2115624854166569428"
+    },
+    "scheduled": [
+      {
+        "id": "6adeac3953d354291fd1cd12",
+        "at": "2026-10-29T19:00:00+07:00"
+      },
+      {
+        "id": "6ae2db07500a1b5ac56b8798",
+        "at": "2026-10-30T09:00:00+07:00"
+      },
+      {
+        "id": "6ae2db78a8c0a35f24eb0662",
+        "at": "2026-10-30T19:00:00+07:00"
+      },
+      {
+        "id": "6ae2dbe291e2bb070acc171b",
+        "at": "2026-10-31T09:00:00+07:00"
+      },
+      {
+        "id": "6ae2dc3f75c6eea312aa8c07",
+        "at": "2026-10-31T19:00:00+07:00"
+      }
+    ],
+    "future48": "4/4",
+    "mode": "Native automatic scheduled X posts; no NotifyMe route",
+    "first_gap": "2026-11-01T09:00:00+07:00",
+    "blocker": "No next approved shared campaign after Oct30rain; calendar reread current SHA7176dab017909e75edc95b0c61d8e9d4d10194c0. Do not invent synchronization."
+  },
+  "failed_pending": "None visible in either checked queue",
+  "automatic_backup": "No verified backup supplies missing sound-reviewed original IG video or future shared X topic",
+  "catchup_marker": "MJ_CINEMATIC_CATCHUP_2026_10_27_DONE preserved; never repeat",
+  "schedule": "unchanged",
+  "other_accounts": "untouched",
+  "cleanup": "All disposable browser tabs closed",
+  "next_action": "Preserve all nine current queue IDs. Ordinary refill only when verified new finished media/source plan available."
+}
