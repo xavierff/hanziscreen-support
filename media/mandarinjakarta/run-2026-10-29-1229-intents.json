@@ -1,0 +1,34 @@
+{
+  "status": "intent_not_submitted",
+  "catchup": "already_DONE_no_repeat",
+  "ig": {
+    "existing": 4,
+    "preserved": true,
+    "next_gap": "2026-10-31T19:00:00+07:00",
+    "noon_public": "https://www.instagram.com/reel/DfENQhODsJ7/"
+  },
+  "x": {
+    "channel": "6ad8c4a6778b240e2f7b10d2",
+    "morning_already_public": "https://x.com/2112901672993472512/status/2115624854166569428",
+    "preserved_evening": "6adeac3953d354291fd1cd12",
+    "intents": [
+      {
+        "at": "2026-10-30T09:00:00+07:00",
+        "text": "Your lunch alarm in Mandarin:\n我饿了。\nWǒ è le.\nI'm hungry.\n\n饿 è = hungry. The whole phrase is more useful than waiting for your stomach to translate itself."
+      },
+      {
+        "at": "2026-10-30T19:00:00+07:00",
+        "text": "吃饭吧！\nChīfàn ba!\nLet's eat!\n\n吃饭 chīfàn = eat / have a meal. 吧 ba makes this a suggestion.\nA tiny phrase for the friend who spends longer choosing lunch than eating it."
+      },
+      {
+        "at": "2026-10-31T09:00:00+07:00",
+        "text": "The forecast you can hear in Mandarin:\n下雨了。\nXià yǔ le.\nIt's raining.\n\n下雨 xià yǔ = rain. Here 了 le signals the new situation: the rain has started. Time to find that umbrella."
+      },
+      {
+        "at": "2026-10-31T19:00:00+07:00",
+        "text": "One useful reminder before you leave:\n记得带伞。\nJìde dài sǎn.\nRemember to bring an umbrella.\n\n带伞 dài sǎn = bring an umbrella.\nKnowing the forecast and remembering the umbrella are two different skills."
+      }
+    ]
+  },
+  "sources": "Existing verified lesson_kit.json files Oct29 hungry and Oct30 rain from Library libfile_bbe5d992097c8191a1702523b95738d7; original Oct29noon hungry public per latest status; Oct30rain reserved only."
+}
