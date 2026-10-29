@@ -1,0 +1,36 @@
+{
+  "checked": "2026-10-29T15:49:00+07:00",
+  "previous_record": "run-2026-10-29-1544-reconciliation.json",
+  "result": "unchanged_no_new_submissions",
+  "ig": {
+    "queued": 4,
+    "drafts": 0,
+    "sent": 21,
+    "ids": [
+      "6adeb9dd255ec35244ed098e",
+      "6adeba422e1dc10e6cee827d",
+      "6ae0e33ca6b0ed79594f49b6",
+      "6ae0e42740ed7abbc644a476"
+    ],
+    "next48": "4/4 scheduled",
+    "first_gap": "2026-10-31T19:00:00+07:00"
+  },
+  "x": {
+    "queued": 5,
+    "drafts": 0,
+    "sent": 16,
+    "ids": [
+      "6adeac3953d354291fd1cd12",
+      "6ae2db07500a1b5ac56b8798",
+      "6ae2db78a8c0a35f24eb0662",
+      "6ae2dbe291e2bb070acc171b",
+      "6ae2dc3f75c6eea312aa8c07"
+    ],
+    "next48": "4/4 scheduled",
+    "first_gap": "2026-11-01T09:00:00+07:00"
+  },
+  "blockers": "Unchanged: new IG real-sound audition unavailable; no later approved X campaign. No verified backup resolves these. Do not repeat synthesis/setup or duplicate existing media.",
+  "catchup": "DONE preserved",
+  "cadence": "unchanged",
+  "cleanup": "disposable tabs closed"
+}
