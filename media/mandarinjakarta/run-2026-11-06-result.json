@@ -1,0 +1,114 @@
+{
+  "run": "2026-11-06T01:00:00+07:00",
+  "status": "NEEDS ATTENTION",
+  "scope": [
+    "mandarinjakarta Instagram",
+    "hanziscreen X"
+  ],
+  "live_publisher_access": "Buffer signed in; correct channels verified; previous authentication-blocked report superseded",
+  "initial": {
+    "instagram": {
+      "channel_id": "6ad9a4bc778b240e2f87c9e5",
+      "queue": 0,
+      "drafts": 0,
+      "sent": 26
+    },
+    "x": {
+      "channel_id": "6ad8c4a6778b240e2f7b10d2",
+      "queue": 0,
+      "drafts": 0,
+      "sent": 21
+    },
+    "failed_pending": "No failed/pending cards shown in inspected channel views"
+  },
+  "public_preserved": [
+    {
+      "account": "mandarinjakarta",
+      "id": "6aec6a7c2ba82882950a317f",
+      "published_wib": "2026-11-05 18:37",
+      "url": "https://www.instagram.com/reel/DfW8PlOCqLv/",
+      "title": "Kedai yang Selalu Dipuji",
+      "category": "psychology",
+      "action": "preserved; never repost"
+    }
+  ],
+  "new_scheduled": [
+    {
+      "account": "hanziscreen",
+      "channel_id": "6ad8c4a6778b240e2f7b10d2",
+      "id": "6aecca95911eb5ff15865ecb",
+      "scheduled_wib": "2026-11-06 09:00",
+      "status": "provider-confirmed scheduled",
+      "delivery": "native X automatic scheduling; no Notify Me",
+      "category": "psychology",
+      "source": "owner-approved shared boundary theme; original English adaptation",
+      "hook": "She typed Sure before checking her calendar",
+      "public_url": null
+    },
+    {
+      "account": "hanziscreen",
+      "channel_id": "6ad8c4a6778b240e2f7b10d2",
+      "id": "6aeccb1e6adb17f343c11f94",
+      "scheduled_wib": "2026-11-06 19:00",
+      "status": "provider-confirmed scheduled",
+      "delivery": "native X automatic scheduling; no Notify Me",
+      "category": "psychology",
+      "source": "owner-approved shared boundary theme; original English adaptation",
+      "hook": "The favor arrived. Her evening was already full.",
+      "public_url": null
+    }
+  ],
+  "coverage_next48h": {
+    "instagram": {
+      "confirmed": 0,
+      "planned": 4,
+      "unfilled_wib": [
+        "2026-11-06 12:00",
+        "2026-11-06 19:00",
+        "2026-11-07 12:00",
+        "2026-11-07 19:00"
+      ]
+    },
+    "x": {
+      "confirmed": 2,
+      "planned": 4,
+      "unfilled_wib": [
+        "2026-11-07 09:00",
+        "2026-11-07 19:00"
+      ]
+    }
+  },
+  "blockers": {
+    "instagram": "No additional finished, unposted Mandarin Jakarta master with complete narration/listening/caption/rights QA located in bounded current saved-media search. Current local videos belong to other brands and were not substituted. New polished Reel production and mandatory listening QA not completed in this pass; no placeholder scheduled.",
+    "x": "Shared campaign calendar has no verified Nov7 source plan; no invented synchronized topics. Nov6 uses existing owner-approved boundary theme.",
+    "backup": "No safe automatic media/topic backup verified"
+  },
+  "experiment": {
+    "window": "2026-11-05..2026-11-18",
+    "target_per_channel": {
+      "psychology": 11,
+      "fables": 11,
+      "cultural_insights": 6
+    },
+    "verified_mandarinjakarta": {
+      "psychology_public": 1,
+      "fables": 0,
+      "cultural_insights": 0
+    },
+    "verified_x": {
+      "psychology_scheduled": 2,
+      "fables": 0,
+      "cultural_insights": 0
+    },
+    "metrics": "Not yet 24h old; no 24h/72h/7d snapshot claimed. Buffer watch metrics internally inconsistent, excluded."
+  },
+  "invariants": {
+    "no_new_public_post": true,
+    "no_new_automation": true,
+    "schedule_changed": false,
+    "other_accounts_changed": false,
+    "catchup_repeated": false,
+    "existing_media_preserved": true
+  },
+  "handoff": "Next existing run must reconcile actual IDs before new work. Refill earliest IG Nov6 noon and X Nov7 09:00 if still future and empty. Never bulk-backfill elapsed slots. Preserve MJ_CINEMATIC_CATCHUP_2026_10_27_DONE; no reset."
+}
