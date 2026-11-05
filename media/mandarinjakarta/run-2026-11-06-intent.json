@@ -1,0 +1,35 @@
+{
+  "date": "2026-11-06",
+  "ig": {
+    "queue": 0,
+    "drafts": 0,
+    "sent": 26,
+    "nov5pilot": {
+      "id": "6aec6a7c2ba82882950a317f",
+      "url": "https://www.instagram.com/reel/DfW8PlOCqLv/",
+      "category": "psychology",
+      "title": "Kedai yang Selalu Dipuji",
+      "published": "2026-11-05T18:37:00+07:00"
+    }
+  },
+  "x": {
+    "queue": 0,
+    "drafts": 0,
+    "sent": 21,
+    "intents": [
+      {
+        "at": "2026-11-06T09:00:00+07:00",
+        "category": "psychology",
+        "text": "She typed “Sure” before checking her calendar. Then she tried one honest sentence:\n我今天不方便。\nWǒ jīntiān bù fāngbiàn.\nToday doesn’t work for me.\n\n不方便 bù fāngbiàn = inconvenient / not convenient. A boundary can be clear without becoming a speech."
+      },
+      {
+        "at": "2026-11-06T19:00:00+07:00",
+        "category": "psychology",
+        "text": "The favor arrived. Her evening was already full. This time, she paused:\n让我想一想。\nRàng wǒ xiǎng yi xiǎng.\nLet me think about it.\n\nYou don’t need an instant yes. 想一想 means think it over; the repeated verb makes the action sound brief."
+      }
+    ]
+  },
+  "source": "Owner-approved Nov5 boundary psychology theme; fresh X adaptation, no claim of matching unavailable Instagram master.",
+  "experiment": "Nov5-18 quotas11psychology11fables6insights per channel; preserve old posts",
+  "status": "intents_not_submitted"
+}
