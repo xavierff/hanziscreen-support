@@ -1,0 +1,81 @@
+{
+  "verified_wib": "2026-11-07 18:51 recovery pass",
+  "status": "NEEDS ATTENTION",
+  "action": "HOLD existing original draft; no publisher upload or media regeneration",
+  "restored": {
+    "source_id": "MJ_20261107_MANGKUK_YANG_DISEMBUNYIKAN",
+    "library_source": "libfile_fa93642f28a8819194323af154e4f091",
+    "source_version": 1,
+    "master_sha256": "5ebc1b2b31026132ba93b0265de1591b7669e08c5dfe256c24b902bfbd7955b6",
+    "hash_match": true,
+    "standalone_review_library": "libfile_d3841d6d214081919ae81bc59d6ffdaf",
+    "seconds": 59.7,
+    "rights": "Original fictional pottery narrative, AI-original art, official M1 OpenRAIL voice license included, locally composed sound bed; no app ad or historical quotation"
+  },
+  "qa": {
+    "bounded_attempt": "Restored actual question voice_00.wav emitted for audio review in this run; runtime returned audio content omitted because audio input unsupported.",
+    "result": "Subjective listening NOT established. No audible naturalness/question-prosody or exact caption synchronization approval.",
+    "repair": "None: no verified specific audio defect can be diagnosed; no blind resynthesis, retiming or rerender.",
+    "technical": "Restored H264/AAC 44100Hz59.7s master; prior full decode and visualQA retained, matching source hash"
+  },
+  "ig": {
+    "channel": "6ad9a4bc778b240e2f87c9e5",
+    "live_queue": 0,
+    "drafts": 0,
+    "sent": 26,
+    "latest_public": "https://www.instagram.com/mandarinjakarta/reel/DfW8PlOCqLv/",
+    "actual_grid_verified": true,
+    "nov7_noon": "MISSED",
+    "nov7_1900": "EMPTY/BLOCKED by listening QA",
+    "failed_pending": "No failed/pending cards shown in exact provider views",
+    "coverage48h": "0/4 future slots",
+    "first_uncovered": "Nov7 noon missed; nearest future Nov7 19:00 WIB"
+  },
+  "x": {
+    "channel": "6ad8c4a6778b240e2f7b10d2",
+    "live_queue": 5,
+    "drafts": 0,
+    "sent": 24,
+    "nov7_0900": {
+      "status": "PUBLIC; native page reverified",
+      "url": "https://x.com/hanziscreen/status/2118886191839719771",
+      "id": "6aee72b768a6da13b3b8ac8d"
+    },
+    "queued": [
+      {
+        "wib": "Nov7 19:00",
+        "id": "6aee72e6b5459a3e802c61e5"
+      },
+      {
+        "wib": "Nov8 09:00",
+        "id": "6aee730823bbfa2ec2a165e6"
+      },
+      {
+        "wib": "Nov8 19:00",
+        "id": "6aee7325006bb8d721f134c2"
+      },
+      {
+        "wib": "Nov9 09:00",
+        "id": "6aee940f9f899b452e970eee"
+      },
+      {
+        "wib": "Nov9 19:00",
+        "id": "6aee942a63e8aeed9ff1968e"
+      }
+    ],
+    "coverage48h": "4/4 confirmed auto scheduled future slots;5totalqueue",
+    "first_gap": "Nov10 09:00 WIB",
+    "mutation": "none"
+  },
+  "inventory": {
+    "cycle_need": 6,
+    "ig_qa_approved_unposted_verified": 0,
+    "rendered_pending_review": 1,
+    "approved_cycle_shortfall": 6,
+    "shortfall_if_review_passes": 5,
+    "source_search": "Fresh complete title inventory found review package and historical packages/pilots. No additional newer approved unposted master located; old published hashes excluded.",
+    "cap": "X UI Free5queued; ten/account owner cap remains maximum; no upgrades or settings changes. Zero approved IG inventory is active constraint, not queue capacity."
+  },
+  "minimum_owner_action": "Watch/listen to saved standalone Mangkuk_yang_Disembunyikan_REVIEW_ONLY.mp4; confirm natural Indonesian narration, questions and caption synchronization or identify specific defective phrases/times. Do not infer approval from this run. Then same original may be submitted once after fresh dedupe; further distinct originals needed for sustainable six-per-cycle throughput.",
+  "resume": "Preserve exact master/source/voice IDs. Continue incomplete recovery at next authorized execution after QA gate is resolved. Same recurring schedule stays enabled; no one-time pilot repeat, no queue edits, no other workflow dispatch, no paid services."
+}
