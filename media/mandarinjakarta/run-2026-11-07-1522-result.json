@@ -1,0 +1,88 @@
+{
+  "verified_wib": "2026-11-07 afternoon",
+  "status": "NEEDS ATTENTION",
+  "ig": {
+    "channel_id": "6ad9a4bc778b240e2f87c9e5",
+    "queue": 0,
+    "drafts": 0,
+    "sent": 26,
+    "latest_public_url": "https://www.instagram.com/mandarinjakarta/reel/DfW8PlOCqLv/",
+    "live_public_grid": "Still latest Nov5 tea-shop pilot; no Nov7 noon Reel visible",
+    "today": {
+      "noon": "MISSED/NOT PUBLISHED",
+      "evening": "Nov7 19:00 WIB EMPTY/BLOCKED"
+    },
+    "coverage48h": {
+      "confirmed": 0,
+      "planned": 4,
+      "slots": [
+        "Nov7 19:00",
+        "Nov8 12:00",
+        "Nov8 19:00",
+        "Nov9 12:00"
+      ]
+    }
+  },
+  "x": {
+    "channel_id": "6ad8c4a6778b240e2f7b10d2",
+    "sent": 24,
+    "public_nov7_0900": {
+      "id": "6aee72b768a6da13b3b8ac8d",
+      "url": "https://x.com/hanziscreen/status/2118886191839719771",
+      "native_page_verified": true
+    },
+    "queued": [
+      {
+        "id": "6aee72e6b5459a3e802c61e5",
+        "wib": "Nov7 19:00"
+      },
+      {
+        "id": "6aee730823bbfa2ec2a165e6",
+        "wib": "Nov8 09:00"
+      },
+      {
+        "id": "6aee7325006bb8d721f134c2",
+        "wib": "Nov8 19:00"
+      },
+      {
+        "id": "6aee940f9f899b452e970eee",
+        "wib": "Nov9 09:00"
+      },
+      {
+        "id": "6aee942a63e8aeed9ff1968e",
+        "wib": "Nov9 19:00"
+      }
+    ],
+    "coverage48h": "4/4 confirmed automatic future slots;5totalqueued",
+    "first_gap": "Nov10 09:00 WIB",
+    "mutation": "none; all IDs preserved"
+  },
+  "failed_pending": "No failed or pending card shown in exact queue/Sent views; none retried",
+  "production": {
+    "source_id": "MJ_20261107_MANGKUK_YANG_DISEMBUNYIKAN",
+    "title": "Mangkuk yang Disembunyikan",
+    "status": "RENDERED_REVIEW_ONLY_NOT_SCHEDULED_NOT_PUBLIC",
+    "category": "fables",
+    "library_file_id": "libfile_fa93642f28a8819194323af154e4f091",
+    "version": 1,
+    "duration_seconds": 59.688707482993195,
+    "format": "1080x1920 30fps H264/AAC",
+    "narration_sha256": "9a377247e742b1600aa5da6fd70d8debdf92004c36de5a6805b6347879fb0480",
+    "master_sha256": "5ebc1b2b31026132ba93b0265de1591b7669e08c5dfe256c24b902bfbd7955b6",
+    "progress": "Recovered saved narration without regeneration; created one original eight-panel story artwork, Ken Burns shots, central outlined timed phrase captions, original quiet harmonic sound bed, complete draft MP4. Full decode PASS; representative early/middle/end visual check PASS.",
+    "limitations": "Original storyboard cell resolution limits detail. Caption timing estimated within measured audio chunks, not listening verified. No actual full-motion parallax claimed.",
+    "rights": "Original fictional pottery fable, no historical quote; original AI illustration; official Supertonic3 M1 OpenRAIL-M license retained; local original music.",
+    "gate": "Natural Indonesian question intonation and exact spoken caption synchronization cannot be listened to by current runtime; no approval inferred from technical success.",
+    "required_action": "Listen/watch REVIEW_ONLY MP4, especially question lines, and provide specific audio/sync approval or corrections before any Buffer submission."
+  },
+  "resume": "Reuse exact saved master/narration/art. Do not regenerate. Resolve audible QA, then reconcile live provider and recover authorized missed Nov7 noon only if still same day, or next authorized genuinely empty future slot. A second distinct story is required to cover both slots. Never backdate/duplicate. Do not repeat Nov5/Oct27 pilots or MJ_CINEMATIC_CATCHUP_2026_10_27_DONE.",
+  "invariants": {
+    "automation_disabled": false,
+    "schedule_changed": false,
+    "other_accounts_changed": false,
+    "new_automation": false,
+    "purchases": false,
+    "publisher_submission_this_run": false
+  },
+  "experiment": "Prepared fable does not count as public/scheduled. Prior verified counts unchanged."
+}
