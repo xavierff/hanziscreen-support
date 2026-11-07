@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "slot": "2026-11-09 09:00",
+      "category": "psychology",
+      "text": "Fictional scene: Hana saw a puzzled face and nearly ended the conversation.\n\n我说错了。\nWǒ shuō cuò le.\nI said it wrong.\n\n说 shuō = say; 错 cuò = wrong. The mistake didn’t have to end the exchange. A repair sentence gave her another turn."
+    },
+    {
+      "slot": "2026-11-09 19:00",
+      "category": "fables",
+      "text": "Original mini-fable: Mouse argued all evening that a shadow was a monster. Moth moved the lantern. It was a coat.\n\n让我看看。\nRàng wǒ kànkan.\nLet me take a look.\n\n看看 kànkan = take a look. A closer look did what a louder argument couldn’t."
+    }
+  ],
+  "source": "Hanzi Threads approved Nov9 draft bank read earlier Nov7; fresh X-native adaptations; previous reservations preserved",
+  "status": "intent_only"
+}
