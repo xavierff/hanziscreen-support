@@ -1,0 +1,107 @@
+{
+  "run_wib": "2026-11-07 09:53 execution",
+  "status": "NEEDS ATTENTION",
+  "live": {
+    "ig": {
+      "channel": "6ad9a4bc778b240e2f87c9e5",
+      "queue": 0,
+      "drafts": 0,
+      "sent": 26,
+      "latest_public": "https://www.instagram.com/reel/DfW8PlOCqLv/",
+      "actual_public_grid_verified": true
+    },
+    "x": {
+      "channel": "6ad8c4a6778b240e2f7b10d2",
+      "queue_before": 3,
+      "queue_after": 5,
+      "sent": 24
+    },
+    "failed_pending": "No failed/pending cards in inspected exact-channel views; no ambiguous submission"
+  },
+  "new_public_verified": {
+    "platform": "X",
+    "id": "6aee72b768a6da13b3b8ac8d",
+    "target_wib": "2026-11-07 09:00",
+    "url": "https://x.com/hanziscreen/status/2118886191839719771",
+    "verification": "Buffer Sent and actual native X public page @hanziscreen, 9:00AM Nov7"
+  },
+  "preserved_queued": [
+    {
+      "id": "6aee72e6b5459a3e802c61e5",
+      "wib": "Nov7 19:00"
+    },
+    {
+      "id": "6aee730823bbfa2ec2a165e6",
+      "wib": "Nov8 09:00"
+    },
+    {
+      "id": "6aee7325006bb8d721f134c2",
+      "wib": "Nov8 19:00"
+    }
+  ],
+  "added": [
+    {
+      "slot": "2026-11-09 09:00",
+      "category": "psychology",
+      "text": "Fictional scene: Hana saw a puzzled face and nearly ended the conversation.\n\n我说错了。\nWǒ shuō cuò le.\nI said it wrong.\n\n说 shuō = say; 错 cuò = wrong. The mistake didn’t have to end the exchange. A repair sentence gave her another turn.",
+      "id": "6aee940f9f899b452e970eee",
+      "status": "PROVIDER_CONFIRMED_AUTOMATICALLY_SCHEDULED",
+      "delivery": "native X automatic, no Notify Me",
+      "source_id": "run-2026-11-07-0953-intent.json#posts/0"
+    },
+    {
+      "slot": "2026-11-09 19:00",
+      "category": "fables",
+      "text": "Original mini-fable: Mouse argued all evening that a shadow was a monster. Moth moved the lantern. It was a coat.\n\n让我看看。\nRàng wǒ kànkan.\nLet me take a look.\n\n看看 kànkan = take a look. A closer look did what a louder argument couldn’t.",
+      "id": "6aee942a63e8aeed9ff1968e",
+      "status": "PROVIDER_CONFIRMED_AUTOMATICALLY_SCHEDULED",
+      "delivery": "native X automatic, no Notify Me",
+      "source_id": "run-2026-11-07-0953-intent.json#posts/1"
+    }
+  ],
+  "ig_source_progress": {
+    "id": "MJ_20261107_MANGKUK_YANG_DISEMBUNYIKAN",
+    "title": "Mangkuk yang Disembunyikan",
+    "category": "fables",
+    "source_kind": "Original fictional Chinese-setting pottery fable; no historical attribution/quotation",
+    "status": "PREPARED_ONLY_NOT_RENDERED_OR_QUEUED",
+    "library_file_id": "libfile_fa93642f28a8819194323af154e4f091",
+    "package": "MandarinJakarta_20261107_Story_Voice_PENDING_QA.zip",
+    "completed": "Restored official Supertonic3 M1 workflow. Created full 8-scene Indonesian original story, 8 measured voice clips, 59.6887s narration, baseline measured chunk-timed SRT and scene/art brief. Non-silent44100Hz,0clipped samples,peak0.5880.",
+    "voice_sha256": "9a377247e742b1600aa5da6fd70d8debdf92004c36de5a6805b6347879fb0480",
+    "blocker": "Actual WAV probe sent for listening; runtime explicitly returned audio content omitted because audio input is unsupported. Cannot certify voice naturalness/question intonation. Illustration generation and final render held at this mandatory gate, not claimed finished.",
+    "smallest_owner_action": "Listen to narration.wav in saved package, especially question clauses0/5/7, and provide approval or specific corrections. Then finish original art/render/caption visual and full MP4 QA before scheduling. Two distinct masters still required for both Nov7 slots.",
+    "no_backup": true
+  },
+  "coverage48h": {
+    "ig": "0/4 future slots: Nov7 12/19 and Nov8 12/19 EMPTY",
+    "x": "4/4 future slots confirmed: Nov7 19, Nov8 09/19, Nov9 09; five totalqueued through Nov9 19"
+  },
+  "first_gap": {
+    "ig": "Nov7 12:00 WIB",
+    "x": "Nov10 09:00 WIB"
+  },
+  "experiment_verified_minimum": {
+    "ig": {
+      "psychology_public": 1,
+      "fables_prepared_only": 1
+    },
+    "x": {
+      "psychology_public": 2,
+      "fables_public": 1,
+      "culture_queued": 1,
+      "psychology_queued": 2,
+      "fables_queued": 2
+    },
+    "prepared_does_not_count": true,
+    "remaining_x": {
+      "psychology": 7,
+      "fables": 8,
+      "culture": 5
+    }
+  },
+  "resume": "Resume same source ID/package without rerendering narration. Preserve all providerIDs, old pilots and MJ_CINEMATIC_CATCHUP_2026_10_27_DONE. No offschedule pilot. Existing recurring task and all times unchanged; do not disable partially functioning refill.",
+  "no_paid_services": true,
+  "no_other_workflows": true,
+  "no_new_automation": true
+}
