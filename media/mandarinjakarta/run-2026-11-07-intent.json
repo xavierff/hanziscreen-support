@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-07",
+  "live_queue_before": {
+    "ig": 0,
+    "x": 0
+  },
+  "posts": [
+    {
+      "slot": "2026-11-07 09:00",
+      "category": "fables",
+      "text": "Original mini-fable: a fox knew every road on his map. Then the bridge moved.\n\n我不知道。\nWǒ bù zhīdào.\nI don’t know.\n\nHe feared those words would make him look foolish. Admitting uncertainty finally let him ask the way home."
+    },
+    {
+      "slot": "2026-11-07 19:00",
+      "category": "culture",
+      "text": "Hana read 您 and wondered if “you” had changed.\n\n您 nín — you, respectful\n你 nǐ — you\n\nSame listener, different form of address. 您 adds respect; one character alone can’t tell you whether a message is warm or distant. Context still matters."
+    },
+    {
+      "slot": "2026-11-08 09:00",
+      "category": "psychology",
+      "text": "Fictional scene: Hana rehearsed her speech. Then the microphone arrived early.\n\n我还没准备好。\nWǒ hái méi zhǔnbèi hǎo.\nI’m not ready yet.\n\n还没 hái méi = not yet. The sentence she needed wasn’t the perfect speech. It was the one that bought a moment."
+    },
+    {
+      "slot": "2026-11-08 19:00",
+      "category": "fables",
+      "text": "Original mini-fable: Rabbit declared the bridge impossible. Turtle tested one step.\n\n我来试试。\nWǒ lái shìshi.\nLet me try.\n\n试试 shìshi = give it a try. Her answer promised an attempt, not success. One careful test taught her more than his speech."
+    }
+  ],
+  "source": "Fresh English adaptations of saved Hanzi Threads Nov7/8 approved draft themes; no fresh IG synchronization claimed",
+  "status": "intent_only_not_scheduled"
+}
