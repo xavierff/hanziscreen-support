@@ -1,0 +1,64 @@
+{
+  "verified_wib": "2026-11-07 22:46 night recovery",
+  "status": "NEEDS ATTENTION",
+  "ig": {
+    "channel": "6ad9a4bc778b240e2f87c9e5",
+    "queue": 0,
+    "drafts": 0,
+    "sent": 26,
+    "actual_public_grid_latest": "https://www.instagram.com/mandarinjakarta/reel/DfW8PlOCqLv/",
+    "nov7_noon": "MISSED",
+    "nov7_1900": "MISSED",
+    "first_future_gap": "Nov8 12:00 WIB",
+    "coverage48h": "0/4",
+    "backup": "none verified",
+    "approved_unposted_inventory": 0,
+    "review_drafts": 1,
+    "three_day_need": 6,
+    "approved_shortfall": 6
+  },
+  "qa": {
+    "source_id": "MJ_20261107_MANGKUK_YANG_DISEMBUNYIKAN",
+    "master_library_id": "libfile_d3841d6d214081919ae81bc59d6ffdaf",
+    "source_library_id": "libfile_fa93642f28a8819194323af154e4f091",
+    "master_sha256": "5ebc1b2b31026132ba93b0265de1591b7669e08c5dfe256c24b902bfbd7955b6",
+    "status": "REVIEW_ONLY; no owner approval present in available instructions/state",
+    "capability_check": "No supported listening/audio-analysis tool discovered. Prior actual audio attempt explicitly unsupported; unchanged audio was not repeatedly emitted or regenerated.",
+    "action_needed": "Owner watches exact Library preview with sound and approves natural Indonesian questions and caption sync, or supplies precise defective timestamps.",
+    "no_publication_attempt": true
+  },
+  "x": {
+    "channel": "6ad8c4a6778b240e2f7b10d2",
+    "sent": 25,
+    "queue": 4,
+    "new_public_verified": {
+      "id": "6aee72e6b5459a3e802c61e5",
+      "wib": "Nov7 19:00",
+      "url": "https://x.com/hanziscreen/status/2119037371102503132",
+      "verification": "Buffer Sent plus actual X @hanziscreen page shows7PM Nov7"
+    },
+    "preserved_queue": [
+      [
+        "Nov8 09:00",
+        "6aee730823bbfa2ec2a165e6"
+      ],
+      [
+        "Nov8 19:00",
+        "6aee7325006bb8d721f134c2"
+      ],
+      [
+        "Nov9 09:00",
+        "6aee940f9f899b452e970eee"
+      ],
+      [
+        "Nov9 19:00",
+        "6aee942a63e8aeed9ff1968e"
+      ]
+    ],
+    "coverage48h": "4/4 provider-confirmed automatic reservations",
+    "first_gap": "Nov10 09:00 WIB"
+  },
+  "provider_errors": "No failed/pending card shown in exact channel queue/Sent views; no ambiguous attempt retried.",
+  "invariants": "Existing task not disabled; RRULE/times/accounts/queues unchanged. No new task,purchase,render or substitute.",
+  "resume": "Resolve this exact preview approval, then fresh live dedupe before a single authorized submission. Never infer approval from a trigger or generic urgency; maintain source/hash protection."
+}
