@@ -1,0 +1,150 @@
+{
+  "date_wib": "2026-11-07",
+  "status": "NEEDS ATTENTION",
+  "live_access": "Exact Buffer IG and X signed in; Free plan",
+  "before": {
+    "ig": {
+      "queue": 0,
+      "drafts": 0,
+      "sent": 26
+    },
+    "x": {
+      "queue": 0,
+      "drafts": 0,
+      "sent": 23
+    },
+    "failed_pending": "No failed/pending cards shown in inspected channel queue views; no ambiguous attempts resubmitted"
+  },
+  "new_scheduled": [
+    {
+      "slot": "2026-11-07 09:00",
+      "category": "fables",
+      "text": "Original mini-fable: a fox knew every road on his map. Then the bridge moved.\n\n我不知道。\nWǒ bù zhīdào.\nI don’t know.\n\nHe feared those words would make him look foolish. Admitting uncertainty finally let him ask the way home.",
+      "id": "6aee72b768a6da13b3b8ac8d",
+      "source_id": "run-2026-11-07-intent.json#posts/0",
+      "channel_id": "6ad8c4a6778b240e2f7b10d2",
+      "status": "PROVIDER_CONFIRMED_AUTOMATICALLY_SCHEDULED",
+      "public_url": null,
+      "verification": "Exact Buffer Queue card ID and Asia/Jakarta time readback; native X, no Notify Me"
+    },
+    {
+      "slot": "2026-11-07 19:00",
+      "category": "culture",
+      "text": "Hana read 您 and wondered if “you” had changed.\n\n您 nín — you, respectful\n你 nǐ — you\n\nSame listener, different form of address. 您 adds respect; one character alone can’t tell you whether a message is warm or distant. Context still matters.",
+      "id": "6aee72e6b5459a3e802c61e5",
+      "source_id": "run-2026-11-07-intent.json#posts/1",
+      "channel_id": "6ad8c4a6778b240e2f7b10d2",
+      "status": "PROVIDER_CONFIRMED_AUTOMATICALLY_SCHEDULED",
+      "public_url": null,
+      "verification": "Exact Buffer Queue card ID and Asia/Jakarta time readback; native X, no Notify Me"
+    },
+    {
+      "slot": "2026-11-08 09:00",
+      "category": "psychology",
+      "text": "Fictional scene: Hana rehearsed her speech. Then the microphone arrived early.\n\n我还没准备好。\nWǒ hái méi zhǔnbèi hǎo.\nI’m not ready yet.\n\n还没 hái méi = not yet. The sentence she needed wasn’t the perfect speech. It was the one that bought a moment.",
+      "id": "6aee730823bbfa2ec2a165e6",
+      "source_id": "run-2026-11-07-intent.json#posts/2",
+      "channel_id": "6ad8c4a6778b240e2f7b10d2",
+      "status": "PROVIDER_CONFIRMED_AUTOMATICALLY_SCHEDULED",
+      "public_url": null,
+      "verification": "Exact Buffer Queue card ID and Asia/Jakarta time readback; native X, no Notify Me"
+    },
+    {
+      "slot": "2026-11-08 19:00",
+      "category": "fables",
+      "text": "Original mini-fable: Rabbit declared the bridge impossible. Turtle tested one step.\n\n我来试试。\nWǒ lái shìshi.\nLet me try.\n\n试试 shìshi = give it a try. Her answer promised an attempt, not success. One careful test taught her more than his speech.",
+      "id": "6aee7325006bb8d721f134c2",
+      "source_id": "run-2026-11-07-intent.json#posts/3",
+      "channel_id": "6ad8c4a6778b240e2f7b10d2",
+      "status": "PROVIDER_CONFIRMED_AUTOMATICALLY_SCHEDULED",
+      "public_url": null,
+      "verification": "Exact Buffer Queue card ID and Asia/Jakarta time readback; native X, no Notify Me"
+    }
+  ],
+  "verified_public_preserved": [
+    {
+      "platform": "IG",
+      "id": "6aec6a7c2ba82882950a317f",
+      "url": "https://www.instagram.com/reel/DfW8PlOCqLv/",
+      "title": "Kedai yang Selalu Dipuji",
+      "category": "psychology",
+      "verification": "Buffer Sent26 and actual Instagram Reel/account grid; latest public grid entry remains this Nov5 original"
+    },
+    {
+      "platform": "X",
+      "id": "6aecca95911eb5ff15865ecb",
+      "url": "https://x.com/2112901672993472512/status/2118523790455902568",
+      "status": "Buffer Sent confirms published Nov6 morning"
+    },
+    {
+      "platform": "X",
+      "id": "6aeccb1e6adb17f343c11f94",
+      "url": "https://x.com/2112901672993472512/status/2118675334597857544",
+      "status": "Buffer Sent confirms published Nov6 evening"
+    }
+  ],
+  "coverage_48h": {
+    "ig": {
+      "confirmed": 0,
+      "planned": 4,
+      "empty": [
+        "Nov7 12:00 WIB",
+        "Nov7 19:00 WIB",
+        "Nov8 12:00 WIB",
+        "Nov8 19:00 WIB"
+      ]
+    },
+    "x": {
+      "confirmed": 4,
+      "planned": 4,
+      "first_future_gap": "Nov9 09:00 WIB"
+    }
+  },
+  "blocker": {
+    "platform": "Instagram @mandarinjakarta",
+    "earliest": "2026-11-07 12:00 WIB",
+    "reason": "No finished unposted cinematic Indonesian master with completed listening/voice/caption/rights QA located. Fresh Nov4+ title search empty; simpler title search resolves historical published masters only. New original production was not completed; mandatory subjective audio QA remains unresolved. No media uploaded.",
+    "smallest_owner_action": "Make one new original finished Mandarin Jakarta MP4 plus source/provenance and Indonesian voice/intonation QA available in saved handoff; two distinct masters are needed to cover both Nov7 slots.",
+    "automatic_backup": "none verified"
+  },
+  "source_note": "Shared GitHub calendar/IG source state read fresh; no new IG campaign master is recorded. X reuses owner-approved respectful-communication Hanzi theme and verified Nov7/8 Threads draft bank facts in fresh X-native wording. No claim those planned Threads posts or future IG sources are public.",
+  "experiment": {
+    "window": "Nov5-18",
+    "target_each": {
+      "psychology": 11,
+      "fables": 11,
+      "culture": 6
+    },
+    "verified_minimum_ig": {
+      "psychology_public": 1,
+      "fables": 0,
+      "culture": 0
+    },
+    "verified_minimum_x": {
+      "psychology_public": 2,
+      "psychology_scheduled": 1,
+      "fables_scheduled": 2,
+      "culture_scheduled": 1
+    },
+    "remaining_x": {
+      "psychology": 8,
+      "fables": 9,
+      "culture": 5
+    },
+    "remaining_ig": {
+      "psychology": 10,
+      "fables": 11,
+      "culture": 6
+    },
+    "metrics": "No new analytics browsing; no invented retention or 24h snapshots."
+  },
+  "preserved": {
+    "regular_schedule": true,
+    "automation_enabled": true,
+    "all_existing_media": true,
+    "other_accounts": true,
+    "catchup_marker": "MJ_CINEMATIC_CATCHUP_2026_10_27_DONE unchanged; catchup not repeated",
+    "no_paid_service": true
+  },
+  "handoff": "Deduplicate these actual provider IDs before the next run. No Nov5/Nov6 pilot repeat, no elapsed historical backfill, no full batch or other workflow dispatch."
+}
