@@ -1,0 +1,96 @@
+{
+  "verified_wib": "2026-11-08 09:17 WIB",
+  "status": "NEEDS ATTENTION",
+  "ig": {
+    "handle": "mandarinjakarta",
+    "channel": "6ad9a4bc778b240e2f87c9e5",
+    "queue": 0,
+    "drafts": 0,
+    "sent": 26,
+    "public_grid_latest": "https://www.instagram.com/mandarinjakarta/reel/DfW8PlOCqLv/",
+    "latest_sent_id": "6aec6a7c2ba82882950a317f",
+    "today": [
+      {
+        "time": "2026-11-08T12:00:00+07:00",
+        "status": "EMPTY/BLOCKED",
+        "blocker": "Exact prepared master remains pending natural Indonesian interrogative prosody and caption/audio synchronization approval"
+      },
+      {
+        "time": "2026-11-08T19:00:00+07:00",
+        "status": "EMPTY/BLOCKED",
+        "blocker": "No second distinct fully approved original verified"
+      }
+    ],
+    "next48h": {
+      "confirmed": 0,
+      "planned": 4,
+      "slots": [
+        "Nov8 12:00",
+        "Nov8 19:00",
+        "Nov9 12:00",
+        "Nov9 19:00"
+      ]
+    },
+    "safe_automatic_backup": false,
+    "inventory": {
+      "approved_unposted": 0,
+      "review_only": 1,
+      "needed_each_three_day_cycle": 6,
+      "approved_shortfall": 6
+    },
+    "posting_time_observation": "Queue UI suggested generated empty-slot times differ from owner targets (Nov8 19:02 and22:20); no settings changed. Any future approved upload must use exact custom noon/19:00 WIB reservation."
+  },
+  "qa": {
+    "source_id": "MJ_20261107_MANGKUK_YANG_DISEMBUNYIKAN",
+    "master_library_id": "libfile_d3841d6d214081919ae81bc59d6ffdaf",
+    "master_file_id": "file_00000000759081f79097f53470be1f35",
+    "source_library_id": "libfile_fa93642f28a8819194323af154e4f091",
+    "source_file_id": "file_0000000084f881fda964ad6cc126bd13",
+    "source_version": "1",
+    "source_size": 23613981,
+    "source_modified": "2026-11-07T08:30:15.311892Z",
+    "master_sha256": "5ebc1b2b31026132ba93b0265de1591b7669e08c5dfe256c24b902bfbd7955b6",
+    "technical_visual_pass": "Carried forward from original prepared package, not re-certified this run",
+    "subjective_listening": "UNVERIFIED; no supported audio listening/analysis tool available, prior actual audio input unsupported. No repeated failed emission, blind repair, clone or regeneration.",
+    "owner_approval_received": false,
+    "action_needed": "Owner watches exact saved preview with sound and explicitly approves this exact video as-is (including question prosody and caption synchronization), or supplies correction timestamps.",
+    "publishing_attempts": 0
+  },
+  "x": {
+    "handle": "hanziscreen",
+    "channel": "6ad8c4a6778b240e2f7b10d2",
+    "queue": 3,
+    "sent": 26,
+    "drafts": 0,
+    "free_slots_remaining_displayed": 7,
+    "new_public": {
+      "id": "6aee730823bbfa2ec2a165e6",
+      "time": "2026-11-08T09:00:00+07:00",
+      "url": "https://x.com/hanziscreen/status/2119248751864770968",
+      "verification": "Buffer Sent and actual native public page confirms @hanziscreen 9:00AM Nov8"
+    },
+    "protected_automatic_queue": [
+      {
+        "id": "6aee7325006bb8d721f134c2",
+        "wib": "Nov8 19:00"
+      },
+      {
+        "id": "6aee940f9f899b452e970eee",
+        "wib": "Nov9 09:00"
+      },
+      {
+        "id": "6aee942a63e8aeed9ff1968e",
+        "wib": "Nov9 19:00"
+      }
+    ],
+    "next48h": {
+      "confirmed": 3,
+      "planned": 4
+    },
+    "first_gap": "2026-11-10 09:00 WIB",
+    "mutations": 0
+  },
+  "provider_reconciliation": "Exact signed-in account Queue and Sent views inspected, no failed/pending card or alert shown in inspected surfaces. No ambiguous item retried. Library source metadata unchanged from v1. No new source uploaded.",
+  "invariants": "Preserved all existing queued/public/pending material. No new task, purchase, account or scheduling settings change. Existing task enabled-state/RRULE not modified.",
+  "resume": "Keep exact master on approval hold. At next existing execution reconcile remaining state; after explicit approval and rights/QA validity, dedupe and reserve first available normal slot once with exact WIB time and verify returned ID. X remains untouched per latest direction."
+}
