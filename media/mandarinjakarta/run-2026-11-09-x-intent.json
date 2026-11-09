@@ -1,0 +1,24 @@
+{
+  "provider": "Buffer",
+  "channel": "6ad8c4a6778b240e2f7b10d2",
+  "handle": "@hanziscreen",
+  "source": "https://www.instagram.com/reels/DfgjbxLlBap/",
+  "source_sha256": "69d2955c502f15ae0076fe3b213543087c9169b993529fc50d91adb8c4d8d8f4",
+  "state": "intent only; reconcile Buffer before retry",
+  "posts": [
+    {
+      "wib": "2026-11-10T09:00:00+07:00",
+      "category": "psychology",
+      "body": "A friend says sorry for taking days to reply. If you’re fine with it, try:\n\n没关系。Méi guānxi. It’s okay.\n\nThat short reply can take the pressure off and let you get back to the conversation.",
+      "sha256": "f414406b3994dda5ae945355490278a7c02dc51378dddc4a5e9a7d032e21ac3a",
+      "conservative_x_length": 194
+    },
+    {
+      "wib": "2026-11-10T19:00:00+07:00",
+      "category": "fable/reversal",
+      "body": "Mini-fable: Rabbit knocked over a cup. He braced for a lecture. Turtle handed him a cloth.\n\n没关系。我们一起擦吧。\nMéi guānxi. Wǒmen yìqǐ cā ba.\nIt’s okay. Let’s wipe it up together.\n\nListen for 吧 (ba): here it turns the cleanup into a suggestion.",
+      "sha256": "50dfddb1c1432858dba1e73ffa9ad6159e5fd72943bd5d33d15470b1c6420c43",
+      "conservative_x_length": 250
+    }
+  ]
+}
