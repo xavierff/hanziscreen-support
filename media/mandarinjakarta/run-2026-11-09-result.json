@@ -1,0 +1,97 @@
+{
+  "verified_wib": "2026-11-09T15:46:31+07:00",
+  "provider": "Buffer Free",
+  "ig": {
+    "handle": "@mandarinjakarta",
+    "channel": "6ad9a4bc778b240e2f87c9e5",
+    "queue": 0,
+    "sent": 26,
+    "drafts": 0,
+    "failed_or_pending_cards_visible": 0,
+    "latest_reel": "https://www.instagram.com/mandarinjakarta/reel/DfW8PlOCqLv/",
+    "nov9_noon": "missed",
+    "earliest_gap": "2026-11-09T19:00:00+07:00",
+    "next48h": {
+      "confirmed": 0,
+      "target": 4,
+      "uncovered": [
+        "Nov9 19:00",
+        "Nov10 12:00",
+        "Nov10 19:00",
+        "Nov11 12:00"
+      ]
+    },
+    "qa": {
+      "source_id": "MJ_20261107_MANGKUK_YANG_DISEMBUNYIKAN",
+      "master_library_id": "libfile_d3841d6d214081919ae81bc59d6ffdaf",
+      "master_file_id": "file_00000000759081f79097f53470be1f35",
+      "source_library_id": "libfile_fa93642f28a8819194323af154e4f091",
+      "source_file_id": "file_0000000084f881fda964ad6cc126bd13",
+      "source_version": "1",
+      "source_size": 23613981,
+      "source_modified": "2026-11-07T08:30:15.311892Z",
+      "master_sha256": "5ebc1b2b31026132ba93b0265de1591b7669e08c5dfe256c24b902bfbd7955b6",
+      "technical_visual_pass": "Carried forward from original prepared package, not re-certified this run",
+      "subjective_listening": "UNVERIFIED; no supported audio listening/analysis tool available, prior actual audio input unsupported. No repeated failed emission, blind repair, clone or regeneration.",
+      "owner_approval_received": false,
+      "action_needed": "Owner watches exact saved preview with sound and explicitly approves this exact video as-is (including question prosody and caption synchronization), or supplies correction timestamps.",
+      "publishing_attempts": 0,
+      "review_status": "Still held for owner audio/caption QA, original metadata matched, no repeat audio test or render",
+      "preview": "https://chatgpt.com/library?file_id=libfile_d3841d6d214081919ae81bc59d6ffdaf&account_id=personal"
+    },
+    "approved_unposted_verified": 0,
+    "three_day_inventory_deficit": 6,
+    "backup": null
+  },
+  "x": {
+    "handle": "@hanziscreen",
+    "channel": "6ad8c4a6778b240e2f7b10d2",
+    "sent": 28,
+    "drafts_before": 0,
+    "failed_or_pending_cards_visible": 0,
+    "public": {
+      "wib": "Nov9 09:00",
+      "id": "6aee940f9f899b452e970eee",
+      "url": "https://x.com/hanziscreen/status/2119611075729535075"
+    },
+    "preserved": {
+      "wib": "Nov9 19:00",
+      "id": "6aee942a63e8aeed9ff1968e",
+      "status": "auto-scheduled"
+    },
+    "id_reconciliation": "6aee7325006bb8d721f134c2 was Nov8 19:00 and is Sent",
+    "new_posts": [
+      {
+        "wib": "2026-11-10T09:00:00+07:00",
+        "category": "psychology",
+        "body": "A friend says sorry for taking days to reply. If you’re fine with it, try:\n\n没关系。Méi guānxi. It’s okay.\n\nThat short reply can take the pressure off and let you get back to the conversation.",
+        "sha256": "f414406b3994dda5ae945355490278a7c02dc51378dddc4a5e9a7d032e21ac3a",
+        "conservative_x_length": 194,
+        "source": "https://www.instagram.com/reels/DfgjbxLlBap/",
+        "source_sha256": "69d2955c502f15ae0076fe3b213543087c9169b993529fc50d91adb8c4d8d8f4",
+        "status": "auto-scheduled",
+        "id": "6af18835095d8420010e6cfd",
+        "submission_count": 1
+      },
+      {
+        "wib": "2026-11-10T19:00:00+07:00",
+        "category": "fable/reversal",
+        "body": "Mini-fable: Rabbit knocked over a cup. He braced for a lecture. Turtle handed him a cloth.\n\n没关系。我们一起擦吧。\nMéi guānxi. Wǒmen yìqǐ cā ba.\nIt’s okay. Let’s wipe it up together.\n\nListen for 吧 (ba): here it turns the cleanup into a suggestion.",
+        "sha256": "50dfddb1c1432858dba1e73ffa9ad6159e5fd72943bd5d33d15470b1c6420c43",
+        "conservative_x_length": 250,
+        "source": "https://www.instagram.com/reels/DfgjbxLlBap/",
+        "source_sha256": "69d2955c502f15ae0076fe3b213543087c9169b993529fc50d91adb8c4d8d8f4",
+        "status": "auto-scheduled",
+        "id": "6af18851e28149427c07d9e0",
+        "submission_count": 1
+      }
+    ],
+    "next48h": {
+      "confirmed": 3,
+      "target": 4
+    },
+    "earliest_gap": "2026-11-11T09:00:00+07:00",
+    "gap_reason": "Next distinct shared topic not verified in available source records"
+  },
+  "monday_week": "Nov3–9 through check: 1 IG Reel and 7 X Sent in Buffer. IG last publication Nov5. X visible delivery Nov6 onward. Nov9 evening reservation counted as future."
+}
