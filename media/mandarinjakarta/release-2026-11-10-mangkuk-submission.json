@@ -1,0 +1,21 @@
+{
+  "state": "PROCESSING at first Buffer readback. Never resubmit while pending or public.",
+  "submitted_wib": "2026-11-10 20:57",
+  "owner_approval_wib": "2026-11-10 20:05",
+  "provider": "Buffer",
+  "handle": "@mandarinjakarta",
+  "channel": "6ad9a4bc778b240e2f87c9e5",
+  "post_id": "6af322c38cef4fd81d58e024",
+  "source_id": "MJ_20261107_MANGKUK_YANG_DISEMBUNYIKAN",
+  "file_id": "file_00000000759081f79097f53470be1f35",
+  "library_id": "libfile_d3841d6d214081919ae81bc59d6ffdaf",
+  "sha256": "5ebc1b2b31026132ba93b0265de1591b7669e08c5dfe256c24b902bfbd7955b6",
+  "submitted_count": 1,
+  "checks": "Exact SHA and H.264/AAC 1080x1920 30 fps 59.7 s, fresh full decode passed, original rights records carried forward. Subjective approval by owner, no independent listening.",
+  "upcoming_ig": {
+    "confirmed": 0,
+    "target": 4,
+    "first_gap": "Nov 11 12:00 WIB",
+    "approved_distinct_remaining": 0
+  }
+}
