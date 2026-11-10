@@ -1,0 +1,37 @@
+{
+  "provider": "Buffer",
+  "channel": "6ad8c4a6778b240e2f7b10d2",
+  "status": "intent only, reconcile before any repeat submission",
+  "posts": [
+    {
+      "utc": "2026-11-11T02:00:00.000Z",
+      "wib": "2026-11-11T09:00:00+07:00",
+      "label": "Nov 11, 9:00 AM",
+      "category": "psychology",
+      "source": "Nov 10 Hanzi Threads lesson record (text intent)",
+      "body": "Someone asks for a decision while you’re still reading the message. Try buying a moment:\n\n我需要一点时间。\nWǒ xūyào yìdiǎn shíjiān.\nI need a little time.\n\n一点 (yìdiǎn) means “a little” here.",
+      "sha256": "0cba3b66e5c83e93b6d29dd1e12503262ce9cdc8a68b21d165e2f7ce94672cce",
+      "weighted_upper_bound": 194
+    },
+    {
+      "utc": "2026-11-11T12:00:00.000Z",
+      "wib": "2026-11-11T19:00:00+07:00",
+      "label": "Nov 11, 7:00 PM",
+      "category": "fable/reversal",
+      "source": "The last dumpling (prepared Hanzi story theme, video review only)",
+      "body": "Mini-fable: Two sparrows guarded the last dumpling. A third brought a knife. Suddenly there were three bites.\n\n我们分着吃吧。\nWǒmen fēnzhe chī ba.\nLet’s share it.\n\n分着吃 (fēnzhe chī) means to divide something up and eat it together.",
+      "sha256": "535756d0c0a4a7670716547193f8aa2c870e4e799fbaad3d1744ef4007fc085d",
+      "weighted_upper_bound": 234
+    },
+    {
+      "utc": "2026-11-12T02:00:00.000Z",
+      "wib": "2026-11-12T09:00:00+07:00",
+      "label": "Nov 12, 9:00 AM",
+      "category": "culture",
+      "source": "The last dumpling (related original dining-language follow-up)",
+      "body": "At a shared meal, a host might say:\n\n再吃一点吧。\nZài chī yìdiǎn ba.\nHave a little more.\n\n再 (zài) adds the idea of another helping. If you’re full, try 我吃饱了 (Wǒ chī bǎo le): “I’m full.”",
+      "sha256": "6928236b0cf98b2189b3100f88da0de43998e7d7206a9cb428a0c86427e273bc",
+      "weighted_upper_bound": 194
+    }
+  ]
+}
