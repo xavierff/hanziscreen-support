@@ -1,0 +1,117 @@
+{
+  "verified_utc": "2026-11-10 08:58:02 UTC",
+  "timezone": "Asia/Jakarta",
+  "provider": "Buffer Free",
+  "ig": {
+    "handle": "@mandarinjakarta",
+    "channel": "6ad9a4bc778b240e2f87c9e5",
+    "queue": 0,
+    "drafts": 0,
+    "sent": 26,
+    "failed_or_pending_cards_visible": 0,
+    "latest_public_grid_reel": "https://www.instagram.com/mandarinjakarta/reel/DfW8PlOCqLv/",
+    "elapsed_gap": "2026-11-10 12:00 WIB",
+    "next48h": {
+      "confirmed": 0,
+      "target": 4,
+      "uncovered": [
+        "Nov10 19:00",
+        "Nov11 12:00",
+        "Nov11 19:00",
+        "Nov12 12:00"
+      ]
+    },
+    "approved_unposted_verified": 0,
+    "three_day_inventory_deficit": 6,
+    "backup": null,
+    "qa": {
+      "source_id": "MJ_20261107_MANGKUK_YANG_DISEMBUNYIKAN",
+      "master_library_id": "libfile_d3841d6d214081919ae81bc59d6ffdaf",
+      "master_file_id": "file_00000000759081f79097f53470be1f35",
+      "source_library_id": "libfile_fa93642f28a8819194323af154e4f091",
+      "source_file_id": "file_0000000084f881fda964ad6cc126bd13",
+      "source_version": "1",
+      "source_size": 23613981,
+      "source_modified": "2026-11-07T08:30:15.311892Z",
+      "master_sha256": "5ebc1b2b31026132ba93b0265de1591b7669e08c5dfe256c24b902bfbd7955b6",
+      "technical_visual_pass": "Carried forward from original prepared package, not re-certified this run",
+      "subjective_listening": "UNVERIFIED; no supported audio listening/analysis tool available, prior actual audio input unsupported. No repeated failed emission, blind repair, clone or regeneration.",
+      "owner_approval_received": false,
+      "action_needed": "Owner watches exact saved preview with sound and explicitly approves this exact video as-is (including question prosody and caption synchronization), or supplies correction timestamps.",
+      "publishing_attempts": 0,
+      "review_status": "Exact MP4 and archive file IDs/metadata matched, still pending original owner audio/caption review requested previously. No render or upload. Resume with fresh duplicate check upon QA clearance.",
+      "preview": "https://chatgpt.com/library?file_id=libfile_d3841d6d214081919ae81bc59d6ffdaf&account_id=personal"
+    }
+  },
+  "x": {
+    "handle": "@hanziscreen",
+    "channel": "6ad8c4a6778b240e2f7b10d2",
+    "sent": 30,
+    "drafts": 0,
+    "failed_or_pending_cards_visible": 0,
+    "public": {
+      "wib": "2026-11-10 09:00",
+      "id": "6af18835095d8420010e6cfd",
+      "url": "https://x.com/hanziscreen/status/2119973540203987041",
+      "sha256": "f414406b3994dda5ae945355490278a7c02dc51378dddc4a5e9a7d032e21ac3a"
+    },
+    "preserved": {
+      "wib": "2026-11-10 19:00",
+      "id": "6af18851e28149427c07d9e0",
+      "status": "auto-scheduled",
+      "sha256": "50dfddb1c1432858dba1e73ffa9ad6159e5fd72943bd5d33d15470b1c6420c43"
+    },
+    "new_posts": [
+      {
+        "utc": "2026-11-11T02:00:00.000Z",
+        "wib": "2026-11-11T09:00:00+07:00",
+        "label": "Nov 11, 9:00 AM",
+        "category": "psychology",
+        "source": "Nov 10 Hanzi Threads lesson record (text intent)",
+        "body": "Someone asks for a decision while you’re still reading the message. Try buying a moment:\n\n我需要一点时间。\nWǒ xūyào yìdiǎn shíjiān.\nI need a little time.\n\n一点 (yìdiǎn) means “a little” here.",
+        "sha256": "0cba3b66e5c83e93b6d29dd1e12503262ce9cdc8a68b21d165e2f7ce94672cce",
+        "weighted_upper_bound": 194,
+        "id": "6af2dc459b97a0f71f903c1b",
+        "status": "auto-scheduled",
+        "submissions": 1,
+        "source_ref": "libfile_1420c27997cc8191ab2f4312e60470b6"
+      },
+      {
+        "utc": "2026-11-11T12:00:00.000Z",
+        "wib": "2026-11-11T19:00:00+07:00",
+        "label": "Nov 11, 7:00 PM",
+        "category": "fable/reversal",
+        "source": "The last dumpling (prepared Hanzi story theme, video review only)",
+        "body": "Mini-fable: Two sparrows guarded the last dumpling. A third brought a knife. Suddenly there were three bites.\n\n我们分着吃吧。\nWǒmen fēnzhe chī ba.\nLet’s share it.\n\n分着吃 (fēnzhe chī) means to divide something up and eat it together.",
+        "sha256": "535756d0c0a4a7670716547193f8aa2c870e4e799fbaad3d1744ef4007fc085d",
+        "weighted_upper_bound": 234,
+        "id": "6af2dc5a9b97a0f71f904276",
+        "status": "auto-scheduled",
+        "submissions": 1,
+        "source_ref": "libfile_918774e78f908191b222768bb57808a0",
+        "source_theme_archive_master_sha256": "2baaff95cb4245e606c629d64484215b58d0b155d6b364da00fba74d457bf4e1"
+      },
+      {
+        "utc": "2026-11-12T02:00:00.000Z",
+        "wib": "2026-11-12T09:00:00+07:00",
+        "label": "Nov 12, 9:00 AM",
+        "category": "culture",
+        "source": "The last dumpling (related original dining-language follow-up)",
+        "body": "At a shared meal, a host might say:\n\n再吃一点吧。\nZài chī yìdiǎn ba.\nHave a little more.\n\n再 (zài) adds the idea of another helping. If you’re full, try 我吃饱了 (Wǒ chī bǎo le): “I’m full.”",
+        "sha256": "6928236b0cf98b2189b3100f88da0de43998e7d7206a9cb428a0c86427e273bc",
+        "weighted_upper_bound": 194,
+        "id": "6af2dc74d92c0eea13fbb4b9",
+        "status": "auto-scheduled",
+        "submissions": 1,
+        "source_ref": "libfile_918774e78f908191b222768bb57808a0",
+        "source_theme_archive_master_sha256": "2baaff95cb4245e606c629d64484215b58d0b155d6b364da00fba74d457bf4e1"
+      }
+    ],
+    "next48h": {
+      "confirmed": 4,
+      "target": 4
+    },
+    "first_gap": "2026-11-12 19:00 WIB",
+    "free_slots_remaining_displayed": 6
+  }
+}
