@@ -1,0 +1,14 @@
+{
+  "status": "INTENT ONLY; reconcile before any further submission",
+  "provider": "Buffer",
+  "handle": "@mandarinjakarta",
+  "channel": "6ad9a4bc778b240e2f87c9e5",
+  "action": "one immediate overdue Reel",
+  "owner_approval_wib": "2026-11-10 20:05",
+  "source_id": "MJ_20261107_MANGKUK_YANG_DISEMBUNYIKAN",
+  "file_id": "file_00000000759081f79097f53470be1f35",
+  "library_file_id": "libfile_d3841d6d214081919ae81bc59d6ffdaf",
+  "sha256": "5ebc1b2b31026132ba93b0265de1591b7669e08c5dfe256c24b902bfbd7955b6",
+  "duration": 59.7,
+  "preflight": "Queue 0, Drafts 0, Sent 26 latest Nov5, no matching post in visible Buffer records or native Reel grid. Publisher did not expose source SHA lookup. Prior original QA confirms source rights/visual/decode; owner approved subjective QA."
+}
