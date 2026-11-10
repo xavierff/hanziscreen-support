@@ -1,0 +1,32 @@
+{
+  "status": "PUBLIC_VERIFIED",
+  "provider": "Buffer",
+  "channel_id": "6ad9a4bc778b240e2f87c9e5",
+  "handle": "@mandarinjakarta",
+  "title": "Mangkuk yang Disembunyikan",
+  "source_id": "MJ_20261107_MANGKUK_YANG_DISEMBUNYIKAN",
+  "file_id": "file_00000000759081f79097f53470be1f35",
+  "library_id": "libfile_d3841d6d214081919ae81bc59d6ffdaf",
+  "source_archive_id": "libfile_fa93642f28a8819194323af154e4f091",
+  "sha256": "5ebc1b2b31026132ba93b0265de1591b7669e08c5dfe256c24b902bfbd7955b6",
+  "owner_release_approved": "2026-11-10T20:05:00+07:00 exact as-is, subjective voice and captions accepted by owner",
+  "independent_listening_performed": false,
+  "full_decode_pass": true,
+  "rights_basis": "Original illustrations and locally synthesized score; archived narration model license; AI disclosure selected and stated in saved caption",
+  "published_wib": "2026-11-10 20:57 WIB (Buffer displayed minute)",
+  "post_id": "6af322c38cef4fd81d58e024",
+  "public_url": "https://www.instagram.com/reels/DfkEOAnBVc5/",
+  "buffer_sent_permalink": "https://www.instagram.com/reel/DfkEOAnBVc5/",
+  "verification": "Buffer Sent card resolved from processing; native Instagram destination displayed matching account and saved caption.",
+  "submissions": 1,
+  "duplicate_guard": "Exact master is public on Mandarin Jakarta; never re-upload or schedule this source on that destination.",
+  "ig_next48h": {
+    "confirmed": 0,
+    "planned": 4,
+    "first_gap": "2026-11-11 12:00 WIB",
+    "next_gap": "2026-11-11 19:00 WIB",
+    "distinct_fully_approved_unposted": 0,
+    "three_day_deficit": 6
+  },
+  "x": "Existing reservations preserved. No X submission or account selection in this release run."
+}
