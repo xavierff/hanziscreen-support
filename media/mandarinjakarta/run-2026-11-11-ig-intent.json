@@ -1,0 +1,21 @@
+{
+  "status": "INTENT, not reservations; check Buffer before retry",
+  "channel": "6ad9a4bc778b240e2f87c9e5",
+  "handle": "@mandarinjakarta",
+  "archive": "libfile_dfa3ed6b36a081919dd5a10bf23d89c1",
+  "source_file": "file_00000000379481f79f503f3070ed264b",
+  "preflight": "Queue0, Drafts0, Sent27, Mangkuk is the latest public Reel and excluded. No failed or pending cards visible.",
+  "posts": [
+    {
+      "wib": "Nov 11 19:00",
+      "title": "Cahaya di Bawah Jembatan",
+      "sha256": "63e52e29688cb62c630311b9b03d97ba7e2be2d5560bf1fbd52b7509936903b8"
+    },
+    {
+      "wib": "Nov 12 12:00",
+      "title": "Surat dengan Satu Tanda",
+      "sha256": "021bbcb4957d5d948d7f0849b7317ea7f9fbc7e2544026cea9b414b64cee5611"
+    }
+  ],
+  "qa": "Original fiction, art and music. Same Supertonic3 M1 Indonesian model/style. Waveform and exact segment subtitle timing, caption transcript, video decode and sampled visual layout passed. No independent human listening performed."
+}
