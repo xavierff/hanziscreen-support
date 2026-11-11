@@ -1,0 +1,27 @@
+{
+  "status": "intent only; dedupe before repeat",
+  "provider": "Buffer",
+  "channel": "6ad8c4a6778b240e2f7b10d2",
+  "posts": [
+    {
+      "wib": "Nov 12 19:00",
+      "utc": "2026-11-12T12:00:00.000Z",
+      "source": "The inside-out umbrella",
+      "source_hash": "eee355d4ea5e3121c21382495c7db890e216de1358708eaee7aae8e2f3d55c23",
+      "category": "psychology",
+      "body": "Your umbrella flips inside out. Instead of explaining the whole disaster, start here:\n\n我的伞坏了。\nWǒ de sǎn huài le.\nMy umbrella broke.\n\n坏了 (huài le) works for things that have broken or stopped working.",
+      "sha256": "8958ae8b4bd2da6f3a70f7299816963b2bee7d3fb7b511d446967ff28696a0d4",
+      "weighted": 207
+    },
+    {
+      "wib": "Nov 13 09:00",
+      "utc": "2026-11-13T02:00:00.000Z",
+      "source": "The runaway chopsticks",
+      "source_hash": "b6d019a234454dc52d55b8d6dcd01b79f66a6f02678974d470ddf7f8afb358a7",
+      "category": "fable/reversal",
+      "body": "Mini-fable: The fox blamed the waiter when his chopsticks rolled off the table. Then he noticed his own elbow had tipped the plate.\n\n筷子掉了。\nKuàizi diào le.\nThe chopsticks fell.\n\n掉了 (diào le) describes what happened. It leaves the culprit open.",
+      "sha256": "f4c7928f264d859ad2e2104274869af2fb7dcb15773c5c97a82a5a54cd28ea6d",
+      "weighted": 249
+    }
+  ]
+}
