@@ -1,0 +1,25 @@
+{
+  "account": "@mandarinjakarta",
+  "channel": "6ad9a4bc778b240e2f87c9e5",
+  "archive": "libfile_62229c2df15c8191bd1fee39d2ef0f16",
+  "entries": [
+    {
+      "title": "Jembatan Saat Hujan",
+      "sentence": "我来帮你。",
+      "pinyin": "Wǒ lái bāng nǐ.",
+      "indonesian": "Biar aku bantu.",
+      "wib": "2026-11-12 19:00",
+      "sha256": "aae066df2a81c6510834d4e1be4301716cac795f062eab83f31775a158707f3d",
+      "status": "PREPARED_INTENT"
+    },
+    {
+      "title": "Dengarkan Dulu",
+      "sentence": "你慢慢说。",
+      "pinyin": "Nǐ mànmàn shuō.",
+      "indonesian": "Ceritakan pelan-pelan.",
+      "wib": "2026-11-13 12:00",
+      "sha256": "5e58d45325b0b3960653ba50929c53fac612baefce0bb16108ad9503207820a4",
+      "status": "PREPARED_INTENT"
+    }
+  ]
+}
