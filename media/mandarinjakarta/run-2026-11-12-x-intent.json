@@ -1,0 +1,10 @@
+{
+  "status": "intent only",
+  "post": {
+    "wib": "2026-11-13 19:00",
+    "source": "The accidental wave",
+    "source_sha256": "65a6e3c828f3eaa8c64976fafe24eef616e431f2c7429394eeee7cda9adbd227",
+    "body": "You wave back. The wave was for someone behind you. If you mistook a stranger for a friend, try:\n\n我认错人了。\nWǒ rèn cuò rén le.\nI mistook you for someone else.\n\n认错人 (rèn cuò rén) is about mistaken identity.",
+    "sha256": "a040acf3eb514da32161acead4b0cac342f545d7431ac35c024f9e2f5a648fbe"
+  }
+}
