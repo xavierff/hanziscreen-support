@@ -10,7 +10,8 @@
       "indonesian": "Biar aku bantu.",
       "wib": "2026-11-12 19:00",
       "sha256": "aae066df2a81c6510834d4e1be4301716cac795f062eab83f31775a158707f3d",
-      "status": "PREPARED_INTENT"
+      "status": "AUTO-SCHEDULED",
+      "buffer_id": "6af51aee9d4d8f9b42b7601f"
     },
     {
       "title": "Dengarkan Dulu",
@@ -19,7 +20,8 @@
       "indonesian": "Ceritakan pelan-pelan.",
       "wib": "2026-11-13 12:00",
       "sha256": "5e58d45325b0b3960653ba50929c53fac612baefce0bb16108ad9503207820a4",
-      "status": "PREPARED_INTENT"
+      "status": "AUTO-SCHEDULED",
+      "buffer_id": "6af51b255ac60fc492152cbd"
     }
   ]
 }
