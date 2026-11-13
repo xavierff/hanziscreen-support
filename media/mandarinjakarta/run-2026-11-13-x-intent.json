@@ -1,0 +1,18 @@
+[
+  {
+    "wib": "2026-11-14 09:00",
+    "source": "The crooked paper rabbit",
+    "source_sha256": "9f21c4ca00fa2310ec98030cacaa8044bae9e5454c583669cc7b575c0b44f66c",
+    "body": "Your paper rabbit has one lopsided ear. Before you start over, ask:\n\n这样可以吗？\nZhèyàng kěyǐ ma?\nIs it okay like this?\n\nUse 这样 (zhèyàng) to point to the way something looks or is done.",
+    "sha256": "391a92a556cc25bf3587a95ba10e30f642e8ed333fdec0f45c65cad05c32d98e",
+    "weighted_upper_bound": 188
+  },
+  {
+    "wib": "2026-11-14 19:00",
+    "source": "The door said PULL",
+    "source_sha256": "0720654b1c69414f3e149c06a6c87c234a9a8e743661d1f6c2eed2b90c6c3e1c",
+    "body": "You push the door marked PULL and bump into someone on the other side.\n\n对不起。\nDuìbuqǐ.\nI’m sorry.\n\nIt’s a direct apology for your mistake. If you’re only asking someone to move a little, 不好意思 (bù hǎoyìsi) often fits.",
+    "sha256": "7bfe260ad4cdd8c99a9de68b586a1552d01f7d41d19b4c5edc488ed3448fe060",
+    "weighted_upper_bound": 226
+  }
+]
