@@ -10,8 +10,10 @@
       "indonesian": "Biar aku bantu.",
       "wib": "2026-11-12 19:00",
       "sha256": "aae066df2a81c6510834d4e1be4301716cac795f062eab83f31775a158707f3d",
-      "status": "AUTO-SCHEDULED",
-      "buffer_id": "6af51aee9d4d8f9b42b7601f"
+      "status": "PUBLIC",
+      "buffer_id": "6af51aee9d4d8f9b42b7601f",
+      "public_url": "https://www.instagram.com/reels/DfpAkvkO2Cb/",
+      "archive": "libfile_62229c2df15c8191bd1fee39d2ef0f16"
     },
     {
       "title": "Dengarkan Dulu",
@@ -21,7 +23,26 @@
       "wib": "2026-11-13 12:00",
       "sha256": "5e58d45325b0b3960653ba50929c53fac612baefce0bb16108ad9503207820a4",
       "status": "AUTO-SCHEDULED",
-      "buffer_id": "6af51b255ac60fc492152cbd"
+      "buffer_id": "6af51b255ac60fc492152cbd",
+      "archive": "libfile_62229c2df15c8191bd1fee39d2ef0f16"
+    },
+    {
+      "title": "Kain yang Belang",
+      "sentence": "是我的错。",
+      "pinyin": "Shì wǒ de cuò.",
+      "indonesian": "Ini salahku.",
+      "wib": "2026-11-13 19:00",
+      "sha256": "6874d557176787b229541dd363736fb383633c9e6cd5ce8f887f40302cc8e996",
+      "status": "PREPARED_INTENT"
+    },
+    {
+      "title": "Lentera Terakhir",
+      "sentence": "这个就够了。",
+      "pinyin": "Zhège jiù gòu le.",
+      "indonesian": "Ini saja cukup.",
+      "wib": "2026-11-14 12:00",
+      "sha256": "179cc1533313a3de98307cbbd85021e42916951a2ec03069986af54e810d2a2c",
+      "status": "PREPARED_INTENT"
     }
   ]
 }
