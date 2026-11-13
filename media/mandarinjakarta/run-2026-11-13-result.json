@@ -1,0 +1,89 @@
+{
+  "date": "2026-11-13",
+  "timezone": "Asia/Jakarta",
+  "provider": "Buffer Free",
+  "instagram": {
+    "account": "@mandarinjakarta",
+    "new_posts": [
+      {
+        "title": "Kain yang Belang",
+        "sentence": "是我的错。",
+        "pinyin": "Shì wǒ de cuò.",
+        "indonesian": "Ini salahku.",
+        "wib": "2026-11-13 19:00",
+        "sha256": "6874d557176787b229541dd363736fb383633c9e6cd5ce8f887f40302cc8e996",
+        "status": "AUTO-SCHEDULED",
+        "archive": "libfile_53f67d77c658819199c03bb6aee3f906",
+        "buffer_id": "6af66f298db2b32314dec35c"
+      },
+      {
+        "title": "Lentera Terakhir",
+        "sentence": "这个就够了。",
+        "pinyin": "Zhège jiù gòu le.",
+        "indonesian": "Ini saja cukup.",
+        "wib": "2026-11-14 12:00",
+        "sha256": "179cc1533313a3de98307cbbd85021e42916951a2ec03069986af54e810d2a2c",
+        "status": "AUTO-SCHEDULED",
+        "archive": "libfile_53f67d77c658819199c03bb6aee3f906",
+        "buffer_id": "6af66f489e86748db164315a"
+      }
+    ],
+    "protected_noon": {
+      "id": "6af51b255ac60fc492152cbd",
+      "wib": "2026-11-13 12:00"
+    },
+    "recent_public": [
+      {
+        "id": "6af51aee9d4d8f9b42b7601f",
+        "url": "https://www.instagram.com/reels/DfpAkvkO2Cb/",
+        "verified": "Instagram and Buffer Sent"
+      },
+      {
+        "id": "6af42eb755c532d7acb4ab48",
+        "url": "https://www.instagram.com/reel/DfoQZd6Be9c/",
+        "verified": "Buffer Sent"
+      }
+    ],
+    "coverage_next_four": "3/4",
+    "first_gap_wib": "2026-11-14 19:00",
+    "additional_ready_unreserved": 0,
+    "qa": "Full decode, measured caption timing, visual crop and card checks, Mandarin phoneme input and token checks passed. No independent listening."
+  },
+  "x": {
+    "account": "@hanziscreen",
+    "new_posts": [
+      {
+        "wib": "2026-11-14 09:00",
+        "source": "The crooked paper rabbit",
+        "source_sha256": "9f21c4ca00fa2310ec98030cacaa8044bae9e5454c583669cc7b575c0b44f66c",
+        "body": "Your paper rabbit has one lopsided ear. Before you start over, ask:\n\n这样可以吗？\nZhèyàng kěyǐ ma?\nIs it okay like this?\n\nUse 这样 (zhèyàng) to point to the way something looks or is done.",
+        "sha256": "391a92a556cc25bf3587a95ba10e30f642e8ed333fdec0f45c65cad05c32d98e",
+        "weighted_upper_bound": 188,
+        "status": "AUTO-SCHEDULED",
+        "buffer_id": "6af66e37435db47e5a77b7c9"
+      },
+      {
+        "wib": "2026-11-14 19:00",
+        "source": "The door said PULL",
+        "source_sha256": "0720654b1c69414f3e149c06a6c87c234a9a8e743661d1f6c2eed2b90c6c3e1c",
+        "body": "You push the door marked PULL and bump into someone on the other side.\n\n对不起。\nDuìbuqǐ.\nI’m sorry.\n\nIt’s a direct apology for your mistake. If you’re only asking someone to move a little, 不好意思 (bù hǎoyìsi) often fits.",
+        "sha256": "7bfe260ad4cdd8c99a9de68b586a1552d01f7d41d19b4c5edc488ed3448fe060",
+        "weighted_upper_bound": 226,
+        "status": "AUTO-SCHEDULED",
+        "buffer_id": "6af66e6aa697503bc19a1b58"
+      }
+    ],
+    "protected": [
+      {
+        "id": "6af42d9436267ae811626de6",
+        "wib": "2026-11-13 09:00"
+      },
+      {
+        "id": "6af51993b483f840742d684b",
+        "wib": "2026-11-13 19:00"
+      }
+    ],
+    "confirmed_named_slots": "Nov 13 and 14 09:00/19:00 at queue check",
+    "first_gap_wib": "2026-11-15 09:00"
+  }
+}
