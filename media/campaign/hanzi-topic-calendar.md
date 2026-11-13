@@ -300,3 +300,13 @@ Nov11 Shorts CONFIRMED AUTOMATIC: 18:00 WIB Buffer6af3ab16bb92692469eb6b22 exact
 - Nov 14 18:00 Crooked Paper Rabbit Buffer automatic 6af58faf660be4056c18c27e SHA256 9f21c4ca00fa2310ec98030cacaa8044bae9e5454c583669cc7b575c0b44f66c, exact cleared Nov 13 noon original libfile_626ea228473c8191aa0175a203ead022.
 - Next 48h 5/6 scheduled as of Nov 12 evening. All Nov 13 slots covered. Nov 14 10:00 long requires expansion of Rabbit source on next production pass, and 20:00 needs a distinct cleared Nov 13 evening original. No scheduled backup for either. Reconcile live state before submission. Updated upstream record libfile_637343daf5788191b09c7ba720baea91. No Nov 10 one-off action.
 - Finished lesson, captions, reusable voices, source masters, QA and reservations saved as libfile_da1a0c0af5ec8191be80417603e612b7.
+
+
+## Nov 13 evening Hanzi YouTube verification and refill (WIB)
+- Exact channel UCnTFHhzyCoiSaDSfdGKFx5g. Nov 13 10:00 Squeaky Chair confirmed public https://www.youtube.com/watch?v=qzJ5EbJDU8k. Nov 13 18:00 and 20:00 Buffer 6af4fb54db495e3d932d3ea5 and 6af58f80101d2c506a606141 still reserved at check, preserved.
+- Nov 14 10:00 The Crooked Paper Rabbit, Social Champ Future explicitly Scheduled Nov 14 03:00 UTC. No provider ID exposed. SHA256 e548da89a2ef7bd6a56cdd5b729d0f390ca07f8e26e9e40dff95befa2dbf13f8, 193.533333s H264/AAC 1280x720, full decode, 64 cues, 24 audio clips and representative visual checks passed. Licensed Kokoro voice template, no fresh independent listening. Source libfile_626ea228473c8191aa0175a203ead022.
+- Nov 14 18:00 Paper Rabbit Short Buffer 6af58faf660be4056c18c27e, exact SHA256 9f21c4ca00fa2310ec98030cacaa8044bae9e5454c583669cc7b575c0b44f66c.
+- Nov 14 20:00 The Door Said PULL Buffer automatic 6af6e0f7c201cf137ff74180, exact SHA256 0720654b1c69414f3e149c06a6c87c234a9a8e743661d1f6c2eed2b90c6c3e1c, source libfile_e21a4620f8888191a67206a04d23932f.
+- Nov 15 18:00 The Cup That Came Back Buffer automatic 6af6e128ea1e3ea91f8e63ec, exact SHA256 1b30923601e2849e77f65cd6f593d316945e0b6bcf894482347976d0e750c172, source libfile_57afbf4b6310819189b2fe323db444bf. Shorts retain exact masters with hash and full decode verified.
+- Actual next 48h from Nov 13 evening: 5 of 6 confirmed (Nov 13 evenings, Nov 14 all, Nov 15 morning gap). Nov 15 18:00 is an additional reserve just outside that window. Nov 15 10:00 needs a long expansion of the cup source and 20:00 needs distinct Nov 14 evening master/QA. No scheduled backup for those gaps. Reconcile live providers before new submission. Upstream release ledger libfile_637343daf5788191b09c7ba720baea91.
+- Finished lesson, QA, narration clips, and exact originals saved in libfile_1445a9827b8481919ff0101d6b2de2d8.
