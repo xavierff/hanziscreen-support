@@ -310,3 +310,11 @@ Nov11 Shorts CONFIRMED AUTOMATIC: 18:00 WIB Buffer6af3ab16bb92692469eb6b22 exact
 - Nov 15 18:00 The Cup That Came Back Buffer automatic 6af6e128ea1e3ea91f8e63ec, exact SHA256 1b30923601e2849e77f65cd6f593d316945e0b6bcf894482347976d0e750c172, source libfile_57afbf4b6310819189b2fe323db444bf. Shorts retain exact masters with hash and full decode verified.
 - Actual next 48h from Nov 13 evening: 5 of 6 confirmed (Nov 13 evenings, Nov 14 all, Nov 15 morning gap). Nov 15 18:00 is an additional reserve just outside that window. Nov 15 10:00 needs a long expansion of the cup source and 20:00 needs distinct Nov 14 evening master/QA. No scheduled backup for those gaps. Reconcile live providers before new submission. Upstream release ledger libfile_637343daf5788191b09c7ba720baea91.
 - Finished lesson, QA, narration clips, and exact originals saved in libfile_1445a9827b8481919ff0101d6b2de2d8.
+
+
+## Nov 15 morning rescue (WIB)
+- Exact channel UCnTFHhzyCoiSaDSfdGKFx5g. Nov 14 all public: long https://www.youtube.com/watch?v=-dM1DhyV3B4, 18:00 https://www.youtube.com/shorts/P6r1qWXaHcA, 20:00 https://www.youtube.com/shorts/xbXZU2Ddc9s. No resubmission.
+- Nov 15 10:00 The Cup That Came Back (long), Social Champ Future explicitly Scheduled Nov 15 03:00 UTC, provider ID not exposed. Submitted once after exact channel/queue dedupe. Expanded 193.666667s H264/AAC 1280x720 master SHA256 dc16d6c93c579d44e6b1cc2af41ff03b5c879b3ee0a786042229ac53bfabe45e. Full decode, sentence timing, 55 captions, licensed Kokoro, representative frames checked. No fresh independent listening. Rights-cleared prior-day cup source libfile_57afbf4b6310819189b2fe323db444bf.
+- Nov 15 18:00 The Cup That Came Back Short existing Buffer automatic 6af6e128ea1e3ea91f8e63ec reconfirmed. Exact source SHA256 1b30923601e2849e77f65cd6f593d316945e0b6bcf894482347976d0e750c172.
+- Nov 15 20:00 Buffer unreserved, upstream IG handoff missing a distinct finished QA-cleared original in current release ledger libfile_637343daf5788191b09c7ba720baea91 and Library search. Minimum unblock: upstream handoff supplies distinct exact MP4, SHA256 and rights/audio QA. No scheduled backup. 2/6 confirmations over next 48 hours. Reconcile and refill open slots on existing regular preparation.
+- Master, exact source, narration and QA saved as libfile_311529d85d148191961695eb91bbb5ba.
