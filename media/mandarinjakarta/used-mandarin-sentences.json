@@ -59,7 +59,8 @@
       "wib": "2026-11-15 12:00",
       "sha256": "a71de2ff3ec18650ddb79823eec0fa84ac9ce2945ea98565f332decbabb297f5",
       "status": "AUTO-SCHEDULED",
-      "buffer_id": "6af9109873584ed77b866a0d"
+      "buffer_id": "6af9109873584ed77b866a0d",
+      "archive": "libfile_62e82dad4e6c81918b3ad621d992815e"
     },
     {
       "title": "Semangkuk untuk Berdua",
@@ -68,7 +69,9 @@
       "indonesian": "Masuk dan duduklah.",
       "wib": "2026-11-15 19:00",
       "sha256": "03e2c9b451bfc8bf4d9c6f60b9761a84f008c04a3dc7f9d8d4cfc5460f0962b1",
-      "status": "PREPARED_INTENT"
+      "status": "AUTO-SCHEDULED",
+      "archive": "libfile_62e82dad4e6c81918b3ad621d992815e",
+      "buffer_id": "6af910e07e196572375fc72d"
     }
   ]
 }
