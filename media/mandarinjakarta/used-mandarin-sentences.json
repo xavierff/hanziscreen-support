@@ -22,9 +22,10 @@
       "indonesian": "Ceritakan pelan-pelan.",
       "wib": "2026-11-13 12:00",
       "sha256": "5e58d45325b0b3960653ba50929c53fac612baefce0bb16108ad9503207820a4",
-      "status": "AUTO-SCHEDULED",
+      "status": "SENT",
       "buffer_id": "6af51b255ac60fc492152cbd",
-      "archive": "libfile_62229c2df15c8191bd1fee39d2ef0f16"
+      "archive": "libfile_62229c2df15c8191bd1fee39d2ef0f16",
+      "public_url": "https://www.instagram.com/reel/Dfq1KQ0ghf7/"
     },
     {
       "title": "Kain yang Belang",
@@ -33,9 +34,10 @@
       "indonesian": "Ini salahku.",
       "wib": "2026-11-13 19:00",
       "sha256": "6874d557176787b229541dd363736fb383633c9e6cd5ce8f887f40302cc8e996",
-      "status": "AUTO-SCHEDULED",
+      "status": "SENT",
       "archive": "libfile_53f67d77c658819199c03bb6aee3f906",
-      "buffer_id": "6af66f298db2b32314dec35c"
+      "buffer_id": "6af66f298db2b32314dec35c",
+      "public_url": "https://www.instagram.com/reel/DfrlV29TPMi/"
     },
     {
       "title": "Lentera Terakhir",
@@ -44,9 +46,19 @@
       "indonesian": "Ini saja cukup.",
       "wib": "2026-11-14 12:00",
       "sha256": "179cc1533313a3de98307cbbd85021e42916951a2ec03069986af54e810d2a2c",
-      "status": "AUTO-SCHEDULED",
+      "status": "PUBLIC",
       "archive": "libfile_53f67d77c658819199c03bb6aee3f906",
-      "buffer_id": "6af66f489e86748db164315a"
+      "buffer_id": "6af66f489e86748db164315a",
+      "public_url": "https://www.instagram.com/reels/DftZ_k5gtpr/"
+    },
+    {
+      "title": "Pintu yang Macet",
+      "sentence": "再试一次。",
+      "pinyin": "Zài shì yí cì.",
+      "indonesian": "Coba sekali lagi.",
+      "wib": "2026-11-15 12:00",
+      "sha256": "a71de2ff3ec18650ddb79823eec0fa84ac9ce2945ea98565f332decbabb297f5",
+      "status": "PREPARED_INTENT"
     }
   ]
 }
