@@ -1,0 +1,82 @@
+{
+  "timezone": "Asia/Jakarta",
+  "ig": {
+    "nov14_noon": {
+      "title": "Lentera Terakhir",
+      "sentence": "这个就够了。",
+      "pinyin": "Zhège jiù gòu le.",
+      "indonesian": "Ini saja cukup.",
+      "wib": "2026-11-14 12:00",
+      "sha256": "179cc1533313a3de98307cbbd85021e42916951a2ec03069986af54e810d2a2c",
+      "status": "PUBLIC",
+      "archive": "libfile_53f67d77c658819199c03bb6aee3f906",
+      "buffer_id": "6af66f489e86748db164315a",
+      "public_url": "https://www.instagram.com/reels/DftZ_k5gtpr/"
+    },
+    "nov14_evening": "No Sent, queued, pending or failed card visible",
+    "ig_posts": [
+      {
+        "title": "Pintu yang Macet",
+        "sentence": "再试一次。",
+        "pinyin": "Zài shì yí cì.",
+        "indonesian": "Coba sekali lagi.",
+        "wib": "2026-11-15 12:00",
+        "sha256": "a71de2ff3ec18650ddb79823eec0fa84ac9ce2945ea98565f332decbabb297f5",
+        "status": "AUTO-SCHEDULED",
+        "buffer_id": "6af9109873584ed77b866a0d",
+        "archive": "libfile_62e82dad4e6c81918b3ad621d992815e"
+      },
+      {
+        "title": "Semangkuk untuk Berdua",
+        "sentence": "进来坐吧。",
+        "pinyin": "Jìnlái zuò ba.",
+        "indonesian": "Masuk dan duduklah.",
+        "wib": "2026-11-15 19:00",
+        "sha256": "03e2c9b451bfc8bf4d9c6f60b9761a84f008c04a3dc7f9d8d4cfc5460f0962b1",
+        "status": "AUTO-SCHEDULED",
+        "archive": "libfile_62e82dad4e6c81918b3ad621d992815e",
+        "buffer_id": "6af910e07e196572375fc72d"
+      }
+    ],
+    "next48": "2/4",
+    "first_gap": "Nov 16 12:00",
+    "additional_finished_inventory": 0,
+    "qa": "Independent listening unavailable. Checked decode, captions, rendered cards, and Mandarin inputs. Targeted tone correction for 来."
+  },
+  "x": {
+    "nov14_09": "https://x.com/2112901672993472512/status/2121423040684650592",
+    "nov14_19": "https://x.com/2112901672993472512/status/2121574101571555673",
+    "posts": [
+      {
+        "wib": "Nov 15 09:00",
+        "source": "The cup that came back",
+        "body": "Your coffee looks unfamiliar. So does the name on the lid.\n\n这是你的吗？\nZhè shì nǐ de ma?\nIs this yours?\n\n你的吗 (nǐ de ma) asks whether something belongs to the person you’re speaking to.",
+        "status": "AUTO-SCHEDULED",
+        "buffer_id": "6af90f6ff776498f0ddc14fe"
+      },
+      {
+        "wib": "Nov 15 19:00",
+        "source": "The cup that came back",
+        "body": "Two people reach for the same mug. Both pause, then laugh.\n\n我们换一下吧。\nWǒmen huàn yíxià ba.\nLet’s swap.\n\n吧 (ba) makes the suggestion sound softer.",
+        "status": "AUTO-SCHEDULED",
+        "buffer_id": "6af90f9e98a7764872b97d6b"
+      },
+      {
+        "wib": "Nov 16 09:00",
+        "source": "The borrowed backpack",
+        "body": "That’s someone else’s backpack in your hand.\n\n我拿错了。\nWǒ ná cuò le.\nI took the wrong one.\n\n错 after 拿 tells you the action was a mistake.",
+        "status": "AUTO-SCHEDULED",
+        "buffer_id": "6af90fc298a7764872b982d2"
+      },
+      {
+        "wib": "Nov 16 19:00",
+        "source": "The borrowed backpack",
+        "body": "The backpack at the station looks just like yours. Before you lift it, ask:\n\n这是我的包吗？\nZhè shì wǒ de bāo ma?\nIs this my bag?\n\n我的包 (wǒ de bāo) means “my bag.”",
+        "status": "AUTO-SCHEDULED",
+        "buffer_id": "6af90fdc866dffc18615e432"
+      }
+    ],
+    "coverage": "4/4 at readback",
+    "first_gap": "Nov 17 09:00"
+  }
+}
