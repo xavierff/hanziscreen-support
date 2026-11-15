@@ -318,3 +318,11 @@ Nov11 Shorts CONFIRMED AUTOMATIC: 18:00 WIB Buffer6af3ab16bb92692469eb6b22 exact
 - Nov 15 18:00 The Cup That Came Back Short existing Buffer automatic 6af6e128ea1e3ea91f8e63ec reconfirmed. Exact source SHA256 1b30923601e2849e77f65cd6f593d316945e0b6bcf894482347976d0e750c172.
 - Nov 15 20:00 Buffer unreserved, upstream IG handoff missing a distinct finished QA-cleared original in current release ledger libfile_637343daf5788191b09c7ba720baea91 and Library search. Minimum unblock: upstream handoff supplies distinct exact MP4, SHA256 and rights/audio QA. No scheduled backup. 2/6 confirmations over next 48 hours. Reconcile and refill open slots on existing regular preparation.
 - Master, exact source, narration and QA saved as libfile_311529d85d148191961695eb91bbb5ba.
+
+## November 15 evening — Hanzi YouTube November 16 cycle
+
+- Nov 15 10:00 The Cup That Came Back confirmed Public on exact-channel Studio, YouTube ID `Uz6AZ2fr--Y`. Nov 15 18:00 preserved Buffer `6af6e128ea1e3ea91f8e63ec`. Nov 15 20:00 open with no confirmed backup: upstream IG media handoff missing a distinct finished Nov 14 evening master. The IG handoff must persist the exact MP4, SHA256, and rights/audio QA.
+- Nov 16 10:00 WIB: The Borrowed Backpack, 3:31, Social Champ Future confirmed Scheduled for Nov 16 at 03:00 UTC. SHA256 `349408ddfa61a5e99b0098d5cbc57da44dc7b444b34d1313be00a2c9af58786e`. Provider view did not expose a post ID. Full decode, caption timing, sample frames, licensed Kokoro voice and signal checks passed.
+- Nov 16 18:00 WIB: The Borrowed Backpack exact original, Buffer `6af983116af8f55e0cd00631`. SHA256 `bbf5534a4d2cb3506b2ad169a03d7c850f6440e1c93d40c731004aca9855f6d8`.<br>IG original https://www.instagram.com/reel/Dfv-3rblC8p/.
+- Nov 16 20:00 WIB: The Key With a Name Tag exact original, Buffer `6af98361866dffc186252f6c`. SHA256 `112f1e0abfc42cc7e8c974ea682fa496ebb3ecfd5e05c3fa79aa45552379d2d1`.
+- Exact channel `UCnTFHhzyCoiSaDSfdGKFx5g`. 4/6 upcoming 48h slots confirmed. First gap after Nov 16 is Nov 17 10:00 WIB. Recovery package `libfile_28f504a01730819185ec1c75397cd24e`.
