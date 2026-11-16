@@ -326,3 +326,21 @@ Nov11 Shorts CONFIRMED AUTOMATIC: 18:00 WIB Buffer6af3ab16bb92692469eb6b22 exact
 - Nov 16 18:00 WIB: The Borrowed Backpack exact original, Buffer `6af983116af8f55e0cd00631`. SHA256 `bbf5534a4d2cb3506b2ad169a03d7c850f6440e1c93d40c731004aca9855f6d8`.<br>IG original https://www.instagram.com/reel/Dfv-3rblC8p/.
 - Nov 16 20:00 WIB: The Key With a Name Tag exact original, Buffer `6af98361866dffc186252f6c`. SHA256 `112f1e0abfc42cc7e8c974ea682fa496ebb3ecfd5e05c3fa79aa45552379d2d1`.
 - Exact channel `UCnTFHhzyCoiSaDSfdGKFx5g`. 4/6 upcoming 48h slots confirmed. First gap after Nov 16 is Nov 17 10:00 WIB. Recovery package `libfile_28f504a01730819185ec1c75397cd24e`.
+
+
+## Hanzi on Screen YouTube, Nov 16 verification and Nov 17–18 reservations
+
+Exact destination UCnTFHhzyCoiSaDSfdGKFx5g. All audience times in WIB.
+
+| Slot | Title | Result | SHA-256 |
+|---|---|---|---|
+| Nov 17 10:00 | The Switched Name Tags · 3:34 long | Social Champ Future confirmed scheduled Nov 17 03:00 UTC | 03ce4263ecaa9d4318aaf155a29d057b12fc108bd97df90dce1b82cb45ed14eb |
+| Nov 17 18:00 | The Switched Name Tags · Short | Buffer 6afad833c80a2665df5a7169 | 0eab30cfa1f545d8e60ac079fdebb4ef44426bac5769f540529449fc817e93a8 |
+| Nov 17 20:00 | The Slippery Orange · Short | Buffer 6afad86b276ea8e184ec974f | e901d9648dab1fc07a3aea85684c21cb84fd2fa4386726bacb1bdc2c03f851c3 |
+| Nov 18 18:00 | The Two Lunch Boxes · Short | Buffer 6afad89e4b332d81cc215325 | 1a215108133837923907f22a706370c0ee805d8715d77529dfccc6d5feb81f5e |
+
+All Shorts use exact original masters. Sources with rights/QA: tags libfile_0489c9701d9c8191a90ce36123e1ab52 and orange/lunchboxes libfile_10cf5bfcac0c8191ab1efe423ebba822. Long used licensed offline Kokoro, 60 caption cues, full decode and visual samples checked. No independent listening review.
+
+Nov 16 10:00 long confirmed public in Studio, QuuAi7t3ECA. Nov 16 18:00 and 20:00 reservations preserved, respectively 6af983116af8f55e0cd00631 and 6af98361866dffc186252f6c. Nov 15 18:00 confirmed public, adI38Z58css. Nov 15 20:00 remains historical gap. From Nov 16 after 17:00, 5/6 slots over 48 hours confirmed. Nov 18 10:00 still requires the matching long expansion from the finished Two Lunch Boxes master. Nov 18 20:00 needs its distinct evening handoff. No backup reservations for these two slots.
+
+Recovery package `libfile_9363f33300f08191aadb3ced42c5b0f4`.
