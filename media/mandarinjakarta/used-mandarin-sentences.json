@@ -83,7 +83,8 @@
       "wib": "2026-11-16 12:00",
       "sha256": "7226c187f91b05cad9d655475e51b01056758cd363db82e50d91e8f5fde28697",
       "status": "AUTO-SCHEDULED",
-      "buffer_id": "6afa634b8a4d7c202ee4715d"
+      "buffer_id": "6afa634b8a4d7c202ee4715d",
+      "archive": "libfile_b413d54365c88191a811e182917add84"
     },
     {
       "title": "Surat yang Belum Rapi",
@@ -92,7 +93,9 @@
       "indonesian": "Aku paham maksudmu.",
       "wib": "2026-11-16 19:00",
       "sha256": "092cc7b2f652084a2fa09059d7cfd633f0c6c7629d516541633babc109077275",
-      "status": "PREPARED_INTENT"
+      "status": "AUTO-SCHEDULED",
+      "buffer_id": "6afa636d2fae797390b94028",
+      "archive": "libfile_b413d54365c88191a811e182917add84"
     }
   ]
 }
