@@ -58,9 +58,10 @@
       "indonesian": "Coba sekali lagi.",
       "wib": "2026-11-15 12:00",
       "sha256": "a71de2ff3ec18650ddb79823eec0fa84ac9ce2945ea98565f332decbabb297f5",
-      "status": "AUTO-SCHEDULED",
+      "status": "SENT",
       "buffer_id": "6af9109873584ed77b866a0d",
-      "archive": "libfile_62e82dad4e6c81918b3ad621d992815e"
+      "archive": "libfile_62e82dad4e6c81918b3ad621d992815e",
+      "public_url": "https://www.instagram.com/reel/Dfv-tVcA24u/"
     },
     {
       "title": "Semangkuk untuk Berdua",
@@ -69,9 +70,19 @@
       "indonesian": "Masuk dan duduklah.",
       "wib": "2026-11-15 19:00",
       "sha256": "03e2c9b451bfc8bf4d9c6f60b9761a84f008c04a3dc7f9d8d4cfc5460f0962b1",
-      "status": "AUTO-SCHEDULED",
+      "status": "PUBLIC",
       "archive": "libfile_62e82dad4e6c81918b3ad621d992815e",
-      "buffer_id": "6af910e07e196572375fc72d"
+      "buffer_id": "6af910e07e196572375fc72d",
+      "public_url": "https://www.instagram.com/reels/Dfwu2kFBiAA/"
+    },
+    {
+      "title": "Jatah Air",
+      "sentence": "我们分着喝吧。",
+      "pinyin": "Wǒmen fēnzhe hē ba.",
+      "indonesian": "Ayo kita bagi airnya.",
+      "wib": "2026-11-16 12:00",
+      "sha256": "7226c187f91b05cad9d655475e51b01056758cd363db82e50d91e8f5fde28697",
+      "status": "PREPARED_INTENT"
     }
   ]
 }
