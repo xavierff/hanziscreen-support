@@ -1,0 +1,87 @@
+{
+  "date": "2026-11-16",
+  "timezone": "Asia/Jakarta",
+  "instagram": {
+    "sent_nov15": [
+      {
+        "title": "Pintu yang Macet",
+        "sentence": "再试一次。",
+        "pinyin": "Zài shì yí cì.",
+        "indonesian": "Coba sekali lagi.",
+        "wib": "2026-11-15 12:00",
+        "sha256": "a71de2ff3ec18650ddb79823eec0fa84ac9ce2945ea98565f332decbabb297f5",
+        "status": "SENT",
+        "buffer_id": "6af9109873584ed77b866a0d",
+        "archive": "libfile_62e82dad4e6c81918b3ad621d992815e",
+        "public_url": "https://www.instagram.com/reel/Dfv-tVcA24u/"
+      },
+      {
+        "title": "Semangkuk untuk Berdua",
+        "sentence": "进来坐吧。",
+        "pinyin": "Jìnlái zuò ba.",
+        "indonesian": "Masuk dan duduklah.",
+        "wib": "2026-11-15 19:00",
+        "sha256": "03e2c9b451bfc8bf4d9c6f60b9761a84f008c04a3dc7f9d8d4cfc5460f0962b1",
+        "status": "PUBLIC",
+        "archive": "libfile_62e82dad4e6c81918b3ad621d992815e",
+        "buffer_id": "6af910e07e196572375fc72d",
+        "public_url": "https://www.instagram.com/reels/Dfwu2kFBiAA/"
+      }
+    ],
+    "new_posts": [
+      {
+        "title": "Jatah Air",
+        "sentence": "我们分着喝吧。",
+        "pinyin": "Wǒmen fēnzhe hē ba.",
+        "indonesian": "Ayo kita bagi airnya.",
+        "wib": "2026-11-16 12:00",
+        "sha256": "7226c187f91b05cad9d655475e51b01056758cd363db82e50d91e8f5fde28697",
+        "status": "AUTO-SCHEDULED",
+        "buffer_id": "6afa634b8a4d7c202ee4715d",
+        "archive": "libfile_b413d54365c88191a811e182917add84"
+      },
+      {
+        "title": "Surat yang Belum Rapi",
+        "sentence": "我明白你的意思。",
+        "pinyin": "Wǒ míngbai nǐ de yìsi.",
+        "indonesian": "Aku paham maksudmu.",
+        "wib": "2026-11-16 19:00",
+        "sha256": "092cc7b2f652084a2fa09059d7cfd633f0c6c7629d516541633babc109077275",
+        "status": "AUTO-SCHEDULED",
+        "buffer_id": "6afa636d2fae797390b94028",
+        "archive": "libfile_b413d54365c88191a811e182917add84"
+      }
+    ],
+    "coverage_next48": "2/4",
+    "first_gap": "2026-11-17 12:00 WIB"
+  },
+  "x": {
+    "protected_nov16": [
+      "6af90fc298a7764872b982d2",
+      "6af90fdc866dffc18615e432"
+    ],
+    "new_posts": [
+      {
+        "date": "2026-11-17",
+        "time_wib": "9:00 AM",
+        "body": "I found a key under my chair. Before putting it in the lost-and-found, I ask:\n\n这把钥匙是谁的？\nZhè bǎ yàoshi shì shéi de?\nWhose key is this?\n\n把 (bǎ) is the measure word used here for a key.",
+        "source": "The key with a name tag",
+        "source_sha256": "112f1e0abfc42cc7e8c974ea682fa496ebb3ecfd5e05c3fa79aa45552379d2d1",
+        "buffer_id": "6afa6253e27333ae35b5ea46",
+        "status": "AUTO-SCHEDULED"
+      },
+      {
+        "date": "2026-11-17",
+        "time_wib": "7:00 PM",
+        "body": "Two desks. Two name tags. Both on the wrong desks.\n\n我们换回来吧。\nWǒmen huàn huílai ba.\nLet’s swap them back.\n\n回来 here points to restoring the original arrangement.",
+        "source": "The switched name tags",
+        "source_sha256": "0eab30cfa1f545d8e60ac079fdebb4ef44426bac5769f540529449fc817e93a8",
+        "buffer_id": "6afa62621d66aa4466fa7056",
+        "status": "AUTO-SCHEDULED"
+      }
+    ],
+    "coverage": "All four Nov 16–17 slots reserved at check",
+    "first_gap": "2026-11-18 09:00 WIB"
+  },
+  "qa": "Full decode, captions and Mandarin pronunciation inputs checked, no independent listening."
+}
