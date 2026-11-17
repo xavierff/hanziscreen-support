@@ -344,3 +344,19 @@ All Shorts use exact original masters. Sources with rights/QA: tags libfile_0489
 Nov 16 10:00 long confirmed public in Studio, QuuAi7t3ECA. Nov 16 18:00 and 20:00 reservations preserved, respectively 6af983116af8f55e0cd00631 and 6af98361866dffc186252f6c. Nov 15 18:00 confirmed public, adI38Z58css. Nov 15 20:00 remains historical gap. From Nov 16 after 17:00, 5/6 slots over 48 hours confirmed. Nov 18 10:00 still requires the matching long expansion from the finished Two Lunch Boxes master. Nov 18 20:00 needs its distinct evening handoff. No backup reservations for these two slots.
 
 Recovery package `libfile_9363f33300f08191aadb3ced42c5b0f4`.
+
+
+## Hanzi on Screen YouTube release record, Nov 17 evening
+
+Exact channel UCnTFHhzyCoiSaDSfdGKFx5g. Times are WIB.
+
+- Nov 17 10:00 The Switched Name Tags verified public in YouTube Studio, ID cmTM1rH-amo. Nov 17 Shorts still automatic in Buffer at check: 18:00 6afad833c80a2665df5a7169 and 20:00 6afad86b276ea8e184ec974f.
+- Nov 16 Shorts verified public: 18:00 https://www.youtube.com/shorts/ZAb66haVR_s and 20:00 https://www.youtube.com/shorts/5bMM8FJfMB4.
+- Nov 18 18:00 The Two Lunch Boxes existing Buffer 6afad89e4b332d81cc215325 preserved. SHA-256 1a215108133837923907f22a706370c0ee805d8715d77529dfccc6d5feb81f5e. Upstream IG https://www.instagram.com/reel/Df1IgCtjwtq/.
+- Nov 18 20:00 The Domino Apology automatic Buffer 6afc261dbbcba2d050afb946. SHA-256 1f0118f630d032feb9b4db88b8ec4752240ec0bcf9a1e33b0c1111ea609724d7. Exact approved original libfile_ac8c2dd438108191ab946bb940911924.
+- Nov 19 18:00 Two Bookmarks automatic Buffer 6afc264ebe53fda2e8f0153b. SHA-256 fa4ef3b36b732076cebfc25ea50acb7b0ae3c662f98274b7efb37d5567e077d1. Exact approved original libfile_86d83e4a24088191ab11286b2ea9ce48.
+- Next open slot Nov 19 10:00 WIB: finished Two Bookmarks source ready for a same-topic long expansion, with no Social Champ backup reservation. Nov 19 20:00 needs a separate, rights- and QA-cleared original.
+- Nov 18 10:00 The Two Lunch Boxes · 3:32 landscape lesson confirmed Scheduled in Social Champ Future for Nov 18 at 03:00 UTC. SHA-256 34b15e591c79a6ac1c3f0df418e1b8317fee0db094a627d9e90613486ee84392. Full decode, audio signal, 57 timed captions and frames passed. Licensed Kokoro was used without independent listening review. First Social Champ attempt retained an unsaved draft without media or schedule. The second submission from the reopened draft created the confirmed reservation.
+- Next 48h: 5/6 confirmed. Nov 19 18:00 is a further confirmed reserve after that window.
+
+Recovery package `libfile_9f589b355afc8191a45070108ab97dc8`.
