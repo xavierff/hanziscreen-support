@@ -107,7 +107,8 @@
       "wib": "2026-11-17 12:00",
       "sha256": "1ba3bd8516d0dc7e5911d500e20824eef9659a0fb39475f3001f1e70ba773416",
       "status": "AUTO-SCHEDULED",
-      "buffer_id": "6afbb3e88a8948d00c30a8cd"
+      "buffer_id": "6afbb3e88a8948d00c30a8cd",
+      "archive": "libfile_275b9732c434819185a2417322a3e2b2"
     },
     {
       "title": "Cangkir Biru",
@@ -116,7 +117,9 @@
       "indonesian": "Aku punya ide bagus.",
       "wib": "2026-11-17 19:00",
       "sha256": "948d6a59fe5eb3bbf0947117d9e4a30d58e68401dce4c294288046e867b1e882",
-      "status": "PREPARED_INTENT"
+      "status": "AUTO-SCHEDULED",
+      "buffer_id": "6afbb40a8a8948d00c30afac",
+      "archive": "libfile_275b9732c434819185a2417322a3e2b2"
     }
   ]
 }
