@@ -82,9 +82,10 @@
       "indonesian": "Ayo kita bagi airnya.",
       "wib": "2026-11-16 12:00",
       "sha256": "7226c187f91b05cad9d655475e51b01056758cd363db82e50d91e8f5fde28697",
-      "status": "AUTO-SCHEDULED",
+      "status": "SENT",
       "buffer_id": "6afa634b8a4d7c202ee4715d",
-      "archive": "libfile_b413d54365c88191a811e182917add84"
+      "archive": "libfile_b413d54365c88191a811e182917add84",
+      "public_url": "https://www.instagram.com/reel/DfyjgeWugy0/"
     },
     {
       "title": "Surat yang Belum Rapi",
@@ -93,9 +94,19 @@
       "indonesian": "Aku paham maksudmu.",
       "wib": "2026-11-16 19:00",
       "sha256": "092cc7b2f652084a2fa09059d7cfd633f0c6c7629d516541633babc109077275",
-      "status": "AUTO-SCHEDULED",
+      "status": "PUBLIC",
       "buffer_id": "6afa636d2fae797390b94028",
-      "archive": "libfile_b413d54365c88191a811e182917add84"
+      "archive": "libfile_b413d54365c88191a811e182917add84",
+      "public_url": "https://www.instagram.com/reels/DfzTruntzXy/"
+    },
+    {
+      "title": "Teh di Bawah Tenda",
+      "sentence": "我想听听你的想法。",
+      "pinyin": "Wǒ xiǎng tīngting nǐ de xiǎngfǎ.",
+      "indonesian": "Aku ingin dengar pendapatmu.",
+      "wib": "2026-11-17 12:00",
+      "sha256": "1ba3bd8516d0dc7e5911d500e20824eef9659a0fb39475f3001f1e70ba773416",
+      "status": "PREPARED_INTENT"
     }
   ]
 }
