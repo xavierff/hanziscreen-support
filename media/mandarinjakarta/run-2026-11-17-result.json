@@ -1,0 +1,92 @@
+{
+  "date": "2026-11-17",
+  "timezone": "Asia/Jakarta",
+  "instagram": {
+    "previous": [
+      {
+        "title": "Jatah Air",
+        "sentence": "我们分着喝吧。",
+        "pinyin": "Wǒmen fēnzhe hē ba.",
+        "indonesian": "Ayo kita bagi airnya.",
+        "wib": "2026-11-16 12:00",
+        "sha256": "7226c187f91b05cad9d655475e51b01056758cd363db82e50d91e8f5fde28697",
+        "status": "SENT",
+        "buffer_id": "6afa634b8a4d7c202ee4715d",
+        "archive": "libfile_b413d54365c88191a811e182917add84",
+        "public_url": "https://www.instagram.com/reel/DfyjgeWugy0/"
+      },
+      {
+        "title": "Surat yang Belum Rapi",
+        "sentence": "我明白你的意思。",
+        "pinyin": "Wǒ míngbai nǐ de yìsi.",
+        "indonesian": "Aku paham maksudmu.",
+        "wib": "2026-11-16 19:00",
+        "sha256": "092cc7b2f652084a2fa09059d7cfd633f0c6c7629d516541633babc109077275",
+        "status": "PUBLIC",
+        "buffer_id": "6afa636d2fae797390b94028",
+        "archive": "libfile_b413d54365c88191a811e182917add84",
+        "public_url": "https://www.instagram.com/reels/DfzTruntzXy/"
+      }
+    ],
+    "new_posts": [
+      {
+        "title": "Teh di Bawah Tenda",
+        "sentence": "我想听听你的想法。",
+        "pinyin": "Wǒ xiǎng tīngting nǐ de xiǎngfǎ.",
+        "indonesian": "Aku ingin dengar pendapatmu.",
+        "wib": "2026-11-17 12:00",
+        "sha256": "1ba3bd8516d0dc7e5911d500e20824eef9659a0fb39475f3001f1e70ba773416",
+        "status": "AUTO-SCHEDULED",
+        "buffer_id": "6afbb3e88a8948d00c30a8cd",
+        "archive": "libfile_275b9732c434819185a2417322a3e2b2"
+      },
+      {
+        "title": "Cangkir Biru",
+        "sentence": "我有个好主意。",
+        "pinyin": "Wǒ yǒu ge hǎo zhǔyi.",
+        "indonesian": "Aku punya ide bagus.",
+        "wib": "2026-11-17 19:00",
+        "sha256": "948d6a59fe5eb3bbf0947117d9e4a30d58e68401dce4c294288046e867b1e882",
+        "status": "AUTO-SCHEDULED",
+        "buffer_id": "6afbb40a8a8948d00c30afac",
+        "archive": "libfile_275b9732c434819185a2417322a3e2b2"
+      }
+    ],
+    "coverage": "2/4",
+    "first_gap": "2026-11-18 12:00 WIB",
+    "finished_unreserved": 0
+  },
+  "x": {
+    "previous_sent": [
+      "https://x.com/2112901672993472512/status/2122147787668070551",
+      "https://x.com/2112901672993472512/status/2122299165992435805"
+    ],
+    "protected": [
+      "6afa6253e27333ae35b5ea46",
+      "6afa62621d66aa4466fa7056"
+    ],
+    "new_posts": [
+      {
+        "time": "09:00",
+        "body": "Two lunch boxes look identical. Before you open the one in your hand, ask:\n\n哪个是我的？\nNǎge shì wǒ de?\nWhich one is mine?\n\n哪个 (nǎge) asks you to pick one from a set.",
+        "source": "The two lunch boxes",
+        "sha": "1a215108133837923907f22a706370c0ee805d8715d77529dfccc6d5feb81f5e",
+        "date": "2026-11-18",
+        "buffer_id": "6afbb2bcdac5dd69436aaf31",
+        "status": "AUTO-SCHEDULED"
+      },
+      {
+        "time": "19:00",
+        "body": "You knock over the dominoes your friend spent an hour lining up. After apologizing, offer to fix it:\n\n我帮你重新摆吧。\nWǒ bāng nǐ chóngxīn bǎi ba.\nLet me help you set them up again.\n\n重新 (chóngxīn) means to do something again from the start.",
+        "source": "The domino apology",
+        "sha": "1f0118f630d032feb9b4db88b8ec4752240ec0bcf9a1e33b0c1111ea609724d7",
+        "date": "2026-11-18",
+        "buffer_id": "6afbb2cf85684c24e766603f",
+        "status": "AUTO-SCHEDULED"
+      }
+    ],
+    "coverage": "4/4",
+    "first_gap": "2026-11-19 09:00 WIB"
+  },
+  "qa": "Full decode, selected video frames, caption timing and Mandarin pronunciation inputs verified. No independent listening."
+}
