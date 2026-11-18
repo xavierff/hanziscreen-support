@@ -130,6 +130,16 @@
       "indonesian": "Sisakan jalan untuk orang lain.",
       "wib": "2026-11-18 12:00",
       "sha256": "ba5807008f5e49c7b0841ac8443960d10e9eb2b5c9dd272ffe79262481a176bd",
+      "status": "AUTO-SCHEDULED",
+      "buffer_id": "6afcfd295a5b16fb894a2e7c"
+    },
+    {
+      "title": "Jejak di Gudang",
+      "sentence": "先问清楚，再下结论。",
+      "pinyin": "Xiān wèn qīngchu, zài xià jiélùn.",
+      "indonesian": "Tanya sampai jelas, baru simpulkan.",
+      "wib": "2026-11-18 19:00",
+      "sha256": "82ef27699cb1550217bc5a969939e59a54f026e64838a55aa9522a2aa1873223",
       "status": "PREPARED_INTENT"
     }
   ]
