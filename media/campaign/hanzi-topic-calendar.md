@@ -360,3 +360,19 @@ Exact channel UCnTFHhzyCoiSaDSfdGKFx5g. Times are WIB.
 - Next 48h: 5/6 confirmed. Nov 19 18:00 is a further confirmed reserve after that window.
 
 Recovery package `libfile_9f589b355afc8191a45070108ab97dc8`.
+
+
+## Hanzi on Screen YouTube release record, Nov 18 evening
+
+Exact channel UCnTFHhzyCoiSaDSfdGKFx5g. Audience times WIB.
+
+- Nov 18 10:00 The Two Lunch Boxes public, YouTube ID joSFxJjB_R4. Nov 18 Shorts remained reserved, 18:00 Buffer 6afad89e4b332d81cc215325 and 20:00 Buffer 6afc261dbbcba2d050afb946.
+- Nov 17 Shorts confirmed public: 18:00 https://www.youtube.com/shorts/do6DZBql4Vk and 20:00 https://www.youtube.com/shorts/F_jWKVb1dtc.
+- Nov 19 18:00 Two Bookmarks preserved, Buffer 6afc264ebe53fda2e8f0153b. SHA-256 fa4ef3b36b732076cebfc25ea50acb7b0ae3c662f98274b7efb37d5567e077d1. Prior-day IG https://www.instagram.com/reel/Df3tMaelWZy/.
+- Nov 19 20:00 The Paper Plane automatic Buffer 6afd7746203e5c167a8af755. SHA-256 f5d2588b0051f18a5f3cffbcdeb42b87184a71bcd2448e93872a46c30f3f0fe6, exact approved original libfile_679e7acdb7108191b6d3af4676b26050.
+- Nov 20 18:00 The Mitten Mix-Up automatic Buffer 6afd776d2bf953fe0332615b. SHA-256 5f02e7cc589b7af3d4c6f7363cfb8aa642c4ecf67aea709a72b00203807ac859, exact approved original libfile_bf98c48322bc81918a54d7570d6a3002.
+- Nov 20 10:00 Social Champ needs a long expansion of the finished Mitten Mix-Up master. Nov 20 20:00 needs its distinct evening original. No confirmed backup reservations.
+- Nov 19 10:00 Two Bookmarks · 3:23 lesson, confirmed Scheduled in Social Champ Future for Nov 19 at 03:00 UTC. SHA-256 a5ec4137b080ef93e6e810495c3a8cabefe37e41dda6a8104c85235266a6aa8f. Full decode, representative frames, 55 caption cues, and audio signal checks passed. Licensed Kokoro template, no independent listening review.
+- 48-hour coverage: 5 of 6 planned slots. Nov 20 18:00 is the next confirmed reserve beyond that window.
+
+Recovery package `libfile_3cd93adb412c819180b63a110c758322`.
