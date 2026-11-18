@@ -1,0 +1,94 @@
+{
+  "date": "2026-11-18",
+  "timezone": "Asia/Jakarta",
+  "instagram": {
+    "previous": [
+      {
+        "title": "Teh di Bawah Tenda",
+        "sentence": "我想听听你的想法。",
+        "pinyin": "Wǒ xiǎng tīngting nǐ de xiǎngfǎ.",
+        "indonesian": "Aku ingin dengar pendapatmu.",
+        "wib": "2026-11-17 12:00",
+        "sha256": "1ba3bd8516d0dc7e5911d500e20824eef9659a0fb39475f3001f1e70ba773416",
+        "status": "SENT",
+        "buffer_id": "6afbb3e88a8948d00c30a8cd",
+        "archive": "libfile_275b9732c434819185a2417322a3e2b2",
+        "public_url": "https://www.instagram.com/reel/Df1IW69B-RZ/"
+      },
+      {
+        "title": "Cangkir Biru",
+        "sentence": "我有个好主意。",
+        "pinyin": "Wǒ yǒu ge hǎo zhǔyi.",
+        "indonesian": "Aku punya ide bagus.",
+        "wib": "2026-11-17 19:00",
+        "sha256": "948d6a59fe5eb3bbf0947117d9e4a30d58e68401dce4c294288046e867b1e882",
+        "status": "PUBLIC",
+        "buffer_id": "6afbb40a8a8948d00c30afac",
+        "archive": "libfile_275b9732c434819185a2417322a3e2b2",
+        "public_url": "https://www.instagram.com/reels/Df14j4ehLpI/"
+      }
+    ],
+    "new_posts": [
+      {
+        "title": "Jalan di Antara Kios",
+        "sentence": "给别人留条路。",
+        "pinyin": "Gěi biérén liú tiáo lù.",
+        "indonesian": "Sisakan jalan untuk orang lain.",
+        "wib": "2026-11-18 12:00",
+        "sha256": "ba5807008f5e49c7b0841ac8443960d10e9eb2b5c9dd272ffe79262481a176bd",
+        "status": "AUTO-SCHEDULED",
+        "buffer_id": "6afcfd295a5b16fb894a2e7c",
+        "archive": "libfile_a701cd0f284c8191a6edc99af657043e"
+      },
+      {
+        "title": "Jejak di Gudang",
+        "sentence": "先问清楚，再下结论。",
+        "pinyin": "Xiān wèn qīngchu, zài xià jiélùn.",
+        "indonesian": "Tanya sampai jelas, baru simpulkan.",
+        "wib": "2026-11-18 19:00",
+        "sha256": "82ef27699cb1550217bc5a969939e59a54f026e64838a55aa9522a2aa1873223",
+        "status": "AUTO-SCHEDULED",
+        "buffer_id": "6afcfd54faf0a4c3f77faf14",
+        "archive": "libfile_a701cd0f284c8191a6edc99af657043e"
+      }
+    ],
+    "coverage": "2/4",
+    "first_gap": "2026-11-19 12:00 WIB",
+    "finished_unreserved": 0,
+    "ending_cards_seconds": [
+      7.2,
+      7.2
+    ]
+  },
+  "x": {
+    "previous_sent": [
+      "https://x.com/2112901672993472512/status/2122510305351614684",
+      "https://x.com/2112901672993472512/status/2122661736444522642"
+    ],
+    "protected": [
+      "6afbb2bcdac5dd69436aaf31",
+      "6afbb2cf85684c24e766603f"
+    ],
+    "new_posts": [
+      {
+        "wib": "2026-11-19 09:00",
+        "source": "Two bookmarks",
+        "source_sha256": "fa4ef3b36b732076cebfc25ea50acb7b0ae3c662f98274b7efb37d5567e077d1",
+        "text": "Two bookmarks fall out of one book. One has your friend’s initials.\n\n我还给你吧。\nWǒ huán gěi nǐ ba.\nLet me give it back to you.\n\nHere 还 is huán, meaning to return something.",
+        "buffer_id": "6afcfc36f39c07a0dfde5698",
+        "status": "AUTO-SCHEDULED"
+      },
+      {
+        "wib": "2026-11-19 19:00",
+        "source": "The paper plane",
+        "source_sha256": "f5d2588b0051f18a5f3cffbcdeb42b87184a71bcd2448e93872a46c30f3f0fe6",
+        "text": "Your paper plane flies two feet and lands under a chair. Your friend hands it back and says:\n\n再飞一次吧。\nZài fēi yí cì ba.\nLet’s fly it one more time.\n\n再 + verb is a handy way to suggest another try.",
+        "buffer_id": "6afcfc46cb4b655655ae2a8f",
+        "status": "AUTO-SCHEDULED"
+      }
+    ],
+    "coverage": "4/4",
+    "first_gap": "2026-11-20 09:00 WIB"
+  },
+  "qa": "Full decode, visible outcome, final card, caption timing and Mandarin pronunciation inputs verified. Corrected 人 input to second tone in 别人. No independent listening."
+}
