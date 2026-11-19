@@ -154,8 +154,9 @@
       "indonesian": "Kejujuran lebih berharga daripada emas.",
       "wib": "2026-11-19 12:00",
       "sha256": "261756b1e1bd0aad711e7817020b97adae1ecf0776c832e10776d3c72cbbff0e",
-      "status": "PREPARED_INTENT",
-      "archive": "libfile_b858dde2567081918cbe9275d1636a85"
+      "status": "AUTO-SCHEDULED",
+      "archive": "libfile_b858dde2567081918cbe9275d1636a85",
+      "buffer_id": "6afe559e0496d34ac7e4000c"
     },
     {
       "title": "Peti di Tangga",
