@@ -1,0 +1,146 @@
+{
+  "date_wib": "2026-11-19",
+  "status": "PRODUCTION_IN_PROGRESS",
+  "previous": {
+    "ig": [
+      {
+        "id": "6afcfd295a5b16fb894a2e7c",
+        "url": "https://www.instagram.com/reel/Df3tHwyBrMx/",
+        "status": "SENT"
+      },
+      {
+        "id": "6afcfd54faf0a4c3f77faf14",
+        "url": "https://www.instagram.com/reel/Df4dYozBOus/",
+        "status": "SENT"
+      }
+    ],
+    "x": [
+      {
+        "id": "6afbb2bcdac5dd69436aaf31",
+        "url": "https://x.com/2112901672993472512/status/2122872696195211368",
+        "status": "SENT"
+      },
+      {
+        "id": "6afbb2cf85684c24e766603f",
+        "url": "https://x.com/2112901672993472512/status/2123024127124455763",
+        "status": "SENT"
+      }
+    ]
+  },
+  "ig_queue_initial": 0,
+  "x_protected": [
+    "6afcfc36f39c07a0dfde5698",
+    "6afcfc46cb4b655655ae2a8f"
+  ],
+  "x_intents": [
+    {
+      "time_wib": "2026-11-20 09:00",
+      "text": "One pink mitten, one yellow mitten. Neither pair matches. 我们换回来吧。 Wǒmen huàn huílai ba. “Let’s swap them back.” 换回来 means swap back to the original owners. Handy after a mix-up!",
+      "source": "libfile_bf98c48322bc81918a54d7570d6a3002"
+    },
+    {
+      "time_wib": "2026-11-20 19:00",
+      "text": "The suitcase looks familiar. The name tag doesn’t. 我拿错了。 Wǒ ná cuò le. “I took the wrong one.” Verb + 错 marks a mistake: 拿错 = take the wrong thing. A useful way to own a small mix-up.",
+      "source": "libfile_94eabf03fbf481919ded06c239745112"
+    }
+  ],
+  "ig_sources": [
+    {
+      "slug": "Timbangan",
+      "title": "Timbangan di Balik Meja",
+      "category": "fable or reversal",
+      "zh": "诚信比金子更珍贵。",
+      "pinyin": "Chéngxìn bǐ jīnzi gèng zhēnguì.",
+      "meaning": "Kejujuran lebih berharga daripada emas.",
+      "nuance": "Gunakan untuk menegaskan bahwa kepercayaan tidak layak ditukar dengan keuntungan.",
+      "hook": "Pedagang itu sudah menerima uangnya. Lalu ia melihat timbangan yang miring.",
+      "conflict": "Merchant discovers scale shortchanges buyer and fears losing profit.",
+      "choice": "Returns missing rice at his own expense and repairs scale openly.",
+      "shown_outcome": "Buyer receives owed rice, scale is balanced, buyer returns to purchase.",
+      "why_it_matters": "Honesty costs a small profit but earns trust.",
+      "ending_plan": "Scenes 5–6 show repayment, balanced scale and buyer return; scene 7 is 7.2s final Mandarin card.",
+      "scenes": [
+        [
+          "Uangnya sudah masuk kantong.",
+          "Baru saat itu Liang melihat timbangannya miring."
+        ],
+        [
+          "Beras yang dibawa pembeli ternyata kurang.",
+          "Tak seorang pun melihat kesalahan itu."
+        ],
+        [
+          "Hari itu dagangannya sepi.",
+          "Kalau ia diam, uang untuk makan tetap utuh."
+        ],
+        [
+          "Liang mengambil satu takaran beras lagi.",
+          "Ia berlari mengejar perempuan di ujung pasar."
+        ],
+        [
+          "Ia mengaku timbangannya rusak.",
+          "Beras yang kurang diserahkan tanpa meminta tambahan."
+        ],
+        [
+          "Sore itu Liang memperbaiki timbangannya.",
+          "Keesokan pagi, perempuan itu kembali membeli beras."
+        ],
+        [
+          "Liang kehilangan sedikit keuntungan, tetapi mendapat kepercayaan.",
+          "Kejujurannya membuat pembeli berani kembali."
+        ],
+        [
+          "ZH"
+        ]
+      ]
+    },
+    {
+      "slug": "Peti",
+      "title": "Peti di Tangga",
+      "category": "relatable psychology",
+      "zh": "求助也需要勇气。",
+      "pinyin": "Qiúzhù yě xūyào yǒngqì.",
+      "meaning": "Meminta bantuan juga butuh keberanian.",
+      "nuance": "Ucapkan untuk mendukung seseorang yang merasa malu meminta bantuan.",
+      "hook": "Peti itu mulai meluncur. Yang paling berat justru mengucapkan: aku butuh bantuan.",
+      "conflict": "Widowed shopkeeper refuses help to prove self-reliance while moving rice chest.",
+      "choice": "Stops, asks neighbor to lift together instead of risking accident.",
+      "shown_outcome": "Both place chest safely on floor and she thanks him openly; shop opens.",
+      "why_it_matters": "Accepting help preserves her work without denying her strength.",
+      "ending_plan": "Scenes 5–6 show shared lift, safe arrival and shop open; final card 7.2s.",
+      "scenes": [
+        [
+          "Peti itu mulai meluncur dari tangga.",
+          "Mei menahannya dengan lutut yang gemetar."
+        ],
+        [
+          "Sejak suaminya meninggal, ia mengurus toko sendiri.",
+          "Tawaran bantuan selalu dibalas dengan senyum kecil."
+        ],
+        [
+          "Pagi itu beras harus dibawa ke lantai atas.",
+          "Ia takut orang mengira dirinya tak mampu."
+        ],
+        [
+          "Tetangganya melihat dari pintu.",
+          "Mei akhirnya berhenti menarik peti itu sendirian."
+        ],
+        [
+          "Ia meminta tetangganya memegang sisi sebelah.",
+          "Mereka mengangkat bersama, selangkah demi selangkah."
+        ],
+        [
+          "Peti tiba dengan aman di lantai atas.",
+          "Mei berterima kasih, lalu membuka tokonya tepat waktu."
+        ],
+        [
+          "Mei tetap mengurus usahanya sendiri.",
+          "Menerima bantuan membuat pekerjaannya selamat, bukan dirinya lemah."
+        ],
+        [
+          "ZH"
+        ]
+      ]
+    }
+  ],
+  "listening": "No independent human listening claimed"
+}
