@@ -1,0 +1,50 @@
+{
+  "baseline": {
+    "observed_wib": "2026-11-19",
+    "video_id": "LvFfflL6Xxk",
+    "views": 0,
+    "impressions": null,
+    "ctr": null,
+    "average_view_duration": null,
+    "subscriber_change": null,
+    "note": "Studio public content row only. Reach and engagement analytics not read during this bounded template run."
+  },
+  "new_long_releases": [
+    {
+      "date_wib": "2026-11-22",
+      "time_wib": "10:00",
+      "public_id": null,
+      "impressions": null,
+      "ctr": null,
+      "average_view_duration": null,
+      "subscriber_change": null
+    },
+    {
+      "date_wib": "2026-11-25",
+      "time_wib": "10:00",
+      "public_id": null,
+      "impressions": null,
+      "ctr": null,
+      "average_view_duration": null,
+      "subscriber_change": null
+    },
+    {
+      "date_wib": "2026-11-28",
+      "time_wib": "10:00",
+      "public_id": null,
+      "impressions": null,
+      "ctr": null,
+      "average_view_duration": null,
+      "subscriber_change": null
+    },
+    {
+      "date_wib": "2026-12-01",
+      "time_wib": "10:00",
+      "public_id": null,
+      "impressions": null,
+      "ctr": null,
+      "average_view_duration": null,
+      "subscriber_change": null
+    }
+  ]
+}
