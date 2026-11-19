@@ -130,9 +130,10 @@
       "indonesian": "Sisakan jalan untuk orang lain.",
       "wib": "2026-11-18 12:00",
       "sha256": "ba5807008f5e49c7b0841ac8443960d10e9eb2b5c9dd272ffe79262481a176bd",
-      "status": "AUTO-SCHEDULED",
+      "status": "SENT",
       "buffer_id": "6afcfd295a5b16fb894a2e7c",
-      "archive": "libfile_a701cd0f284c8191a6edc99af657043e"
+      "archive": "libfile_a701cd0f284c8191a6edc99af657043e",
+      "public_url": "https://www.instagram.com/reel/Df3tHwyBrMx/"
     },
     {
       "title": "Jejak di Gudang",
@@ -141,9 +142,30 @@
       "indonesian": "Tanya sampai jelas, baru simpulkan.",
       "wib": "2026-11-18 19:00",
       "sha256": "82ef27699cb1550217bc5a969939e59a54f026e64838a55aa9522a2aa1873223",
-      "status": "AUTO-SCHEDULED",
+      "status": "PUBLIC",
       "buffer_id": "6afcfd54faf0a4c3f77faf14",
-      "archive": "libfile_a701cd0f284c8191a6edc99af657043e"
+      "archive": "libfile_a701cd0f284c8191a6edc99af657043e",
+      "public_url": "https://www.instagram.com/reels/Df4dYozBOus/"
+    },
+    {
+      "title": "Timbangan di Balik Meja",
+      "sentence": "诚信比金子更珍贵。",
+      "pinyin": "Chéngxìn bǐ jīnzi gèng zhēnguì.",
+      "indonesian": "Kejujuran lebih berharga daripada emas.",
+      "wib": "2026-11-19 12:00",
+      "sha256": "261756b1e1bd0aad711e7817020b97adae1ecf0776c832e10776d3c72cbbff0e",
+      "status": "PREPARED_INTENT",
+      "archive": "libfile_b858dde2567081918cbe9275d1636a85"
+    },
+    {
+      "title": "Peti di Tangga",
+      "sentence": "求助也需要勇气。",
+      "pinyin": "Qiúzhù yě xūyào yǒngqì.",
+      "indonesian": "Meminta bantuan juga butuh keberanian.",
+      "wib": "2026-11-19 19:00",
+      "sha256": "91f1d2ed6e63a7a670f2c9d93eaa2c913aefaba96278f9c9b22512c2e25c6e14",
+      "status": "PREPARED_INTENT",
+      "archive": "libfile_b858dde2567081918cbe9275d1636a85"
     }
   ]
 }
