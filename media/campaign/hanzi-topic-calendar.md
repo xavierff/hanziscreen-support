@@ -376,3 +376,25 @@ Exact channel UCnTFHhzyCoiSaDSfdGKFx5g. Audience times WIB.
 - 48-hour coverage: 5 of 6 planned slots. Nov 20 18:00 is the next confirmed reserve beyond that window.
 
 Recovery package `libfile_3cd93adb412c819180b63a110c758322`.
+
+
+## November 19 Hanzi YouTube transition
+
+Exact channel UCnTFHhzyCoiSaDSfdGKFx5g.
+
+Nov19 Two Bookmarks 10:00 verified public in exact-channel Studio: https://www.youtube.com/watch?v=LvFfflL6Xxk . Native row showed 0 views at verification. Nov19 Shorts 18:00 6afc264ebe53fda2e8f0153b and 20:00 6afd7746203e5c167a8af755 protected. Nov20 18:00 6afd776d2bf953fe0332615b protected.
+
+Nov20 20:00 The Tiny Suitcase auto-scheduled Buffer 6afeca91ff1c5987ce9a6961, exact original SHA-256 16f300d3440fd263a3b6c5499d548d9d9da7814fb261fef7050b3a462f9940ba.
+Nov21 18:00 The Named Umbrella auto-scheduled Buffer 6afecb209c17d7da19652f01, exact original SHA-256 a59199878505f14f2ecfc1fa30089c21c27f90aa27fc2635a20480ea5988f69c.
+Both exact original masters passed local full decode and retained original rights/audio QA.
+Upcoming 48h required slots: 4/4 Shorts reserved. No long slots fall in that window. Nov21 20:00 needs its distinct original handoff; no backup reservation yet.
+
+Long release calendar: Nov19 day0, next Nov22 10:00, Nov25, Nov28 and Dec1. Nov20/21 are intentional off days, no gaps. No future Social Champ collision was found. On Nov21 prepare the Nov22 lesson from a finished matching source. No new full lesson was produced Nov19.
+
+Actual implementation: template/build.py imports template/long_template_v2.py compose and authorize_export. template/narrate.py uses the same gate before voice synthesis. Date tests and an attempted Nov20 build refused export before reading/rendering the episode. Frame composition reframes the original art, provides 6–10% subtitle clearance, two lines maximum, measured page timing and protected-region fallback. Featured Mandarin lesson text is separate from the lower-third pinyin/English. Full-size previews are emitted before each full export. Unique episode ID, accurate situation/phrase title, short custom thumbnail text and close-up crop are required by the export entry point. Full episode duration guard is 180–300s.
+
+One template test only: existing cached source scenes/audio, no new narration. Five preview states at 1280/640/320, 55 caption timing and bounds cases, bottom-object fallback, native 16:9 short test full decode passed. End screenshots repositioned above faces. No independent listening review. Future episode-specific artwork/thumbnail, timing/voice and first-five-second action must be checked again on its production date.
+
+Authoritative reusable source was persisted to GitHub media/youtube/template-v2/ with module, build, narration entry, tests and instructions. Prior public/queued video masters unchanged.
+
+Template/test/recovery package `libfile_b9cabb83ff5481918b492499c0d436e0`. Reusable source `media/youtube/template-v2/`. Next normal long production is Nov21 for Nov22 10:00 WIB. All older daily-long gap declarations from Nov20 onward are superseded by anchored three-calendar-day cadence.
