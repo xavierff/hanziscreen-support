@@ -1,7 +1,14 @@
 {
   "date_wib": "2026-11-19",
-  "status": "PRODUCTION_IN_PROGRESS",
-  "previous": {
+  "verified_wib": "2026-11-19 08:50",
+  "status": "PARTIAL_RESERVE_NEEDS_ATTENTION",
+  "accounts": {
+    "instagram": "@mandarinjakarta",
+    "instagram_buffer_channel": "6ad9a4bc778b240e2f87c9e5",
+    "x": "@hanziscreen",
+    "x_buffer_channel": "6ad8c4a6778b240e2f7b10d2"
+  },
+  "previous_releases": {
     "ig": [
       {
         "id": "6afcfd295a5b16fb894a2e7c",
@@ -27,120 +34,98 @@
       }
     ]
   },
-  "ig_queue_initial": 0,
-  "x_protected": [
-    "6afcfc36f39c07a0dfde5698",
-    "6afcfc46cb4b655655ae2a8f"
+  "previous_public_page_verified": "https://www.instagram.com/reels/Df4dYozBOus/",
+  "ig_new": [
+    {
+      "title": "Timbangan di Balik Meja",
+      "sentence": "诚信比金子更珍贵。",
+      "pinyin": "Chéngxìn bǐ jīnzi gèng zhēnguì.",
+      "indonesian": "Kejujuran lebih berharga daripada emas.",
+      "wib": "2026-11-19 12:00",
+      "sha256": "261756b1e1bd0aad711e7817020b97adae1ecf0776c832e10776d3c72cbbff0e",
+      "status": "AUTO-SCHEDULED",
+      "archive": "libfile_b858dde2567081918cbe9275d1636a85",
+      "buffer_id": "6afe559e0496d34ac7e4000c"
+    },
+    {
+      "title": "Peti di Tangga",
+      "sentence": "求助也需要勇气。",
+      "pinyin": "Qiúzhù yě xūyào yǒngqì.",
+      "indonesian": "Meminta bantuan juga butuh keberanian.",
+      "wib": "2026-11-19 19:00",
+      "sha256": "91f1d2ed6e63a7a670f2c9d93eaa2c913aefaba96278f9c9b22512c2e25c6e14",
+      "status": "AUTO-SCHEDULED",
+      "archive": "libfile_b858dde2567081918cbe9275d1636a85",
+      "buffer_id": "6afe55ecde72322b74f2974b"
+    }
   ],
-  "x_intents": [
+  "x_new": [
     {
       "time_wib": "2026-11-20 09:00",
       "text": "One pink mitten, one yellow mitten. Neither pair matches. 我们换回来吧。 Wǒmen huàn huílai ba. “Let’s swap them back.” 换回来 means swap back to the original owners. Handy after a mix-up!",
-      "source": "libfile_bf98c48322bc81918a54d7570d6a3002"
+      "source": "libfile_bf98c48322bc81918a54d7570d6a3002",
+      "id": "6afe54bfdd534abdaf4123a1",
+      "status": "AUTO-SCHEDULED"
     },
     {
       "time_wib": "2026-11-20 19:00",
       "text": "The suitcase looks familiar. The name tag doesn’t. 我拿错了。 Wǒ ná cuò le. “I took the wrong one.” Verb + 错 marks a mistake: 拿错 = take the wrong thing. A useful way to own a small mix-up.",
-      "source": "libfile_94eabf03fbf481919ded06c239745112"
+      "source": "libfile_94eabf03fbf481919ded06c239745112",
+      "id": "6afe55221cb6d6677a7d20b0",
+      "status": "AUTO-SCHEDULED"
     }
   ],
-  "ig_sources": [
+  "x_preserved": [
     {
-      "slug": "Timbangan",
-      "title": "Timbangan di Balik Meja",
-      "category": "fable or reversal",
-      "zh": "诚信比金子更珍贵。",
-      "pinyin": "Chéngxìn bǐ jīnzi gèng zhēnguì.",
-      "meaning": "Kejujuran lebih berharga daripada emas.",
-      "nuance": "Gunakan untuk menegaskan bahwa kepercayaan tidak layak ditukar dengan keuntungan.",
-      "hook": "Pedagang itu sudah menerima uangnya. Lalu ia melihat timbangan yang miring.",
-      "conflict": "Merchant discovers scale shortchanges buyer and fears losing profit.",
-      "choice": "Returns missing rice at his own expense and repairs scale openly.",
-      "shown_outcome": "Buyer receives owed rice, scale is balanced, buyer returns to purchase.",
-      "why_it_matters": "Honesty costs a small profit but earns trust.",
-      "ending_plan": "Scenes 5–6 show repayment, balanced scale and buyer return; scene 7 is 7.2s final Mandarin card.",
-      "scenes": [
-        [
-          "Uangnya sudah masuk kantong.",
-          "Baru saat itu Liang melihat timbangannya miring."
-        ],
-        [
-          "Beras yang dibawa pembeli ternyata kurang.",
-          "Tak seorang pun melihat kesalahan itu."
-        ],
-        [
-          "Hari itu dagangannya sepi.",
-          "Kalau ia diam, uang untuk makan tetap utuh."
-        ],
-        [
-          "Liang mengambil satu takaran beras lagi.",
-          "Ia berlari mengejar perempuan di ujung pasar."
-        ],
-        [
-          "Ia mengaku timbangannya rusak.",
-          "Beras yang kurang diserahkan tanpa meminta tambahan."
-        ],
-        [
-          "Sore itu Liang memperbaiki timbangannya.",
-          "Keesokan pagi, perempuan itu kembali membeli beras."
-        ],
-        [
-          "Liang kehilangan sedikit keuntungan, tetapi mendapat kepercayaan.",
-          "Kejujurannya membuat pembeli berani kembali."
-        ],
-        [
-          "ZH"
-        ]
-      ]
+      "id": "6afcfc36f39c07a0dfde5698",
+      "wib": "2026-11-19 09:00",
+      "status": "AUTO-SCHEDULED"
     },
     {
-      "slug": "Peti",
-      "title": "Peti di Tangga",
-      "category": "relatable psychology",
-      "zh": "求助也需要勇气。",
-      "pinyin": "Qiúzhù yě xūyào yǒngqì.",
-      "meaning": "Meminta bantuan juga butuh keberanian.",
-      "nuance": "Ucapkan untuk mendukung seseorang yang merasa malu meminta bantuan.",
-      "hook": "Peti itu mulai meluncur. Yang paling berat justru mengucapkan: aku butuh bantuan.",
-      "conflict": "Widowed shopkeeper refuses help to prove self-reliance while moving rice chest.",
-      "choice": "Stops, asks neighbor to lift together instead of risking accident.",
-      "shown_outcome": "Both place chest safely on floor and she thanks him openly; shop opens.",
-      "why_it_matters": "Accepting help preserves her work without denying her strength.",
-      "ending_plan": "Scenes 5–6 show shared lift, safe arrival and shop open; final card 7.2s.",
-      "scenes": [
-        [
-          "Peti itu mulai meluncur dari tangga.",
-          "Mei menahannya dengan lutut yang gemetar."
-        ],
-        [
-          "Sejak suaminya meninggal, ia mengurus toko sendiri.",
-          "Tawaran bantuan selalu dibalas dengan senyum kecil."
-        ],
-        [
-          "Pagi itu beras harus dibawa ke lantai atas.",
-          "Ia takut orang mengira dirinya tak mampu."
-        ],
-        [
-          "Tetangganya melihat dari pintu.",
-          "Mei akhirnya berhenti menarik peti itu sendirian."
-        ],
-        [
-          "Ia meminta tetangganya memegang sisi sebelah.",
-          "Mereka mengangkat bersama, selangkah demi selangkah."
-        ],
-        [
-          "Peti tiba dengan aman di lantai atas.",
-          "Mei berterima kasih, lalu membuka tokonya tepat waktu."
-        ],
-        [
-          "Mei tetap mengurus usahanya sendiri.",
-          "Menerima bantuan membuat pekerjaannya selamat, bukan dirinya lemah."
-        ],
-        [
-          "ZH"
-        ]
-      ]
+      "id": "6afcfc46cb4b655655ae2a8f",
+      "wib": "2026-11-19 19:00",
+      "status": "AUTO-SCHEDULED"
     }
   ],
-  "listening": "No independent human listening claimed"
+  "coverage_next_48h": {
+    "instagram": {
+      "confirmed_automatic": 2,
+      "planned": 4,
+      "first_uncovered": "2026-11-20 12:00 WIB",
+      "other_uncovered": "2026-11-20 19:00 WIB",
+      "blocker": "No additional distinct finished unused original masters after assigning today's two. Production inventory shortfall, not login or queue-cap failure.",
+      "confirmed_backup_for_uncovered": false
+    },
+    "x": {
+      "confirmed_automatic": 4,
+      "planned": 4,
+      "first_uncovered": "2026-11-21 09:00 WIB"
+    }
+  },
+  "qa": {
+    "durations_s": [
+      45.166667,
+      47.266667
+    ],
+    "full_decode": "PASS",
+    "visual_endings_and_cards": "PASS",
+    "final_card_holds_s": [
+      8,
+      7.2
+    ],
+    "subtitle_alignment": "Measured individual synthesized phrase intervals; transcript matches; no overlap.",
+    "mandarin": "One final sentence per master; grammar, pinyin, meaning and model phoneme tone inputs reviewed.",
+    "independent_listening": false,
+    "rights": "Original fictional stories and illustrations, original procedural instrumental, licensed local narration models. No historical quotation attribution.",
+    "source_archive": "libfile_b858dde2567081918cbe9275d1636a85"
+  },
+  "pending_failed": "No pending/failed indicators visible in selected Queue/Sent views; no ambiguous submission this run.",
+  "free_plan": "Free plan shown; no upgrade. Queues IG2 and X4; actual numerical cap not surfaced.",
+  "resumption": {
+    "next_existing_run": "2026-11-20 08:00 WIB",
+    "priority": "Produce/recover distinct original for Nov20 noon first, then19:00, with one resolved final Mandarin takeaway. Never repost today's source hashes.",
+    "owner_action": "None currently required; production must continue at existing run. 48h Instagram reserve remains incomplete."
+  },
+  "schedules": "No automation or audience schedule changes made.",
+  "new_public_posts_this_run": 0
 }
