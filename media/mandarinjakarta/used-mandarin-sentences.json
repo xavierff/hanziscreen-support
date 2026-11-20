@@ -189,8 +189,9 @@
       "indonesian": "Yang baik adalah yang sesuai.",
       "wib": "2026-11-20 19:00",
       "sha256": "b007cb7d622b5cfca9be8f899b58b1a91927680654af1548a7f69d8f6290309a",
-      "status": "PREPARED_INTENT",
-      "archive": "libfile_cd34a6f533f0819183d0ba25715aff20"
+      "status": "AUTO-SCHEDULED",
+      "archive": "libfile_cd34a6f533f0819183d0ba25715aff20",
+      "buffer_id": "6affa3f36a7b520471d43815"
     }
   ]
 }
