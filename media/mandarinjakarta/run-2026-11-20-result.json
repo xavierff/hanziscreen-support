@@ -1,6 +1,6 @@
 {
   "date_wib": "2026-11-20",
-  "status": "PRODUCTION_IN_PROGRESS",
+  "status": "PARTIAL_RESERVE_NEEDS_ATTENTION",
   "ig_initial_queue": 0,
   "x_preserved_ids": [
     "6afe54bfdd534abdaf4123a1",
@@ -116,5 +116,133 @@
       "text": "You reach for one pencil. Six roll onto your classmate’s notebook. 对不起。 Duìbuqǐ. “I’m sorry.” Say it to apologize for the accident—then help pick them up. A short phrase works better with a useful action."
     }
   ],
-  "independent_listening": false
+  "independent_listening": false,
+  "verified_wib": "2026-11-20 08:36",
+  "accounts": {
+    "instagram": "@mandarinjakarta",
+    "instagram_buffer_channel": "6ad9a4bc778b240e2f87c9e5",
+    "x": "@hanziscreen",
+    "x_buffer_channel": "6ad8c4a6778b240e2f7b10d2"
+  },
+  "previous_releases": {
+    "ig": [
+      {
+        "id": "6afe559e0496d34ac7e4000c",
+        "wib": "2026-11-19 12:00",
+        "status": "SENT",
+        "url": "https://www.instagram.com/reel/Df6R7ntAd8C/"
+      },
+      {
+        "id": "6afe55ecde72322b74f2974b",
+        "wib": "2026-11-19 19:00",
+        "status": "PUBLIC",
+        "url": "https://www.instagram.com/reels/Df7CIb7hBux/"
+      }
+    ],
+    "x": [
+      {
+        "id": "6afcfc36f39c07a0dfde5698",
+        "wib": "2026-11-19 09:00",
+        "status": "SENT",
+        "url": "https://x.com/2112901672993472512/status/2123235152209871273"
+      },
+      {
+        "id": "6afcfc46cb4b655655ae2a8f",
+        "wib": "2026-11-19 19:00",
+        "status": "SENT",
+        "url": "https://x.com/2112901672993472512/status/2123386488033263885"
+      }
+    ]
+  },
+  "previous_public_page_verified": "https://www.instagram.com/reels/Df7CIb7hBux/",
+  "ig_new": [
+    {
+      "title": "Benih yang Selalu Digali",
+      "sentence": "成长需要耐心。",
+      "pinyin": "Chéngzhǎng xūyào nàixīn.",
+      "indonesian": "Pertumbuhan butuh kesabaran.",
+      "wib": "2026-11-20 12:00",
+      "sha256": "7f74ecd4fadd41b743cdca87fb512b19c9384a679fcc87c5c47213b4f8d15dc7",
+      "status": "AUTO-SCHEDULED",
+      "archive": "libfile_cd34a6f533f0819183d0ba25715aff20",
+      "buffer_id": "6affa3a7fd87b1e92e816fee"
+    },
+    {
+      "title": "Kursi yang Terlalu Tinggi",
+      "sentence": "合适的，才是好的。",
+      "pinyin": "Héshì de, cái shì hǎo de.",
+      "indonesian": "Yang baik adalah yang sesuai.",
+      "wib": "2026-11-20 19:00",
+      "sha256": "b007cb7d622b5cfca9be8f899b58b1a91927680654af1548a7f69d8f6290309a",
+      "status": "AUTO-SCHEDULED",
+      "archive": "libfile_cd34a6f533f0819183d0ba25715aff20",
+      "buffer_id": "6affa3f36a7b520471d43815"
+    }
+  ],
+  "x_new": [
+    {
+      "time_wib": "2026-11-21 09:00",
+      "source": "libfile_e3796896a0f08191ae9fc8729c490f22",
+      "text": "Two identical umbrellas. One has your name on it. 这是你的。 Zhè shì nǐ de. “This is yours.” 的 can stand in for the item already understood: 你的 = yours. Useful when returning something.",
+      "id": "6affa2f3b56403d14458c89d",
+      "status": "AUTO-SCHEDULED"
+    },
+    {
+      "time_wib": "2026-11-21 19:00",
+      "source": "libfile_f600b73dc2ac8191b8e2508629290d4e",
+      "text": "You reach for one pencil. Six roll onto your classmate’s notebook. 对不起。 Duìbuqǐ. “I’m sorry.” Say it to apologize for the accident—then help pick them up. A short phrase works better with a useful action.",
+      "id": "6affa38429fdbaaa1cee68cd",
+      "status": "AUTO-SCHEDULED"
+    }
+  ],
+  "x_protected": [
+    {
+      "id": "6afe54bfdd534abdaf4123a1",
+      "wib": "2026-11-20 09:00",
+      "status": "AUTO-SCHEDULED"
+    },
+    {
+      "id": "6afe55221cb6d6677a7d20b0",
+      "wib": "2026-11-20 19:00",
+      "status": "AUTO-SCHEDULED"
+    }
+  ],
+  "coverage_next_48h": {
+    "instagram": {
+      "confirmed_automatic": 2,
+      "planned": 4,
+      "first_uncovered": "2026-11-21 12:00 WIB",
+      "other_uncovered": "2026-11-21 19:00 WIB",
+      "blocker": "No further distinct completed unused master after assigning today's two; production inventory deficit.",
+      "confirmed_backup_for_gap": false
+    },
+    "x": {
+      "confirmed_automatic": 4,
+      "planned": 4,
+      "first_uncovered": "2026-11-22 09:00 WIB"
+    }
+  },
+  "source_archive": "libfile_cd34a6f533f0819183d0ba25715aff20",
+  "qa": {
+    "durations_s": [
+      46.45,
+      51.4
+    ],
+    "decode": "PASS",
+    "visual_review": "Openings, shown outcomes, Mandarin cards and final frames passed.",
+    "cards_s": [
+      7.5,
+      7.5
+    ],
+    "source_and_subtitle_qa": "Exact scripts and individually synthesized segment timings, no overlap. Chinese grammar, tone-marked pinyin, meaning and phoneme tones checked. No independent subjective listening performed.",
+    "rights": "Original fictional insights, original art/music, licensed established voice models; no historical quotation attribution."
+  },
+  "free_plan": "Free plan shown; queues IG2 and X4, actual numerical cap not exposed; no upgrade.",
+  "pending_failed": "No pending/failed indicators visible in exact-channel Queue/Sent views. No ambiguous submission.",
+  "resumption": {
+    "next_priority": "Nov21 noon distinct original, then Nov21 19:00. Reuse workflow and cached models, never repost today's sources.",
+    "owner_action": "None currently required. Existing next refill should address inventory gap.",
+    "schedule_changes": false
+  },
+  "new_public_posts_this_run": 0
 }
