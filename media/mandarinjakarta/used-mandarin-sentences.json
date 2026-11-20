@@ -154,9 +154,10 @@
       "indonesian": "Kejujuran lebih berharga daripada emas.",
       "wib": "2026-11-19 12:00",
       "sha256": "261756b1e1bd0aad711e7817020b97adae1ecf0776c832e10776d3c72cbbff0e",
-      "status": "AUTO-SCHEDULED",
+      "status": "SENT",
       "archive": "libfile_b858dde2567081918cbe9275d1636a85",
-      "buffer_id": "6afe559e0496d34ac7e4000c"
+      "buffer_id": "6afe559e0496d34ac7e4000c",
+      "public_url": "https://www.instagram.com/reel/Df6R7ntAd8C/"
     },
     {
       "title": "Peti di Tangga",
@@ -165,9 +166,30 @@
       "indonesian": "Meminta bantuan juga butuh keberanian.",
       "wib": "2026-11-19 19:00",
       "sha256": "91f1d2ed6e63a7a670f2c9d93eaa2c913aefaba96278f9c9b22512c2e25c6e14",
-      "status": "AUTO-SCHEDULED",
+      "status": "PUBLIC",
       "archive": "libfile_b858dde2567081918cbe9275d1636a85",
-      "buffer_id": "6afe55ecde72322b74f2974b"
+      "buffer_id": "6afe55ecde72322b74f2974b",
+      "public_url": "https://www.instagram.com/reels/Df7CIb7hBux/"
+    },
+    {
+      "title": "Benih yang Selalu Digali",
+      "sentence": "成长需要耐心。",
+      "pinyin": "Chéngzhǎng xūyào nàixīn.",
+      "indonesian": "Pertumbuhan butuh kesabaran.",
+      "wib": "2026-11-20 12:00",
+      "sha256": "7f74ecd4fadd41b743cdca87fb512b19c9384a679fcc87c5c47213b4f8d15dc7",
+      "status": "PREPARED_INTENT",
+      "archive": "libfile_cd34a6f533f0819183d0ba25715aff20"
+    },
+    {
+      "title": "Kursi yang Terlalu Tinggi",
+      "sentence": "合适的，才是好的。",
+      "pinyin": "Héshì de, cái shì hǎo de.",
+      "indonesian": "Yang baik adalah yang sesuai.",
+      "wib": "2026-11-20 19:00",
+      "sha256": "b007cb7d622b5cfca9be8f899b58b1a91927680654af1548a7f69d8f6290309a",
+      "status": "PREPARED_INTENT",
+      "archive": "libfile_cd34a6f533f0819183d0ba25715aff20"
     }
   ]
 }
