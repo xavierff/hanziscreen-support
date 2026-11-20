@@ -1,0 +1,120 @@
+{
+  "date_wib": "2026-11-20",
+  "status": "PRODUCTION_IN_PROGRESS",
+  "ig_initial_queue": 0,
+  "x_preserved_ids": [
+    "6afe54bfdd534abdaf4123a1",
+    "6afe55221cb6d6677a7d20b0"
+  ],
+  "ig_scripts": [
+    {
+      "slug": "Benih",
+      "title": "Benih yang Selalu Digali",
+      "category": "relatable psychology",
+      "zh": "成长需要耐心。",
+      "pinyin": "Chéngzhǎng xūyào nàixīn.",
+      "meaning": "Pertumbuhan butuh kesabaran.",
+      "nuance": "Gunakan untuk mengingatkan bahwa hasil baik tidak selalu terlihat seketika.",
+      "hook": "Setiap pagi ia menggali benihnya. Ia ingin memastikan benih itu tumbuh.",
+      "conflict": "Young grower worries seed is not growing and digs it up daily, disrupting roots.",
+      "choice": "Stops digging, plants remaining seed, waters and allows time.",
+      "shown_outcome": "After several mornings a green shoot emerges while she watches without pulling it.",
+      "why_it_matters": "She learns that steady care and patience allow growth.",
+      "ending_plan": "Last 12–18s show shoot emerging, her changed action, one concise Indonesian explanation and final7.5s Mandarin card.",
+      "scenes": [
+        [
+          "Lian baru saja mencabut benihnya lagi.",
+          "Ia ingin tahu kenapa tunasnya belum muncul."
+        ],
+        [
+          "Setiap pagi tanah itu dibongkar.",
+          "Setiap pagi pula akar kecilnya terganggu."
+        ],
+        [
+          "Benih tetangganya mulai menghijau.",
+          "Lian merasa tertinggal, lalu menggali lebih dalam."
+        ],
+        [
+          "Seorang penjual bibit melihat tangannya penuh tanah.",
+          "Ia menunjuk akar yang putus di ujung benih."
+        ],
+        [
+          "Lian menanam benih terakhirnya dengan hati-hati.",
+          "Kali ini ia hanya menyiram, lalu menunggu."
+        ],
+        [
+          "Beberapa pagi kemudian, tunas hijau menembus tanah.",
+          "Lian tersenyum dan membiarkannya tetap tumbuh."
+        ],
+        [
+          "Tunas itu muncul saat Lian berhenti mengganggu akarnya.",
+          "Merawat pertumbuhan juga berarti memberinya waktu."
+        ],
+        [
+          "ZH"
+        ]
+      ]
+    },
+    {
+      "slug": "Kursi",
+      "title": "Kursi yang Terlalu Tinggi",
+      "category": "fable or reversal",
+      "zh": "合适的，才是好的。",
+      "pinyin": "Héshì de, cái shì hǎo de.",
+      "meaning": "Yang baik adalah yang sesuai.",
+      "nuance": "Pakai saat memilih sesuatu berdasarkan kebutuhan, bukan sekadar penampilan.",
+      "hook": "Kursi paling megah di tokonya justru membuat ibunya tak bisa duduk nyaman.",
+      "conflict": "Young carpenter prioritizes showy tall chair; mother cannot rest feet on ground.",
+      "choice": "Listens to mother, makes sturdy lower chair with armrests instead of defending pride.",
+      "shown_outcome": "Mother sits with feet supported and sips tea comfortably; craftsman asks customer measurements.",
+      "why_it_matters": "A chair succeeds by serving its sitter, not proving maker status.",
+      "ending_plan": "Last 12–18s show comfortable seated mother, carpenter learning need, concise explanation, final7.5s card.",
+      "scenes": [
+        [
+          "Kaki ibunya menggantung dari kursi baru itu.",
+          "Jun menatap ukirannya yang paling ia banggakan."
+        ],
+        [
+          "Ia menghabiskan berhari-hari membuat sandaran tinggi.",
+          "Kursi itu harus terlihat lebih megah dari milik tetangga."
+        ],
+        [
+          "Ibunya berkali-kali menggeser posisi duduk.",
+          "Jun sempat ingin menyalahkan cara ibunya duduk."
+        ],
+        [
+          "Lalu ia melihat kaki itu mencari pijakan.",
+          "Untuk pertama kali, ia bertanya apa yang terasa sulit."
+        ],
+        [
+          "Jun membuat kursi lebih rendah dengan pegangan kokoh.",
+          "Ia menyesuaikan ukurannya dengan tubuh sang ibu."
+        ],
+        [
+          "Kini kaki ibunya menapak dan bahunya rileks.",
+          "Ia menikmati teh, sementara Jun menyimpan alat ukirnya."
+        ],
+        [
+          "Kursi sederhana itu akhirnya benar-benar berguna.",
+          "Jun belajar mengukur kebutuhan, bukan membesarkan gengsi."
+        ],
+        [
+          "ZH"
+        ]
+      ]
+    }
+  ],
+  "x_intents": [
+    {
+      "time_wib": "2026-11-21 09:00",
+      "source": "libfile_e3796896a0f08191ae9fc8729c490f22",
+      "text": "Two identical umbrellas. One has your name on it. 这是你的。 Zhè shì nǐ de. “This is yours.” 的 can stand in for the item already understood: 你的 = yours. Useful when returning something."
+    },
+    {
+      "time_wib": "2026-11-21 19:00",
+      "source": "libfile_f600b73dc2ac8191b8e2508629290d4e",
+      "text": "You reach for one pencil. Six roll onto your classmate’s notebook. 对不起。 Duìbuqǐ. “I’m sorry.” Say it to apologize for the accident—then help pick them up. A short phrase works better with a useful action."
+    }
+  ],
+  "independent_listening": false
+}
