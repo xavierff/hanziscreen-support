@@ -178,8 +178,9 @@
       "indonesian": "Pertumbuhan butuh kesabaran.",
       "wib": "2026-11-20 12:00",
       "sha256": "7f74ecd4fadd41b743cdca87fb512b19c9384a679fcc87c5c47213b4f8d15dc7",
-      "status": "PREPARED_INTENT",
-      "archive": "libfile_cd34a6f533f0819183d0ba25715aff20"
+      "status": "AUTO-SCHEDULED",
+      "archive": "libfile_cd34a6f533f0819183d0ba25715aff20",
+      "buffer_id": "6affa3a7fd87b1e92e816fee"
     },
     {
       "title": "Kursi yang Terlalu Tinggi",
