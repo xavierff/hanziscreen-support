@@ -398,3 +398,31 @@ One template test only: existing cached source scenes/audio, no new narration. F
 Authoritative reusable source was persisted to GitHub media/youtube/template-v2/ with module, build, narration entry, tests and instructions. Prior public/queued video masters unchanged.
 
 Template/test/recovery package `libfile_b9cabb83ff5481918b492499c0d436e0`. Reusable source `media/youtube/template-v2/`. Next normal long production is Nov21 for Nov22 10:00 WIB. All older daily-long gap declarations from Nov20 onward are superseded by anchored three-calendar-day cadence.
+
+
+## Hanzi YouTube November 20 verified state
+
+Exact destination UCnTFHhzyCoiSaDSfdGKFx5g. Times WIB.
+No long produced on this off day. Next release Nov22 10:00, prepare Nov21. Updated renderer/template 2026-11-19.2 remains authoritative in GitHub media/youtube/template-v2/ and libfile_b9cabb83ff5481918b492499c0d436e0. No repeated template test or narration generation.
+
+| Slot | State | Provider ID |
+|---|---|---|
+| Nov20 18:00 Mitten Mix-Up | Buffer automatic scheduled | 6afd776d2bf953fe0332615b |
+| Nov20 20:00 Tiny Suitcase | Buffer automatic scheduled | 6afeca91ff1c5987ce9a6961 |
+| Nov21 18:00 Named Umbrella | Buffer automatic scheduled | 6afecb209c17d7da19652f01 |
+| Nov21 20:00 Pencil Avalanche | Buffer automatic scheduled | 6b001b0f44594202f549d4d6 |
+| Nov22 18:00 Runaway Scarf | Buffer automatic scheduled | 6b001b6d0ec05cefceacf9c5 |
+
+Pencil exact SHA-256 fb9cd6d6c8ef334a4177b1b90ee2fc9f6769a74497130811b726258c8cbfe92d from libfile_f600b73dc2ac8191b8e2508629290d4e.
+Scarf exact SHA-256 bf5a779506bc234cf11a12fa3a0814c1eab4c6832168787c8cb12f7dc7c98930 from libfile_29e289ca20c88191a3baf0534444b515.
+Both originals retained their rights/license/audio-template QA and passed fresh full decode and hashes. No independent listening review.
+
+48h Shorts coverage 4/4; next long Nov22 10:00 unreserved pending permitted Nov21 production, so all required slots 4/5. Earliest missing later Short Nov22 20:00, distinct source handoff needed. Ready scarf source can support the Nov22 same-topic long. No long scheduled on Nov20/21.
+
+Incident: Buffer protected Nov19 18:00 Two Bookmarks, ID 6afc264ebe53fda2e8f0153b, now terminal errored: "The daily posting limit for this channel has been reached! Please try reducing the amount of times per day in your schedule and try again later." Exact-native Shorts table showed no matching Short. No retry or fallback submitted while today's two slots are reserved. No scheduled backup. Owner's minimum action is to check the channel's daily posting-limit restriction in Buffer before authorizing or enabling a recovery that would exceed normal two daily Shorts. Preserve source and failed item for reconciliation.
+
+Nov19 20:00 Paper Plane public https://www.youtube.com/shorts/2pB7h2TdTPY. Nov19 Two Bookmarks long remains public. Social Champ initially redirected queue to homepage with only Open chat visible; one read-only navigation recovered exact Hanzi Future queue, empty. No login required and no long upload performed.
+
+Automatic review rejected a combined browser call because it interpreted a Buffer-bound Shorts helper as using Social Champ. Subsequent read-only URL/account checks showed Buffer's exact Hanzi channel. Explicit Buffer controls then accepted the scarf reservation. No blocked publisher was used.
+
+Recovery/handoff package `libfile_ba9017ccf8748191bf85e06d620af620`.
