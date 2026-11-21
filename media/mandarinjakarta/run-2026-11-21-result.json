@@ -1,0 +1,120 @@
+{
+  "date_wib": "2026-11-21",
+  "status": "PRODUCTION_IN_PROGRESS",
+  "ig_queue_initial": 0,
+  "x_protected_ids": [
+    "6affa2f3b56403d14458c89d",
+    "6affa38429fdbaaa1cee68cd"
+  ],
+  "ig_scripts": [
+    {
+      "slug": "Cap",
+      "title": "Harga Sebuah Cap",
+      "category": "fable or reversal",
+      "zh": "原则不能拿来交换。",
+      "pinyin": "Yuánzé bù néng ná lái jiāohuàn.",
+      "meaning": "Prinsip bukan untuk ditukar.",
+      "nuance": "Pakai saat menegaskan bahwa nilai yang penting tidak boleh dijual demi keuntungan.",
+      "hook": "Koin emas itu cukup untuk makan berminggu-minggu. Syaratnya hanya satu cap tanpa pemeriksaan.",
+      "conflict": "Warehouse checker is offered gold to approve spoiled grain without inspection, while struggling with expenses.",
+      "choice": "Pushes gold back, opens sacks and refuses to seal spoiled rice; supplier must replace.",
+      "shown_outcome": "Bad grain returned; fresh sacks checked and safely distributed without extra money to checker.",
+      "why_it_matters": "His refusal protects families who rely on the food, despite missing the windfall.",
+      "ending_plan": "Final12–18s show replacement grain distributed and explicit protective consequence, then7.5s Mandarin card.",
+      "scenes": [
+        [
+          "Koin emas jatuh di depan Shen.",
+          "Syaratnya hanya satu cap, tanpa membuka karung."
+        ],
+        [
+          "Ia memeriksa persediaan beras untuk warga desa.",
+          "Uang belanjanya sendiri hampir habis."
+        ],
+        [
+          "Pedagang itu tersenyum sambil menggeser koin.",
+          "Shen hanya perlu berpura-pura tidak melihat."
+        ],
+        [
+          "Namun bau lembap keluar dari salah satu karung.",
+          "Shen teringat keluarga yang menunggu pembagian beras."
+        ],
+        [
+          "Ia mendorong koin kembali dan membuka karung itu.",
+          "Beras berjamur harus dibawa pulang oleh pedagang."
+        ],
+        [
+          "Esoknya karung pengganti datang dan diperiksa.",
+          "Beras yang baik akhirnya dibagikan kepada warga."
+        ],
+        [
+          "Shen tidak mendapat emas, tetapi warga menerima beras layak.",
+          "Ia menjaga keselamatan mereka dengan menolak imbalan."
+        ],
+        [
+          "ZH"
+        ]
+      ]
+    },
+    {
+      "slug": "Jahit",
+      "title": "Lampu di Meja Jahit",
+      "category": "relatable psychology",
+      "zh": "拒绝也可以很温柔。",
+      "pinyin": "Jùjué yě kěyǐ hěn wēnróu.",
+      "meaning": "Menolak pun bisa dengan lembut.",
+      "nuance": "Gunakan saat ingin menjaga batas dengan sopan, tanpa merendahkan orang lain.",
+      "hook": "Tangannya mulai gemetar, tetapi pelanggan baru meminta satu pakaian lagi malam itu.",
+      "conflict": "Exhausted seamstress fears disappointing a new customer but already has a deadline for existing order.",
+      "choice": "Politely returns advance coins, offers later appointment instead of promising overnight work; customer agrees.",
+      "shown_outcome": "After rest, she finishes existing garment and delivers on time; new customer receives later confirmed slot.",
+      "why_it_matters": "A considerate refusal protects a real promise without hurting the relationship.",
+      "ending_plan": "Last12–18s show on-time delivery and satisfied customer, explain why boundary preserves promise, final7.5s Mandarin card.",
+      "scenes": [
+        [
+          "Tangan An mulai gemetar di meja jahit.",
+          "Pelanggan baru meminta satu pakaian lagi malam itu."
+        ],
+        [
+          "Pesanan pertama belum selesai.",
+          "An takut menolak akan membuat tokonya ditinggalkan."
+        ],
+        [
+          "Ia menatap jarum, lalu lampu yang hampir padam.",
+          "Kalau terus memaksa, dua pesanan bisa rusak."
+        ],
+        [
+          "An mengembalikan uang muka dengan sopan.",
+          "Ia menawarkan waktu pengerjaan setelah pesanan pertama selesai."
+        ],
+        [
+          "Pelanggan itu mengangguk dan menyetujui waktu baru.",
+          "An menutup toko, lalu beristirahat malam itu."
+        ],
+        [
+          "Pagi berikutnya ia menjahit dengan tangan yang tenang.",
+          "Pesanan pertama diserahkan tepat waktu kepada pemiliknya."
+        ],
+        [
+          "An menjaga janji lama tanpa merendahkan pelanggan baru.",
+          "Batas yang jelas membuat pekerjaannya tetap dapat dipercaya."
+        ],
+        [
+          "ZH"
+        ]
+      ]
+    }
+  ],
+  "x_intents": [
+    {
+      "time_wib": "2026-11-22 09:00",
+      "source": "libfile_29e289ca20c88191a3baf0534444b515",
+      "text": "A gust sends your scarf into a friend’s face. They laugh: 没关系。 Méi guānxi. “It’s okay.” It reassures someone after a small mishap. It doesn’t mean you never need to apologize—just that this mistake is no big deal."
+    },
+    {
+      "time_wib": "2026-11-22 19:00",
+      "source": "libfile_b527faf53974819191170c82a5e6deef",
+      "text": "Your ticket says A21; your friend’s says your seat. 我们换回来吧。 Wǒmen huàn huílai ba. “Let’s swap them back.” 换 means exchange; 换回来 adds the idea of returning things to their original owners. 吧 makes the suggestion gentler."
+    }
+  ],
+  "independent_listening": false
+}
