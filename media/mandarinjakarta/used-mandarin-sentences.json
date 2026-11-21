@@ -213,8 +213,9 @@
       "indonesian": "Menolak pun bisa dengan lembut.",
       "wib": "2026-11-21 19:00",
       "sha256": "a21c497fd3982a9df71743ded4a8803b350127e559536756fb92f328f64a69e5",
-      "status": "PREPARED_INTENT",
-      "archive": "libfile_149af100b2d481919b4f71ebe38637f0"
+      "status": "AUTO-SCHEDULED",
+      "archive": "libfile_149af100b2d481919b4f71ebe38637f0",
+      "buffer_id": "6b00f443afbf3054766dd5f0"
     }
   ]
 }
