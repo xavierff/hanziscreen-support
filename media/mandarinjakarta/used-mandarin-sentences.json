@@ -178,9 +178,10 @@
       "indonesian": "Pertumbuhan butuh kesabaran.",
       "wib": "2026-11-20 12:00",
       "sha256": "7f74ecd4fadd41b743cdca87fb512b19c9384a679fcc87c5c47213b4f8d15dc7",
-      "status": "AUTO-SCHEDULED",
+      "status": "SENT",
       "archive": "libfile_cd34a6f533f0819183d0ba25715aff20",
-      "buffer_id": "6affa3a7fd87b1e92e816fee"
+      "buffer_id": "6affa3a7fd87b1e92e816fee",
+      "public_url": "https://www.instagram.com/reel/Df82r6kO24D/"
     },
     {
       "title": "Kursi yang Terlalu Tinggi",
@@ -189,9 +190,30 @@
       "indonesian": "Yang baik adalah yang sesuai.",
       "wib": "2026-11-20 19:00",
       "sha256": "b007cb7d622b5cfca9be8f899b58b1a91927680654af1548a7f69d8f6290309a",
-      "status": "AUTO-SCHEDULED",
+      "status": "PUBLIC",
       "archive": "libfile_cd34a6f533f0819183d0ba25715aff20",
-      "buffer_id": "6affa3f36a7b520471d43815"
+      "buffer_id": "6affa3f36a7b520471d43815",
+      "public_url": "https://www.instagram.com/reels/Df9nAkGhUVX/"
+    },
+    {
+      "title": "Harga Sebuah Cap",
+      "sentence": "原则不能拿来交换。",
+      "pinyin": "Yuánzé bù néng ná lái jiāohuàn.",
+      "indonesian": "Prinsip bukan untuk ditukar.",
+      "wib": "2026-11-21 12:00",
+      "sha256": "c0ee244fa04e13e488aafaec84a469d9e468baabe36971fa8ea0da983a2f526e",
+      "status": "PREPARED_INTENT",
+      "archive": "libfile_149af100b2d481919b4f71ebe38637f0"
+    },
+    {
+      "title": "Lampu di Meja Jahit",
+      "sentence": "拒绝也可以很温柔。",
+      "pinyin": "Jùjué yě kěyǐ hěn wēnróu.",
+      "indonesian": "Menolak pun bisa dengan lembut.",
+      "wib": "2026-11-21 19:00",
+      "sha256": "a21c497fd3982a9df71743ded4a8803b350127e559536756fb92f328f64a69e5",
+      "status": "PREPARED_INTENT",
+      "archive": "libfile_149af100b2d481919b4f71ebe38637f0"
     }
   ]
 }
