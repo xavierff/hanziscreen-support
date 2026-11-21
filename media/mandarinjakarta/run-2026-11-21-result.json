@@ -1,6 +1,6 @@
 {
   "date_wib": "2026-11-21",
-  "status": "PRODUCTION_IN_PROGRESS",
+  "status": "PARTIAL_RESERVE_NEEDS_ATTENTION",
   "ig_queue_initial": 0,
   "x_protected_ids": [
     "6affa2f3b56403d14458c89d",
@@ -116,5 +116,136 @@
       "text": "Your ticket says A21; your friend’s says your seat. 我们换回来吧。 Wǒmen huàn huílai ba. “Let’s swap them back.” 换 means exchange; 换回来 adds the idea of returning things to their original owners. 吧 makes the suggestion gentler."
     }
   ],
-  "independent_listening": false
+  "independent_listening": false,
+  "verified_wib": "2026-11-21 08:31",
+  "accounts": {
+    "instagram": "@mandarinjakarta",
+    "instagram_buffer_channel": "6ad9a4bc778b240e2f87c9e5",
+    "x": "@hanziscreen",
+    "x_buffer_channel": "6ad8c4a6778b240e2f7b10d2"
+  },
+  "previous_releases": {
+    "ig": [
+      {
+        "id": "6affa3a7fd87b1e92e816fee",
+        "wib": "2026-11-20 12:00",
+        "status": "SENT",
+        "url": "https://www.instagram.com/reel/Df82r6kO24D/"
+      },
+      {
+        "id": "6affa3f36a7b520471d43815",
+        "wib": "2026-11-20 19:00",
+        "status": "PUBLIC",
+        "url": "https://www.instagram.com/reels/Df9nAkGhUVX/"
+      }
+    ],
+    "x": [
+      {
+        "id": "6afe54bfdd534abdaf4123a1",
+        "wib": "2026-11-20 09:00",
+        "status": "SENT",
+        "url": "https://x.com/2112901672993472512/status/2123597446278255064"
+      },
+      {
+        "id": "6afe55221cb6d6677a7d20b0",
+        "wib": "2026-11-20 19:00",
+        "status": "SENT",
+        "url": "https://x.com/2112901672993472512/status/2123748865694212479"
+      }
+    ]
+  },
+  "previous_ig_public_page_verified": "https://www.instagram.com/reels/Df9nAkGhUVX/",
+  "x_public_page_check": "Direct X permalink failed ERR_HTTP_RESPONSE_CODE_FAILURE. Error tab could not be observed under browser URL policy. No workaround/retry. Prior release status confirmed by Buffer Sent only.",
+  "ig_new": [
+    {
+      "title": "Harga Sebuah Cap",
+      "sentence": "原则不能拿来交换。",
+      "pinyin": "Yuánzé bù néng ná lái jiāohuàn.",
+      "indonesian": "Prinsip bukan untuk ditukar.",
+      "wib": "2026-11-21 12:00",
+      "sha256": "c0ee244fa04e13e488aafaec84a469d9e468baabe36971fa8ea0da983a2f526e",
+      "status": "AUTO-SCHEDULED",
+      "archive": "libfile_149af100b2d481919b4f71ebe38637f0",
+      "buffer_id": "6b00f402ba7168b4a40c0594"
+    },
+    {
+      "title": "Lampu di Meja Jahit",
+      "sentence": "拒绝也可以很温柔。",
+      "pinyin": "Jùjué yě kěyǐ hěn wēnróu.",
+      "indonesian": "Menolak pun bisa dengan lembut.",
+      "wib": "2026-11-21 19:00",
+      "sha256": "a21c497fd3982a9df71743ded4a8803b350127e559536756fb92f328f64a69e5",
+      "status": "AUTO-SCHEDULED",
+      "archive": "libfile_149af100b2d481919b4f71ebe38637f0",
+      "buffer_id": "6b00f443afbf3054766dd5f0"
+    }
+  ],
+  "x_new": [
+    {
+      "time_wib": "2026-11-22 09:00",
+      "source": "libfile_29e289ca20c88191a3baf0534444b515",
+      "text": "A gust sends your scarf into a friend’s face. They laugh: 没关系。 Méi guānxi. “It’s okay.” It reassures someone after a small mishap. It doesn’t mean you never need to apologize—just that this mistake is no big deal.",
+      "id": "6b00f34515d771fd1cfa1865",
+      "status": "AUTO-SCHEDULED"
+    },
+    {
+      "time_wib": "2026-11-22 19:00",
+      "source": "libfile_b527faf53974819191170c82a5e6deef",
+      "text": "Your ticket says A21; your friend’s says your seat. 我们换回来吧。 Wǒmen huàn huílai ba. “Let’s swap them back.” 换 means exchange; 换回来 adds the idea of returning things to their original owners. 吧 makes the suggestion gentler.",
+      "id": "6b00f3ca15d771fd1cfa2972",
+      "status": "AUTO-SCHEDULED"
+    }
+  ],
+  "x_protected": [
+    {
+      "id": "6affa2f3b56403d14458c89d",
+      "wib": "2026-11-21 09:00",
+      "status": "AUTO-SCHEDULED"
+    },
+    {
+      "id": "6affa38429fdbaaa1cee68cd",
+      "wib": "2026-11-21 19:00",
+      "status": "AUTO-SCHEDULED"
+    }
+  ],
+  "coverage_next_48h": {
+    "instagram": {
+      "confirmed_automatic": 2,
+      "planned": 4,
+      "first_uncovered": "2026-11-22 12:00 WIB",
+      "other_uncovered": "2026-11-22 19:00 WIB",
+      "blocker": "No further distinct completed unused original after assigning today's two; finished inventory deficit.",
+      "confirmed_backup_for_gap": false
+    },
+    "x": {
+      "confirmed_automatic": 4,
+      "planned": 4,
+      "first_uncovered": "2026-11-23 09:00 WIB"
+    }
+  },
+  "source_archive": "libfile_149af100b2d481919b4f71ebe38637f0",
+  "qa": {
+    "durations_s": [
+      49.2,
+      50.333333
+    ],
+    "full_decode": "PASS",
+    "visual_review": "Opening, tangible resolved outcome, closing Mandarin teaching card and final frame inspected.",
+    "cards_s": [
+      7.5,
+      7.5
+    ],
+    "subtitle_qa": "Exact script per measured synthesized phrase; central captions and final card legible; no overlap/cut off.",
+    "mandarin": "Exactly one final Mandarin line per source; Chinese grammar/pinyin/Indonesian meaning and model phoneme tones reviewed.",
+    "independent_listening": false,
+    "rights": "Original fictional stories and artwork, original procedural instrumental, licensed established local voice models; no historical attribution."
+  },
+  "free_plan": "Free plan shown, actual numerical queue cap not exposed. Queues IG2 and X4; no upgrade.",
+  "pending_failed": "No pending/failed indicators visible in exact Queue/Sent views; no ambiguous submission.",
+  "resumption": {
+    "next_priority": "Nov22 noon original, then Nov22 19:00, preserving today's sources/IDs and all X reservations.",
+    "owner_action": "None currently required. Finish distinct inventory in next existing run; Instagram reserve remains incomplete.",
+    "schedule_changes": false
+  },
+  "new_public_posts_this_run": 0
 }
