@@ -116,5 +116,22 @@
       "text": "Your orange rolls across someone else’s table. 对不起。 Duìbuqǐ. “I’m sorry.” A direct apology fits when your small accident inconveniences someone. Then retrieve the orange and help tidy up. Small words, concrete repair."
     }
   ],
-  "independent_listening": false
+  "independent_listening": false,
+  "x_new": [
+    {
+      "time_wib": "2026-11-23 09:00",
+      "source": "libfile_30fb07dff25c8191ae91ee3550d2d6a7",
+      "text": "You open the bag expecting dinner. A cactus stares back. 我拿错了。 Wǒ ná cuò le. “I took the wrong one.” 错 after the verb points to the mistake; 了 marks the completed action. Check the bag before leaving!",
+      "buffer_id": "6b02436d7eba1384e766d6d9",
+      "status": "AUTO-SCHEDULED"
+    },
+    {
+      "time_wib": "2026-11-23 19:00",
+      "source": "libfile_47298be4bcf881919b2d15f78adff889",
+      "text": "Your orange rolls across someone else’s table. 对不起。 Duìbuqǐ. “I’m sorry.” A direct apology fits when your small accident inconveniences someone. Then retrieve the orange and help tidy up. Small words, concrete repair.",
+      "buffer_id": "6b024438dfc158b46e1b987d",
+      "status": "AUTO-SCHEDULED"
+    }
+  ],
+  "production_status": "One targeted visual repair in progress; no IG upload/submission yet"
 }
