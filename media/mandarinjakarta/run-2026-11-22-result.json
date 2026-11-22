@@ -133,5 +133,35 @@
       "status": "AUTO-SCHEDULED"
     }
   ],
-  "production_status": "One targeted visual repair in progress; no IG upload/submission yet"
+  "production_status": "Two READY originals; full decode and representative visual QA passed; first IG upload in progress; no IG submission yet",
+  "archive": "libfile_1f9cf329c024819195d884a55a7a3467",
+  "ig_sources": [
+    {
+      "title": "Jalan yang Paling Ramai",
+      "sentence": "人多不代表正确。",
+      "pinyin": "Rén duō bù dàibiǎo zhèngquè.",
+      "indonesian": "Jumlah orang tak menjamin kebenaran.",
+      "wib": "2026-11-22 12:00",
+      "sha256": "3def1b252dbaa9617e573588a6839abad5ab5e77d9e5553b7eea55c677b4a838",
+      "status": "PREPARED_INTENT",
+      "archive": "libfile_1f9cf329c024819195d884a55a7a3467"
+    },
+    {
+      "title": "Tepuk Tangan Pertama",
+      "sentence": "欣赏不等于认输。",
+      "pinyin": "Xīnshǎng bù děngyú rènshū.",
+      "indonesian": "Mengagumi bukan berarti kalah.",
+      "wib": "2026-11-22 19:00",
+      "sha256": "a6bbfcf4c62f6cfb9e91c6e0f4a8549dc806866cee02ed824101a5ae2e628ede",
+      "status": "PREPARED_INTENT",
+      "archive": "libfile_1f9cf329c024819195d884a55a7a3467"
+    }
+  ],
+  "qa": {
+    "independent_listening": false,
+    "approved_voice_template": true,
+    "final_card_seconds": 7.5,
+    "repair": "One targeted visual crop/subtitle width repair; narration reused",
+    "source_archive": "libfile_1f9cf329c024819195d884a55a7a3467"
+  }
 }
