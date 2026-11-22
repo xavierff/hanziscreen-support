@@ -1,0 +1,120 @@
+{
+  "date_wib": "2026-11-22",
+  "status": "PRODUCTION_IN_PROGRESS",
+  "ig_queue_initial": 0,
+  "x_protected_ids": [
+    "6b00f34515d771fd1cfa1865",
+    "6b00f3ca15d771fd1cfa2972"
+  ],
+  "ig_scripts": [
+    {
+      "slug": "Jalan",
+      "title": "Jalan yang Paling Ramai",
+      "category": "fable or reversal",
+      "zh": "人多不代表正确。",
+      "pinyin": "Rén duō bù dàibiǎo zhèngquè.",
+      "meaning": "Jumlah orang tak menjamin kebenaran.",
+      "nuance": "Gunakan saat mengingatkan bahwa pendapat ramai tetap perlu diperiksa.",
+      "hook": "Semua gerobak menuju jembatan itu. Justru karena itulah Han hampir tak memeriksanya.",
+      "conflict": "Traveler follows crowd onto damaged wooden bridge, fears ridicule if turning around.",
+      "choice": "Stops cart, examines cracked boards and takes longer bank path instead of following crowd.",
+      "shown_outcome": "His cart reaches market intact via longer safe path; he unloads dry flour.",
+      "why_it_matters": "He arrives because he checks evidence instead of trusting numbers.",
+      "ending_plan": "Last12–18s show intact arrival and unloading, concise explanation,7.5s final Mandarin card.",
+      "scenes": [
+        [
+          "Roda gerobak Han hampir menyentuh papan yang retak.",
+          "Di belakangnya, orang-orang mendesak agar ia maju."
+        ],
+        [
+          "Jalur itu paling ramai menuju pasar.",
+          "Han mengira pilihan banyak orang pasti aman."
+        ],
+        [
+          "Tetapi jembatan bergetar saat gerobak pertama melintas.",
+          "Ia melihat tali pengikatnya mulai terurai."
+        ],
+        [
+          "Han berhenti dan turun memeriksa papan.",
+          "Tawa orang di belakang membuat wajahnya panas."
+        ],
+        [
+          "Ia memilih jalan memutar di tepi sungai.",
+          "Perjalanan lebih lama, tetapi tanahnya kokoh."
+        ],
+        [
+          "Han tiba di pasar dengan tepung tetap kering.",
+          "Ia menurunkan seluruh karung tanpa kehilangan muatan."
+        ],
+        [
+          "Han sampai karena memeriksa jalan, bukan menghitung pengikut.",
+          "Keputusan yang ramai belum tentu keputusan yang tepat."
+        ],
+        [
+          "ZH"
+        ]
+      ]
+    },
+    {
+      "slug": "Tepuk",
+      "title": "Tepuk Tangan Pertama",
+      "category": "relatable psychology",
+      "zh": "欣赏不等于认输。",
+      "pinyin": "Xīnshǎng bù děngyú rènshū.",
+      "meaning": "Mengagumi bukan berarti kalah.",
+      "nuance": "Pakai saat menghargai keberhasilan orang lain tanpa merendahkan diri sendiri.",
+      "hook": "Ia ingin menyembunyikan mangkuk temannya. Orang-orang terus memuji warna yang belum bisa ia buat.",
+      "conflict": "Young potter envies friend's beautiful glaze and feels inadequate; tempted to hide friend's work.",
+      "choice": "Admits admiration, applauds friend's skill and asks to learn rather than sabotage.",
+      "shown_outcome": "Friend teaches technique; days later protagonist fires her own evenly glazed bowl and displays both.",
+      "why_it_matters": "Appreciation becomes learning instead of a defeat or rivalry.",
+      "ending_plan": "Last12–18s show finished improved bowl and shared display; resolve envy, concise Indonesian explanation,7.5s final Mandarin card.",
+      "scenes": [
+        [
+          "Yun hampir menyembunyikan mangkuk buatan temannya.",
+          "Semua orang memuji warna yang belum bisa ia buat."
+        ],
+        [
+          "Mangkuk miliknya sendiri penuh bercak.",
+          "Setiap pujian untuk temannya terasa seperti hinaan untuknya."
+        ],
+        [
+          "Tangannya sudah meraih kain penutup.",
+          "Lalu ia melihat temannya masih gugup menunggu penilaian."
+        ],
+        [
+          "Yun meletakkan kain itu dan bertepuk tangan.",
+          "Ia memuji warna mangkuk itu, lalu meminta belajar."
+        ],
+        [
+          "Temannya mengajarkan cara mengaduk dan meratakan glasir.",
+          "Yun mencoba lagi di meja kerjanya sendiri."
+        ],
+        [
+          "Beberapa hari kemudian, warna mangkuk Yun akhirnya rata.",
+          "Ia memajang mangkuknya di sebelah karya sang teman."
+        ],
+        [
+          "Yun berkembang saat berhenti menganggap pujian sebagai ancaman.",
+          "Menghargai kemampuan temannya membuka jalan untuk belajar."
+        ],
+        [
+          "ZH"
+        ]
+      ]
+    }
+  ],
+  "x_intents": [
+    {
+      "time_wib": "2026-11-23 09:00",
+      "source": "libfile_30fb07dff25c8191ae91ee3550d2d6a7",
+      "text": "You open the bag expecting dinner. A cactus stares back. 我拿错了。 Wǒ ná cuò le. “I took the wrong one.” 错 after the verb points to the mistake; 了 marks the completed action. Check the bag before leaving!"
+    },
+    {
+      "time_wib": "2026-11-23 19:00",
+      "source": "libfile_47298be4bcf881919b2d15f78adff889",
+      "text": "Your orange rolls across someone else’s table. 对不起。 Duìbuqǐ. “I’m sorry.” A direct apology fits when your small accident inconveniences someone. Then retrieve the orange and help tidy up. Small words, concrete repair."
+    }
+  ],
+  "independent_listening": false
+}
