@@ -1,11 +1,10 @@
-"""Hanzi long-video export policy and caption compositor, version 2026-11-19.2."""
+"""Hanzi long-video export policy and caption compositor, version 2026-11-22.1."""
 from datetime import date, datetime, timedelta
 from zoneinfo import ZoneInfo
-from PIL import Image, ImageDraw, ImageFont
 from pathlib import Path
 import math
 
-VERSION = "2026-11-19.2"
+VERSION = "2026-11-22.1"
 CHANNEL_ID = "UCnTFHhzyCoiSaDSfdGKFx5g"
 ANCHOR = date(2026, 11, 22)
 
@@ -64,6 +63,7 @@ def caption_pages(text, start, end, font, width):
     return pages
 
 def draw_captions(image, lines, font_path, protected=()):
+    from PIL import Image, ImageDraw, ImageFont
     if not 1 <= len(lines) <= 2:
         raise ValueError("Speaking captions must use one or two lines")
     width, height = image.size
@@ -98,6 +98,7 @@ def draw_captions(image, lines, font_path, protected=()):
     return image, dict(box=box, lines=lines, size=font.size, fallback=box[3] < height * .80)
 
 def compose(scene, time, art, gloss, font_path, assets_dir):
+    from PIL import Image, ImageDraw, ImageFont
     phase = (time - scene["start"]) / (scene["end"] - scene["start"])
     image = art(scene["scene"], phase, scene["index"])
     width, height = image.size
@@ -135,6 +136,7 @@ def compose(scene, time, art, gloss, font_path, assets_dir):
 
 def make_thumbnail(scene_image, font_path, words, crop_box):
     """Use the episode's original close-up artwork and at most four words."""
+    from PIL import ImageDraw, ImageFont
     if not 1 <= len(words.split()) <= 4:
         raise ValueError("Thumbnail text must contain one to four words")
     image = scene_image.crop(crop_box).resize((1280, 720))
