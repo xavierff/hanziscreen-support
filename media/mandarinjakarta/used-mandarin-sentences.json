@@ -202,9 +202,10 @@
       "indonesian": "Prinsip bukan untuk ditukar.",
       "wib": "2026-11-21 12:00",
       "sha256": "c0ee244fa04e13e488aafaec84a469d9e468baabe36971fa8ea0da983a2f526e",
-      "status": "AUTO-SCHEDULED",
+      "status": "SENT",
       "archive": "libfile_149af100b2d481919b4f71ebe38637f0",
-      "buffer_id": "6b00f402ba7168b4a40c0594"
+      "buffer_id": "6b00f402ba7168b4a40c0594",
+      "public_url": "https://www.instagram.com/reel/Df_bkpbhyK_/"
     },
     {
       "title": "Lampu di Meja Jahit",
@@ -213,9 +214,30 @@
       "indonesian": "Menolak pun bisa dengan lembut.",
       "wib": "2026-11-21 19:00",
       "sha256": "a21c497fd3982a9df71743ded4a8803b350127e559536756fb92f328f64a69e5",
-      "status": "AUTO-SCHEDULED",
+      "status": "PUBLIC",
       "archive": "libfile_149af100b2d481919b4f71ebe38637f0",
-      "buffer_id": "6b00f443afbf3054766dd5f0"
+      "buffer_id": "6b00f443afbf3054766dd5f0",
+      "public_url": "https://www.instagram.com/reels/DgALrBZBl_c/"
+    },
+    {
+      "title": "Jalan yang Paling Ramai",
+      "sentence": "人多不代表正确。",
+      "pinyin": "Rén duō bù dàibiǎo zhèngquè.",
+      "indonesian": "Jumlah orang tak menjamin kebenaran.",
+      "wib": "2026-11-22 12:00",
+      "sha256": "3def1b252dbaa9617e573588a6839abad5ab5e77d9e5553b7eea55c677b4a838",
+      "status": "PREPARED_INTENT",
+      "archive": "libfile_1f9cf329c024819195d884a55a7a3467"
+    },
+    {
+      "title": "Tepuk Tangan Pertama",
+      "sentence": "欣赏不等于认输。",
+      "pinyin": "Xīnshǎng bù děngyú rènshū.",
+      "indonesian": "Mengagumi bukan berarti kalah.",
+      "wib": "2026-11-22 19:00",
+      "sha256": "a6bbfcf4c62f6cfb9e91c6e0f4a8549dc806866cee02ed824101a5ae2e628ede",
+      "status": "PREPARED_INTENT",
+      "archive": "libfile_1f9cf329c024819195d884a55a7a3467"
     }
   ]
 }
