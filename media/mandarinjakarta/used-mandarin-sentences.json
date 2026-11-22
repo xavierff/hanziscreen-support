@@ -226,8 +226,10 @@
       "indonesian": "Jumlah orang tak menjamin kebenaran.",
       "wib": "2026-11-22 12:00",
       "sha256": "3def1b252dbaa9617e573588a6839abad5ab5e77d9e5553b7eea55c677b4a838",
-      "status": "PREPARED_INTENT",
-      "archive": "libfile_1f9cf329c024819195d884a55a7a3467"
+      "status": "AUTO-SCHEDULED",
+      "archive": "libfile_1f9cf329c024819195d884a55a7a3467",
+      "buffer_id": "6b024505957509ff9fdc9622",
+      "automatic": true
     },
     {
       "title": "Tepuk Tangan Pertama",
