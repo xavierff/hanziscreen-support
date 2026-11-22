@@ -426,3 +426,29 @@ Nov19 20:00 Paper Plane public https://www.youtube.com/shorts/2pB7h2TdTPY. Nov19
 Automatic review rejected a combined browser call because it interpreted a Buffer-bound Shorts helper as using Social Champ. Subsequent read-only URL/account checks showed Buffer's exact Hanzi channel. Explicit Buffer controls then accepted the scarf reservation. No blocked publisher was used.
 
 Recovery/handoff package `libfile_ba9017ccf8748191bf85e06d620af620`.
+
+
+## Hanzi YouTube November 22 split publishing verification (WIB)
+
+Exact channel UCnTFHhzyCoiSaDSfdGKFx5g verified signed in natively. Split migration SUCCEEDED: Studio accepted native Short QYnd_Cyjo48 for Nov22 20:00 WIB and 16mHn4NvB68 for Nov23 20:00 WIB (GMT+0700), copyright checks No issues found. These are scheduled, not public. No duplicate Buffer20 reservation existed, so no cancellation was necessary.
+
+| Release WIB | Source | Provider and confirmed reservation |
+|---|---|---|
+| Nov22 18:00 | Runaway Scarf | Protected Buffer 6b001b6d0ec05cefceacf9c5 |
+| Nov22 20:00 | Swapped Tickets | Native YouTube QYnd_Cyjo48 |
+| Nov23 18:00 | Dinner Cactus | Buffer 6b02be34428202bea75d2294 |
+| Nov23 20:00 | Runaway Orange | Native YouTube 16mHn4NvB68 |
+
+SHA256 tickets c802d37ee16a6e6b8c51a1cc358244477d67bc88110b74e822e92f7ed0095ee9; cactus 0f97aa3eb73cda319bdca1f3973a43f6921c48d9609a360cf1dc1c576bc1532e; orange 577bb2657865ee3d67bc4309bce46959048438d14b1d3436a46e71ddae9ff2b0. Exact original bytes retained; fresh full decode passed and upstream rights/audio-template QA reused, no new independent listening.
+
+Buffer last successful: Pencil Nov21 target20:00 actual20:02 https://www.youtube.com/shorts/Pb_b7CCdgU4 ; Tiny Suitcase Nov20 target20:00 actual20:03 https://www.youtube.com/shorts/EI_Z9SZqk2M . Only one successful Buffer upload in preceding rolling24h at Nov22preflight. Named Umbrella Nov21 18:00 6afecb209c17d7da19652f01 and Two Bookmarks Nov19 18:00 6afc264ebe53fda2e8f0153b are terminal daily-limit errors. Neither matching Short present in native latest table; no retry/catchup. Buffer source umbrella SHA a59199878505f14f2ecfc1fa30089c21c27f90aa27fc2635a20480ea5988f69c and bookmarks fa4ef3b36b732076cebfc25ea50acb7b0ae3c662f98274b7efb37d5567e077d1. Preserve failed records. Buffer routine maximum ONE Short18 per rolling24h; Studio20 separately, respecting native limits. Official limits verified https://support.buffer.com/en-us/articles/daily-posting-limits-kJ0JtpsdvD .
+
+Required forthcoming48h Shorts4/4 AUTO-SCHEDULED, none claimed public. Earliest later unfilled Short Nov24 18:00 WIB. Current protected Buffer18 accepted but release/public confirmation remains future; no polling or duplicates.
+
+NEEDS ATTENTION: Nov22 10:00 long MISSED. Direct native videos and Social Champ Future/Pending/Failed/Sent showed no Scarf episode/reservation. Yesterday's production stopped after narration+previews, before full export and QA. Cache216.627917s preserved, NOT a finished master or scheduled upload. No off-day render/backfill performed. Next permitted production Nov24 17:00 for Nov25 10:00, then Nov28/Dec1. Resume saved licensed source/narration after fresh dedupe, complete remaining frame/audio/export QA. No owner login or media action is needed now for Shorts. Long gap requires completion in next permitted production run.
+
+Actual lower-third module is tracked at media/youtube/template-v2/long_template_v2.py, version2026-11-22.1: local PIL imports allow date/export policy checks in lightweight narration environment. Anchored date tests passed; compositor positions unchanged from tested Nov19 implementation. No new long master exported today. No edits/reuploads of existing public media.
+
+Recovery/cache and verified routing state: libfile_db212a5440788191ac8e555010a455e0 (Hanzi_YouTube_20261122_Split_Recovery.zip). Source archives: tickets libfile_b527faf53974819191170c82a5e6deef, cactus libfile_30fb07dff25c8191ae91ee3550d2d6a7, orange libfile_47298be4bcf881919b2d15f78adff889.
+
+Metadata-only early warning, no other publisher visited: all four other tasks enabled. Hidden Fortune Nov22 latest no_update has no run chat and stale Nov19 report says Nov23 set0/3; owner should inspect missing execution/host status. Mandarin Jakarta Nov23 noon and Hanzi IG/TikTok Nov23 evening have source gaps. Threads Nov21 evening remains unconfirmed; its report asks owner to inspect host execution. No task changed or triggered.
