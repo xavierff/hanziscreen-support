@@ -1,6 +1,6 @@
 {
   "date_wib": "2026-11-22",
-  "status": "PRODUCTION_IN_PROGRESS",
+  "status": "NEEDS ATTENTION: IG reserve below 48h; next uncovered Nov23 12:00 WIB",
   "ig_queue_initial": 0,
   "x_protected_ids": [
     "6b00f34515d771fd1cfa1865",
@@ -122,18 +122,16 @@
       "time_wib": "2026-11-23 09:00",
       "source": "libfile_30fb07dff25c8191ae91ee3550d2d6a7",
       "text": "You open the bag expecting dinner. A cactus stares back. 我拿错了。 Wǒ ná cuò le. “I took the wrong one.” 错 after the verb points to the mistake; 了 marks the completed action. Check the bag before leaving!",
-      "buffer_id": "6b02436d7eba1384e766d6d9",
-      "status": "AUTO-SCHEDULED"
+      "buffer_id": "6b02436d7eba1384e766d6d9"
     },
     {
       "time_wib": "2026-11-23 19:00",
       "source": "libfile_47298be4bcf881919b2d15f78adff889",
       "text": "Your orange rolls across someone else’s table. 对不起。 Duìbuqǐ. “I’m sorry.” A direct apology fits when your small accident inconveniences someone. Then retrieve the orange and help tidy up. Small words, concrete repair.",
-      "buffer_id": "6b024438dfc158b46e1b987d",
-      "status": "AUTO-SCHEDULED"
+      "buffer_id": "6b024438dfc158b46e1b987d"
     }
   ],
-  "production_status": "Two READY originals; full decode and representative visual QA passed; first IG upload in progress; no IG submission yet",
+  "production_status": "Two distinct originals saved and AUTO-SCHEDULED; no immediate public post attempted",
   "archive": "libfile_1f9cf329c024819195d884a55a7a3467",
   "ig_sources": [
     {
@@ -163,5 +161,104 @@
     "final_card_seconds": 7.5,
     "repair": "One targeted visual crop/subtitle width repair; narration reused",
     "source_archive": "libfile_1f9cf329c024819195d884a55a7a3467"
-  }
+  },
+  "verified_at_wib": "2026-11-22 08:28",
+  "ig_new": [
+    {
+      "title": "Jalan yang Paling Ramai",
+      "sentence": "人多不代表正确。",
+      "pinyin": "Rén duō bù dàibiǎo zhèngquè.",
+      "indonesian": "Jumlah orang tak menjamin kebenaran.",
+      "wib": "2026-11-22 12:00",
+      "sha256": "3def1b252dbaa9617e573588a6839abad5ab5e77d9e5553b7eea55c677b4a838",
+      "status": "AUTO-SCHEDULED",
+      "archive": "libfile_1f9cf329c024819195d884a55a7a3467",
+      "buffer_id": "6b024505957509ff9fdc9622",
+      "automatic": true
+    },
+    {
+      "title": "Tepuk Tangan Pertama",
+      "sentence": "欣赏不等于认输。",
+      "pinyin": "Xīnshǎng bù děngyú rènshū.",
+      "indonesian": "Mengagumi bukan berarti kalah.",
+      "wib": "2026-11-22 19:00",
+      "sha256": "a6bbfcf4c62f6cfb9e91c6e0f4a8549dc806866cee02ed824101a5ae2e628ede",
+      "status": "AUTO-SCHEDULED",
+      "archive": "libfile_1f9cf329c024819195d884a55a7a3467",
+      "buffer_id": "6b02454754c1bec94ff4be70",
+      "automatic": true
+    }
+  ],
+  "previous_releases": {
+    "ig": [
+      {
+        "id": "6b00f402ba7168b4a40c0594",
+        "wib": "2026-11-21 12:00",
+        "status": "SENT",
+        "url": "https://www.instagram.com/reel/Df_bkpbhyK_/"
+      },
+      {
+        "id": "6b00f443afbf3054766dd5f0",
+        "wib": "2026-11-21 19:00",
+        "status": "PUBLIC",
+        "url": "https://www.instagram.com/reels/DgALrBZBl_c/"
+      }
+    ],
+    "x": [
+      {
+        "id": "6affa2f3b56403d14458c89d",
+        "wib": "2026-11-21 09:00",
+        "status": "SENT",
+        "url": "https://x.com/2112901672993472512/status/2123959776602194315"
+      },
+      {
+        "id": "6affa38429fdbaaa1cee68cd",
+        "wib": "2026-11-21 19:00",
+        "status": "SENT",
+        "url": "https://x.com/2112901672993472512/status/2124111015553982821"
+      }
+    ]
+  },
+  "coverage": {
+    "ig": {
+      "automatically_scheduled_next48h": 2,
+      "planned_slots_next48h": 4,
+      "through_wib": "2026-11-22 19:00",
+      "first_uncovered_wib": "2026-11-23 12:00",
+      "second_uncovered_wib": "2026-11-23 19:00",
+      "finished_unassigned_originals": 0,
+      "backup_verified": false
+    },
+    "x": {
+      "automatically_scheduled_next48h": 4,
+      "planned_slots_next48h": 4,
+      "through_wib": "2026-11-23 19:00",
+      "first_uncovered_wib": "2026-11-24 09:00",
+      "preserved_today_ids": [
+        "6b00f34515d771fd1cfa1865",
+        "6b00f3ca15d771fd1cfa2972"
+      ]
+    }
+  },
+  "blocker": "No additional distinct finished QA-cleared IG masters available for Nov23. Two new originals needed at next existing run. No owner approval/login action required currently.",
+  "provider_readback": {
+    "ig_queue": 2,
+    "ig_drafts": 0,
+    "ig_sent": 47,
+    "x_queue": 4,
+    "x_drafts": 0,
+    "x_sent": 53,
+    "failed_processing_indicators_in_selected_surfaces": null,
+    "ambiguous_submissions": false,
+    "automatic_publish_confirmed_in_composer": true
+  },
+  "boundaries": {
+    "recurrence": "daily 08:00 WIB unchanged",
+    "no_other_accounts_modified": true,
+    "no_paid_upgrade": true,
+    "no_new_automation": true,
+    "free_queue_cap": "Numeric cap not surfaced; actual queues 2 IG and 4 X"
+  },
+  "source_integrity": "Pre-submit hash/sentence intents saved; final IDs recorded in durable campaign ledger. Original fables marked fictional, no false historical quotation.",
+  "next_existing_run_priority": "Produce two distinct originals for Nov23 noon/19:00, reuse template and current saved pipeline. Do not resubmit today's hashes."
 }
