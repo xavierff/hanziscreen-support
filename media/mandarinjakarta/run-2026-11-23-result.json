@@ -1,5 +1,5 @@
 {
-  "status": "PRODUCTION_INTENT; no new submissions",
+  "status": "NEEDS ATTENTION: next48h reserve incomplete; Instagram first gap Nov24 noon, X first gap Nov25 09:00",
   "date": "2026-11-23",
   "accounts": {
     "ig": "6ad9a4bc778b240e2f87c9e5",
@@ -170,8 +170,10 @@
       "indonesian": "Lepaskan beban agar bisa melangkah lebih jauh.",
       "wib": "2026-11-23 19:00",
       "sha256": "c9e925c438d2d7587ff16ac9bc97be46ee59ad420f46e374f0013f741cabd65c",
-      "status": "PREPARED_INTENT",
-      "archive": "libfile_379a1bb4513c81919388c463a4afe065"
+      "status": "AUTO-SCHEDULED",
+      "archive": "libfile_379a1bb4513c81919388c463a4afe065",
+      "buffer_id": "6b03a0ec5d51d0ef7a57b94e",
+      "automatic": true
     }
   ],
   "archive": "libfile_379a1bb4513c81919388c463a4afe065",
@@ -183,7 +185,7 @@
     "x_planned": 14,
     "notes": "From saved ledger and already loaded provider Sent records; no extra analytics browsing; reach/retention unavailable."
   },
-  "production_status": "Two READY source masters saved; first upload in progress; no IG submission yet",
+  "production_status": "Two new distinct original masters saved and provider-confirmed automatic scheduled; no new IG public publication claimed",
   "qa": {
     "format": "H264/AAC 1080x1920 30fps",
     "full_decode": "PASS",
@@ -204,5 +206,43 @@
     "public_url": "https://x.com/2112901672993472512/status/2124684494124781892",
     "verification": "Provider Sent permalink; separate X page not reopened after known network/policy restriction"
   },
-  "next_gap": "Instagram 2026-11-24 12:00 WIB; no finished unassigned master"
+  "next_gap": "Instagram 2026-11-24 12:00 WIB; no finished unassigned master",
+  "verified_at_wib": "2026-11-23 09:12",
+  "coverage": {
+    "ig": {
+      "automatically_scheduled_next48h": 2,
+      "planned_next48h": 4,
+      "through_wib": "2026-11-23 19:00",
+      "first_uncovered_wib": "2026-11-24 12:00",
+      "second_uncovered_wib": "2026-11-24 19:00",
+      "finished_unassigned_inventory": 0,
+      "verified_backup": false
+    },
+    "x": {
+      "automatically_scheduled_next48h": 3,
+      "planned_next48h": 4,
+      "through_wib": "2026-11-24 19:00",
+      "first_uncovered_wib": "2026-11-25 09:00",
+      "today_evening_protected_id": "6b024438dfc158b46e1b987d",
+      "morning_today_status": "SENT"
+    }
+  },
+  "provider_readback": {
+    "ig_queue": 2,
+    "ig_sent": 49,
+    "ig_drafts": 0,
+    "x_queue": 3,
+    "x_sent": 56,
+    "x_drafts": 0,
+    "failed_processing_indicators": null,
+    "ambiguous_submissions": false,
+    "automatic_mode_confirmed_in_each_ig_composer": true,
+    "numeric_queue_cap": "Not surfaced; no paid upgrade or capacity change attempted"
+  },
+  "blocker": "No additional distinct finished IG masters available after two bounded new productions; Nov24 noon/19 need two originals. X next uncovered Nov25 morning lacks a confirmed next shared Hanzi topic. No login or owner approval required currently.",
+  "resumption": "Next existing run prioritize Nov24 noon/19 unique masters and X next confirmed topic; do not repeat this run's source hashes. All existing and pending/public reservations protected.",
+  "recurrence_changed": false,
+  "other_accounts_touched": false,
+  "new_automation_created": false,
+  "paid_upgrades": false
 }
