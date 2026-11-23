@@ -123,7 +123,9 @@
     {
       "time_wib": "2026-11-24 19:00",
       "source": "libfile_592788ca9dfc81919d420b1da01061fa",
-      "text": "Your paper plane lands in a friend’s hair. You apologize; they smile: 没关系。 Méi guānxi. “It’s okay.” Use it to reassure someone after a minor mistake. It’s a response to the apology, rather than another way to say “sorry.”"
+      "text": "Your paper plane lands in a friend’s hair. You apologize; they smile: 没关系。 Méi guānxi. “It’s okay.” Use it to reassure someone after a minor mistake. It’s a response to the apology, rather than another way to say “sorry.”",
+      "buffer_id": "6b039fd3957509ff9f1d4d7e",
+      "status": "AUTO-SCHEDULED"
     }
   ],
   "prior_public": {
@@ -147,5 +149,50 @@
         "url": "https://x.com/2112901672993472512/status/2124473216454291600"
       }
     ]
+  },
+  "ig_sources": [
+    {
+      "title": "Papan yang Dijanjikan",
+      "sentence": "承诺要靠行动兑现。",
+      "pinyin": "Chéngnuò yào kào xíngdòng duìxiàn.",
+      "indonesian": "Janji harus ditepati lewat tindakan.",
+      "wib": "2026-11-23 12:00",
+      "sha256": "50f39e3cb73c332ee9cfc4f6569af48827cca5a15236602fdb9806e7844ee407",
+      "status": "PREPARED_INTENT",
+      "archive": "libfile_379a1bb4513c81919388c463a4afe065"
+    },
+    {
+      "title": "Keranjang yang Terlalu Berat",
+      "sentence": "放下负担，才能走得更远。",
+      "pinyin": "Fàngxià fùdān, cái néng zǒu de gèng yuǎn.",
+      "indonesian": "Lepaskan beban agar bisa melangkah lebih jauh.",
+      "wib": "2026-11-23 19:00",
+      "sha256": "c9e925c438d2d7587ff16ac9bc97be46ee59ad420f46e374f0013f741cabd65c",
+      "status": "PREPARED_INTENT",
+      "archive": "libfile_379a1bb4513c81919388c463a4afe065"
+    }
+  ],
+  "archive": "libfile_379a1bb4513c81919388c463a4afe065",
+  "weekly_known_records": {
+    "date_range": "2026-11-16 to 2026-11-22",
+    "ig_sent_public_confirmed": 14,
+    "ig_planned": 14,
+    "x_sent_confirmed": 14,
+    "x_planned": 14,
+    "notes": "From saved ledger and already loaded provider Sent records; no extra analytics browsing; reach/retention unavailable."
+  },
+  "production_status": "Two READY source masters saved; first upload in progress; no IG submission yet",
+  "qa": {
+    "format": "H264/AAC 1080x1920 30fps",
+    "full_decode": "PASS",
+    "duration_seconds": [
+      51.421995,
+      53.926009
+    ],
+    "card_seconds": 7.5,
+    "independent_listening": false,
+    "approved_voice_template": true,
+    "visual_review": "PASS; opening, result, final card and ending",
+    "repair": "Single targeted closing-card line wrap; audio retained"
   }
 }
