@@ -111,5 +111,39 @@
         ]
       ]
     }
-  ]
+  ],
+  "x_new": [
+    {
+      "time_wib": "2026-11-24 09:00",
+      "source": "libfile_48742c295dec8191ac7e78291a9509ce",
+      "text": "A tiny key hides behind an enormous duck keychain. Hand it back: 这是你的。 Zhè shì nǐ de. “This is yours.” 的 lets 你的 stand for the item both people can see. No need to repeat “key” every time."
+    },
+    {
+      "time_wib": "2026-11-24 19:00",
+      "source": "libfile_592788ca9dfc81919d420b1da01061fa",
+      "text": "Your paper plane lands in a friend’s hair. You apologize; they smile: 没关系。 Méi guānxi. “It’s okay.” Use it to reassure someone after a minor mistake. It’s a response to the apology, rather than another way to say “sorry.”"
+    }
+  ],
+  "prior_public": {
+    "ig_noon": {
+      "id": "6b024505957509ff9fdc9622",
+      "url": "https://www.instagram.com/reel/DgCARRbvdaX/",
+      "status": "SENT"
+    },
+    "ig_evening": {
+      "id": "6b02454754c1bec94ff4be70",
+      "url": "https://www.instagram.com/reels/DgCwYAEhF9J/",
+      "status": "PUBLIC_PAGE_VERIFIED"
+    },
+    "x_nov22": [
+      {
+        "id": "6b00f34515d771fd1cfa1865",
+        "url": "https://x.com/2112901672993472512/status/2124322161393361097"
+      },
+      {
+        "id": "6b00f3ca15d771fd1cfa2972",
+        "url": "https://x.com/2112901672993472512/status/2124473216454291600"
+      }
+    ]
+  }
 }
