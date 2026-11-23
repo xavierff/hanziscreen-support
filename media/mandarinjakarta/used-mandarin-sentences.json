@@ -264,8 +264,10 @@
       "indonesian": "Lepaskan beban agar bisa melangkah lebih jauh.",
       "wib": "2026-11-23 19:00",
       "sha256": "c9e925c438d2d7587ff16ac9bc97be46ee59ad420f46e374f0013f741cabd65c",
-      "status": "PREPARED_INTENT",
-      "archive": "libfile_379a1bb4513c81919388c463a4afe065"
+      "status": "AUTO-SCHEDULED",
+      "archive": "libfile_379a1bb4513c81919388c463a4afe065",
+      "buffer_id": "6b03a0ec5d51d0ef7a57b94e",
+      "automatic": true
     }
   ]
 }
