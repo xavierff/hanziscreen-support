@@ -1,0 +1,115 @@
+{
+  "status": "PRODUCTION_INTENT; no new submissions",
+  "date": "2026-11-23",
+  "accounts": {
+    "ig": "6ad9a4bc778b240e2f87c9e5",
+    "x": "6ad8c4a6778b240e2f7b10d2"
+  },
+  "preflight": {
+    "ig_queue": 0,
+    "ig_sent": 49,
+    "ig_drafts": 0,
+    "x_queue": 2,
+    "x_sent": 55,
+    "x_drafts": 0,
+    "failed_processing_indicators": null
+  },
+  "stories": [
+    {
+      "slug": "Papan",
+      "title": "Papan yang Dijanjikan",
+      "category": "relatable psychology",
+      "zh": "承诺要靠行动兑现。",
+      "pinyin": "Chéngnuò yào kào xíngdòng duìxiàn.",
+      "meaning": "Janji harus ditepati lewat tindakan.",
+      "nuance": "Gunakan untuk mengingatkan bahwa ucapan perlu dibuktikan dengan perbuatan.",
+      "hook": "Papan tangga itu patah setelah diinjak Rui. Ia sudah berjanji menggantinya, tetapi terus menunda.",
+      "conflict": "Rui broke a widow's doorstep board, promised replacement, postponed while seeking paid work.",
+      "choice": "Leaves a lucrative decorative commission briefly, brings his own sound wood and repairs the step he broke.",
+      "shown_outcome": "Older woman steps firmly with water bucket; repaired board holds; Rui returns to finish paid work afterward.",
+      "why_it_matters": "A fulfilled promise restores safety and trust, unlike another excuse.",
+      "scenes": [
+        [
+          "Papan itu patah tepat di bawah kaki Rui.",
+          "Ia melompat. Ember perempuan tua itu hampir jatuh."
+        ],
+        [
+          "Besok kuganti, katanya. Namun tiga hari berlalu.",
+          "Rui terus melewati rumah itu sambil menunduk."
+        ],
+        [
+          "Di bengkel, pesanan hiasan berbayar menumpuk.",
+          "Memperbaiki tangga tak memberinya satu koin pun."
+        ],
+        [
+          "Lalu ia melihat perempuan itu mengangkat air lewat jendela.",
+          "Setiap ember harus ditarik perlahan, sendirian."
+        ],
+        [
+          "Rui pulang mengambil papan terbaik miliknya.",
+          "Ia meminta maaf, mengukur tangga, lalu mulai bekerja."
+        ],
+        [
+          "Menjelang sore, ia menguji pijakan itu dengan tubuhnya.",
+          "Perempuan itu naik membawa air. Papan tetap kokoh."
+        ],
+        [
+          "Rui kembali ke bengkel setelah tangga aman.",
+          "Kepercayaan pulih karena janji ditepati, bukan diulang."
+        ],
+        [
+          "Janji harus ditepati lewat tindakan.",
+          "ZH"
+        ]
+      ]
+    },
+    {
+      "slug": "Keranjang",
+      "title": "Keranjang yang Terlalu Berat",
+      "category": "original fable or reversal",
+      "zh": "放下负担，才能走得更远。",
+      "pinyin": "Fàngxià fùdān, cái néng zǒu de gèng yuǎn.",
+      "meaning": "Lepaskan beban agar bisa melangkah lebih jauh.",
+      "nuance": "Pakai ketika melepaskan hal yang menguras tenaga membantu kita melanjutkan tujuan.",
+      "hook": "Lin terus membawa pecahan kendi yang tak bisa dijual. Ia merasa membuangnya berarti mengakui kerugian.",
+      "conflict": "Seller carries broken pottery uphill in same basket as intact goods, refuses to lose what she already paid for.",
+      "choice": "Stops, separates unsafe shards for proper disposal at workshop, carries only intact jars onward.",
+      "shown_outcome": "Returns shards to nearby workshop clay reclaim tub, then reaches village market before closing and sells intact jars.",
+      "why_it_matters": "Accepting the old loss preserves her strength and remaining goods, allowing her journey to continue.",
+      "scenes": [
+        [
+          "Tali keranjang Lin mulai putus di tengah tanjakan.",
+          "Di dalamnya ada kendi utuh dan banyak pecahan."
+        ],
+        [
+          "Kendi itu pecah sejak pagi.",
+          "Namun Lin tetap membawanya. Semuanya sudah ia bayar."
+        ],
+        [
+          "Semakin tinggi jalan, semakin lambat langkahnya.",
+          "Pecahan yang tak laku justru menekan kendi yang masih baik."
+        ],
+        [
+          "Pintu pasar segera ditutup. Lin hampir menyerah.",
+          "Di tepi jalan, ia melihat bengkel tembikar."
+        ],
+        [
+          "Ia berhenti dan memisahkan pecahan dari kendi utuh.",
+          "Perajin menerima pecahan itu ke bak pengolahan tanah liat."
+        ],
+        [
+          "Keranjangnya lebih ringan. Talinya bisa diikat kembali.",
+          "Lin tiba sebelum pasar tutup. Kendi utuhnya terjual."
+        ],
+        [
+          "Kerugian pagi itu tetap nyata, tetapi langkahnya berlanjut.",
+          "Ia menyelamatkan yang masih baik dengan melepas beban lama."
+        ],
+        [
+          "Lepaskan beban agar bisa melangkah lebih jauh.",
+          "ZH"
+        ]
+      ]
+    }
+  ]
+}
