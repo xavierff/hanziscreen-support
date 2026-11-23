@@ -452,3 +452,27 @@ Actual lower-third module is tracked at media/youtube/template-v2/long_template_
 Recovery/cache and verified routing state: libfile_db212a5440788191ac8e555010a455e0 (Hanzi_YouTube_20261122_Split_Recovery.zip). Source archives: tickets libfile_b527faf53974819191170c82a5e6deef, cactus libfile_30fb07dff25c8191ae91ee3550d2d6a7, orange libfile_47298be4bcf881919b2d15f78adff889.
 
 Metadata-only early warning, no other publisher visited: all four other tasks enabled. Hidden Fortune Nov22 latest no_update has no run chat and stale Nov19 report says Nov23 set0/3; owner should inspect missing execution/host status. Mandarin Jakarta Nov23 noon and Hanzi IG/TikTok Nov23 evening have source gaps. Threads Nov21 evening remains unconfirmed; its report asks owner to inspect host execution. No task changed or triggered.
+
+
+## Hanzi YouTube Nov23 bounded preflight and Nov24 refill (WIB)
+
+Exact native Studio channel UCnTFHhzyCoiSaDSfdGKFx5g authenticated. No other brand account/task accessed. No new rendering, narration, template testing or long production on this off-day.
+
+PUBLIC verified in exact-channel Shorts table: Nov22 18:00 Runaway Scarf https://www.youtube.com/shorts/qmpDgibtDIo ; Nov22 20:00 Swapped Tickets https://www.youtube.com/shorts/QYnd_Cyjo48 . Buffer Sent lists scarf18:01 and also displays the externally/native-scheduled tickets20:00 record; the latter was uploaded through Studio per immutable prior log, not a new Buffer submission. Do not infer Buffer quota consumption from imported Sent display alone.
+
+Protected today Nov23 18:00 Dinner Cactus Buffer6b02be34428202bea75d2294 and20:00 Runaway Orange native16mHn4NvB68. Native row explicitly Scheduled Nov23. No retry. Older daily-limit errored Nov19/21 records remain untouched.
+
+NEW AUTO-SCHEDULED (not public):
+- Nov24 18:00, Tiny Key, Giant Duck — 这是你的 #Shorts, Buffer6b040f5c67b7fae799bc974b. Public/Automatic/Education/not made for kids/synthetic disclosure. Exact owned original Hanzi_The_Giant_Duck_Keychain.mp4 SHA2568057b7f1412cbbd0004a300546b3ffd62fbeb30abc7cbcd988839629810cf97a, source libfile_48742c295dec8191ac7e78291a9509ce.
+- Nov24 20:00, My Paper Plane Landed in Her Hair — 没关系 #Shorts, native YouTube -NcHReBrd8Q, https://youtube.com/shorts/-NcHReBrd8Q . Explicit Video scheduled confirmation Nov24 8:00PM GMT+0700. Copyright checks No issues found, Education, not made for kids, AI disclosure, no paid promotion. Exact owned original Hanzi_The_Paper_Plane_Pilot.mp4 SHA256e51c2c0a3a8b06e88b726cb15a0ec4f7e4a10e93845b1677c1dc13c764aafdd4, source libfile_592788ca9dfc81919d420b1da01061fa. Different hash/story from older Nov19 Paper Plane. Existing release ledger says IG20:00 auto-scheduled; TikTok protected draft only. Original ownership and rights/QA permit YouTube scheduling independently; no TikTok workaround attempted.
+
+Both hashes matched complete durable source records, approved original music/art/licensed cached Kokoro voice/template QA retained. No redundant decode/listening/render repeated. No same-video pending/public/queued native entries or Buffer reservations found before uploads. One new Buffer routine18 reservation only; Studio20 split remains active. No duplicate Buffer20 entry to cancel.
+
+Next48h Shorts4/4 auto-confirmed: Nov23 two +Nov24 two. Total required upcoming48h4/5, including unreserved Nov25 10:00 long. Earliest uncovered is Nov25 10:00, intended production Nov24 17:00. Existing licensed scarf narration/preview cache libfile_db212a5440788191ac8e555010a455e0 remains NOT an exported/QA-cleared long. Complete one permitted long production pass Nov24, using finished related source, source-level lower-third template media/youtube/template-v2/ (v2026-11-22.1), frame/audio/full-decode QA and distinctive thumbnail. No backfill or off-day long. Next later unreserved Short Nov25 18:00.
+
+Monday seven-day known-record recap, Nov16–22, no historical browsing:
+1. Twelve of fourteen Shorts have confirmed public records; Nov19/21 18:00 failed Buffer quota.
+2. Four long lessons Nov16–19 confirmed public; Nov22 anchored long missed. Nov20/21 intentional no-long days.
+3. Split now has native scheduling proof and Nov22 actual release proof. Next long Nov25 remains unreserved pending permitted Nov24 preparation. Analytics/impressions/CTR baseline unavailable; no growth claim.
+
+Current upstream ledger libfile_637343daf5788191b09c7ba720baea91 version27. Nov24 noon lunchbox original libfile_5750d4123ad88191a760eb1ba38b5048 is finished and rights/QA-cleared, but NOT submitted by this YouTube run (outside next needed dates). No cross-channel health check performed under current policy.
