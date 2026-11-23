@@ -226,10 +226,11 @@
       "indonesian": "Jumlah orang tak menjamin kebenaran.",
       "wib": "2026-11-22 12:00",
       "sha256": "3def1b252dbaa9617e573588a6839abad5ab5e77d9e5553b7eea55c677b4a838",
-      "status": "AUTO-SCHEDULED",
+      "status": "SENT",
       "archive": "libfile_1f9cf329c024819195d884a55a7a3467",
       "buffer_id": "6b024505957509ff9fdc9622",
-      "automatic": true
+      "automatic": true,
+      "public_url": "https://www.instagram.com/reel/DgCARRbvdaX/"
     },
     {
       "title": "Tepuk Tangan Pertama",
@@ -238,10 +239,31 @@
       "indonesian": "Mengagumi bukan berarti kalah.",
       "wib": "2026-11-22 19:00",
       "sha256": "a6bbfcf4c62f6cfb9e91c6e0f4a8549dc806866cee02ed824101a5ae2e628ede",
-      "status": "AUTO-SCHEDULED",
+      "status": "PUBLIC",
       "archive": "libfile_1f9cf329c024819195d884a55a7a3467",
       "buffer_id": "6b02454754c1bec94ff4be70",
-      "automatic": true
+      "automatic": true,
+      "public_url": "https://www.instagram.com/reels/DgCwYAEhF9J/"
+    },
+    {
+      "title": "Papan yang Dijanjikan",
+      "sentence": "承诺要靠行动兑现。",
+      "pinyin": "Chéngnuò yào kào xíngdòng duìxiàn.",
+      "indonesian": "Janji harus ditepati lewat tindakan.",
+      "wib": "2026-11-23 12:00",
+      "sha256": "50f39e3cb73c332ee9cfc4f6569af48827cca5a15236602fdb9806e7844ee407",
+      "status": "PREPARED_INTENT",
+      "archive": "libfile_379a1bb4513c81919388c463a4afe065"
+    },
+    {
+      "title": "Keranjang yang Terlalu Berat",
+      "sentence": "放下负担，才能走得更远。",
+      "pinyin": "Fàngxià fùdān, cái néng zǒu de gèng yuǎn.",
+      "indonesian": "Lepaskan beban agar bisa melangkah lebih jauh.",
+      "wib": "2026-11-23 19:00",
+      "sha256": "c9e925c438d2d7587ff16ac9bc97be46ee59ad420f46e374f0013f741cabd65c",
+      "status": "PREPARED_INTENT",
+      "archive": "libfile_379a1bb4513c81919388c463a4afe065"
     }
   ]
 }
