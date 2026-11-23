@@ -252,8 +252,10 @@
       "indonesian": "Janji harus ditepati lewat tindakan.",
       "wib": "2026-11-23 12:00",
       "sha256": "50f39e3cb73c332ee9cfc4f6569af48827cca5a15236602fdb9806e7844ee407",
-      "status": "PREPARED_INTENT",
-      "archive": "libfile_379a1bb4513c81919388c463a4afe065"
+      "status": "AUTO-SCHEDULED",
+      "archive": "libfile_379a1bb4513c81919388c463a4afe065",
+      "buffer_id": "6b03a08864311060761907e0",
+      "automatic": true
     },
     {
       "title": "Keranjang yang Terlalu Berat",
