@@ -158,8 +158,10 @@
       "indonesian": "Janji harus ditepati lewat tindakan.",
       "wib": "2026-11-23 12:00",
       "sha256": "50f39e3cb73c332ee9cfc4f6569af48827cca5a15236602fdb9806e7844ee407",
-      "status": "PREPARED_INTENT",
-      "archive": "libfile_379a1bb4513c81919388c463a4afe065"
+      "status": "AUTO-SCHEDULED",
+      "archive": "libfile_379a1bb4513c81919388c463a4afe065",
+      "buffer_id": "6b03a08864311060761907e0",
+      "automatic": true
     },
     {
       "title": "Keranjang yang Terlalu Berat",
@@ -194,5 +196,13 @@
     "approved_voice_template": true,
     "visual_review": "PASS; opening, result, final card and ending",
     "repair": "Single targeted closing-card line wrap; audio retained"
-  }
+  },
+  "current_x_morning": {
+    "id": "6b02436d7eba1384e766d6d9",
+    "status": "SENT",
+    "time_wib": "2026-11-23 09:00",
+    "public_url": "https://x.com/2112901672993472512/status/2124684494124781892",
+    "verification": "Provider Sent permalink; separate X page not reopened after known network/policy restriction"
+  },
+  "next_gap": "Instagram 2026-11-24 12:00 WIB; no finished unassigned master"
 }
