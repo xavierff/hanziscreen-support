@@ -252,10 +252,11 @@
       "indonesian": "Janji harus ditepati lewat tindakan.",
       "wib": "2026-11-23 12:00",
       "sha256": "50f39e3cb73c332ee9cfc4f6569af48827cca5a15236602fdb9806e7844ee407",
-      "status": "AUTO-SCHEDULED",
+      "status": "SENT",
       "archive": "libfile_379a1bb4513c81919388c463a4afe065",
       "buffer_id": "6b03a08864311060761907e0",
-      "automatic": true
+      "automatic": true,
+      "public_url": "https://www.instagram.com/reel/DgElE_ETch1/"
     },
     {
       "title": "Keranjang yang Terlalu Berat",
@@ -264,10 +265,31 @@
       "indonesian": "Lepaskan beban agar bisa melangkah lebih jauh.",
       "wib": "2026-11-23 19:00",
       "sha256": "c9e925c438d2d7587ff16ac9bc97be46ee59ad420f46e374f0013f741cabd65c",
-      "status": "AUTO-SCHEDULED",
+      "status": "SENT",
       "archive": "libfile_379a1bb4513c81919388c463a4afe065",
       "buffer_id": "6b03a0ec5d51d0ef7a57b94e",
-      "automatic": true
+      "automatic": true,
+      "public_url": "https://www.instagram.com/reel/DgFVY-fKiRF/"
+    },
+    {
+      "title": "Giliran yang Tidak Dijual",
+      "sentence": "先来后到，也是一种尊重。",
+      "pinyin": "Xiān lái hòu dào, yě shì yì zhǒng zūnzhòng.",
+      "indonesian": "Menghormati urutan juga berarti menghargai orang.",
+      "wib": "2026-11-24 12:00",
+      "sha256": "5ab397f93239d9a53ab18d38c53662a5cfb4b2402d312e06027375fd316a07c4",
+      "archive": "libfile_f1d16a278f5c8191a3e29729ea983298",
+      "status": "PREPARED_INTENT"
+    },
+    {
+      "title": "Kalimat yang Sulit Diucapkan",
+      "sentence": "承认不懂，才有机会学会。",
+      "pinyin": "Chéngrèn bù dǒng, cái yǒu jīhuì xuéhuì.",
+      "indonesian": "Berani mengaku belum paham membuka jalan untuk belajar.",
+      "wib": "2026-11-24 19:00",
+      "sha256": "5cb61ff3a0234bd31e908096a6aac259f5d6108c1cf45d049f3a7d9b1db256a3",
+      "archive": "libfile_f1d16a278f5c8191a3e29729ea983298",
+      "status": "PREPARED_INTENT"
     }
   ]
 }
