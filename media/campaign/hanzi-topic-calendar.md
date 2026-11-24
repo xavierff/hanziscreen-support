@@ -476,3 +476,28 @@ Monday seven-day known-record recap, Nov16–22, no historical browsing:
 3. Split now has native scheduling proof and Nov22 actual release proof. Next long Nov25 remains unreserved pending permitted Nov24 preparation. Analytics/impressions/CTR baseline unavailable; no growth claim.
 
 Current upstream ledger libfile_637343daf5788191b09c7ba720baea91 version27. Nov24 noon lunchbox original libfile_5750d4123ad88191a760eb1ba38b5048 is finished and rights/QA-cleared, but NOT submitted by this YouTube run (outside next needed dates). No cross-channel health check performed under current policy.
+
+
+## Nov24 Hanzi YouTube semantic/voice recall — effective immediately
+
+This section REVOKES prior technical-only source approval labels. Exact destination UCnTFHhzyCoiSaDSfdGKFx5g verified in signed-in Studio.
+
+Completed provider holds:
+- Nov24 18:00 Buffer6b040f5c67b7fae799bc974b, Tiny Key/Giant Duck, SHA8057b7f1412cbbd0004a300546b3ffd62fbeb30abc7cbcd988839629810cf97a. Matched prior exact upload/source record. Moved to Drafts; readback same data-post-id says Post draft. Queue decreased3→2 (only older error records), Drafts0→1. No deletion.
+- Nov24 20:00 native -NcHReBrd8Q, Paper Plane Pilot, SHAe51c2c0a3a8b06e88b726cb15a0ec4f7e4a10e93845b1677c1dc13c764aafdd4. Exact title/filename/ID and Scheduled Nov24 20:00 GMT+0700 verified before changing. Changed scheduled publication to PRIVATE, Done then Save; final Visibility Private and Save disabled confirm saved hold. Video preserved, not deleted. https://youtube.com/shorts/-NcHReBrd8Q .
+No replacements submitted; no public video edited/deleted; no other account accessed.
+
+Enhanced validator media/qa/check_short_source.py current blob42b08df15c5c6ee15a05fa36406f0d251d5ab29c executed against exact owned ZIPs:
+- Duck source libfile_48742c295dec8191ac7e78291a9509ce: BLOCK (exit1), stale It's okay vs canonical This is yours, sample_2.wav transcript/hash unverified, CJK curly-apostrophe spacing, missing typography/voice/semantic signoffs.
+- Plane source libfile_592788ca9dfc81919d420b1da01061fa: BLOCK (exit1), generic sample_2 transcript/hash unverified, CJK curly-apostrophe spacing, missing typography and natural Mandarin preset/per-phrase review and semantic signoffs. Chinese meaning It's okay matches here; do NOT falsely call this a wrong translation.
+- Repaired lunchbox nested Hanzi_Nov24_Renderer_Source_REVIEW_ONLY.zip from libfile_74a936c838788191a457541eddfe446d: BLOCK exit1 ONLY missing Mandarin preset quality approval and phrase pronunciation/prosody review. Review wrapper outerZIP is not itself a canonical source bundle. Source repair uses DejaVuSans entire-string Latin/ASCII apostrophe normalization, separate CJK, canonical lesson panels/narration and music sidechain ducking. Actual final1080x1920 frame inspected: Let's swap them back / Now both lids fit; typography normal. No new MP4 or audio generated. No claim decoder checked tones or that listening approval occurred. All voice approval fields remain false.
+
+Shared helper current media/qa/latin_text_render.py blobac947e984d5e83c4dc84bcde1f726832e5957fe7 read. No new Short produced here. Only use repaired source with first/lesson/final proof and all four genuine gates true before future upload. No older cached zf_xiaobei voice accepted as automatic quality proof.
+
+Nov25 10:00 long BLOCKED: saved scarf narration/preview cache libfile_db212a5440788191ac8e555010a455e0 is not a finished master and does not have genuine natural Mandarin voice approval. No long rendered or submitted today. Existing lower-third template remains unchanged. Next intended release remains Nov25, then Nov28/Dec1; do not fabricate coverage or backfill off days.
+
+Next48h: 0 confirmed approved future releases (today18/20 held; Nov25 long+18/20 blocked). Earliest gap Nov24 18:00 WIB. Upstream source handoff current ledger libfile_637343daf5788191b09c7ba720baea91 version29 revokes prior QUALITY_PASSED and has no approved new master. This corrects the previous report's4/4 claim for semantically unsafe sources.
+
+Minimum owner action: listen to saved A/B/C samples, approve a suitable preset AND the phrase 我们换回来吧 (or reject all), then request resume. Do not regenerate samples or fill approval fields without actual review. A libfile_af2e3510a53c81919a6fbd52e2381970; B libfile_37c71f0ebe6081919a040ecc20d4c2bc; C libfile_e2de5a2e2c608191a09be17bb9f8f765. Review source package libfile_74a936c838788191a457541eddfe446d, final frame libfile_acdaba634e00819187f872cbaf69fbca. Approval of one phrase does not automatically approve all old recordings.
+
+All further publishing is blocked by required owner listening approval. Pause this existing publishing task per host blocked-task requirement; retain the original17:00 daily schedule and all policy, no new task. Resume only after approval; recheck provider states before replacing held originals, and require current source validator exit0 plus actual per-phrase/audio/caption timing/rights/semantic review.
