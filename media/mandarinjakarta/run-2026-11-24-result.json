@@ -1,0 +1,159 @@
+{
+  "date": "2026-11-24",
+  "status": "PRODUCTION_INTENT; no new submissions",
+  "preflight": {
+    "ig_queue": 0,
+    "ig_sent": 51,
+    "ig_drafts": 0,
+    "x_queue": 2,
+    "x_sent": 57,
+    "x_drafts": 0,
+    "failed_processing_indicators": null
+  },
+  "stories": [
+    {
+      "slug": "Giliran",
+      "title": "Giliran yang Tidak Dijual",
+      "category": "human nature / fairness",
+      "board": "tailor.png",
+      "grid": "tailor-grid.json",
+      "offset": 8,
+      "zh": "先来后到，也是一种尊重。",
+      "pinyin": "Xiān lái hòu dào, yě shì yì zhǒng zūnzhòng.",
+      "meaning": "Menghormati urutan juga berarti menghargai orang.",
+      "nuance": "Gunakan saat mengingatkan orang agar tidak menyerobot giliran.",
+      "hook": "Uang itu cukup untuk membeli seluruh kain di mejanya. Syaratnya, pesanan seorang ibu harus ditunda.",
+      "conflict": "Wealthy buyer offers extra coins to displace an older customer's earlier order.",
+      "choice": "Tailor refuses the extra money, protects the earlier order and finishes it.",
+      "shown_outcome": "Older woman receives her red garment on the promised day instead of losing her place.",
+      "why_it_matters": "Fair treatment protects a quiet customer's equal value, rather than selling priority.",
+      "scenes": [
+        [
+          "Uang itu diletakkan di samping jarum Yun.",
+          "Seorang pelanggan ingin pesanannya didahulukan."
+        ],
+        [
+          "Di meja, jubah seorang ibu tinggal sedikit lagi selesai.",
+          "Besok ia akan menjemputnya untuk menemui keluarganya."
+        ],
+        [
+          "Pelanggan baru menawarkan bayaran dua kali lipat.",
+          "Yun menghitung kebutuhan rumahnya. Tawaran itu sungguh menggoda."
+        ],
+        [
+          "Tetapi ibu tadi sudah menunggu berhari-hari.",
+          "Apakah giliran seseorang boleh hilang karena ia membayar lebih sedikit?"
+        ],
+        [
+          "Yun menolak uang tambahan itu dengan sopan.",
+          "Ia menjelaskan, pesanan yang datang dahulu akan diselesaikan dahulu."
+        ],
+        [
+          "Keesokan paginya, jahitan terakhir selesai.",
+          "Sang ibu menerima jubah merahnya tepat pada hari yang dijanjikan."
+        ],
+        [
+          "Yun tidak menjual tempat orang yang tak hadir membela dirinya.",
+          "Menghormati urutan juga berarti menghargai orang."
+        ],
+        [
+          "Menghormati urutan juga berarti menghargai orang.",
+          "ZH"
+        ]
+      ]
+    },
+    {
+      "slug": "Belajar",
+      "title": "Kalimat yang Sulit Diucapkan",
+      "category": "relatable psychology",
+      "board": "garden.png",
+      "grid": "garden-grid.json",
+      "offset": 0,
+      "zh": "承认不懂，才有机会学会。",
+      "pinyin": "Chéngrèn bù dǒng, cái yǒu jīhuì xuéhuì.",
+      "meaning": "Berani mengaku belum paham membuka jalan untuk belajar.",
+      "nuance": "Pakai untuk mendorong seseorang bertanya daripada berpura-pura sudah tahu.",
+      "hook": "Tanamannya layu, tetapi Lian lebih takut terlihat bodoh daripada kehilangan bibitnya.",
+      "conflict": "New gardener hides failed planting because neighbors call her capable; afraid to ask experienced elder.",
+      "choice": "Admits she doesn't know, shows a failed seedling to experienced neighbor, accepts guidance.",
+      "shown_outcome": "They replant together; she follows agreed care and later sees healthy new shoots.",
+      "why_it_matters": "Admitting ignorance changes a concealed problem into a chance to learn; no magical instant harvest.",
+      "scenes": [
+        [
+          "Lian mengangkat bibit yang layu dari tanah.",
+          "Kemarin ia masih berkata, semua baik-baik saja."
+        ],
+        [
+          "Tetangga mengenalnya sebagai orang yang selalu bisa.",
+          "Kini ia malu mengakui kebunnya bermasalah."
+        ],
+        [
+          "Ia menutupi petak kosong dan berhenti bercerita.",
+          "Namun tanaman tidak pulih hanya karena orang lain tak melihatnya."
+        ],
+        [
+          "Seorang nenek datang memeriksa kebun itu.",
+          "Kali ini, Lian memperlihatkan bibitnya dan mengaku belum paham."
+        ],
+        [
+          "Nenek itu menunjukkan cara menanam sambil menjelaskan perawatannya.",
+          "Lian mengikuti, lalu bertanya saat ada yang belum jelas."
+        ],
+        [
+          "Hari-hari berikutnya, ia merawat bibit sesuai petunjuk.",
+          "Tunas baru muncul. Ia masih belajar, tetapi tidak lagi menebak sendirian."
+        ],
+        [
+          "Masalahnya mulai teratasi setelah ia berhenti berpura-pura tahu.",
+          "Berani mengaku belum paham membuka jalan untuk belajar."
+        ],
+        [
+          "Berani mengaku belum paham membuka jalan untuk belajar.",
+          "ZH"
+        ]
+      ]
+    }
+  ],
+  "x_new": [
+    {
+      "time_wib": "2026-11-25 09:00",
+      "source": "libfile_97469900a50081918bdc88bb857da76a",
+      "text": "Two lunchbox lids. Neither fits. 我们换回来吧。 Wǒmen huàn huílai ba. “Let’s swap them back.” 回来 adds “back”: return the switched lids to their original owners. 吧 makes this a friendly suggestion."
+    },
+    {
+      "time_wib": "2026-11-25 19:00",
+      "source": "libfile_97469900a50081918bdc88bb857da76a",
+      "text": "Mini-quiz: the lunchbox lids were swapped by mistake. In 我们换回来吧。 (Wǒmen huàn huílai ba.), what does 回来 add? Answer: “back”—restore the original arrangement. The whole sentence means “Let’s swap them back.”"
+    }
+  ],
+  "prior_releases": {
+    "ig": [
+      {
+        "id": "6b03a08864311060761907e0",
+        "status": "SENT",
+        "url": "https://www.instagram.com/reel/DgElE_ETch1/"
+      },
+      {
+        "id": "6b03a0ec5d51d0ef7a57b94e",
+        "status": "SENT",
+        "url": "https://www.instagram.com/reel/DgFVY-fKiRF/"
+      }
+    ],
+    "x": [
+      {
+        "id": "6b02436d7eba1384e766d6d9",
+        "status": "SENT",
+        "url": "https://x.com/2112901672993472512/status/2124684494124781892"
+      },
+      {
+        "id": "6b024438dfc158b46e1b987d",
+        "status": "SENT",
+        "url": "https://x.com/2112901672993472512/status/2124835902069305499"
+      }
+    ]
+  },
+  "protected_x_today": [
+    "6b039de2ed206b561c19f164",
+    "6b039fd3957509ff9f1d4d7e"
+  ]
+}
