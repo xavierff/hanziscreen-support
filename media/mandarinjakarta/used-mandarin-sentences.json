@@ -291,7 +291,9 @@
       "wib": "2026-11-24 19:00",
       "sha256": "5cb61ff3a0234bd31e908096a6aac259f5d6108c1cf45d049f3a7d9b1db256a3",
       "archive": "libfile_f1d16a278f5c8191a3e29729ea983298",
-      "status": "PREPARED_INTENT"
+      "status": "AUTO-SCHEDULED",
+      "buffer_id": "6b04e8be41bf64ead09684be",
+      "automatic": true
     }
   ]
 }
