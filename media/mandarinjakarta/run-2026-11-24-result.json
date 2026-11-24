@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "status": "Noon IG automatic reservation verified; evening upload in progress",
+  "status": "NEEDS ATTENTION: Instagram reserve below48h; first gap Nov25 noon",
   "preflight": {
     "ig_queue": 0,
     "ig_sent": 51,
@@ -181,7 +181,9 @@
       "wib": "2026-11-24 19:00",
       "sha256": "5cb61ff3a0234bd31e908096a6aac259f5d6108c1cf45d049f3a7d9b1db256a3",
       "archive": "libfile_f1d16a278f5c8191a3e29729ea983298",
-      "status": "PREPARED_INTENT"
+      "status": "AUTO-SCHEDULED",
+      "buffer_id": "6b04e8be41bf64ead09684be",
+      "automatic": true
     }
   ],
   "archive": "libfile_f1d16a278f5c8191a3e29729ea983298",
@@ -203,5 +205,42 @@
       "Nov20 garden"
     ],
     "review": "Exact script, narration synthesis inputs, timed cues, card and caption reviewed; no hardcoded fallback ending"
-  }
+  },
+  "verified_at_wib": "2026-11-24 08:30",
+  "coverage": {
+    "ig": {
+      "auto_scheduled_next48h": 2,
+      "planned_next48h": 4,
+      "through_wib": "2026-11-24 19:00",
+      "first_uncovered_wib": "2026-11-25 12:00",
+      "second_uncovered_wib": "2026-11-25 19:00",
+      "finished_unassigned_inventory": 0,
+      "backup_verified": false
+    },
+    "x": {
+      "auto_scheduled_next48h": 4,
+      "planned_next48h": 4,
+      "through_wib": "2026-11-25 19:00",
+      "first_uncovered_wib": "2026-11-26 09:00"
+    }
+  },
+  "provider_readback": {
+    "ig_queue": 2,
+    "ig_sent": 51,
+    "ig_drafts": 0,
+    "x_queue": 4,
+    "x_sent": 57,
+    "x_drafts": 0,
+    "failed_processing_indicators": null,
+    "ambiguous_submissions": false,
+    "automatic_confirmed_in_both_ig_composers": true,
+    "numeric_free_cap": "Not surfaced; no upgrade"
+  },
+  "production_status": "Two new original distinct masters saved and automatically scheduled; no immediate public post claimed. Zero new artwork generation and zero completed-export rerenders.",
+  "blocker": "No additional finished distinct IG masters to cover Nov25 noon/19. Two new sources required at next existing run; current production cap2 respected. No owner login/approval action required.",
+  "resumption": "Prioritize Nov25 noon and19 sources at next existing run, use owned cache and new tight scripts; retain current hashes/IDs to prevent resubmission.",
+  "other_accounts_changed": false,
+  "new_automations": false,
+  "paid_upgrades": false,
+  "recurrence_changed": false
 }
