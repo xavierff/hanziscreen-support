@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "status": "PRODUCTION_INTENT; no new submissions",
+  "status": "READY sources persisted; first IG upload in progress",
   "preflight": {
     "ig_queue": 0,
     "ig_sent": 51,
@@ -125,7 +125,9 @@
     {
       "time_wib": "2026-11-25 19:00",
       "source": "libfile_97469900a50081918bdc88bb857da76a",
-      "text": "Mini-quiz: the lunchbox lids were swapped by mistake. In 我们换回来吧。 (Wǒmen huàn huílai ba.), what does 回来 add? Answer: “back”—restore the original arrangement. The whole sentence means “Let’s swap them back.”"
+      "text": "Mini-quiz: the lunchbox lids were swapped by mistake. In 我们换回来吧。 (Wǒmen huàn huílai ba.), what does 回来 add? Answer: “back”—restore the original arrangement. The whole sentence means “Let’s swap them back.”",
+      "buffer_id": "6b04e7c37f1badb65ba99a1b",
+      "status": "AUTO-SCHEDULED"
     }
   ],
   "prior_releases": {
@@ -157,5 +159,47 @@
   "protected_x_today": [
     "6b039de2ed206b561c19f164",
     "6b039fd3957509ff9f1d4d7e"
-  ]
+  ],
+  "ig_new": [
+    {
+      "title": "Giliran yang Tidak Dijual",
+      "sentence": "先来后到，也是一种尊重。",
+      "pinyin": "Xiān lái hòu dào, yě shì yì zhǒng zūnzhòng.",
+      "indonesian": "Menghormati urutan juga berarti menghargai orang.",
+      "wib": "2026-11-24 12:00",
+      "sha256": "5ab397f93239d9a53ab18d38c53662a5cfb4b2402d312e06027375fd316a07c4",
+      "archive": "libfile_f1d16a278f5c8191a3e29729ea983298",
+      "status": "PREPARED_INTENT"
+    },
+    {
+      "title": "Kalimat yang Sulit Diucapkan",
+      "sentence": "承认不懂，才有机会学会。",
+      "pinyin": "Chéngrèn bù dǒng, cái yǒu jīhuì xuéhuì.",
+      "indonesian": "Berani mengaku belum paham membuka jalan untuk belajar.",
+      "wib": "2026-11-24 19:00",
+      "sha256": "5cb61ff3a0234bd31e908096a6aac259f5d6108c1cf45d049f3a7d9b1db256a3",
+      "archive": "libfile_f1d16a278f5c8191a3e29729ea983298",
+      "status": "PREPARED_INTENT"
+    }
+  ],
+  "archive": "libfile_f1d16a278f5c8191a3e29729ea983298",
+  "qa": {
+    "full_decode": "PASS",
+    "semantic_consistency_verified": true,
+    "independent_listening": false,
+    "approved_voice_template": true,
+    "original_scripts": 2,
+    "new_art_generation": 0,
+    "post_export_rerenders": 0,
+    "durations_s": [
+      55.89,
+      57.866667
+    ],
+    "final_card_s": 7.5,
+    "owned_visual_sources": [
+      "Nov21 tailor",
+      "Nov20 garden"
+    ],
+    "review": "Exact script, narration synthesis inputs, timed cues, card and caption reviewed; no hardcoded fallback ending"
+  }
 }
