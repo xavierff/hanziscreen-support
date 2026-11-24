@@ -56,7 +56,7 @@ def check(path):
                         problems.append("English voice text and canonical lesson meaning do not match")
         # Natural-looking English must not use full-width curly apostrophes
         # from a CJK-only font. A normal apostrophe is substantially narrower.
-        if "NotoSansCJK" in script and re.search(r"[A-Za-z]+[\\u2018\\u2019][A-Za-z]+", script):
+        if "NotoSansCJK" in script and re.search(r"[A-Za-z]+[’‘][A-Za-z]+", script):
             problems.append("English curly apostrophe is rendered with CJK font: use normal ASCII apostrophe and a Latin font")
         qa = meta.get("qa", {})
         if not qa.get("latin_typography_verified"):
