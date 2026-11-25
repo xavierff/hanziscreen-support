@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "status": "PRODUCTION_INTENT; no new submissions",
+  "status": "NEEDS ATTENTION: Work execution environment unavailable before Instagram QA completion/upload; X reservations confirmed",
   "stories": [
     {
       "slug": "Jelas",
@@ -131,7 +131,7 @@
     "drafts": 0,
     "failed_processing_indicators": null
   },
-  "blocker": "Restoring exact approved model after workspace maintenance; no media submission pending.",
+  "blocker": "exec-server transport disconnected; recovery timed out after 45s. Environment marked unavailable and cloud browser tool removed. No Instagram upload or submission was attempted.",
   "x_new": [
     {
       "time_wib": "2026-11-26 09:00",
@@ -162,7 +162,7 @@
         "Jubah yang Dikembalikan",
         "Bibit yang Tidak Bisa Diwakilkan"
       ],
-      "status": "IN_PRODUCTION; no result yet",
+      "status": "PREPARED/RENDERING ONLY; not submitted; no public performance result",
       "control": "Keep existing art/voice, duration, final single Mandarin payoff and release hours."
     },
     "external_lookup": {
@@ -197,5 +197,42 @@
         "url": "https://x.com/2112901672993472512/status/2125198395937558873"
       }
     ]
+  },
+  "recovery": {
+    "first_uncovered_wib": "2026-11-25 12:00",
+    "also_uncovered_wib": "2026-11-25 19:00",
+    "owner_action": "Restore/reconnect the Work execution environment with its existing workspace and authenticated Buffer browser.",
+    "resume": "Recover mj25 exact source projects; confirm both render/decode results and inspect existing QA frames; do not rerender unless concrete blocking defect. Save masters+QA durably, then duplicate-aware exact-account scheduling once.",
+    "library_save": "NOT COMPLETED before environment loss",
+    "ig_source_checks": [
+      {
+        "slug": "Jelas",
+        "duration_seconds": 58.8884807,
+        "sha256": "c1808079135c38afe34c3037992df64a29b254ae0141ada0d2ca825beb16acf5",
+        "decode": "PASS recorded before disconnect",
+        "visual_final_review": "NOT VERIFIED",
+        "publication": "NOT SUBMITTED"
+      },
+      {
+        "slug": "Sendiri",
+        "duration_seconds": 58.2911111,
+        "decode": "FINAL RESULT UNKNOWN after disconnect",
+        "visual_final_review": "NOT VERIFIED",
+        "publication": "NOT SUBMITTED"
+      }
+    ]
+  },
+  "coverage_at_preflight": {
+    "instagram": {
+      "next48_scheduled": 0,
+      "planned": 4,
+      "earliest_gap_wib": "2026-11-25 12:00"
+    },
+    "x": {
+      "confirmed_reservations": 4,
+      "through_wib": "2026-11-26 19:00",
+      "next_gap_wib": "2026-11-27 09:00",
+      "note": "Nov25 09/19 protected; Nov26 09/19 added and confirmed. No claim of publication after last readback."
+    }
   }
 }
