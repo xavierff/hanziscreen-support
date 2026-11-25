@@ -137,13 +137,17 @@
       "time_wib": "2026-11-26 09:00",
       "source_topic": "Corrected lunchbox ownership/fit language kit; text-only extension, no future video publication inferred",
       "source": "libfile_97469900a50081918bdc88bb857da76a",
-      "text": "The lid looks right. It still won’t close. 这个盖子不合适。 Zhège gàizi bù héshì. “This lid doesn’t fit.” 合适 means suitable or a good fit—not merely “correct.” Check the lid before forcing the box shut."
+      "text": "The lid looks right. It still won’t close. 这个盖子不合适。 Zhège gàizi bù héshì. “This lid doesn’t fit.” 合适 means suitable or a good fit—not merely “correct.” Check the lid before forcing the box shut.",
+      "buffer_id": "6b063cffe416ea9a16606520",
+      "status": "AUTO-SCHEDULED"
     },
     {
       "time_wib": "2026-11-26 19:00",
       "source_topic": "Lunchbox ownership; original text-only practice",
       "source": "libfile_97469900a50081918bdc88bb857da76a",
-      "text": "Sorting two lunchboxes? 这是你的，那个是我的。 Zhè shì nǐ de, nàge shì wǒ de. “This is yours; that one is mine.” 你的 and 我的 can stand for the objects already in view. You can stop repeating “lunchbox.”"
+      "text": "Sorting two lunchboxes? 这是你的，那个是我的。 Zhè shì nǐ de, nàge shì wǒ de. “This is yours; that one is mine.” 你的 and 我的 can stand for the objects already in view. You can stop repeating “lunchbox.”",
+      "buffer_id": "6b063d3568b30509d48936eb",
+      "status": "AUTO-SCHEDULED"
     }
   ],
   "learning": {
