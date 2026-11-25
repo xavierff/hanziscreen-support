@@ -131,5 +131,67 @@
     "drafts": 0,
     "failed_processing_indicators": null
   },
-  "blocker": "Restoring exact approved model after workspace maintenance; no media submission pending."
+  "blocker": "Restoring exact approved model after workspace maintenance; no media submission pending.",
+  "x_new": [
+    {
+      "time_wib": "2026-11-26 09:00",
+      "source_topic": "Corrected lunchbox ownership/fit language kit; text-only extension, no future video publication inferred",
+      "source": "libfile_97469900a50081918bdc88bb857da76a",
+      "text": "The lid looks right. It still won’t close. 这个盖子不合适。 Zhège gàizi bù héshì. “This lid doesn’t fit.” 合适 means suitable or a good fit—not merely “correct.” Check the lid before forcing the box shut."
+    },
+    {
+      "time_wib": "2026-11-26 19:00",
+      "source_topic": "Lunchbox ownership; original text-only practice",
+      "source": "libfile_97469900a50081918bdc88bb857da76a",
+      "text": "Sorting two lunchboxes? 这是你的，那个是我的。 Zhè shì nǐ de, nàge shì wǒ de. “This is yours; that one is mine.” 你的 and 我的 can stand for the objects already in view. You can stop repeating “lunchbox.”"
+    }
+  ],
+  "learning": {
+    "as_of_wib": "2026-11-25",
+    "account": "@mandarinjakarta",
+    "playbook_sha": "8a98b9e53fb7061253f1d19c3360631845f636d8",
+    "worked": "Provider readback confirms complete stories published; several action-led stories reached124–154views. These small unequal-age samples do not establish why.",
+    "failed": "All16loadedNov17–24Reels show0saves,0shares,0comments. Do not call views meaningful growth. A226s average-watch field exceeds clip length and is excluded from comparison.",
+    "next_experiment": {
+      "hypothesis": "State a concrete consequence in the first spoken sentence before name/context; compare saves/shares and completion across next3–7publicReels where available.",
+      "sources": [
+        "Jubah yang Dikembalikan",
+        "Bibit yang Tidak Bisa Diwakilkan"
+      ],
+      "status": "IN_PRODUCTION; no result yet",
+      "control": "Keep existing art/voice, duration, final single Mandarin payoff and release hours."
+    },
+    "external_lookup": {
+      "date": "2026-11-25",
+      "purpose": "Official Kokoro maintainer documentation to restore exact licensed baseline after workspace pruning; no trend lookup",
+      "next_not_before": "2026-12-02"
+    },
+    "metrics_limitations": "Views are not reach; no retention curve or follower conversion available. No causal lift claimed."
+  },
+  "prior_releases": {
+    "ig": [
+      {
+        "id": "6b04e8633c0fb3db7801a0ae",
+        "status": "SENT",
+        "url": "https://www.instagram.com/reel/DgHJ4DnSVnS/"
+      },
+      {
+        "id": "6b04e8be41bf64ead09684be",
+        "status": "SENT",
+        "url": "https://www.instagram.com/reel/DgH6GxQgJyz/"
+      }
+    ],
+    "x": [
+      {
+        "id": "6b039de2ed206b561c19f164",
+        "status": "SENT",
+        "url": "https://x.com/2112901672993472512/status/2125047011376328947"
+      },
+      {
+        "id": "6b039fd3957509ff9f1d4d7e",
+        "status": "SENT",
+        "url": "https://x.com/2112901672993472512/status/2125198395937558873"
+      }
+    ]
+  }
 }
