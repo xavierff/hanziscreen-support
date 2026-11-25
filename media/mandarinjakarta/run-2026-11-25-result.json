@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "status": "NEEDS ATTENTION: Work execution environment unavailable before Instagram QA completion/upload; X reservations confirmed",
+  "status": "NEEDS ATTENTION: Instagram masters unavailable after environment recovery; X reservations remain confirmed",
   "stories": [
     {
       "slug": "Jelas",
@@ -131,7 +131,7 @@
     "drafts": 0,
     "failed_processing_indicators": null
   },
-  "blocker": "exec-server transport disconnected; recovery timed out after 45s. Environment marked unavailable and cloud browser tool removed. No Instagram upload or submission was attempted.",
+  "blocker": "Work environment recovered to an older workspace snapshot (latest local MJ source Nov23). Nov25 mj25 projects, audio caches, MP4s and QA frames are absent from scratch/shared; exact and simplified Library title searches returned no saved Nov25 masters. No Instagram submission was attempted.",
   "x_new": [
     {
       "time_wib": "2026-11-26 09:00",
@@ -155,14 +155,14 @@
     "account": "@mandarinjakarta",
     "playbook_sha": "8a98b9e53fb7061253f1d19c3360631845f636d8",
     "worked": "Provider readback confirms complete stories published; several action-led stories reached124–154views. These small unequal-age samples do not establish why.",
-    "failed": "All16loadedNov17–24Reels show0saves,0shares,0comments. Do not call views meaningful growth. A226s average-watch field exceeds clip length and is excluded from comparison.",
+    "failed": "All16loadedNov17–24Reels show0saves,0shares,0comments. Do not call views meaningful growth. A226s average-watch field exceeds clip length and is excluded from comparison. Production resilience failure: Nov25 workspace loss occurred before durable master save; scripts survived in campaign state but rendered media did not.",
     "next_experiment": {
       "hypothesis": "State a concrete consequence in the first spoken sentence before name/context; compare saves/shares and completion across next3–7publicReels where available.",
       "sources": [
         "Jubah yang Dikembalikan",
         "Bibit yang Tidak Bisa Diwakilkan"
       ],
-      "status": "PREPARED/RENDERING ONLY; not submitted; no public performance result",
+      "status": "SCRIPT SAVED; media missing after environment recovery; NOT SCHEDULED/PUBLIC; no outcome data",
       "control": "Keep existing art/voice, duration, final single Mandarin payoff and release hours."
     },
     "external_lookup": {
@@ -170,7 +170,8 @@
       "purpose": "Official Kokoro maintainer documentation to restore exact licensed baseline after workspace pruning; no trend lookup",
       "next_not_before": "2026-12-02"
     },
-    "metrics_limitations": "Views are not reach; no retention curve or follower conversion available. No causal lift claimed."
+    "metrics_limitations": "Views are not reach; no retention curve or follower conversion available. No causal lift claimed.",
+    "production_fix": "Persist each completed source package immediately after its first successful export, before starting the next render, rather than waiting for both masters."
   },
   "prior_releases": {
     "ig": [
@@ -201,8 +202,8 @@
   "recovery": {
     "first_uncovered_wib": "2026-11-25 12:00",
     "also_uncovered_wib": "2026-11-25 19:00",
-    "owner_action": "Restore/reconnect the Work execution environment with its existing workspace and authenticated Buffer browser.",
-    "resume": "Recover mj25 exact source projects; confirm both render/decode results and inspect existing QA frames; do not rerender unless concrete blocking defect. Save masters+QA durably, then duplicate-aware exact-account scheduling once.",
+    "owner_action": "Recover the lost Nov25 workspace/masters if retained by the host; otherwise one new bounded production pass is required from the exact scripts saved in this campaign record.",
+    "resume": "Preserve exact two scripts and avoid clone/substitute stories. On next existing run recover exact Nov25 source bytes first; if unrecoverable, rebuild these same two sources using owned cached artwork/approved voice template within the two-master cap, complete QA and save durable checkpoints before publisher submission. Check live destination hashes/IDs before any submission.",
     "library_save": "NOT COMPLETED before environment loss",
     "ig_source_checks": [
       {
@@ -220,7 +221,9 @@
         "visual_final_review": "NOT VERIFIED",
         "publication": "NOT SUBMITTED"
       }
-    ]
+    ],
+    "environment": "AVAILABLE AGAIN; source-byte recovery failed",
+    "no_blind_rerender": true
   },
   "coverage_at_preflight": {
     "instagram": {
