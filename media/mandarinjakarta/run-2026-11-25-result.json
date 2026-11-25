@@ -1,0 +1,135 @@
+{
+  "date": "2026-11-25",
+  "status": "PRODUCTION_INTENT; no new submissions",
+  "stories": [
+    {
+      "slug": "Jelas",
+      "title": "Jubah yang Dikembalikan",
+      "category": "human nature / communication",
+      "board": "tailor.png",
+      "grid": "tailor-grid.json",
+      "offset": 8,
+      "cells": [
+        10,
+        8,
+        9,
+        14,
+        13,
+        14,
+        15,
+        15
+      ],
+      "zh": "把话说清楚，才能把事做好。",
+      "pinyin": "Bǎ huà shuō qīngchu, cái néng bǎ shì zuò hǎo.",
+      "meaning": "Bicarakan dengan jelas agar pekerjaan bisa diselesaikan dengan baik.",
+      "nuance": "Gunakan sebelum mengerjakan pesanan atau tugas yang kebutuhannya belum jelas.",
+      "hook": "Jubah itu dikembalikan tanpa pernah dipakai. Jahitannya rapi, tetapi Yun melewatkan kebutuhan terpenting.",
+      "conflict": "Tailor assumes an older client wants fine decoration; client cannot manage the small fasteners.",
+      "choice": "Asks what is difficult, listens to the client's hand problem and changes to larger accessible fasteners.",
+      "shown_outcome": "Finished red garment is handed back with larger fasteners; client receives the usable garment instead of another decorative change.",
+      "why_it_matters": "Clarifying the actual need prevents repeating the same polished but unusable work.",
+      "scenes": [
+        [
+          "Jubah itu kembali tanpa pernah dipakai.",
+          "Jarum Yun berhenti. Ia sudah menjahitnya semalaman."
+        ],
+        [
+          "Jahitannya rapi. Hiasannya bahkan lebih indah dari pesanan.",
+          "Yun mengira pelanggan itu akan senang."
+        ],
+        [
+          "Ia hampir menambahkan hiasan lagi agar terlihat lebih mahal.",
+          "Namun sang ibu hanya meminta pengaitnya diganti."
+        ],
+        [
+          "Barulah Yun bertanya, bagian mana yang menyulitkan.",
+          "Jari ibu itu sering kaku. Pengait kecil sulit dibukanya sendiri."
+        ],
+        [
+          "Yun berhenti menebak. Ia memasang pengait yang lebih besar.",
+          "Hiasan bukan masalahnya. Kemudahan memakai itulah yang dibutuhkan."
+        ],
+        [
+          "Saat jubah diserahkan lagi, pengaitnya sudah diubah.",
+          "Sang ibu menerimanya dengan lega. Ia tak perlu meminta perubahan ketiga."
+        ],
+        [
+          "Pekerjaan Yun membaik setelah ia memahami kebutuhan pelanggannya.",
+          "Bicarakan dengan jelas agar pekerjaan bisa diselesaikan dengan baik."
+        ],
+        [
+          "ZH"
+        ]
+      ]
+    },
+    {
+      "slug": "Sendiri",
+      "title": "Bibit yang Tidak Bisa Diwakilkan",
+      "category": "psychology / responsibility",
+      "board": "garden.png",
+      "grid": "garden-grid.json",
+      "offset": 0,
+      "cells": [
+        0,
+        2,
+        1,
+        3,
+        4,
+        6,
+        7,
+        7
+      ],
+      "zh": "成长终究要靠自己。",
+      "pinyin": "Chéngzhǎng zhōngjiū yào kào zìjǐ.",
+      "meaning": "Bertumbuh pada akhirnya perlu usaha sendiri.",
+      "nuance": "Pakai untuk mengingatkan bahwa bantuan orang lain tetap perlu diikuti usaha kita.",
+      "hook": "Bibitnya mati meski petunjuk nenek sudah lengkap. Lian lupa bahwa diberi nasihat tidak sama dengan menjalankannya.",
+      "conflict": "Gardener has detailed advice but keeps waiting for her elderly neighbor to do every task for her.",
+      "choice": "Accepts guidance, replants with her own hands and carries out daily care instead of outsourcing responsibility.",
+      "shown_outcome": "After days of personal tending, new shoots stand healthy; elder's advice is useful because she actually applies it.",
+      "why_it_matters": "Support gives direction but cannot substitute for one's own practice and responsibility.",
+      "scenes": [
+        [
+          "Bibit itu mati meski petunjuk nenek sudah lengkap.",
+          "Lian mengira bantuan berarti kebunnya akan beres sendiri."
+        ],
+        [
+          "Setiap kali ada pekerjaan, ia menunggu nenek datang.",
+          "Padahal kebun itu miliknya, bukan kewajiban tetangganya."
+        ],
+        [
+          "Tanah perlu dirawat. Bibit perlu diperiksa.",
+          "Catatan yang disimpan rapi tidak melakukan pekerjaan itu."
+        ],
+        [
+          "Nenek menunjukkan caranya sekali lagi, tanpa mengambil alih.",
+          "Lian akhirnya mengerti. Nasihat adalah arah, bukan pengganti langkah."
+        ],
+        [
+          "Ia menanam kembali dengan tangannya sendiri.",
+          "Saat ragu ia bertanya, lalu mengerjakan jawabannya."
+        ],
+        [
+          "Hari berganti. Lian memeriksa tanah dan merawat bibitnya.",
+          "Tunas baru berdiri sehat karena petunjuk itu benar-benar dijalankan."
+        ],
+        [
+          "Bantuan nenek tetap berharga, tetapi tanggung jawabnya tidak pindah.",
+          "Bertumbuh pada akhirnya perlu usaha sendiri."
+        ],
+        [
+          "ZH"
+        ]
+      ]
+    }
+  ],
+  "preflight": {
+    "ig_queue": 0,
+    "ig_sent": 53,
+    "x_queue": 2,
+    "x_sent": 59,
+    "drafts": 0,
+    "failed_processing_indicators": null
+  },
+  "blocker": "Restoring exact approved model after workspace maintenance; no media submission pending."
+}
