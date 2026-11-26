@@ -310,6 +310,18 @@
       "qa": "PASS ordinary established-template validation; no independent listening claimed",
       "buffer_id": "6b07890b9a9b840164cb1c83",
       "automatic": true
+    },
+    {
+      "title": "Bibit yang Tidak Bisa Diwakilkan",
+      "sentence": "成长终究要靠自己。",
+      "pinyin": "Chéngzhǎng zhōngjiū yào kào zìjǐ.",
+      "indonesian": "Bertumbuh pada akhirnya perlu usaha sendiri.",
+      "wib": "2026-11-26 19:00",
+      "sha256": "01b89e0edab0373df1c62c45d803b1c1c2c24ebe6513bfa6b8c913b91dc89ab9",
+      "archive": "libfile_a2f197ab0c8081919d72eead76a44cd2",
+      "status": "PREPARED_INTENT",
+      "source_recovery": "Exact original unpublished Nov25 script, rebuilt Nov26 after source loss",
+      "qa": "PASS ordinary established-template validation; no independent listening claimed"
     }
   ]
 }
