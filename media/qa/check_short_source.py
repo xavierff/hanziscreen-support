@@ -61,6 +61,27 @@ def check(path):
         qa = meta.get("qa", {})
         if not qa.get("latin_typography_verified"):
             problems.append("English caption spacing/typography visual QA missing")
+        voice = meta.get("mandarin_voice", {})
+        # Validate the actual approved engine/preset AND this package's audio bytes.
+        # A boolean signoff without a voice-id + matching generated audio is insufficient.
+        if voice.get("engine") != "Kokoro" or voice.get("voice_id") != "zf_xiaoyi":
+            problems.append("wrong Mandarin TTS voice: must use owner-approved Kokoro zf_xiaoyi")
+        try:
+            speed_ok = float(voice.get("speed", -1)) == 1.0
+        except (ValueError, TypeError):
+            speed_ok = False
+        if not speed_ok or voice.get("locale") != "zh-CN":
+            problems.append("Mandarin voice preset must be zh-CN speed=1.0")
+        if voice.get("spoken_text", "").strip() != hanzi:
+            problems.append("voice spoken_text must match current lesson Hanzi exactly")
+        audio_path = voice.get("audio_path", "")
+        expected_audio_hash = voice.get("audio_sha256", "")
+        if not audio_path or audio_path not in names or not expected_audio_hash:
+            problems.append("Mandarin voice requires actual generated audio_path and SHA256")
+        elif hashlib.sha256(z.read(audio_path)).hexdigest() != expected_audio_hash:
+            problems.append("Mandarin voice file hash does not match approved manifest")
+        if "zf_xiaobei" in script and not voice.get("legacy_reference_only", False):
+            problems.append("source renderer still references old unapproved zf_xiaobei voice")
         if not qa.get("mandarin_voice_profile_approved"):
             problems.append("natural Mandarin voice preset/quality approval missing")
         if not qa.get("mandarin_voice_phrase_reviewed"):
