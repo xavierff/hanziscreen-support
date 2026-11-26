@@ -305,9 +305,11 @@
       "wib": "2026-11-26 12:00",
       "sha256": "1cc503c20deee986f9c3c6f07e536d8e6fb6fb02cfc7fc3b43584210aeeade07",
       "archive": "libfile_0aa2e3d109208191a2e610ced7a57c7e",
-      "status": "PREPARED_INTENT",
+      "status": "AUTO-SCHEDULED",
       "source_recovery": "Exact original unpublished Nov25 script, rebuilt Nov26 after source loss",
-      "qa": "PASS ordinary established-template validation; no independent listening claimed"
+      "qa": "PASS ordinary established-template validation; no independent listening claimed",
+      "buffer_id": "6b07890b9a9b840164cb1c83",
+      "automatic": true
     }
   ]
 }
