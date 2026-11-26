@@ -279,9 +279,10 @@
       "wib": "2026-11-24 12:00",
       "sha256": "5ab397f93239d9a53ab18d38c53662a5cfb4b2402d312e06027375fd316a07c4",
       "archive": "libfile_f1d16a278f5c8191a3e29729ea983298",
-      "status": "AUTO-SCHEDULED",
+      "status": "SENT",
       "buffer_id": "6b04e8633c0fb3db7801a0ae",
-      "automatic": true
+      "automatic": true,
+      "public_url": "https://www.instagram.com/reel/DgHJ4DnSVnS/"
     },
     {
       "title": "Kalimat yang Sulit Diucapkan",
@@ -291,9 +292,22 @@
       "wib": "2026-11-24 19:00",
       "sha256": "5cb61ff3a0234bd31e908096a6aac259f5d6108c1cf45d049f3a7d9b1db256a3",
       "archive": "libfile_f1d16a278f5c8191a3e29729ea983298",
-      "status": "AUTO-SCHEDULED",
+      "status": "SENT",
       "buffer_id": "6b04e8be41bf64ead09684be",
-      "automatic": true
+      "automatic": true,
+      "public_url": "https://www.instagram.com/reel/DgH6GxQgJyz/"
+    },
+    {
+      "title": "Jubah yang Dikembalikan",
+      "sentence": "把话说清楚，才能把事做好。",
+      "pinyin": "Bǎ huà shuō qīngchu, cái néng bǎ shì zuò hǎo.",
+      "indonesian": "Bicarakan dengan jelas agar pekerjaan bisa diselesaikan dengan baik.",
+      "wib": "2026-11-26 12:00",
+      "sha256": "1cc503c20deee986f9c3c6f07e536d8e6fb6fb02cfc7fc3b43584210aeeade07",
+      "archive": "libfile_0aa2e3d109208191a2e610ced7a57c7e",
+      "status": "PREPARED_INTENT",
+      "source_recovery": "Exact original unpublished Nov25 script, rebuilt Nov26 after source loss",
+      "qa": "PASS ordinary established-template validation; no independent listening claimed"
     }
   ]
 }
