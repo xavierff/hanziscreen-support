@@ -178,5 +178,40 @@
       "source": "Fresh English text extension of verified lunchbox theme; no video/audio approval or future clip inferred",
       "buffer_id": "6b078831844c7eb7c1b98aab"
     }
+  ],
+  "ig_sources": [
+    {
+      "title": "Jubah yang Dikembalikan",
+      "category": "human nature / communication",
+      "master_sha256": "1cc503c20deee986f9c3c6f07e536d8e6fb6fb02cfc7fc3b43584210aeeade07",
+      "art_sha256": "f00b2e4559d638f634cb366db4ce52288b54a4411ed584f7e141ec8d3f1cb4e5",
+      "narration_sha256": "e23d49c556d20d306a318e1b64401a9daf5e5f2f6efe26e6b3caaa3753430a2d",
+      "duration_seconds": 59.987007,
+      "full_decode": "PASS",
+      "format": "H.264/AAC 1080x1920 30 fps",
+      "voice": "Official Supertonic3 M1 Indonesian, same model/style as the published template. No independent listening performed.",
+      "captions": "Each exact scripted subtitle has its own measured synthesized segment. Captions checked against the transcript and do not overlap.",
+      "audio_peak_dbfs": -2.17,
+      "rights": "Original fictional script, generated original storyboard, local original instrumental bed, official narration model license included. No third-party recording.",
+      "visual_review": "PASS: opening, sewing/action, delivered garment outcome and concluding card inspected; full bleed; centered readable subtitles; final Hanzi/pinyin/meaning match canonical script.",
+      "sentence": "把话说清楚，才能把事做好。",
+      "pinyin": "Bǎ huà shuō qīngchu, cái néng bǎ shì zuò hǎo.",
+      "meaning_id": "Bicarakan dengan jelas agar pekerjaan bisa diselesaikan dengan baik.",
+      "card_duration_s": 7.5,
+      "ending_timecodes": {
+        "action_s": 27.247,
+        "shown_outcome_s": 35.427,
+        "why_it_matters_s": 43.963,
+        "card_start_s": 52.487,
+        "mandarin_spoken_end_s": 55.46,
+        "export_end_s": 59.987
+      },
+      "mandarin_audio": "Kokoro v1.1-zh Apache-2.0. Mandarin frontend tone sequence checked, no unknown or dropped tokens; independent listening unavailable",
+      "status": "PREPARED_INTENT",
+      "independent_listening": false,
+      "script_qa": "script_qa.json; exact source lines, measured individual cues and Mandarin phoneme sequence reviewed",
+      "archive": "libfile_0aa2e3d109208191a2e610ced7a57c7e",
+      "release_wib": "2026-11-26 12:00"
+    }
   ]
 }
