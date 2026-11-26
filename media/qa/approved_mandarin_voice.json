@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "brand": "Hanzi on Screen",
+  "decision": "owner_approved",
+  "approved_at_local_date": "2026-11-26",
+  "approved_locale": "Asia/Jakarta",
+  "voice_label": "B — Xiaoyi",
+  "voice_engine": "Kokoro",
+  "voice_id": "zf_xiaoyi",
+  "speed": 1,
+  "language": "zh-CN",
+  "approved_sample_text": "我们换回来吧。",
+  "approved_sample_pinyin": "Wǒmen huàn huílai ba.",
+  "approved_sample_meaning": "Let's swap them back.",
+  "approved_sample_source": "ChatGPT Library Voice B — Xiaoyi (libfile_37c71f0ebe6081919a040ecc20d4c2bc)",
+  "scope": "Approve this voice profile and the sampled sentence's pronunciation; all OTHER sentences must pass separately their own Hanzi/pinyin/translation/audio alignment/prosody verification before publishing. No blanket authorization for unrelated audio, copyright violations, or provider access bypass.",
+  "old_voice_status": "zf_xiaobei is legacy baseline; do not reuse for newly produced Hanzi clips unless separately approved."
+}
