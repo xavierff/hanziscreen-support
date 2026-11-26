@@ -1,17 +1,22 @@
 {
-  "as_of_wib": "2026-11-25",
+  "as_of_wib": "2026-11-26",
   "account": "@mandarinjakarta",
   "playbook_sha": "8a98b9e53fb7061253f1d19c3360631845f636d8",
-  "worked": "Provider readback confirms complete stories published; several action-led stories reached124–154views. These small unequal-age samples do not establish why.",
-  "failed": "All16loadedNov17–24Reels show0saves,0shares,0comments. Do not call views meaningful growth. A226s average-watch field exceeds clip length and is excluded from comparison. Production resilience failure: Nov25 workspace loss occurred before durable master save; scripts survived in campaign state but rendered media did not.",
+  "worked": "Recovery completed within two-master cap using owned cached artwork and established voice models. Each source package was saved durably before its publisher submission; both have confirmed automatic reservations.",
+  "failed": "Nov25 rendered media was lost before durable saving and no Nov25IGpostappearedinSent. Prior Nov17–24 snapshot showed0saves/shares/comments; newer Nov24noon now has1save/41reach, evening0/59reach, both0shares/comments. Sparse unequal-age observations are not causal evidence. Previously anomalous226s average-watch excluded.",
   "next_experiment": {
     "hypothesis": "State a concrete consequence in the first spoken sentence before name/context; compare saves/shares and completion across next3–7publicReels where available.",
     "sources": [
       "Jubah yang Dikembalikan",
       "Bibit yang Tidak Bisa Diwakilkan"
     ],
-    "status": "SCRIPT SAVED; media missing after environment recovery; NOT SCHEDULED/PUBLIC; no outcome data",
-    "control": "Keep existing art/voice, duration, final single Mandarin payoff and release hours."
+    "status": "Two sources AUTO-SCHEDULED Nov26 12:00/19:00, not yet public; no post-experiment outcome available",
+    "control": "Keep existing art/voice, duration, final single Mandarin payoff and release hours.",
+    "provider_ids": [
+      "6b07890b9a9b840164cb1c83",
+      "6b07898bcf95707f59c039f5"
+    ],
+    "measure": "After release, compare saves/reach and shares/reach with recent same-account stories when visible; preserve actual denominators and unequal-age limitation."
   },
   "external_lookup": {
     "date": "2026-11-25",
@@ -19,5 +24,13 @@
     "next_not_before": "2026-12-02"
   },
   "metrics_limitations": "Views are not reach; no retention curve or follower conversion available. No causal lift claimed.",
-  "production_fix": "Persist each completed source package immediately after its first successful export, before starting the next render, rather than waiting for both masters."
+  "production_fix": "Applied: persist each completed source package immediately after QA, before next render/upload; do not repeat lost-source generation if an exact durable package exists.",
+  "x": {
+    "evidence": "Nov25twoSentpostsshow0impressions/reposts/comments at current visible refresh; no engagement lift inferred",
+    "next_experiment": "Concrete conversational mix-up hooks with distinct correction/suggestion, native English plus verified Mandarin; Nov27two AUTO-SCHEDULED",
+    "provider_ids": [
+      "6b078803e069653b62133e22",
+      "6b078831844c7eb7c1b98aab"
+    ]
+  }
 }
