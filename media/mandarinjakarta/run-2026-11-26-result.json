@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "status": "SOURCE RECOVERY IN PROGRESS; no IG submissions",
+  "status": "TWO IG REELS AND TWO X POSTS AUTO-SCHEDULED; next-day IG reserve still uncovered",
   "preflight": {
     "ig": {
       "queue": 0,
@@ -241,10 +241,70 @@
         "export_end_s": 58.188
       },
       "mandarin_audio": "Kokoro v1.1-zh Apache-2.0. Mandarin frontend tone sequence checked, no unknown or dropped tokens; independent listening unavailable",
-      "status": "PREPARED_INTENT",
+      "status": "AUTO-SCHEDULED",
       "independent_listening": false,
       "archive": "libfile_a2f197ab0c8081919d72eead76a44cd2",
-      "release_wib": "2026-11-26 19:00"
+      "release_wib": "2026-11-26 19:00",
+      "buffer_id": "6b07898bcf95707f59c039f5"
     }
-  ]
+  ],
+  "coverage": {
+    "as_of_wib": "2026-11-26 morning before09:00",
+    "instagram": {
+      "next48_auto_scheduled": 2,
+      "required": 4,
+      "through_wib": "2026-11-26 19:00",
+      "earliest_gap_wib": "2026-11-27 12:00",
+      "other_gap_wib": "2026-11-27 19:00",
+      "unassigned_ready_original_inventory": 0,
+      "inventory_shortfall_next48": 2
+    },
+    "x": {
+      "next48_auto_scheduled": 4,
+      "required": 4,
+      "through_wib": "2026-11-27 19:00",
+      "earliest_gap_wib": "2026-11-28 09:00"
+    },
+    "public_new_this_run": 0,
+    "pending_ambiguous_submissions": 0
+  },
+  "production": {
+    "new_masters": 2,
+    "hard_cap": 2,
+    "new_art_generated": 0,
+    "new_heavy_animation": 0,
+    "paid_services": 0,
+    "independent_listening_performed": false,
+    "baseline_used": "Established approved MJ Supertonic3 M1 Indonesian + Kokoro1.1zh zm_009; exact modelSHA verified; source transcript/phoneme/timing/levels/full-decode and final-frame QA, no concrete suspected defect",
+    "backup": "Exact original master+narration cache+script+art+QA stored before each publisher upload",
+    "blocker": "No third/fourth ready distinct original within two-master per-run cap; Nov27IG slots remain empty, not a login or queue-cap failure",
+    "owner_action": "None required for today's confirmed reservations; finish next two distinct originals at next existing permitted run."
+  },
+  "continuous_improvement": {
+    "hypothesis": "Consequence-first hook before name/context; concrete choice and shown outcome",
+    "status": "AUTO-SCHEDULED, not public, no outcome metrics yet",
+    "fresh_same_account_evidence": [
+      {
+        "url": "https://www.instagram.com/reel/DgHJ4DnSVnS/",
+        "views": 49,
+        "reach": 41,
+        "saves": 1,
+        "shares": 0,
+        "comments": 0,
+        "avg_watch_seconds": 12
+      },
+      {
+        "url": "https://www.instagram.com/reel/DgH6GxQgJyz/",
+        "views": 69,
+        "reach": 59,
+        "saves": 0,
+        "shares": 0,
+        "comments": 0,
+        "avg_watch_seconds": 17
+      }
+    ],
+    "inference": "Sparse unequal-age samples cannot establish causal benefit; continue same planned test.",
+    "x": "Nov25twoSentposts show0impressions/comments/reposts; no winning format claimed. New text uses concrete conversational hook and distinct useful correction/suggestion.",
+    "production_lesson": "First completed package saved durably before second render; both retained this run."
+  }
 }
