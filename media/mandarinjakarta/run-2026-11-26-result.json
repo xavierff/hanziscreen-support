@@ -160,5 +160,21 @@
       "id": "6b04e7c37f1badb65ba99a1b",
       "url": "https://x.com/2112901672993472512/status/2125560713196232973"
     }
+  ],
+  "x_new": [
+    {
+      "wib": "2026-11-27 09:00",
+      "text": "Same lunchbox, wrong owner? 我们拿错了。 Wǒmen ná cuò le. “We picked up the wrong ones.” 错 after 拿 tells you the action went wrong. Here, 了 marks the mix-up that just happened—not a label for every past-tense sentence.",
+      "characters": 212,
+      "status": "PREPARED_INTENT",
+      "source": "Fresh English text extension of verified lunchbox theme; no video/audio approval or future clip inferred"
+    },
+    {
+      "wib": "2026-11-27 19:00",
+      "text": "You spot your lid on a friend’s lunchbox. 我们换一下吧。 Wǒmen huàn yíxià ba. “Let’s swap.” 一下 keeps the request light; 吧 makes it a suggestion. A small sentence for fixing a small mix-up.",
+      "characters": 181,
+      "status": "PREPARED_INTENT",
+      "source": "Fresh English text extension of verified lunchbox theme; no video/audio approval or future clip inferred"
+    }
   ]
 }
