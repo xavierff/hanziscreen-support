@@ -207,11 +207,44 @@
         "export_end_s": 59.987
       },
       "mandarin_audio": "Kokoro v1.1-zh Apache-2.0. Mandarin frontend tone sequence checked, no unknown or dropped tokens; independent listening unavailable",
-      "status": "PREPARED_INTENT",
+      "status": "AUTO-SCHEDULED",
       "independent_listening": false,
       "script_qa": "script_qa.json; exact source lines, measured individual cues and Mandarin phoneme sequence reviewed",
       "archive": "libfile_0aa2e3d109208191a2e610ced7a57c7e",
-      "release_wib": "2026-11-26 12:00"
+      "release_wib": "2026-11-26 12:00",
+      "buffer_id": "6b07890b9a9b840164cb1c83"
+    },
+    {
+      "title": "Bibit yang Tidak Bisa Diwakilkan",
+      "category": "psychology / responsibility",
+      "master_sha256": "01b89e0edab0373df1c62c45d803b1c1c2c24ebe6513bfa6b8c913b91dc89ab9",
+      "art_sha256": "074576fff0d7a435dcf688e843ec9a54f226096a78a89fcc702ba6a42c060284",
+      "narration_sha256": "d96a052a521e8bac2577c4a8e270cda3059688937352e53f11fa2a39c6fa92d4",
+      "duration_seconds": 58.188005,
+      "full_decode": "PASS",
+      "format": "H.264/AAC 1080x1920 30 fps",
+      "voice": "Official Supertonic3 M1 Indonesian, same model/style as the published template. No independent listening performed.",
+      "captions": "Each exact scripted subtitle has its own measured synthesized segment. Captions checked against the transcript and do not overlap.",
+      "audio_peak_dbfs": -2.15,
+      "rights": "Original fictional script, generated original storyboard, local original instrumental bed, official narration model license included. No third-party recording.",
+      "visual_review": "PASS: wilted seedling hook, planting action, tending/new shoots outcome and final card inspected; full bleed; readable centered captions; final Hanzi/pinyin/meaning agree.",
+      "sentence": "成长终究要靠自己。",
+      "pinyin": "Chéngzhǎng zhōngjiū yào kào zìjǐ.",
+      "meaning_id": "Bertumbuh pada akhirnya perlu usaha sendiri.",
+      "card_duration_s": 7.5,
+      "ending_timecodes": {
+        "action_s": 29.127,
+        "shown_outcome_s": 35.194,
+        "why_it_matters_s": 43.726,
+        "card_start_s": 50.688,
+        "mandarin_spoken_end_s": 52.859,
+        "export_end_s": 58.188
+      },
+      "mandarin_audio": "Kokoro v1.1-zh Apache-2.0. Mandarin frontend tone sequence checked, no unknown or dropped tokens; independent listening unavailable",
+      "status": "PREPARED_INTENT",
+      "independent_listening": false,
+      "archive": "libfile_a2f197ab0c8081919d72eead76a44cd2",
+      "release_wib": "2026-11-26 19:00"
     }
   ]
 }
