@@ -115,5 +115,21 @@
     ]
   },
   "status": "PRE-RENDER SCRIPT QA PASSED; narration source in progress, no submission",
-  "learning": "Same weekly consequence-first hypothesis; no new analytics lookup. Current just-released Nov26 stories samples too small/unequal age; no conclusion."
+  "learning": "Same weekly consequence-first hypothesis; no new analytics lookup. Current just-released Nov26 stories samples too small/unequal age; no conclusion.",
+  "x_new": [
+    {
+      "wib": "2026-11-28 09:00",
+      "text": "A friend is ready to leave; you’re still tying your shoes. 你先走吧。 Nǐ xiān zǒu ba. “You go ahead.” 先 means “first”; 吧 makes it a gentle suggestion. You’re letting them go before you—not ordering them to walk faster.",
+      "character_count": 213,
+      "status": "PREPARED_INTENT",
+      "source": "Original text-only extension of owner-approved directions / conversational repair language themes; no future Hanzi video synchronization claimed"
+    },
+    {
+      "wib": "2026-11-28 19:00",
+      "text": "Understood the first word. Lost the rest. 请说慢一点。 Qǐng shuō màn yìdiǎn. “Please speak a little slower.” 慢一点 asks for a slower pace. Useful when the speed is the problem, even if you recognize the words.",
+      "character_count": 201,
+      "status": "PREPARED_INTENT",
+      "source": "Original text-only extension of owner-approved directions / conversational repair language themes; no future Hanzi video synchronization claimed"
+    }
+  ]
 }
