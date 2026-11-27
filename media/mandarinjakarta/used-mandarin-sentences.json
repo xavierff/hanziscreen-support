@@ -326,6 +326,18 @@
       "buffer_id": "6b07898bcf95707f59c039f5",
       "automatic": true,
       "public_url": "https://www.instagram.com/reel/DgND0ONNEbu/"
+    },
+    {
+      "title": "Surat dengan Suara Nenek",
+      "sentence": "真诚，比漂亮的话更动人。",
+      "pinyin": "Zhēnchéng, bǐ piàoliang de huà gèng dòngrén.",
+      "indonesian": "Ketulusan lebih menyentuh daripada kata-kata indah.",
+      "wib": "2026-11-27 19:00",
+      "sha256": "31816aa185317eee70441835971f5e819bed134080e3992b485fce7b8f3ceba0",
+      "archive": "libfile_0a30dc5d00e0819182147911711c03d4",
+      "archive_file_id": "file_0000000066fc81f9bfa89ab95489606a",
+      "status": "PREPARED_INTENT",
+      "qa": "PASS existing voice-template script/phoneme/decode/timing/visual/rights checks; no independent listening claimed"
     }
   ],
   "active_policy": {
