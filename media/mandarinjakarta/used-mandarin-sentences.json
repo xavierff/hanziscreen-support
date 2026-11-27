@@ -336,8 +336,10 @@
       "sha256": "31816aa185317eee70441835971f5e819bed134080e3992b485fce7b8f3ceba0",
       "archive": "libfile_0a30dc5d00e0819182147911711c03d4",
       "archive_file_id": "file_0000000066fc81f9bfa89ab95489606a",
-      "status": "PREPARED_INTENT",
-      "qa": "PASS existing voice-template script/phoneme/decode/timing/visual/rights checks; no independent listening claimed"
+      "status": "AUTO-SCHEDULED",
+      "qa": "PASS existing voice-template script/phoneme/decode/timing/visual/rights checks; no independent listening claimed",
+      "buffer_id": "6b08e4a9cd5db8ec619ff2ea",
+      "automatic": true
     }
   ],
   "active_policy": {
