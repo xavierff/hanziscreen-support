@@ -121,15 +121,17 @@
       "wib": "2026-11-28 09:00",
       "text": "A friend is ready to leave; you’re still tying your shoes. 你先走吧。 Nǐ xiān zǒu ba. “You go ahead.” 先 means “first”; 吧 makes it a gentle suggestion. You’re letting them go before you—not ordering them to walk faster.",
       "character_count": 213,
-      "status": "PREPARED_INTENT",
-      "source": "Original text-only extension of owner-approved directions / conversational repair language themes; no future Hanzi video synchronization claimed"
+      "status": "AUTO-SCHEDULED",
+      "source": "Original text-only extension of owner-approved directions / conversational repair language themes; no future Hanzi video synchronization claimed",
+      "buffer_id": "6b08e3935c04220514539699"
     },
     {
       "wib": "2026-11-28 19:00",
       "text": "Understood the first word. Lost the rest. 请说慢一点。 Qǐng shuō màn yìdiǎn. “Please speak a little slower.” 慢一点 asks for a slower pace. Useful when the speed is the problem, even if you recognize the words.",
       "character_count": 201,
-      "status": "PREPARED_INTENT",
-      "source": "Original text-only extension of owner-approved directions / conversational repair language themes; no future Hanzi video synchronization claimed"
+      "status": "AUTO-SCHEDULED",
+      "source": "Original text-only extension of owner-approved directions / conversational repair language themes; no future Hanzi video synchronization claimed",
+      "buffer_id": "6b08e3d2a04c4d75dc514441"
     }
   ]
 }
