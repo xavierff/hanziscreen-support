@@ -1,10 +1,10 @@
-"""Hanzi long-video export policy and caption compositor, version 2026-11-22.1."""
+"""Hanzi long-video export policy and caption compositor, version 2026-11-27.1."""
 from datetime import date, datetime, timedelta
 from zoneinfo import ZoneInfo
 from pathlib import Path
 import math
 
-VERSION = "2026-11-22.1"
+VERSION = "2026-11-27.1"
 CHANNEL_ID = "UCnTFHhzyCoiSaDSfdGKFx5g"
 ANCHOR = date(2026, 11, 22)
 
@@ -28,7 +28,17 @@ def authorize_export(preparation_day, target_day, channel_id):
     if channel_id != CHANNEL_ID or not long_release_day(target) or target != prep + timedelta(days=1):
         raise ValueError("Long export requires the correct channel and the afternoon before an anchored release")
 
+def latin_text(text):
+    import unicodedata, re
+    text=unicodedata.normalize('NFKC',text).replace('’',"'").replace('‘',"'").replace('“','').replace('”','')
+    return re.sub(r'\s+', ' ', text).strip()
+
+def caption_font_path(cjk_path, text):
+    import re
+    return cjk_path if re.search(r'[\u3400-\u9fff]',text) else Path(cjk_path).with_name('DejaVuSans.ttf')
+
 def wrap_text(text, font, width):
+    text=latin_text(text)
     lines, line = [], ""
     # English wraps at spaces. Chinese wraps at character boundaries.
     units = text.split() if " " in text else list(text)
@@ -67,7 +77,8 @@ def draw_captions(image, lines, font_path, protected=()):
     if not 1 <= len(lines) <= 2:
         raise ValueError("Speaking captions must use one or two lines")
     width, height = image.size
-    font = ImageFont.truetype(str(font_path), round(height * 0.050))
+    lines=[latin_text(line) for line in lines]
+    font = ImageFont.truetype(str(caption_font_path(font_path, ''.join(lines))), round(height * 0.050))
     gap = round(height * 0.012)
     boxes = [font.getbbox(line) for line in lines]
     line_height = max(b[3] - b[1] for b in boxes)
@@ -105,7 +116,7 @@ def compose(scene, time, art, gloss, font_path, assets_dir):
     # The legacy artwork used only the upper 550 rows of a 720 canvas.
     # Reframe the visual layer to use the canvas without adding footer padding.
     image = image.resize((width, round(height * 1.12))).crop((0, 0, width, height))
-    if scene["scene"] == "end":
+    if scene["scene"] == "end" and scene.get("show_app", False):
         for filename, x in (("owner_lock_screen_no_spice.jpeg", .02),
                             ("owner_ending_poster.jpeg", .85)):
             asset = Image.open(Path(assets_dir) / filename).convert("RGB")
@@ -128,7 +139,7 @@ def compose(scene, time, art, gloss, font_path, assets_dir):
         protected.append((width * .25, height * .48, width * .75, height * .62))
         image, evidence = draw_captions(image, [pinyin, meaning], font_path, protected)
     elif cue:
-        font = ImageFont.truetype(str(font_path), round(height * .050))
+        font = ImageFont.truetype(str(caption_font_path(font_path, cue["text"])), round(height * .050))
         pages = caption_pages(cue["text"], cue["start"], cue["end"], font, width * .84)
         page = next(page for page in pages if page["start"] <= time < page["end"])
         image, evidence = draw_captions(image, page["lines"], font_path, protected)
@@ -141,7 +152,7 @@ def make_thumbnail(scene_image, font_path, words, crop_box):
         raise ValueError("Thumbnail text must contain one to four words")
     image = scene_image.crop(crop_box).resize((1280, 720))
     draw = ImageDraw.Draw(image)
-    font = ImageFont.truetype(str(font_path), 95)
+    font = ImageFont.truetype(str(caption_font_path(font_path, words)), 95)
     if font.getlength(words) > 1120:
         raise ValueError("Thumbnail title exceeds the readable safe area")
     draw.text((640, 610), words, font=font, anchor="mm", fill="#ffdf65",
