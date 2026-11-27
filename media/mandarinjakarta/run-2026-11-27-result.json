@@ -133,5 +133,40 @@
       "source": "Original text-only extension of owner-approved directions / conversational repair language themes; no future Hanzi video synchronization claimed",
       "buffer_id": "6b08e3d2a04c4d75dc514441"
     }
-  ]
+  ],
+  "source": {
+    "title": "Surat dengan Suara Nenek",
+    "category": "original fictional human-nature story / sincerity",
+    "master_sha256": "31816aa185317eee70441835971f5e819bed134080e3992b485fce7b8f3ceba0",
+    "art_sha256": "26046e437a4a9f2ac75410e537895c2df14622eb3ff9c48a4a33cc74bd9817ae",
+    "narration_sha256": "b553df6ae84480fce003928c1278a29f896809f40388510d49271e7d8fa4c435",
+    "duration_seconds": 56.986009,
+    "full_decode": "PASS",
+    "format": "H.264/AAC 1080x1920 30 fps",
+    "voice": "Official Supertonic3 M1 Indonesian, same model/style as the published template. No independent listening performed.",
+    "captions": "Each exact scripted subtitle has its own measured synthesized segment. Captions checked against the transcript and do not overlap.",
+    "audio_peak_dbfs": -2.16,
+    "rights": "Original fictional script, generated original storyboard, local original instrumental bed, official narration model license included. No third-party recording.",
+    "visual_review": "PASS: handover/conflict frame, rewrite action, approved handover and smiling recipient/ending card inspected; coherent characters; edge-to-edge illustration and centered subtitles; no permanent bars.",
+    "sentence": "真诚，比漂亮的话更动人。",
+    "pinyin": "Zhēnchéng, bǐ piàoliang de huà gèng dòngrén.",
+    "meaning_id": "Ketulusan lebih menyentuh daripada kata-kata indah.",
+    "card_duration_s": 7.5,
+    "ending_timecodes": {
+      "choice_action_s": 26.822,
+      "approved_and_sent_s": 35.118,
+      "shown_recipient_outcome_s": 40.827,
+      "final_card_start_s": 49.486,
+      "Mandarin_voice_end_s": 51.967,
+      "final_frame_s": 56.986
+    },
+    "mandarin_audio": "Kokoro v1.1-zh Apache-2.0. Mandarin frontend tone sequence checked, no unknown or dropped tokens; independent listening unavailable",
+    "status": "PREPARED_INTENT",
+    "independent_listening_performed": false,
+    "approval_basis": "Established owner-approved MJ voice template; no specific suspected defect; ordinary script/phoneme/timing/levels/decode/visual/rights QA, not a claim of independent sound audition",
+    "archive": "libfile_0a30dc5d00e0819182147911711c03d4",
+    "file_id": "file_0000000066fc81f9bfa89ab95489606a",
+    "archive_bytes": 21787109,
+    "release_wib": "2026-11-27 19:00"
+  }
 }
