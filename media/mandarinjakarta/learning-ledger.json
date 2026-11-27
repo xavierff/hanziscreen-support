@@ -1,20 +1,22 @@
 {
-  "as_of_wib": "2026-11-26",
+  "as_of_wib": "2026-11-27",
   "account": "@mandarinjakarta",
   "playbook_sha": "8a98b9e53fb7061253f1d19c3360631845f636d8",
-  "worked": "Recovery completed within two-master cap using owned cached artwork and established voice models. Each source package was saved durably before its publisher submission; both have confirmed automatic reservations.",
-  "failed": "Nov25 rendered media was lost before durable saving and no Nov25IGpostappearedinSent. Prior Nov17–24 snapshot showed0saves/shares/comments; newer Nov24noon now has1save/41reach, evening0/59reach, both0shares/comments. Sparse unequal-age observations are not causal evidence. Previously anomalous226s average-watch excluded.",
+  "worked": "Exact Nov26sources now in providerSent with Instagrampermalinks; durable source checkpoints protected finished media. Reduced cadence applied:one originaleveningReel,one full export, no noonpost.",
+  "failed": "No audience benefit established: Nov26recent unequal-age samples show Jubah19views/16reach/0saves/0shares and Bibit3views/3reach/0saves/0shares, lastproviderrefresh9hago. Do not infer retention or causal lift. Earlier workspace-loss failure addressed by saving exact source before upload.",
   "next_experiment": {
     "hypothesis": "State a concrete consequence in the first spoken sentence before name/context; compare saves/shares and completion across next3–7publicReels where available.",
     "sources": [
       "Jubah yang Dikembalikan",
-      "Bibit yang Tidak Bisa Diwakilkan"
+      "Bibit yang Tidak Bisa Diwakilkan",
+      "Surat dengan Suara Nenek"
     ],
-    "status": "Two sources AUTO-SCHEDULED Nov26 12:00/19:00, not yet public; no post-experiment outcome available",
+    "status": "First two providerSent; third AUTO-SCHEDULED Nov27 19:00. Continue same weekly hypothesis; samples too small and unequal-age, no new test or daily insight lookup.",
     "control": "Keep existing art/voice, duration, final single Mandarin payoff and release hours.",
     "provider_ids": [
       "6b07890b9a9b840164cb1c83",
-      "6b07898bcf95707f59c039f5"
+      "6b07898bcf95707f59c039f5",
+      "6b08e4a9cd5db8ec619ff2ea"
     ],
     "measure": "After release, compare saves/reach and shares/reach with recent same-account stories when visible; preserve actual denominators and unequal-age limitation."
   },
@@ -24,13 +26,13 @@
     "next_not_before": "2026-12-02"
   },
   "metrics_limitations": "Views are not reach; no retention curve or follower conversion available. No causal lift claimed.",
-  "production_fix": "Applied: persist each completed source package immediately after QA, before next render/upload; do not repeat lost-source generation if an exact durable package exists.",
+  "production_fix": "Applied: single new source/day, save exact MP4+narration+QA+hash before publisher upload; no rerender after successful export.",
   "x": {
-    "evidence": "Nov25twoSentpostsshow0impressions/reposts/comments at current visible refresh; no engagement lift inferred",
-    "next_experiment": "Concrete conversational mix-up hooks with distinct correction/suggestion, native English plus verified Mandarin; Nov27two AUTO-SCHEDULED",
+    "evidence": "Nov26Sent textposts each show1impression and0reposts/comments in mandatorypublisheraudit; no winningformatinferred",
+    "next_experiment": "Continue specific conversational English scene hooks with precise Mandarin meanings; no separate video production",
     "provider_ids": [
-      "6b078803e069653b62133e22",
-      "6b078831844c7eb7c1b98aab"
+      "6b08e3935c04220514539699",
+      "6b08e3d2a04c4d75dc514441"
     ]
   }
 }
