@@ -217,8 +217,12 @@
       "added": "Nov28 09/19 AUTO-SCHEDULED",
       "through_wib": "2026-11-28 19:00",
       "earliest_uncovered_wib": "2026-11-29 09:00",
-      "caution": "Nov27 09 due after preflight; no new public verification or retry attempted"
-    }
+      "caution": "Nov27 09 due after preflight; no new public verification or retry attempted",
+      "future48_confirmed_reservations": 3,
+      "future48_planned_slots": 4,
+      "note": "Counts exclude elapsedNov2709; protected morning post last verified scheduled before due, not claimed public."
+    },
+    "as_of_wib": "2026-11-27 09:03"
   },
   "owner_action": "None needed for today's accepted reservations. Next IG source required at next existing run; no noon catch-up and no extra task."
 }
