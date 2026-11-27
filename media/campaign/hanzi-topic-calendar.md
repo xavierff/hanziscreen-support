@@ -540,3 +540,24 @@ CONFIRMED AUTO-SCHEDULED, NOT PUBLIC: Nov26 18:00 WIB via Buffer exact Hanzi You
 Remaining earliest gap Nov26 20:00 native Studio: no SECOND distinct certified new source. Nov27 18/20 also uncovered. Next longNov28 10:00 unreserved, permitted productionNov27 17:00 only; no long export today or overdue backfill. Current upcoming48h1/5 confirmed (today18 covered,20 missing; tomorrow2missing; Nov28long missing). Do not repost the lunchbox to another YouTube slot, republish held copies, or count source/plan as queued. Reuse this certified owned topic/art/voice for a substantive Nov28 long on allowed preparation date, with real expanded lesson and lower-third QA; no padded looping of the18s Short.
 
 Next required inventory: distinct new owned IG/TikTok master with same canonical text/audio/font/semantic validator gates. No cross-task dispatch or account access, no new automation, no paid tools. Existing task remained enabled; no schedule/state mutation in this owner follow-up. Archive restores progress across scratch cleanup.
+
+
+## Nov27 2026 17:00 Hanzi YouTube production — provider-confirmed readback
+
+Exact native channel verified: UCnTFHhzyCoiSaDSfdGKFx5g. This run changed no automation settings or other account. New handoff libfile_ab4fe64c1e048191b92f36f5dd2e73f1 supplied two distinct Xiaoyi masters; current source validator returned exit 0 for both. Per-phrase canonical Hanzi/pinyin/English, tone/IPA and original source WAVs reviewed. Owner-approved zf_xiaoyi speed1.0 profile inherited; no fresh subjective/acoustic naturalness audition claimed.
+
+| Target WIB | Exact owned source SHA-256 | Provider readback |
+|---|---|---|
+| Nov27 18:00 Lift | c4bfa50666d8c6f509fc67722937d249bdbd579f4a26399073586d2c4d9a217c | Buffer AUTO-SCHEDULED 6b0956efeab160066433b6be, article Nov27 6:00 PM Asia/Jakarta |
+| Nov27 20:00 Bags | cf737e26c54e22d1be54178468e420bc973dc9a93e842b08e925631bd6b55513 | Native AUTO-SCHEDULED RPVgqxrRpWY; confirmation will set public Nov27 8:00 PM GMT+0700; https://youtube.com/shorts/RPVgqxrRpWY?feature=share |
+| Nov28 10:00 long | 5e446406e16fa3857d41781659951cd61b0f6db1a52841041830c7fe81e0bccf | Social Champ Future queue confirmed Nov28 03:00 UTC =10:00 WIB; stable job/video ID not exposed by provider UI |
+
+Long title: **Six Bags and a Closing Lift — Learn 请等一下 and 我来帮你**. One substantive native 16:9 expansion, 219.804 seconds, 15 story/lesson/listening scenes, 80 measured sentence cues. Reuses exact reviewed Xiaoyi Mandarin WAVs for these two phrases; new licensed offline English narration. Full decode, signal/timing checks, opening/middle/two-line/pinyin/ending/export-contact-sheet review passed. Custom original 1280x720 WAIT FOR ME closeup thumbnail uploaded and applied; SRT uploaded. No music added, no paid services, no Short rerender.
+
+Actual reusable renderer updated and tested, **2026-11-27.1**, media/youtube/template-v2/long_template_v2.py, commit db05ae433fdba05f9e308b83e909b8ead7b00ba4: normal Latin font for English/pinyin and ASCII apostrophes; lower-third dialogue maximum two lines; separate intentional Hanzi card; no forced ending images over illustration. Exact-channel/anchored-date guard, two-line bounds, apostrophe width and protected-region fallback tests passed.
+
+Durable release/master/QA/source archive: **libfile_163833dfa2688191a179fc05c6af08b4** (file_00000000433c8210970f0f89c76470fc), Hanzi_Nov27_Release_and_Nov28_Long.zip. Original source archives remain libfile_a455b7267ad881918eb8b386e3a79fe7 (Lift) and libfile_b3f4290a813c8191a225827e9dcebcd8 (Bags).
+
+Upcoming coverage at verification: **next24h 3/3 AUTO-SCHEDULED; next48h 3/5**, no due new public release claimed. **Earliest gap Nov28 18:00, then20:00**: needs two further distinct new certified masters in next upstream16:00 handoff. Never repost tonight's pair. Next regular Nov28 17:00 run should reconcile due public results and refill those slots once source arrives. Nov29/30 are intentional long off-days; next allowed long Dec1, production Nov30.
+
+Reconciliation exception for owner review: formerly held private **-NcHReBrd8Q was already PUBLIC dated Nov26** in live Studio and Buffer imported native Sent19:28. This run did not release, edit or delete it. Nov26 lunchbox is PUBLIC KLdmNFV0adQ, Buffer Sent18:00. Recalled Buffer draft6b040f5c67b7fae799bc974b untouched; old Nov19/21 quota failures preserved without retry.
