@@ -1,0 +1,119 @@
+{
+  "date": "2026-11-27",
+  "policy": {
+    "ig_new_per_day": 1,
+    "ig_release_wib": "19:00",
+    "noon": "INTENTIONAL OFF",
+    "x_release_wib": [
+      "09:00",
+      "19:00"
+    ],
+    "new_full_render_cap": 1
+  },
+  "preflight": {
+    "ig": {
+      "queue": 0,
+      "drafts": 0,
+      "sent": 55,
+      "pending_failed_indicators": "none visible",
+      "last_sent": [
+        {
+          "id": "6b07890b9a9b840164cb1c83",
+          "wib": "2026-11-26 12:00",
+          "url": "https://www.instagram.com/reel/DgMTfVJsGth/"
+        },
+        {
+          "id": "6b07898bcf95707f59c039f5",
+          "wib": "2026-11-26 19:00",
+          "url": "https://www.instagram.com/reel/DgND0ONNEbu/"
+        }
+      ]
+    },
+    "x": {
+      "queue": 2,
+      "drafts": 0,
+      "sent": 63,
+      "protected": [
+        {
+          "id": "6b078803e069653b62133e22",
+          "wib": "2026-11-27 09:00"
+        },
+        {
+          "id": "6b078831844c7eb7c1b98aab",
+          "wib": "2026-11-27 19:00"
+        }
+      ],
+      "last_sent": [
+        {
+          "id": "6b063cffe416ea9a16606520",
+          "url": "https://x.com/2112901672993472512/status/2125771771601150407"
+        },
+        {
+          "id": "6b063d3568b30509d48936eb",
+          "url": "https://x.com/2112901672993472512/status/2125923447091953696"
+        }
+      ]
+    }
+  },
+  "story": {
+    "slug": "SuaraNenek",
+    "title": "Surat dengan Suara Nenek",
+    "category": "original fictional human-nature story / sincerity",
+    "board": "letter.png",
+    "grid": "letter-grid.json",
+    "cells": [
+      12,
+      8,
+      9,
+      13,
+      8,
+      12,
+      14,
+      14
+    ],
+    "zh": "真诚，比漂亮的话更动人。",
+    "pinyin": "Zhēnchéng, bǐ piàoliang de huà gèng dòngrén.",
+    "meaning": "Ketulusan lebih menyentuh daripada kata-kata indah.",
+    "nuance": "Gunakan saat pesan yang jujur dan personal lebih berarti daripada ucapan yang terdengar megah.",
+    "hook": "Nenek itu menolak surat yang sudah dibayarnya. Kata-katanya indah, tetapi cucunya tak akan mengenali suaranya.",
+    "conflict": "A grandmother pays a village scribe to write to her distant granddaughter; elaborate formal praise erases what she truly wants to say.",
+    "choice": "After reading it aloud, the scribe discards the ornate version and writes the grandmother's own simple message.",
+    "shown_outcome": "The grandmother approves the read-back and sends the letter; granddaughter reads and smiles, recognizing the grandmother's familiar concern.",
+    "why_it_matters": "The delivered message carries a real relationship rather than showing off the writer's education.",
+    "scenes": [
+      [
+        "Nenek itu menolak surat yang sudah dibayarnya.",
+        "Kata-katanya indah, tapi itu bukan suaranya."
+      ],
+      [
+        "Yun biasa menulis surat untuk warga desa.",
+        "Kali ini, seorang nenek ingin mengabari cucunya yang tinggal jauh."
+      ],
+      [
+        "Ia memilih ungkapan megah agar jasanya terlihat sepadan.",
+        "Pesan singkat berubah menjadi salam yang panjang dan kaku."
+      ],
+      [
+        "Saat dibacakan, nenek itu menggeleng pelan.",
+        "Aku cuma ingin bilang, makan yang teratur. Aku rindu, katanya."
+      ],
+      [
+        "Yun menyisihkan tulisannya dan mengambil kertas baru.",
+        "Ia menulis kata-kata nenek itu tanpa membuatnya terdengar seperti orang lain."
+      ],
+      [
+        "Nenek meminta suratnya dibacakan sekali lagi.",
+        "Kali ini ia mengangguk, lalu mengirimkannya."
+      ],
+      [
+        "Di desa seberang, cucunya membaca pesan itu sambil tersenyum.",
+        "Ketulusan neneknya sampai, karena Yun berhenti memamerkan kepandaiannya."
+      ],
+      [
+        "ZH"
+      ]
+    ]
+  },
+  "status": "PRE-RENDER SCRIPT QA PASSED; narration source in progress, no submission",
+  "learning": "Same weekly consequence-first hypothesis; no new analytics lookup. Current just-released Nov26 stories samples too small/unequal age; no conclusion."
+}
