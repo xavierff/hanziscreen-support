@@ -1,0 +1,73 @@
+{
+  "verified_at_wib": "2026-11-27T17:29:08.035178+07:00",
+  "channel_id": "UCnTFHhzyCoiSaDSfdGKFx5g",
+  "shorts": [
+    {
+      "target_wib": "2026-11-27T18:00:00+07:00",
+      "topic": "The lift is leaving",
+      "provider": "Buffer",
+      "provider_id": "6b0956efeab160066433b6be",
+      "state": "AUTO_SCHEDULED",
+      "sha256": "c4bfa50666d8c6f509fc67722937d249bdbd579f4a26399073586d2c4d9a217c",
+      "source_library": "libfile_a455b7267ad881918eb8b386e3a79fe7"
+    },
+    {
+      "target_wib": "2026-11-27T20:00:00+07:00",
+      "topic": "Six bags",
+      "provider": "YouTube Studio",
+      "video_id": "RPVgqxrRpWY",
+      "url": "https://youtube.com/shorts/RPVgqxrRpWY?feature=share",
+      "state": "AUTO_SCHEDULED",
+      "sha256": "cf737e26c54e22d1be54178468e420bc973dc9a93e842b08e925631bd6b55513",
+      "source_library": "libfile_b3f4290a813c8191a225827e9dcebcd8"
+    }
+  ],
+  "long": {
+    "target_wib": "2026-11-28T10:00:00+07:00",
+    "state": "AUTO_SCHEDULED",
+    "provider": "Social Champ",
+    "provider_ui_evidence": "Future queue, exact Hanzi on Screen; Scheduled for Nov28,2026 at3:00AM; workspaceUTC+00:00; saved edit readback same date/time, title, Education/public/general audience/subtitles/thumb.",
+    "provider_id": null,
+    "provider_id_note": "Provider UI exposes no stable postID or native videoID before release. Do not invent. Verified persistent Future queue entry after one schedule submission.",
+    "queue_url": "https://app.socialchamp.com/publish/queue",
+    "title": "Six Bags and a Closing Lift — Learn 请等一下 and 我来帮你",
+    "sha256": "5e446406e16fa3857d41781659951cd61b0f6db1a52841041830c7fe81e0bccf",
+    "duration_seconds": 219.804,
+    "thumbnail": "Uploaded and applied original1280x720 WAIT FOR ME closeup",
+    "subtitles": "SRT uploaded, English, auto-sync off; bilingual captions burned into master",
+    "template_version": "2026-11-27.1",
+    "template_commit": "db05ae433fdba05f9e308b83e909b8ead7b00ba4"
+  },
+  "reconciliation": {
+    "buffer_queue_before": [
+      "6afc264ebe53fda2e8f0153b FAILED quota",
+      "6afecb209c17d7da19652f01 FAILED quota"
+    ],
+    "buffer_draft_6b040f5c67b7fae799bc974b": "held unchanged",
+    "native_previously_held_-NcHReBrd8Q": "Unexpectedly already PUBLIC Nov26; observed in exact Studio and Buffer imported native Sent19:28, no mutation this run",
+    "KLdmNFV0adQ": "PUBLIC Nov26 18:00 Buffer",
+    "social_champ": "exact Hanzi, no Future/Pending/Failed sinceNov19; latest public long TwoBookmarks LvFfflL6Xxk Nov19",
+    "studio": "No new lift/bags public/private/scheduled in latest Nov26 listing before upload; all49 Shorts older than new owned masters"
+  },
+  "next_gap_after_this_run": "Nov28 18:00 and20:00 need two NEW distinct certified source masters; today sources cannot be reposted",
+  "coverage": {
+    "next24h_planned": 3,
+    "confirmed_auto_scheduled": 3,
+    "next48h_planned": 5,
+    "next48h_confirmed": 3,
+    "next48h_public_at_verification": 0,
+    "gaps": [
+      {
+        "target_wib": "2026-11-28T18:00:00+07:00",
+        "state": "UNCOVERED",
+        "blocker": "No additional distinct new certified original after tonight two masters; next16:00 upstream handoff needed."
+      },
+      {
+        "target_wib": "2026-11-28T20:00:00+07:00",
+        "state": "UNCOVERED",
+        "blocker": "Second distinct certified original needed; no repeat of Lift/Bags."
+      }
+    ]
+  },
+  "resume": "Next existing Nov28 17:00 run: verify due release/public results once; preserve all current queue and helddraft; obtain two new distinct rights/voice/semantics/Latin QA-cleared MP4s from upstream16:00 handoff. Do not rerender this long or repost these Shorts. Long Nov29/30 intentional off-days; nextDec1 long preparedNov30 only."
+}
