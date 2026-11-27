@@ -114,8 +114,31 @@
       ]
     ]
   },
-  "status": "PRE-RENDER SCRIPT QA PASSED; narration source in progress, no submission",
-  "learning": "Same weekly consequence-first hypothesis; no new analytics lookup. Current just-released Nov26 stories samples too small/unequal age; no conclusion.",
+  "status": "ONE IG REEL AND TWO X POSTS AUTO-SCHEDULED; no new noon post",
+  "learning": {
+    "hypothesis": "Continue same weekly consequence-first 0–3s hook; concrete rejection opens new story",
+    "status": "Test source queued, not public; no lift claimed",
+    "provider_observations_incidental_to_Sent_audit": [
+      {
+        "id": "6b07890b9a9b840164cb1c83",
+        "views": 19,
+        "reach": 16,
+        "shares": 0,
+        "saves": 0,
+        "avg_watch_seconds": 11
+      },
+      {
+        "id": "6b07898bcf95707f59c039f5",
+        "views": 3,
+        "reach": 3,
+        "shares": 0,
+        "saves": 0,
+        "avg_watch_seconds": 3
+      }
+    ],
+    "limitations": "Only recently published unequal-age tiny samples; provider metrics refreshed9hago. No new dedicated insights read, research, retention inference or new hypothesis.",
+    "next_review": "Next weekly review from available same-account records; do not make daily causal comparisons."
+  },
   "x_new": [
     {
       "wib": "2026-11-28 09:00",
@@ -161,12 +184,41 @@
       "final_frame_s": 56.986
     },
     "mandarin_audio": "Kokoro v1.1-zh Apache-2.0. Mandarin frontend tone sequence checked, no unknown or dropped tokens; independent listening unavailable",
-    "status": "PREPARED_INTENT",
+    "status": "AUTO-SCHEDULED",
     "independent_listening_performed": false,
     "approval_basis": "Established owner-approved MJ voice template; no specific suspected defect; ordinary script/phoneme/timing/levels/decode/visual/rights QA, not a claim of independent sound audition",
     "archive": "libfile_0a30dc5d00e0819182147911711c03d4",
     "file_id": "file_0000000066fc81f9bfa89ab95489606a",
     "archive_bytes": 21787109,
-    "release_wib": "2026-11-27 19:00"
-  }
+    "release_wib": "2026-11-27 19:00",
+    "buffer_id": "6b08e4a9cd5db8ec619ff2ea"
+  },
+  "production": {
+    "full_exports": 1,
+    "full_export_cap": 1,
+    "rerenders": 0,
+    "new_art": 0,
+    "paid_services": 0,
+    "unassigned_QA_ready_original_inventory": 0,
+    "independent_listening": false,
+    "rights_decode_caption_phoneme_frame_QA": "PASS established-template validation; no suspected concrete defect",
+    "source_saved_before_publisher_upload": true
+  },
+  "coverage": {
+    "instagram": {
+      "next48_evening_slots": 2,
+      "confirmed_auto_scheduled": 1,
+      "earliest_uncovered_wib": "2026-11-28 19:00",
+      "noon": "INTENTIONAL OFF",
+      "deficit": "one further distinct approved original needed for Nov28; one-render cap reached"
+    },
+    "x": {
+      "verified_at_preflight": "Nov27 09/19 AUTO-SCHEDULED; preserved",
+      "added": "Nov28 09/19 AUTO-SCHEDULED",
+      "through_wib": "2026-11-28 19:00",
+      "earliest_uncovered_wib": "2026-11-29 09:00",
+      "caution": "Nov27 09 due after preflight; no new public verification or retry attempted"
+    }
+  },
+  "owner_action": "None needed for today's accepted reservations. Next IG source required at next existing run; no noon catch-up and no extra task."
 }
